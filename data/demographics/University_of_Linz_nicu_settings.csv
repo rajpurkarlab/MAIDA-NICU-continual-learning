@@ -1,0 +1,811 @@
+MRN (should be removed before sharing),Study ID (should be removed before sharing),Folder,Patient Duplicate?,Dicoms copied,Age,Gestational Age ,Sex,Race,Reason for X-ray (confirm report with history if able),Deidentified Report,Time until Report ,"ET, Correct ","ET, Incorrect ",Weight (grams),Weight_original,Age_days,Age_original,Split,Gestational_Age_Weeks,Race_Standardized
+,,1,False,,0 m 1 d,38+1,M,,Evaluation of endotracheal tube position? Lungs? Umbilical artery catheter position? Intestinal gas?,"Trachealtubus mit Tieflage, in den rechten Hauptbronchos reichend.
+Gastroduodenalsonde, distales Ende intraventriculär. Temperatusonde.
+NVK-Spitze in Projektion auf Höhe Leberhilus.
+Herz von normaler Form und Breite. Bilateral streifige, dystelektatische
+Verdichtungen. Kein konfluierendes Infiltrat. Kein Zeichen für
+Pleuraergüsse.
+Das Abdomen ist nicht distendiert. Magen und proximale
+Dünndarmstrukturen sind schon Luft kontrastriert.
+Unauffälliger Skelettbefund.",1 d 12 h 36 min,,1.0,3304.0,3304 g,1.0,0 m 1 d,test,38.14,Unknown
+,,2,False,,1 m 13 d,32+0,F,,Evaluation of endotracheal tube position?,"Geschlossene sternale Drahtcerclagen, liegende Magensonde, die Spitze
+nicht mitabgebildet. Liegender Endotrachealtubus, diese sehr weit caudal
+gelegen, die Spitze in Projektion auf den Abgangsbereich des rechten
+Hauptbronchus. Die rechte Lunge im Seitenvergleich überbläht, bzw. das
+Zwerchfell rechtsseitig abgeflacht. Im linken Ober- und Mittelfeld
+finden sich konfluierende Transparenzminderungen. Nahezu homogene
+Verschattung des Retrokardialraums mit positivem Bronchoaerogramm.
+Stationäre Abbildung des vergrößerten Cors. Regelrechte Darstellung der
+eingesehenen Achsenskelettabschnitte.
+Ergebnis
+Die Spitze des Tubus in Projektion auf den Abgangsbereich des rechten
+Hauptbronchus - die rechte Lunge überbläht, UL-Atelektase links.",0 d 22 h 38 min,,1.0,1353.0,1353 g,43.44,1 m 13 d,test,32.0,Unknown
+,,3,False,,0 m 0 d,41+4,M,,Sign of infectione? Evaluation of endotracheal tube position? Pneumothorax?,"Mäßig verrotierte Aufnahme - der Herzschatten nach lateral bis zur
+Thoraxwand reichend. Dadurch die linke Lunge weniger
+strahlentransparent, vermutlich in der Kombination Überlagerung
+Herzschatten und Thymusschatten über den Lungenflügel. Verstärkte
+zentrale pulmonale Gefäßzeichnung links, vermutlich mit
+dystelektatischen perihilären Arealen. Keine Pleuraergüsse. Der
+Tracheale Tubus liegt zu Tief, die Spitze reicht in den rechten
+Hauptbronchus. Seitenvergleichend differente Transparenz der
+Lungenflügel - rechts Überblähung, links Minderbelüftung. Magensonde in
+situ. Katheterschatten von distal mit der Katheterspitze
+auf Höhe von Th 12 - ZVK?",0 d 14 h 10 min,,1.0,4280.0,4280 g,0.0,0 m 0 d,test,41.57,Unknown
+,,4,False,,0 m 0 d,40+4,M,,Infant respiratory distress syndrome? Evaluation of endotracheal tube position? Intestinal gas?,"Trachealtubus mit Spitze in Tieflage. Herz von unauffälliger Form und
+Größe. Linksbetonter Thymusschatten. Z.B. geringe Minderbelüftungen der
+linken medialen Lunge. Wet lung. Kein Infiltrat. Kein Zeichen für
+relevante auslaufende Pleuraergüsse.
+12 Rippenpaare. Unauffälliger Skelettbefund.
+Magen und Dünndarmstrukturen im medianen bis linksseitigen Oberbauch
+luftkontrastiert, in orthotoper Lage. Das Abdomen ist nicht distendiert.",1 d 12 h 40 min,,1.0,3081.0,3081 g,0.0,0 m 0 d,test,40.57,Unknown
+,,5,False,,0 m 0 d,25+4,M,,Umbilical artery catheter position? Infant respiratory distress syndrome?,"Intubiertes Kind, die Spitze des Endotrachealtubus projiziert sich auf
+den rechten Hauptbronchus!
+Die Spitze des NAK projiziert sich hoch paramedian links auf Höhe Th 4.
+Etwas verrotierte Aufnahme, das Herz und Mediastinum erscheinen
+prinzipiell mittelständig. Der Herzschatten linksseitig bei deutlicheren
+Verschattungen mit positivem Aerobronchogramm links pulmonal nicht
+eindeutig abzugrenzen - die Verschattungen DD atelektasebedingt. Die
+linke Lunge erscheint etwas volumsreduziert, die Rechte überbläht. In
+den belüfteten Lungenanteilen zeigt sich eine feine retikulogranuläre
+verstärkte Zeichnung wie bei IRDS I°. In erster Linie flaue
+Teilatelektase interlobiumsnahe im rechten Oberlappen. Höhergradige
+Ergussverschattungen sind nicht erkennbar. Kein Nachweis eines
+Pneumothorax. Unauffällige unspezifische Darmgasverteilung. Regelrechte
+Darstellung der miterfassten knöchernen Strukturen.",2 d 5 h 26 min,,1.0,722.0,722 g,0.0,0 m 0 d,test,25.57,Unknown
+,,6,False,,0 m 2 d,27+1,M,,Evaluation of endotracheal tube position? Lungs? Atelectasis? Pneumothorax?,"Liegender Endotrachealtubus, die Spitze in Projektion auf die
+Bodenplatte BWK 1. ZVK über die rechte obere Extremität, die Spitze in
+Projektion auf die linke Vena anonyma. Orthotop liegende Magensonde.
+Unveränderter NVK, die Spitze in Projektion auf den Leberhilus - zu tief
+stehend.
+Mittelständige Cardiomediastinalsilhouette. Das Cor im oberen
+Größennormbereich. Im Intervall neu aufgetreten sind feingranuläre
+Lungenstrukturverdichtungen links > rechts - Bild wie bei IRDS I°.
+Perihiläres Aerobronchogramm.
+Ergebnis
+Die Spitze des Tubus auf Höhe Bodenplatte BWK 1.
+IRDS I° links > rechts.
+Zu tief stehender NVK.",0 d 22 h 49 min,,1.0,1402.0,1402 g,2.0,0 m 2 d,train,27.14,Unknown
+,,7,False,,0 m 0 d,29+4,F,,Evaluation of endotracheal tube position?,"Zum Vergleich liegt eine Voruntersuchung von heute um 5.51 Uhr vor.
+Fehllage des Trachealtubus im Eingangsbereich des rechten Hauptbronchus.
+Magensonde entfernt. NAK in unveränderter Projektion.
+IRDS Grad I-II unverändert. Geringer Erguss im kleinen Interlobium.
+Weiterhin kein flächenhaftes Infiltrat, keine gröberen Atelektasen.",1 d 20 h 28 min,,1.0,947.0,947 g,0.0,0 m 0 d,test,29.57,Unknown
+,,8,False,,0 m 9 d,25+7,F,,Evaluation of endotracheal tube position? Atelectasis? Lungs?,"Trachealtubus mit Spitze in Höhe des ersten ICR. Gastroduodenalsonde,
+distales Ende gerade intraventrikulär. Herz von normaler Form und
+Breite. Bilateral feinretikulär verstärkte Lungengerüstzeichnung und
+perihiläres Bronchoaerogramm - IRDS II°. Kein Zeichen für Pleuraergüsse.
+12 Rippenpaare.",0 d 18 h 33 min,,1.0,820.0,820 g,9.0,0 m 9 d,test,26.0,Unknown
+,,9,False,,0 m 1 d,25+6,M,,Evaluation of endotracheal tube position? Pneumothorax? Infant respiratory distress syndrome?,"Bekannter Endotrachealtubus mit Spitze in Projektion auf Höhe BWK 6 im
+Abgangsbereich des rechten Hauptbronchus, zu tief stehend. Eingebrachte
+Magensonde, die Spitze nicht mitabgebildet. Der NAK über
+Zwerchfellniveau, zu hoch stehend. Die Kardiomediastinalsilhouette
+mittelständig. Das Cor normgroß. Die Lunge von seitengleicher
+Strahlentransparenz. Der linke Randwinkel sowie die rechte Lungenbasis
+nicht mitabgebildet. Kein Hinweis für einen Pneumothorax oder Erguss im
+mitabgebildeten Bereich.",2 d 22 h 30 min,,1.0,512.0,512 g,1.0,0 m 1 d,train,25.86,Unknown
+,,10,False,,0 m 27 d,30+3,F,,Evaluation of endotracheal tube position?,"Voraufnahme des Thorax vom 18.10.2021 sowie
+Durchleuchtungsuntersuchungen vom 15. und 18.10.2021 vorliegend.
+Thorax:
+Neu eingelegter Endotrachealtubus, die Spitze projiziert sich auf den
+Eingangsbereich des rechten Hauptbronchus, Rückzug um 1-1,5 cm
+empfohlen. Die Magensonde mit Projektion der Spitze knapp angrenzend an
+die Magenblase knapp einliegend, Vorschub um 2-3 cm empfohlen.
+Beidseits kein flächenhaftes Infiltrat, kein größerer Erguss. Etwas
+akzentuierte streifig-feinfleckige Lungengerüstzeichnung und streifige
+Minderbelüftungen links retrocardial.
+Abdomen:
+Zeichen von Darmwandverdickungen im rechten Mittel- und Unterbauch
+paravertebral. Keine pathologisch distendierten Darmschlingen. Noch
+auffällig viel Kontrastmittel in Dünn- und Dickdarmschlingen, links
+stärker ausgeprägt als rechts.
+Über links inguinal eingelegter ZVK, das craniale Ende projiziert sich auf den rechtsseitigen Anteil von LWK 4, Lage somit am ehesten in der
+bifurkationsnahen Vena iliaca communis links.",0 d 18 h 52 min,,1.0,1395.0,1395 g,27.0,0 m 27 d,train,30.43,Unknown
+,,11,False,,0 m 2 d,25+1,F,,Evaluation of thoracic drainage position?,"Trachealtubus mit Spitze in Höhe des I. ICR. Neu eingebrachte
+Pleuradrainage rechts in Höhe des Mittelfeldes, Spitze links paramedian.
+NVK-Spitze in Projektion auf das rechte Herz. Gastroduodenalsonde,
+distales Ende intraventrikulär.
+Im Bildvergleich zu 02.09.2021 um 15:58 Uhr deutliche Befundbesserung,
+kein Herzmediastinialshift. Pulmonaler Restpneu rechts mit einer
+subpulmonalen Breite von ca. 1,4 cm, wie auch links subpulmonaler Pneu,
+bilateral ventrale Luftansammlung über den medialen Unterfeldern.
+Re-Entfaltung der rechten Lunge. Residuale Dystelektasen rechts, zudem
+beidseits bilaterale Gerüstverstärkung. Herz schlank. Keine
+Pleuraergüsse.",0 d 16 h 37 min,,1.0,691.0,691 g,2.0,0 m 2 d,test,25.14,Unknown
+,,12,False,,0 m 4 d,24+1,F,,"Chest X-ray, Abdomen: Necrotizing enterocolitis?","Thorax:
+Gastroduodenalsonde in situ, zu tief liegender Endotrachealtubus - auf
+Höhe der Trachealbifurkation bzw. bereits gering in den rechten
+Hauptbronchos ragend.
+Unverändert Zeichen einer IRDS III°. Kein Hinweis für höhergradige
+Ergüsse - rechts laterobasal vorbeschriebener zarter Pneumothorax und
+geringer auch medial - aktuel lediglich noch zarter Restbefund
+laterobasal.
+In erster Linie ZVK über die rechte obere Extremität mit der Spitze
+infraclaviculär rechts.
+Abdomen:
+Zunehmend Luft gefüllte Darmschlingen - im linken Mittelbauch einzelne
+etwas diszendiertere Darmschlingen mit bis zu 10 mm DM.
+Kein eindeutiger Hinweis für MEC.
+Im Unterbauch und Becken kleinfleckige Veränderungen - in erster Linie
+überlagerungsbedingt - Tuch?",3 d 18 h 26 min,,1.0,499.0,499 g,4.0,0 m 4 d,train,24.14,Unknown
+,,13,False,,0 m 1 d,40+1,M,,Lung bases - height?,"Der Trachealtubus mit der Spitze in Projektion auf BWK 1, die
+Magensondenspitze nicht mitabgebildet, NVK mit der Spitze rechts
+paravertebral knapp unterhalb der Zwerchfellebene, EKG-Kabel.
+Das Herz nicht dilatiert, die pulmonale Gefäßzeichnung betont. Beidseits
+schmale Plattenatelektasen, der große Lappenspalt rechts betont.
+Retrocardial kleinfleckige Strukturverdichtungen mit positivem
+Bronchogramm.
+Ergebnis
+Hinweis auf pulmonale Hypertonie bei sehr kräftiger pulmonaler
+Gefäßzeichnung - Herzecho?
+Retroocardiale Infiltrate beidseits.",2 d 1 h 13 min,,1.0,2890.0,2890 g,1.0,0 m 1 d,train,40.14,Unknown
+,,14,False,,2 m 3 d,25+4,M,,Evaluation of endotracheal tube position?,"Voraufnahme vom 19.04.2021 vorliegend.
+Der neu eingelegte Endotrachealtubus in zu tiefer Lage, die Spitze in
+Projektion auf den Eingangsbereich des rechten Hauptbronchus, Rückzug um
+ca. 1 cm empfohlen.
+Im Vergleich zur Voraufnahme etwas stärker ausgeprägte bipulmonale,
+teils feingranuläre, teils retikuläre Verdichtungen mit
+Bronchoaerogramm. Herz- und Mediastinalkonfiguration unter
+Berücksichtigung der etwas differenten Projektion unverändert. Beidseits
+kein Hinweis auf einen größeren Erguss.
+Deutlich luftgefüllter Magen.
+Hautfalte in Projektion auf den rechten Hemithorax.",0 d 0 h 53 min,,1.0,921.0,921 g,63.88,2 m 3 d,train,25.57,Unknown
+,,15,False,,0 m 1 d,26+0,M,,Evaluation of endotracheal tube position?,"Der Trachealtubus mit der Spitze in Projektion auf das
+Kostotransversalgelenk VI rechts im proximalen Abschnitt des rechten
+Hauptbronchus, die Magensondenspitze nicht mitabgebildet, der NVK knapp
+unterhalb der Zwerchfellebene, EKG-Kabel.
+Die linke Lunge minderbelüftet, der Unterlappen links atelektatisch,
+Teilatelektase des rechte Oberlappens, die Restlunge rechts regelrecht
+pneumatisiert.",3 d 12 h 29 min,,1.0,836.0,836 g,1.0,0 m 1 d,train,26.0,Unknown
+,,16,False,,1 m 0 d,24+6,F,,Atelectasis? Pneumothorax? Pleural effusion?,"Zum Vergleich liegt eine Voraufnahme vom 12.07.2021 vor.
+Erneut Befundverschlechterung mit Zunahme der bipulmonalen
+Verdichtungen, welche aktuell überwiegend grob retikulär/grob spongiös
+konfiguriert sind und im rechten Oberfeld und im linken Unterfeld teils
+konfluieren. Die Herz- und Zwerchfellgrenzen sind kaum nach abgrenzbar.
+Pleuraerguss beidseits im Wesentlichen unverändert. Einliegende
+Fremdmaterialien idem zur Voraufnahme (Trachealtubus mit Spitze in Höhe der Klavikeln).",1 d 1 h 47 min,,1.0,661.0,661 g,30.44,1 m 0 d,test,24.86,Unknown
+,,17,False,,0 m 15 d,25+5,F,,Evaluation of endotracheal tube position?,"Trachealtubus in Tieflage, in den rechten Hauptbronchus weisend. Herz
+von normaler Form und Breite. Intercostale Herniationen. Streifige
+Minderbelüftungen in den medialen Unterfeldern. Gerüstverstärkung mit
+kleinblasigen Überblähungen zentral - Befundverschlechterung im
+Bildvergleich zu 19.09.2021.
+Keine Pleuraergüsse.
+Die miterfassten Magendarmstrukturen im Ober-, Mittelbauch deutlich
+überbläht.",0 d 3 h 29 min,,1.0,561.0,561 g,15.0,0 m 15 d,test,25.71,Unknown
+,,18,False,,0 m 0 d,30+0,M,,Evaluation of endotracheal tube position? Infant respiratory distress syndrome?,"Intubiertes Kind, der Endotrachealtubus projiziert sich tief,
+möglicherweise bereits im rechten Hauptbronchus gelegen. Relevante
+Atelektasezonen sind derzeit nicht erkennbar. Die Lungenbelüftung ist
+seitengleich, ebenso die pulmonale Gefäßzeichnung. Diskrete bipulmonale
+Verdichtungen wie bei möglichem IRDS I°. Kein Pneuhinweis. Kein
+pneumonisches Infiltrat. Keine auslaufenden Ergussverschattungen. Die
+miterfassten knöchernen Strukturen regelrecht.",1 d 23 h 45 min,,1.0,1586.0,1586 g,0.0,0 m 0 d,train,30.0,Unknown
+,,19,False,,0 m 0 d,23+5,F,,Lungs? Evaluation of endotracheal tube position? Umbilical catheter?,"Trachealtubus mit Spitze in Tieflage, in Höhe des V. ICR.
+Gastroduodenalsonde, distales Ende intraventrikulär. NVK-Spitze in Höhe
+der Herzbasis.
+Herz von unauffälliger Form und Breite.
+Im Bildvergleich zu 16.04.2021 02:19 Befundbesserung über beiden Lungen,
+regredientes IRDS. Kleinzystische Überblähungen perihilär rechts. Keine
+Pleuraergüsse.
+Die Darmstrukturen luftkontrastiert, nicht dilatiert, Rektum noch dicht.",0 d 6 h 13 min,,1.0,534.0,534 g,0.0,0 m 0 d,test,23.71,Unknown
+,,20,False,,1 m 10 d,25+1,F,,Evaluation of endotracheal tube position? Pneumonia? Bronchopulmonary dysplasia?,"Normale Herzform und -größe. Normale pulmonale Gefäßzeichnung. Normale
+Transparenz beider Lungenflügel, kein Hinweis auf Infiltrate oder
+Atelektasen. Kein Anhaltspunkt für Pleuraergüsse. Der tracheale Tubus
+liegt zu tief, die Spitze in Projektion auf den Abgang des rechten
+Hauptbronchus. Meteoristisch geblähte Darmstrukturen im Oberbauch.",0 d 7 h 5 min,,1.0,800.0,800 g,40.44,1 m 10 d,train,25.14,Unknown
+,,21,False,,0 m 0 d,38+3,M,,Evaluation of endotracheal tube position?,"Intubierter Patient. Die Tubusspitze auf C7 projizierend. Liegende
+Magensonde mit der Spitze im distalen Ösophagus.
+Das Herz verbreitert. Transparenzminderung im linken Obergeschoss
+- z. B. Atelektase mit begleitender Ergusskomponente.
+Regelrechte Darstellung der mitabgebildeten ossären Strukturen.",1 d 2 h 33 min,,1.0,3870.0,3870 g,0.0,0 m 0 d,test,38.43,Unknown
+,,22,False,,0 m 6 d,24+2,F,,Evaluation of endotracheal tube position? (from anamnesis),"Intubierter Patient, die Tubusspitze tiefstehend im Abgangsbereich des
+rechten Hauptbronchus auf Höhe des 5. BWK. Orthotop liegende Magensonde.
+Über die rechte obere Extremität eingebrachter ZVK. Beidseits zeigen
+sich feine retikulonoduläre Verdichtungen. Positives, über die
+Herzsilhouette hinausreichendes Aerobronchogramm im Sinne eines
+IRDS Typ II. Kein eindeutiger Hinweis für einen Erguss oder
+Pneumothorax. Luftgefüllte Darmschlingen im linken Oberbauch.
+Ergebnis
+IRDS Typ II.
+Intubierter Patient, die Tubusspitze tiefstehend",2 d 19 h 14 min,,1.0,610.0,610 g,6.0,0 m 6 d,train,24.29,Unknown
+,,23,False,,0 m 1 d,39+6,M,,Evaluation of endotracheal tube position?,"Thoraxvoraufnahme von heute um 00:19 Uhr vorliegend.
+Das distale Ende des neu eingelegten Trachealtubus projiziert sich
+rechtsseitig direkt angrenzend an den ersten BWK, Lagebezug zu Carina
+oder Hauptbronchien nicht sicher beurteilbar. Neu eingelegter NAK, das
+craniale Ende projiziert sich knapp unterhalb des rechtsseitigen
+Pedikels von BWK 7, Lage somit am ehesten in der Aorta descendens.
+Bei bekannter Zwerchfellhernie zunehmende Darmgasmenge des überwiegend
+intrathorakal liegenden Dünndarms. Luftgefüllter, distendierter Magen.
+dessen distaler Anteil bzw. Antrum reicht bis auf Höhe des
+3. Sacralelements.
+Verlagerung von Herz, Thymus und Mediastinum nach rechts mit Anliegen an
+der lateralen Thoraxwand. Belüftete Lungenanteile sind lediglich im
+rechten basolateralen und basomedialen Unterfeld erkennbar.
+Leber- und rechter Nierenschatten orthotop.",1 d 6 h 47 min,,1.0,3470.0,3470 g,1.0,0 m 1 d,test,39.86,Unknown
+,,24,False,,3 m 1 d,27+2,M,,Atelectasis? Pulmonary edema?,"Trachelatubus mit Spitze in Höhe des 1. ICR. Ductuscoiling.
+Gastroduodenalsonde, distales Ende nicht im Bildausschnitt. Im
+Bildvergleich zu 11.11.2021 12:37 Uhr der Herzschatten zu beiden Seiten
+breiter. Bekannte BPD-Veränderungen, intercostale Herniationen, nun
+mäßig verstärkte Gerüstzeichnung, keine hochgradigen Stauungszeichen.
+Kein Zeichen für relevante Menge an auslaufenden Pleuraergüssen.
+Osteopenie.",0 d 18 h 43 min,,1.0,951.0,951 g,92.32000000000001,3 m 1 d,test,27.29,Unknown
+,,25,False,,0 m 0 d,38+1,F,,Evaluation of endotracheal tube position? Umbilical vein catheter?,"Trachealtubus mit Spitze in supraclaviculärer Höhe. NVK-Spitze in Höhe
+Th 7/Th 8, in Projektion auf das rechte Herz.
+Herz plump konfiguriert, verbreitert. Zarte retrocardiale Dystelektasen,
+sonst gute Lungenbelüftung. Keine Stauung. Kein Infiltrat. Kein Zeichen
+für relevante Menge an auslaufenden Pleuraergüssen.
+Unauffälliger Skelettbefund. Magendarmstrukturen luftgefüllt, breit
+distendiert das Quercolon.",0 d 23 h 15 min,,1.0,3500.0,3500 g,0.0,0 m 0 d,train,38.14,Unknown
+,,26,False,,0 m 1 d,26+1,M,,Evaluation of endotracheal tube position?,"Eingebrachter Endotrachealtubus, die Spitze auf Höhe der Carina - zu
+tief stehend. Liegende Magensonde, die Spitze nicht mitabgebildet. Mit
+eingebrachter NVK, die Spitze projiziert sich auf Höhe des Zwerchfells.
+Mittelständige Cardiomediastinalsilhouette. das Cor normgroß.
+Seitengleiche Strahlentransparenz der Lunge. Kein Pneumothorax oder
+Pleuraerguss.",3 d 2 h 16 min,,1.0,929.0,929 g,1.0,0 m 1 d,train,26.14,Unknown
+,,27,False,,0 m 11 d,24+1,F,,Pneumothorax? Atelectasis? Evaluation of endotracheal tube position?,"Trachealtubus mit Spitze in Höhe der 2. Rippen. Gastroduodenalsonde,
+distales Ende nicht im Bildausschnitt.
+Herz von normaler Form und Breite. Unveränderter Lungenbefund im
+Bildvergleich zu 07.12.2021 19:35 Uhr mit Gerüstveränderungen,
+Minderbelüftungen im rechten Mittelfeld, links retrocardial,
+kleinzystischen Emphysembildungen. Keine Pleuraergüsse.",1 d 14 h 42 min,,1.0,488.0,488 g,11.0,0 m 11 d,test,24.14,Unknown
+,,28,False,,0 m 2 d,34+3,M,,Evaluation of endotracheal tube position?,"Voraufnahme vom 24.04.2021.
+Neu eingelegter Tubus mit Projektion der Spitze ca. 2,6cm cranial der
+Trachealbifurkation.
+Pneumomediastinum und zervikales Weichteilemphysem beidseits
+progredient.
+Pneumoperikard etwas stärker ausgeprägt.
+Pneumothorax rechts etwas schärfer abgrenzbar DD bei Progredienz DD bei
+nach links verdrehter Voraufnahme dort nicht in dieser Art sichtbar.
+Fortbestehender V.a. Pneumothorax links. Teilatelektase des linken
+apikalen Oberlappens etwas weniger dicht, basal im Wesentlichen
+unverändert.
+Magensonde mit 3,5mm knapp intragastral.",0 d 23 h 47 min,,1.0,2270.0,2270 g,2.0,0 m 2 d,train,34.43,Unknown
+,,29,False,,0 m 0 d,24+1,F,,Evaluation of endotracheal tube position?,"Trachealtubus mit Spitze in Höhe der 8. Rippen. Exspirationslage. Beide
+Lungen total verschattet.
+Magen-Darm-Strukturen luftkontrastiert ohne Kalibersprünge, Rektum noch
+dicht.
+EKG-Elektroden. Temperatursonde. Notfall-Venflon-NVK.
+Unauffälliger Skelettbefund.",1 d 19 h 57 min,,1.0,734.0,734 g,0.0,0 m 0 d,test,24.14,Unknown
+,,30,False,,0 m 26 d,23+5,M,,Evaluation of endotracheal tube position? Lungs? Bronchopulmonary dysplasia?,"Trachealtubus in Tieflage, an der Carina. Ductusclip.
+Gastroduodenalsonde, distales Ende intraventrikulär.
+Herz von normaler Form und Breite. BPD. Befundbesserung im Bildvergleich
+zu 05.12.2021 mit Rückbildung der Verdichtungen im rechten Ober- und
+Mittelfeld, im linken Oberfeld; Befundbesserung links retrocardial mit
+restlichen Minderbelüftungen, wie auch streifige im rechten Unterfeld.
+Teils intercostale Herniationen. Kein Zeichen für Pleuraergüsse.",2 d 13 h 49 min,,1.0,731.0,731 g,26.0,0 m 26 d,train,23.71,Unknown
+,,31,False,,0 m 13 d,29 + 1,M,,Clipposition? Tubeposition?,"Trachealtubus mit Spitze in Höhe des Claviceln. ZVK über die linke obere
+Extremität eingebracht, Spitze in Projektion auf die mediale V.
+brachiozephalica sin. Ductusclip. Gastroduodenalsonde, distales Ende
+intraventriculär.
+Herz von normaler Form und Breite. Die linke Zwerchfellkuppe ist
+abgeflacht. Bilaterale Gerüstverstärkung mitBefundbesserung im
+Bildvergleich zu 09.01.2022. Keine signifikante Menge an auslaufenden
+Pleuraergüssen. Lufteinschlüsse in den linken thorakolateralen
+Weichteilen.",3 d 17 h 38 min,,1.0,1390.0,1390 g,13.0,0 m 13 d,train,,Unknown
+,,32,False,,0 m 1 d,38 + 3,F,,Tubeposition,"Trachealtubus in Tieflage, an der Carina. Gastroduodenalsonde, distales
+Ende nicht im Bildausschnitt.
+Herz mit angehobener Spitze, dilatiert. Keine Stauung. Kein Infiltrat.
+Kein Zeichen für relevante Menge an auslaufenden Pleuraergüssen.",0 d 0 h 13 min,,1.0,2856.0,2856 g,1.0,0 m 1 d,test,,Unknown
+,,33,False,,0 m 4 d,39 + 6,F,,Tubeposition?,"Trachealtubus mit Spitze in Höhe der oberen Thoraxapertur. Gastroduodenalsonde,
+distales Ende intraventrikulär.
+Herz in unveränderter Konfiguration und Breite im Bildvergleich zu
+10.02.2022. Retrocardiale, rechts paracardial betonte
+Bronchialwandzeichnung. Periphere Rarefizierung der pulmonalarteriellen
+Strukturen. Kein konfluierendes Infiltrat. Kein Zeichen für auslaufende
+Pleuraergüsse.",3 d 2 h 5 min,,1.0,3130.0,3130 g,4.0,0 m 4 d,test,,Unknown
+,,34,False,,0 m 0 d,36 + 2,M,,Tubeposition?,"Trachealtubus  in Höhe der oberen Thoraxapertur. Gastroduodenalsonde,
+distales Ende nicht im Bildausschnitt.
+Herz von normaler Form und Breite. Bilateraler Thymusschatten. Gute
+Lungenbelüftung mit einzelnen zarten streifigen Verdichtungen, wet lung.
+Kein Infiltrat. Kein Zeichen für Pleuraergüsse. 12 Rippenpaare.",0 d 15 h 33 min,,1.0,2934.0,2934 g,0.0,0 m 0 d,test,,Unknown
+,,35,False,,1 m 2 d,34 + 3,F,,Tubeposition,"Trachealtubus mit Spitzeder oberen Thoraxapertur. Gastroduodenalsonde,
+distales Ende intraventriculär.
+Herz von normaler Form und Breite. Geringe Gerüstverstärkung,
+Dystelektasen retrocardial beidseits. Kein Infiltrat. Kein Zeichen für
+relevante Pleuraergüsse.",1 d 22 h 13 min,,1.0,2090.0,2090 g,32.44,1 m 2 d,test,,Unknown
+,,36,False,,0 m 3 d,27 + 2,F,,Tubeposition? Pneumothorax?,"Trachealtubus in Tieflage, Spitze in Höhe der III. Rippen bei
+Expirationslage. Gastroduodenalsonde, distales Ende intraventriculär.
+Herz in unveränderter Breite im Bildvergleich zu 24.02.2022 10:17 Uhr.
+Gerüstverstärkung beidseits, intercostale Herniationen. Kein Pneu.
+Abdominelle Verkalkungen. Ossärer Befund siehe Vorbefund.",0 d 11 h 54 min,,1.0,890.0,890 g,3.0,0 m 3 d,test,,Unknown
+,,37,False,,0 m 12 d,24+6,F,,Tubeposition? Abdomen?,"Der Trachealtubus mit der Spitze am Abgang des rechten Hauptbronchos,
+die linke Lunge atelektatisch. Auch die rechte Lunge mit Zeichen der
+Minderbelüftung und dorsobasal dystelektatischen minderbelüfteten
+Abschnitten. Kein größerer Erguss.
+Über die linke obere Extremität eingebrachter ZVK, die Spitze in
+Projektion auf den Confluens von Vena jugularis rechts mit Vena anonyma.
+Die Magensonde orthotop.
+Massiv distendierte luftgefüllte Darmschlingen bei ausladendem Abdomen,
+der DM der Darmschlingen bis zu 13 mm. Das portalvenöse System der Leber
+mit Luft kontrastiert, auch im Bereich des intestinums zum Teil blasige
+Aufhellungen - mögliche intramurale Luft. Keine freie abdominelle Luft.",0 d 0 h 2 min,,1.0,631.0,631 g,12.0,0 m 12 d,test,24.86,Unknown
+,,38,False,,1 m 14 d,31 + 0,F,,Tubeposition?,"Trachealtubus in Höhe der I. Rippen. Gastroduodenalsonde, distales Ende
+intraventriculär. Eingeschränkte Bildqualität.
+Herz. DORV-artig konfiguriert, nicht verbreitert. Bilateral geringe
+Gerüstverstärkung. Einzelne retrocardiale Dystelektasen. Kein Zeichen
+für relevante Menge an auslaufenden Pleuraergüssen.",0 d 23 h 29 min,,1.0,1447.0,1447 g,44.44,1 m 14 d,train,,Unknown
+,,39,False,,0 m 0 d,27 + 5,M,,Tubeposition?,"Trachealtubus in Tieflage. Befundverschlechterung im Bildvergleich zu
+26.03.2022. Über beiden Lungen: Rechts im Ober- und Mittelfeld, die
+linke Lunge als ""weiße"" Lunge und bei IRDS und Tubusfehllage.",2 d 3 h 36 min,,1.0,752.0,752 g,0.0,0 m 0 d,test,,Unknown
+,,40,False,,0 m 3 d,24 + 6,F,,Tubeposition?,"Trachealtubus in Tieflage, in den rechten Hauptbronchus reichend. ZVK
+über die rechte obere Extremität eingebracht, Spitze in Projektion auf
+das rechte Herz. Das Herz mit schlanker Herztaille, grenzwertig breit.
+Im Bildvergleich zu 28.03.2022 11:59 Uhr Befundverschlechterung über
+beiden Lungen mit zunehmender interstitieller Strukturzeichnung und
+progredienten Minderbelüftungen posterobasal beidseits, rechts betont.
+Keine Pleuraergüsse.",0 d 15 h 5 min,,1.0,389.0,389 g,3.0,0 m 3 d,test,,Unknown
+,,41,False,,0 m 12 d,24 + 6,M,,Tubeposition?,"Der Trachealtubus mit der Spitze mit der Spitze in Projektion auf
+C7/Th1, PICC über rechte obere Extremität, die Spitze in Projektion auf
+den Übergang in die Vena cava superior, die Magensonde orthotop.
+Der Herzschatten bei massiven Veränderungen im Rahmen einer BPD
+maskiert, im linken Mittel- und Untergeschoß flächig konfluierende
+Verdichtungen, infiltrativ atelektatisch. Kein größerer auslaufender
+Erguss.
+Der Weichteilschatten verbreitert wie bei vermehrter Einlagerung, die
+Knochenstruktur osteopen.",0 d 18 h 42 min,,1.0,369.0,369 g,12.0,0 m 12 d,train,,Unknown
+,,42,False,,0 m 17 d,26 + 1,F,,Tubeposition?,"Trachealtubus mit Tieflage, Spitze in den rechten Hauptbronchus weisend.
+ZVK über die linke obere Extremität eingebracht, Spitze in Projektion
+auf die mediane V. brachiocephalica sin.Gastroduodenalsonde, zu wenig
+weit peripher, Spitze in Projektion auf die Cardia.
+Herz schlank, Minderbelüftungen im rechten Ober- und Mittelfeld.
+Im Übrigen unveränderter Lungenbefund im Bildvergleich zu 11:19 Uhr vom
+Tag. Kein Pneu.",0 d 0 h 50 min,,1.0,842.0,842 g,17.0,0 m 17 d,test,,Unknown
+,,43,False,,0 m 0 d,25 + 0,F,,Tubeposition?,"Trachealtubus in Tieflage, knapp supracarinal gelegen.
+Gastroduodenalsonde, distales Ende intraventriculär. NAC-Spitze in Höhe
+TH8.
+Im Bildvergleich zu 16.05.2022 17:30 Uhr relativ stationärer
+Parenchym-Befund bei IRDS III°.",1 d 13 h 50 min,,1.0,641.0,641 g,0.0,0 m 0 d,train,,Unknown
+,,44,False,,0 m 2 d,25 + 0,F,,Tubeposition?,"Trachealtubus in Tieflage, in den re. Hauptbronchus reichend.
+Oberlappen-Atelektase rechts, die linke Lunge subtotal verschattet. Das
+solitär belüftete rechte Mittel- und Unterfeld mit feingranulär
+verstärkter Lungengerüstzeichnung.
+NVK-Spitze in Höhe Th 8/Th 9.",0 d 22 h 33 min,,1.0,786.0,786 g,2.0,0 m 2 d,train,,Unknown
+,,45,False,,0 m 11 d,33 + 3,F,,Tubeposition?,"Trachealtubus mit Spitze in Tieflage, im rechten Hauptbronchus.
+Gastroduodenalsonde, distales Ende intraventriculär. ZVK über die rechte
+untere Extremität eingebracht, Spitze cranial des Leberhilus.
+Das Herz ist plump konfiguriert, ausgeprägt dilatiert. Bilateral
+verstärkte Lungengefäß-, Gerüstzeichnung, mit zentral betonten
+Gefäßkalibern - Zeichen für hämodynamisch relevantes Vitium, z.B. PHT.
+Retrocardiale Dystelektasen links. Kein Infiltrat. Keine signifikanten,
+auslaufenden Pleuraergüsse.
+Das Abdomen ist nicht distendiert. Magen und einige Darmabschnitte im
+Mittelbauch luftkontrastiert, keine segmentale Dilatation.
+Unauffälliger Skelettbefund.",0 d 20 h 5 min,,1.0,1960.0,1960 g,11.0,0 m 11 d,train,,Unknown
+,,46,False,,0 m 4 d,34 + 1,M,,Tubeposition?,"Der Trachealtubus mit der Spitze auf Höhe Th1, Mediastinaldrainage,
+orthotope Magensonde, 4 Sternalcerclagen, EKG-Kabel, über die linke
+untere Extremität eingebrachter PICC mit der Spitze in Projektion auf
+die Vena iliaca links, Blasenkatheter.
+Das Herz gut tonisiert, die pulmonale Gefäßzeichnung seitengleich.
+Die linke Lunge regelrecht pneumatisiert, rechts dorsal pleurale
+Verschattung, Pleuraerguss und teilatelektatischer Unterlappen.
+Keine freie abdominelle Luft, distendierte Dünndarmschlingen im
+Mittelbauch, Luft bis ins Rectum, keine intestinale Pneumatose.",4 d 17 h 20 min,,1.0,2100.0,2100 g,4.0,0 m 4 d,test,,Unknown
+,,47,False,,0 m 2 d,22 + 5,M,,Tubeposition?,"Der Trachealtubus mit der Spitze in Projektion auf den rechten
+Hauptbronchus Höhe BWK 5, PICC über rechte obere Extremität, die Spitze
+in Projektion auf die V. cava superior, der NVK mit der Spitze rechts
+paravertrebral auf Höhe Th 10.
+Der rechte Oberlappen atelektatisch, subtotale Atelektase der linken
+Lunge mit Volumsminderung. Kein Pneumothorax.",4 d 7 h 35 min,,1.0,412.0,412 g,2.0,0 m 2 d,train,,Unknown
+,,48,False,,0 m 5 d,34 + 4,F,,Tubeposition?,"Trachealtubus mit Spitze in Höhe der oberen Thoraxapertur. ZVK über die re. obere
+Extremität eingebracht, Spitze in Projektion auf die distale VCS.
+Herz von normaler Form und Breite. Die Hili regelrecht. Seitengleiche
+Lungenbelüftung. Kein Infiltrat. Seitengleiche pulmonale Gefäßzeichnung.
+Kein Zeichen für Pleuraergüsse.",1 d 9 h 3 min,,1.0,3000.0,3000 g,5.0,0 m 5 d,test,,Unknown
+,,49,False,,0 m 28 d,24 + 3,F,,Tubeposition?,"Trachealtubus mit Spitze in Höhe der ersten Rippen. Gastroduodenalsonde,
+distales Ende zu wenig weit peripher, in Projektion auf die Cardia.
+Herz schlank. Im Bildvergleich zu 14.9.2022 subtotal wiederbelüftet der
+rechten Oberlappen mit schmalem Restbefund paramediastinal.
+Minderbelüftungen im rechten Unterfeld, im linken Ober- und Mittelfeld.
+Keine intercostalen Herniationen. Keine Pleuraergüsse.",3 d 11 h 43 min,,1.0,456.0,456 g,28.0,0 m 28 d,train,,Unknown
+,,50,False,,0 m 2 d,39 + 1,F,,Tubeposition?,"Nun ist die Patientin intubiert, Tubusspitze in den rechten
+Hauptbronchus reichend. Mehrfache Dystelektasen im Bereich der linken
+perihilären und retrokardialen Lunge. Keine Stauung, kein Infiltrat,
+kein Zeichen für relevante Menge an auslaufenden Pleuraergüssen. Herz
+von normaler Form und Breite.",3 d 17 h 54 min,,1.0,3400.0,3400 g,2.0,0 m 2 d,test,,Unknown
+,,51,False,,0 m  4 d,38+5,M,,Evaluation of endotracheal tube position?,"Trachealtubus mit der Spitze in Projektion auf die Deckplatte BWK 3.
+Orthotop liegende Magensonde. NVK in etwa auf Zwerchfellniveau.
+Mittelständiges Mediastinum. Das Cor in beide Richtungen verplumpt.
+Verstärkte Lungengefäßzeichnung. Kein Hinweis für ein flächiges
+Infiltrat.
+Ergebnis
+Das Cor vergrößert. Zeichen eines hämodynamisch wirksamen Vitiums.",2 d 13 h 52 min,1.0,,2930.0,2930 g,4.0,0 m  4 d,train,38.71,Unknown
+,,52,False,,0 m  4 d,32+1,F,,Evaluation of thorax drain position?,"Voraufnahme vom 05.09.2021 vorliegend.
+Deutlich regredienter Pneumothorax links mit rückgebildetem
+Mediastinalshift. Fokale ovaläre Aufhellung rechts suprahilär, passend
+zu einer ventralen Pneumothoraxkomponente.
+Bipulmonale streifig-retikuläre Verdichtungen ubiquitär, am ehesten im
+Rahmen interstitieller Flüssigkeitseinlagerungen. Kleines Interlobium
+prominent, passend zu einer geringen interlobären Ergusskomponente.
+Unter Berücksichtigung der differenten Projektion, unveränderte Lage der
+Thoraxdrainage links. Trachealtubus in regelrechter Projektion.",0 d 23 h 36 min,1.0,,1560.0,1560 g,4.0,0 m  4 d,train,32.14,Unknown
+,,53,False,,0 m  0 d,40+0,M,,Evaluation of endotracheal tube position?,"Tubusspitze in Höhe 2.ICR. Gastroduodenalsonde, distales Ende
+intraventrikulär.
+Im Bildvergleich zu 03.02.2021 19:29 Uhr Befundverschlechterung in der
+rechten medialen Lunge mit zunehmenden Verdichtungen von apikomedial
+nach re retrokardial und perihilär, DD: atelektatisch,
+atelektatisch-infiltrativ kombiniert? Aspiration?
+Die linke Lunge unauffällig. Herz in unveränderter Konfiguration und
+Breite. Kein Zeichen für Pleuraergüsse.",1 d 10 h 30 min,1.0,,3335.0,3335 g,0.0,0 m  0 d,test,40.0,Unknown
+,,54,False,,0 m  3 d,40+1,M,,Peripherally inserted central catheter - Position?  Lungs?,"Voruntersuchung vom 23.12.2021 um 08:42 Uhr.
+Unveränderte Magensonde in situ. In der Trachealtubus mit der Spitze auf
+Höhe von BWK 3. NAK wie zuletzt auf Höhe BWK 10.
+Bekanntermaßen 13 BWK'S, 13 Rippenpaare und 5 freie Lendenwirbelkörper.
+Neu eingebrachter PICC an der linken unteren Extremität, die Spitze auf
+Höhe L2.
+Etwas besser tonisierte Herzsilhouette. Das obere Mediastinum am ehesten
+thymusbedingt verbreitert. Nach wie vor diskrete retrocardiale
+Dystelektasen. Im rechten Obergeschoss in erster Linie
+Minderbelüftungsareale - projektionsbedingt auch Thymusanteile
+anzunehmen bei nun verrotierter Aufnahme. Im übrigen unveränderter
+Lungenbefund.
+Bei distendiertem Abdomen nach wie vor distendierte Darmschlinge im
+Unterbauch paramedian - 15 mm am ehesten Colon.
+Kein Hinweis für freie intraabdominelle Luft, kein eindeutiger Hinweis
+für NEK. Neu eunbgebrachter PICC über die linke untere Extremität, die
+Spitze auf Höhe L3/4 rechts. NAK unverändert.",3 d 13 h 34 min,1.0,,3700.0,3700 g,3.0,0 m  3 d,train,40.14,Unknown
+,,55,False,,0 m  0 d,28+5,M,,Pneumothorax? Evaluation of endotracheal tube position?  Infant respiratory distress syndrome?,"Eingebrachter Endotrachealtubus, die Spitze in Projektion BWK . Die
+Spitze der eingebrachten Magensonde nicht mitabgebildet. Liegender
+Nabelvenenkatheter, die Spitze in Projektion auf den Leberhilus. 
+Mittelständige Kardiomediastinalsilhouette, das Cor normgroß. In
+Projektion auf den rechten Unterlappen finden sich noch feingranuläre
+Lungenstrukturverdichtungen.  Ergebnis
+IRDS Typ I rechts.",1 d 13 h 49 min,1.0,,1409.0,1409 g,0.0,0 m  0 d,train,28.71,Unknown
+,,56,False,,3 m  7 d,24+4,F,,Evaluation of endotracheal tube position? Pulmonary edema? Pleural effusion? Pulmonary infiltrate?,"Der Trachealtubus mit der Spitze in Projektion auf BWK 3, von links
+infraclaviculär eingebrachter ZVK, die Spitze in Projektion auf die Vena
+cava superior, die Magensondenspitze nicht mitabgebildet.
+Plump konfiguriertes, verbreitertes Herz, seitengleiche pulmonale
+Gefäßzeichnung. Beidseitige Veränderungen des Lungenparenchyms wie bei
+BPD, keine eindeutigen konfluierenden Infiltrate. Kein größerer
+auslaufender Erguss.",2 d 1 h 4 min,1.0,,679.0,679 g,98.32000000000001,3 m  7 d,train,24.57,Unknown
+,,57,False,,0 m  5 d,40+0,F,,Pneumothorax? Infant respiratory distress syndrome?,"Stationäre Abbildung der Tubes and Lines.
+
+Die Herzgröße in der Norm. Transparenzminderung perihilär rechts - z. B. minderbelüftungsassoziiert. In erster Linie Minderbelüftungen auch apikal beidseits neben apikalen Pleuraergüssen rechts mehr als links. Kein Hinweis für einen Pneumothorax. Geringe Überblähungszeichen.",1 d 8 h 35 min,1.0,,2599.0,2599 g,5.0,0 m  5 d,test,40.0,Unknown
+,,58,False,,0 m  0 d,35+5,M,,Evaluation of endotracheal tube position?,"Trachealtubus mit Spitze in Höhe der 3. Rippen. Gastroduodenalsonde,
+distales Ende intraventrikulär. Herz unauffällig konfiguriert,
+mittelständig. Keine Befundverschlechterung im Bildvergleich zu
+04.06.2021 bezüglich der leichten Gerüstbetonung. Kein Infiltrat. Keine
+auslaufenden Pleuraergüsse.",2 d 15 h 55 min,1.0,,2240.0,2240 g,0.0,0 m  0 d,train,35.71,Unknown
+,,59,False,,0 m  0 d,30+2,M,,Evaluation of endotracheal tube position? Umbilical vein catheter position? Pneumothorax?   Infant respiratory distress syndrome?,"Trachealtubus mit Spitze in Höhe der 2. Rippen. Gastroduodenalsonde,
+distales Ende intraventrikulär. NVK-Spitze in Zwerchfellhöhe rechts.
+Herzschatten plump konfiguriert, zu beiden Seiten verbreitert. Bilateral
+deutlich verstärkte Lungengerüstzeichnung, streifige Dystelektasen
+retrokardial bds. - IRDS, interstitielle Flüssigkeitseinlagerungen
+kardiogen bedingt. Kein konfluierendes Infiltrat. Gering auslaufende
+Pleuraergüsse sind möglich.
+12 Rippenpaare.
+Das Abdomen schlank. Magen, obere Dünndarmstrukturen luftkontrastiert,
+zeitlich adäquate Passage.
+Unauffälliger Skelettbefund.",0 d 18 h 7 min,1.0,,1361.0,1361 g,0.0,0 m  0 d,test,30.29,Unknown
+,,60,False,,0 m  0 d,33+2,M,,Diaphragm-height?,"Trachealtubus mit Spitze in Höhe des II. ICR. Gastroduodenalsonde.
+Herz von normaler Form und Breite.
+Im Bildvergleich zu 03.11.2021 um 18:39 Uhr zunehmend die periphere
+Überblähung mit intercostalen Herniationen. Kein IRDS. Kein Infiltrat.
+Kein Zeichen für Pleuraergüsse.",0 d 13 h 0 min,1.0,,2776.0,2776 g,0.0,0 m  0 d,train,33.29,Unknown
+,,61,False,,0 m  3 d,26+3,M,,Evaluation of central venous catheter position?,"Der Trachealtubus mit der Spitze in Projektion auf BWK 3, die Magensonde
+orthotop, über die rechte obere Extremität eingebrachter ZVK, die Spitze
+in Projektion auf die Vena cava superior, die NAK-Spitze auf Höhe
+BWK 10.
+Das Herz gut tonisiert. Die pulmonale Gefäßzeichnung seitengleich, bei
+verrotierter Aufnahme differente Strahlentransparenz der Lungen, kein
+Infiltrat, kein größerer frei auslaufender Erguss.",0 d 5 h 1 min,1.0,,989.0,989 g,3.0,0 m  3 d,train,26.43,Unknown
+,,62,False,,0 m  0 d,39+0,M,,Evaluation of umbilical vein catherter and endotracheal tube position?,"Endotrachealtubus, die Spitze auf Höhe der Unterkante BWK 2. Liegende
+Magensonde, die Spitze orthotop gelegen. NVK, orthotop gelegene Spitze
+auf Höhe des Zwerchfells. Das Cor im oberen Größennormbereich. Pulmonale
+Gefäßzeichnung bis in die Peripherie - am ehesten im Rahmen eines
+hämodynamisch wirksamen Vitiums. Kein Hinweis für einen Erguss. Im
+rechten Unterbauch zeigen sich einige nur wenig luftgefüllte
+Darmschlingen. Noch keine Luft im Rektum. Regelrechte
+Achsenskelettdarstellung.",0 d 18 h 37 min,1.0,,4897.0,4897 g,0.0,0 m  0 d,test,39.0,Unknown
+,,63,False,,0 m  1 d,31+6,F,,Pneumothorax? Infant respiratory distress syndrome? Atelectasis?,"Trachealtubus mit Spitze in Höhe des 3. ICR, wenig cranial der
+Trachealbifurkation. NVK-Spitze in Höhe Th 11. NAK-Spitze in Höhe Th
+10.
+Herz grenzwertig breit. Befundbesserung im Bildvergleich zu 20.09.2021,
+nur noch leichte feingranuläre Lungengerüstverstärkung. Kein Zeichen für
+Pleuraergüsse. Kein Infiltrat.",0 d 9 h 16 min,1.0,,1675.0,1675 g,1.0,0 m  1 d,test,31.86,Unknown
+,,64,False,,0 m  3 d,40+0,F,,Central venous catheter? Lungs? Heart?,"Voraufnahme vom 27.03.2021.
+Herzschatten nicht verbreitert. Pulmonale Gefäßzeichnung beidseits
+zunehmend mit Unschärfe des linken Herzrandes. Insbesondere in den
+Oberfeldern finden sich konfluierende Verdichtungen, teils mit
+feinretikulärer Textur. Beidseits kein größerer Erguss.
+Insgesamt sehr wenig Darmgas.
+Tubus und Magensonde in regelrechter Projektion.
+Neu eingelegter ZVK von links peripher mit Projektion der Spitze auf den
+linken Pedikel LWK 5, Lage a.e. in der V.iliaca communis.",0 d 3 h 51 min,1.0,,3434.0,3434 g,3.0,0 m  3 d,train,40.0,Unknown
+,,65,False,,0 m  0 d,40+6,M,,Evaluation of endotracheal tube position? Umbilical artery catheter position?,"Trachealtubus mit Spitze in Höhe der 3. Rippen. NAK-Spitze in Projektion
+auf Th6. Herz von normaler Form und Breite. Die Lungen mit einzelnen
+zarten streifigen Minderbelüftungen, Wet lung. Kein Infiltrat. Kein
+Zeichen für Pleuraergüsse.
+12 Rippenpaare.
+Magen-Darm-Strukturen luftgefüllt, keine segmentale Dilatation.
+Unauffälliger Skelettbefund.",2 d 22 h 58 min,1.0,,3690.0,3690 g,0.0,0 m  0 d,train,40.86,Unknown
+,,66,False,,0 m  0 d,34+4,F,,Infant respiratory distress syndrome? Pneumothorax? Heart?,"Keine Voraufnahme vorliegend.
+Thorax:
+Mediastinum verbreitert, am ehesten bei Überlagerung durch Thymus.
+Mittelständige Herzsilhouette, linksbetont konfiguriert, deutlich
+verbreitert. Beidseits zeigen sich streifig-retikuläre, teils grob
+granuläre pulmonale Verdichtungen. Keine infiltrattypischen
+flächenhaften Transparenzminderungen.
+Hemidiaphragma rechts mit lateraler Buckelung.
+Einliegender Trachealtubus, die Spitze projiziert sich ca. 7 mm cranial
+der Trachealbifurkation. Magensonde mit Projektion des distalen Endes
+regelrecht auf die Magenblase. Einliegender NAK, das craniale Ende
+projiziert sich auf die Grundplatte von BWK 5.",2 d 0 h 5 min,1.0,,1373.0,1373 g,0.0,0 m  0 d,test,34.57,Unknown
+,,67,False,,0 m  3 d,40+2,M,,Control,"Eine Untersuchung vom Vortag zum Vergleich vorliegend (Intubierter Patient).
+Unveränderte Tubes and Lines. Pulmonal ergibt sich keine wesentliche
+Befunddynamik zur Voruntersuchung, minimale Minderbelüftungen im rechten
+Oberlappen.",0 d 0 h 20 min,1.0,,3578.0,3578 g,3.0,0 m  3 d,train,40.29,Unknown
+,,68,False,,0 m  0 d,38+6,F,,Evaluation of endotracheal tube position? Pulmonary infiltrate? Atelectasis? Pneumothorax?,"Trachealtubus mit Spitze in Höhe der III. Rippen. Gastroduodenalsonde,
+distales Ende intraventriculär.
+Herz von normaler Form und Breite. Seitengleiche pulmonale
+Gefäßzeichnung. Peribronchiale Verdichtungen im linken Mittel- und
+retrocardialen Unterfeld. Hier in DD: Minderbelüftungen, entzündliche
+Infiltration, z.B. Aspiration. Keine Pleuraergüsse.",1 d 23 h 12 min,1.0,,3076.0,3076 g,0.0,0 m  0 d,train,38.86,Unknown
+,,69,False,,0 m  1 d,39+6,F,,Lungs? Lung bases? Central venous catheter position?,"Voraufnahmen vom 18.05.2021 vorliegend.
+Thorax:
+Pulmonale Belüftung linksseitig etwas zunehmend mit schärfer
+abgrenzbaren Rändern des Gefäßbandes sowie des linken Herzrandes.
+Rechtsseitig im Wesentlichen unveränderte streifig retikuläre
+Verdichtungen, am ehesten im Rahmen interstitieller
+Flüssigkeitseinlagerungen. Lungenvolumen weiterhin reduziert. Breite des
+Herzschattens im oberen Normbereich. Glockenförmige Thoraxkonfiguration.
+Spitze des Trachealtubus in Projektion ca. 6 mm cranial der
+Trachealbifurkation.
+Abdomen:
+Insgesamt deutlich weniger Darmgas als in der Voraufnahme von heute um
+01:48 Uhr. Bis 2 cm distendierte Darmschlingen im mittigen und
+linksseitigen Mittelbauch.
+Neu eingelegter ZVK über die linke untere Extremität mit Projektion der
+Spitze auf die Deckplatte von LWK 4 rechts, Lage am ehesten im
+Zusammenfluss der Vena cava inferior mit der Vena cava iliaca communis
+links.",0 d 3 h 6 min,1.0,,4150.0,4150 g,1.0,0 m  1 d,train,39.86,Unknown
+,,70,False,,2 m  29 d,25+6,M,,Evaluation of endotracheal tube position?,"Voraufnahme vom 30.07.2021 vorliegend.
+Zwischenzeitlich neu eingebrachter Endotracheltubus, die Spitze
+projiziert sich mit ca. 1,4 cm kranial der Trachealbifurkation/
+auf BWK 3. Magensonde weiterhin in regelrechter Projektion.
+Bekannte bipulmonale Lungengerüstveränderungen im Rahmen einer BPD ohne
+Dynamik im Verlauf. Die vormals sichtbaren streifigen retrokardialen
+Minderbelüftungen beidseits aktuell lediglich linksseitig noch residuell
+erkennbar, beidseits hier Befundbesserung im Verlauf. Beidseits kein
+größerer Erguss.
+Mediastinum und Herzschatten nicht verbreitert.",0 d 5 h 45 min,1.0,,730.0,730 g,89.88,2 m  29 d,test,25.86,Unknown
+,,71,False,,0 m  0 d,34+2,M,,Drain position?,"Die Magensonde im Vergleich zur VU wesentlich höherstehend. Neu
+eingebrachter Endotrachealtubus, die Spitze in Projektion auf die
+3. Rippe. Neu eingebrachte Thoraxdrainagen bds.
+Regrediente Minderbelüftung in beiden Obergeschoßen es verbleiben noch
+deutliche residuale Atelektasen rechts mehr als links.
+Im Vergleich zur VU neue Atelektasen in den Untergeschoß bds.; rechts
+mehr als links.
+Der Pneumothorax regredient bei residualer, basaler, paracardialer
+Komponente Pneumothorax bds.
+Ergebnis
+Zwischenzeitlich neu eingebrachter Endotrachealtubus sowie
+Thoraxdrainagen. Der Pneumothorax bds. regredient bei nun neuer basaler
+pericardialer Komponente bds..
+Neue Atelektasen in den Untergeschossen bds. Die Atelektasen der
+Obergeschoße bds. gering regredient.",10 d 23 h 48 min,1.0,,2179.0,2179 g,0.0,0 m  0 d,train,34.29,Unknown
+,,72,False,,0 m  11 d,26+2,M,,Evaluation of endotracheal tube position? Atelectasis? Others?,"Voraufnahme von heute um 07:43 Uhr vorliegend.
+Neu eingelegter Endotrachealtubus mit Projektion der Spitze ca. 7 mm
+cranial der Trachealbifurkation.
+Magensonde in regelrechter Projektion.
+Zeichen eines IRDS I°-II°. Beidseits keine flächenhaften Infiltrate oder
+Atelektasen, kein Erguss.
+Mediastinum und Herzschatten jeweils mittelständig und nicht
+verbreitert.
+Magen weiterhin luftgefüllt, nicht mehr so gebläht wie in der
+Voraufnahme.",2 d 20 h 2 min,1.0,,1040.0,1040 g,11.0,0 m  11 d,test,26.29,Unknown
+,,73,False,,0 m  0 d,36+5,M,,Position? (of umbilical vein catheter),"Voraufnahme von heute um 14:28h.
+NVK nach Neuanlage mit projektion der Spitze auf den rechtsseitigen
+Pedikel BWK 9 / auf Zwerchfellniveau, Lage am cavo-atrialen Übergang.
+Tubus und Magensonde in regelrechter Projektion.
+Kardiopulmonal und abdominell kein relevanter Befundwandel im
+kurzfristigen Verlauf.",0 d 1 h 35 min,1.0,,3100.0,3100 g,0.0,0 m  0 d,test,36.71,Unknown
+,,74,False,,0 m  3 d,38+2,M,,Perforation? Pneumoabdomen? Ileus?,"Voraufnahme vom 11.10.2021 vorliegend.
+Thorax:
+Zunehmende bipulmonale streifig-retikuläre Verdichtungen mit unscharfer
+Berandung der kaudalen Herzgrenzen sowie der Zwerchfellkuppen.
+Herzsilhouette etwas breiter als zuvor, die Gesamtbreite im oberen
+Größennormbereich. Kein flächenhaftes Infiltrat. Kein Erguss.
+Trachealtubus in unveränderter Projektion. Zunehmende bipulmonale interstitielle Flüssigkeitseinlagerungen.
+Herzschattenbreite etwas zunehmend, die Gesamtbreite dabei im oberen
+Größennormbereich. ",0 d 11 h 12 min,1.0,,3613.0,3613 g,3.0,0 m  3 d,train,38.29,Unknown
+,,75,False,,0 m  0 d,39+0,M,,Umbilical artery catheter position?,"Thorax:
+Mediastinum mittelständig, partiell durch Thymus überlagert.
+Mittelständige, regelrecht konfigurierte und nicht verbreiterte
+Herzsilhouette. Bipulmonal zeigen sich streifig - retikuläre, teils
+feinstfleckige hilifugal ausgerichtete Verdichtungen. Keine
+konfluierenden Verdichtungen. Hemidiaphragma beidseits glatt berandet,
+beidseits abgeflacht und etwas tief stehend. Die Lunge wölbt sich
+beidseits etwas nach intercostal.
+Einliegender Trachealtubus mit Projektion des distalen Endes ca. 9 mm
+cranial der Trachealbifurkation. Einliegende Magensonde mit Projektion
+der Spitze auf die Magenblase.",0 d 17 h 7 min,1.0,,3080.0,3080 h,0.0,0 m  0 d,train,39.0,Unknown
+,,76,False,,0 m  2 d,41+1,F,,Umbilical artery catheter position?,"Zum Vergleich liegen mehrere Voraufnahmen, zuletzt vom 10.05.2021 um
+12:43 Uhr vor.
+Beide Lungen weisen eine kleinfleckige, teils streifig retikuläre
+Zeichnungsvermehrung auf, z.B. i.R. einer pulmonalen Hyperämie.
+Hemidiaphragma beidseits und scharf berandet, rechts mehr als links
+passen zu einem Pleuraerguss. Geringe Überblähung.
+Trachealtubus und Magensonde in regelrechter Projektion. Neu eingelegter
+Katheter/ ZVK, welcher von abdominell ausgehend sich auf die Pedikel der
+unteren und mittleren LWS projiziert, ab BWK 11 paravertebral rechts
+über den rechten Vorhof verläuft, die Spitze projiziert sich auf die
+linke Pulmonalarterie.
+Unspezifische Darmgasverteilung. Kein Hinweis auf distendierte
+Darmschlingen.",0 d 15 h 51 min,1.0,,3272.0,3272 g,2.0,0 m  2 d,test,41.14,Unknown
+,,77,False,,4 m  6 d,24+2,M,,Ileus? Pneumoabdomen?,"Der Trachealtubus mit der Spitze in Projektion auf BWK 2/3. Die
+Magensonde orthotop, 1 Ductusclip, über die rechte untere Extremität
+eingebrachter ZVK, die Spitze rechts paravertebral in Projektion auf
+Höhe L4.
+Bei massiv geblähten Dünndarmschlingen Zwerchfellhochstand bds.,
+Herzquerlage. Zeichen der BPD bds. mit Dystelektasen ohne umschriebenes
+Infiltrat, kein größerer Erguss, kein Pneumothorax.
+Beträchtlich distendierte, überblähte Dünndarmschlingen mit einem DM bis
+zu 23 mm, im rechten und linken Mittelbauch kleine Luftfiguren - z.B.
+Luft im Colon ascendens und C. descendens bei schmalkalibrigem Colon.
+Keine freie abdominelle Luft.
+Ergebnis
+Bild wie bei Dünndarmileus bei mechanischer Obstruktion im distalen
+Dünndarm. Keine freie abdominelle Luft.
+BPD.",0 d 1 h 37 min,1.0,,630.0,630 g,127.76,4 m  6 d,test,24.29,Unknown
+,,78,False,,0 m  2 d,39+6,M,,Pulmonary edema? Pleural effusion? Atelectasis? Pneumothorax?,"Trachealtubus mit Spitze in Höhe der 2. Rippen. ZVK über die linke obere
+Extremität eingebracht, Spitze in Projektion auf die oberste VCS.
+Deutliche Exspirationslage. Gastroduodenalsonde, distales Ende wenig
+weit peripher der Cardia.
+Herz in unveränderter Form und Verbreiterung im Bildvergleich zu
+28.08.2021. Seitengleiche pulmonalen Gefäßzeichnung, z.B. rarefiziert.
+Keine Stauung. Kein Infiltrat. Kein Zeichen für Pleuraergüsse.",1 d 7 h 41 min,1.0,,3552.0,3552 g,2.0,0 m  2 d,train,39.86,Unknown
+,,79,False,,0 m  3 d,32 + 2,F,,Tubeposition?,"Trachealtubus mit Spitze in Höhe der 4. Rippen. Pleuradrainage rechts.
+Gute Befundbesserung bezüglich des Pneumothorax rechts im Bildvergleich
+zu 14.01.2022 23:40 Uhr, mit schmalem restlichen Mantelpneumothorax
+rechts. Regredient der Herzmediastinalshift. Die linke Lunge besser
+belüftet, retrocardiale Dystelektasen. Geringe Gerüstverstärkung
+beidseits. Keine Pleuraergüsse.
+Gastroduodenalsonde, distales Ende intraventrikulär.",3 d 7 h 31 min,1.0,,1732.0,1732 g,3.0,0 m  3 d,train,,Unknown
+,,80,False,,0 m  3 d,30 + 3,F,,Tubeposition?,"Trachealtubus mit Spitze in Höhe der 2. Rippen. ZVK über die linke obere
+Extremität eingebracht, Spitze in Projektion auf die obere VCS.
+Pleuradrainage rechts. Gastroduodenalsonde, distales Ende nicht im
+Bildausschnitt.
+Im Bildvergleich zu 04.02.2022 12:06 Uhr deutliche Befundbesserung bei
+Pneumothorax rechts, nun nur noch geringe restliche Luftansammlungen im
+rechten basolateralen Sinus, kleinumschrieben in Projektion auf das
+rechte mediale Unterfeld. Zeichen für Pneumomediastinum im mittleren und
+caudalen Abschnitt. Herzmediastinalstrukturen mittelständig. Restliche
+Minderbelüftungen der rechten Lunge im Unterfeld , als Segmentatelektase
+laterobasal; weiters links retrocardial. Gute periphere Lungenbelüftung,
+teils mit angedeuteten intercostalen Herniationen. Keine Pleuraergüsse.",1 d 23 h 33 min,1.0,,1499.0,1499 g,3.0,0 m  3 d,test,,Unknown
+,,81,False,,2 m  11 d,32 + 6,M,,Tubeposition?,"Trachealtubus - Spitze in Höhe der II. Rippen. PICC über die rechte
+obere Extremität eingebracht, Spitze in Projektion auf die superiore
+VCS. ZVK über rechts jugulär eingebracht, Spitze in Projektion auf die
+distale VCS. Pleuradrainagen beidseits, Spitze in Höhe der Mittelfelder.
+Gastroduodenalsonde, distales Ende intraventriculär.
+Herz von normaler Form und Breite. Bronchialmanschetten bilateral,
+panlobulär bis in die mittlere Peripherie, Zeichen für interstitielle
+Flüssigkeitseinlagerungen. Retrocardiale Minderbelüftungen beidseits.
+Geringe Menge an Erguss im Pleuraraum beidseits.",1 d 2 h 7 min,1.0,,2879.0,2879 g,71.88,2 m  11 d,train,,Unknown
+,,82,False,,0 m  5 d,40 + 0,F,,Tubeposition?,"Trachealtubus mit Spitze in Höhe der 3.Rippen.
+Im Bildvergleich zum 30.04.2022 Befundbesserung über der rechten Lunge,
+restliche Minderbelüftungen im rechten medialen Unterfeld. Deutliche
+Lungengerüstverstärkung rechts. Nur geringe Befundbesserung über der
+linken Lunge bei multilobulären flächigen Verdichtungen, als
+atelektatische, DD: infiltrative. Idem die Pleuraergüsse beidseits.",2 d 0 h 7 min,1.0,,3470.0,3470 g,5.0,0 m  5 d,train,,Unknown
+,,83,False,,0 m  19 d,26 + 4,M,,Tubeposition?,"Trachealtubus mit Spitze in Höhe der 3. Rippen. ZVK über die linke obere
+Extremität eingebracht, Spitze in Projektion auf die mediale V.
+brachiocephalica sin.. Gastroduodenalsonde, distales Ende nicht im
+Bildausschnitt.
+Herz von normaler Form und Breite. BPD. Im Bildvergleich zum Vortag, den
+02.06.2022 Befundbesserung über beiden Lungen mit Regredienz der
+peribronchial flächig konfluierenden Verdichtungen mit Restbefund rechts
+perihilär, retrokardial und posterobasal bds.. Kein Pneu. Keine
+Pleuraergüsse.",3 d 23 h 43 min,1.0,,628.0,628 g,19.0,0 m  19 d,test,,Unknown
+,,84,False,,0 m  1 d,32 + 6,M,,Tubeposition?,"Trachealtubus mit Spitze in Höhe III. ICR. Epicardiale Schrittmacher.
+Gastroduodenalsonde, distales Ende nicht im Bildausschnitt.
+Herz von normaler Form und Breite. Seitengleiche pulmonale
+Gefäßzeichnung. Feingranulär verstärkte Lungengerüstzeichnung, betont in
+den medialen Lungenabschnitten bilateral - geringe IRDS-Veränderungen,
+DD: cardiogen bedingte. Kein Infiltrat. Kein Zeichen für Pleuraergüsse.",3 d 6 h 21 min,1.0,,1855.0,1855 g,1.0,0 m  1 d,train,,Unknown
+,,85,False,,0 m  4 d,39 + 6,F,,Tubeposition?,"Der Trachealtubus mit der Spitze in Projektion auf BWK II, die Magesonde
+orthotop, EKG-Kabel.
+Regelrechter cardio-pulmonaler Befund. Kein Hinweis auf hämodynamisch
+wirksames Vitium. Seitengleiche Lungenbelüftung. Keine rezenten
+pulmonalen Infiltrationen",0 d 3 h 30 min,1.0,,3450.0,3450 g,4.0,0 m  4 d,train,,Unknown
+,,86,False,,0 m  21 d,38 + 4,M,,Tubeposition?,"Trachealtubus mit Spitze in Höhe der 3. Rippen. Gastroduodenalsonde,
+distales Ende gerade intraventrikulär.
+Herz in unveränderter Konfiguration und Breite, im Bildvergleich zu
+09.08.2022. Peribronchialmanschette im rechten medialen Oberfeld,
+beidseits perihilär und retrokardial, mit etwas geringerer Ausprägung im
+Bildvergleich zu 09.08.2022. Die Lungenperipherie ist überbläht, teils
+intercostale Herniationen. Kein Pneu. Kein Zeichen für auslaufende
+Pleuraergüsse.",1 d 9 h 47 min,1.0,,3150.0,3150 g,21.0,0 m  21 d,train,,Unknown
+,,87,False,,0 m  4 d,39 + 5,F,,Tubeposition?,"Trachealtubus mit Spitze in Höhe des 2. ICR. PICC über die linke obere
+Extremität eingebracht, Spitze in Projektion auf den kardiovaskulären
+Übergang. Gastroduodenalsonde, distales Ende intraventrikulär.
+Herz von normaler Form und Breite. Beide Lungen gut belüftet. Kein
+Infiltrat. Kein Zeichen für auslaufende Pleuraergüsse.",2 d 19 h 57 min,1.0,,2780.0,2780 g,4.0,0 m  4 d,train,,Unknown
+,,88,False,,2 m  2 d,35 + 5,F,,Tubeposition?,"Trachealtubus mit Spitze in Höhe des II. ICR. Die Spitze des über die
+linke obere Extremität eingebrachten ZVK´s in Projektion auf das rechte
+Herz. Mediastinaldrainage, Pleuradrainagen beidseits in unveränderter
+Position im Bildvergleich zu 20.10.2022. Vier Sternalcerclagen.
+Epikardiale Schrittmacher. Gastroduodenalsonde, distales Ende nicht im
+Bildausschnitt.
+Stationärer Befund mit Oberlappen-Atelektase rechts, apikalem
+Pleuraerguss rechts. Retrokardiale Dystelektasen beidseits. Kein
+relevanter Resterguss links.",3 d 6 h 48 min,1.0,,2438.0,2438 g,62.88,2 m  2 d,train,,Unknown
+,,89,False,,2 m  0 d,25 + 6,M,,Tubeposition?,"Trachealtubus mit Spitze in Höhe der 3. Rippen. ZVK über rechts jugulär
+eingebracht, Spitze in Projektion auf den kardiovaskulären Übergang.
+Ductusclip. Gastroduodenalsonde, distales Ende intraventrikulär.
+Herz von normaler Form und Breite. Deutliche Gerüstverstärkung mit
+intralobulären Strukturverdichtungen, einzelnen sehr kleinzystischen
+emphysematösen Überblähungen. Mäßige periphere Überblähung mit
+angedeuteten intercostalen Herniationen beidseits. Retrokardiale
+Minderbelüftungen beidseits. Z.B. beginnende BPD-Veränderungen. Keine
+Infiltrat-typische Verdichtung. Kein Zeichen für auslaufende
+Pleuraergüsse.",4 d 10 h 20 min,1.0,,580.0,580 g,60.88,2 m  0 d,test,,Unknown
+,,90,False,,0 m  6 d,36 + 3,F,,Tubeposition?,"Trachealtubus mit Spitze in Höhe des 2. ICR. Gastroduodenalsonde,
+distales Ende intraventrikulär.
+Exspirationslage. Der Herzschatten in unveränderter Breite im
+Bildvergleich zu 27.09.2022. Verstärkte pulmonale Gefäß- und
+Gerüstzeichnung. Kein konfluierendes Infiltrat. Kein Zeichen für
+relevante Menge an auslaufenden Pleuraergüssen.",1 d 1 h 2 min,1.0,,2960.0,2960 g,6.0,0 m  6 d,test,,Unknown
+,,91,False,,1 m  26 d,27 + 1,F,,Tubeposition?,"Trachealtubus mit Spitze in Höhe des 2.ICR. Gastroduodenalsonde,
+distales Ende intraventrikulär. KM-konstrastierte lineale Colonflexur
+nach DL am 28.11.2022.
+Herz von normaler Form und Breite. Die Hili regelrecht. Leicht verstärte
+Lungengerüstzeichnung beidseits panlobulär. In beiden retrocardialen
+Abschnitten konfluierende peribronchiale Verdichtungen - DD:
+Dystelektasen, entzündliche Infiltration. Periphere Überblähung
+beidseits. Kein Zeichen für Pleuraergüsse.",1 d 19 h 26 min,1.0,,730.0,730 g,56.44,1 m  26 d,test,,Unknown
+,,92,False,,0 m  2 d,29 + 3,M,,Tubeposition?,"Trachealtubus mit Spitze in Höhe der 3. Rippen. Pleuradrainage links in
+unveränderter Position im Bildvergleich zu 11:27 Uhr vom Tag.
+Gastroduodenalsonde, distales Ende intraventrikulär.
+Herz von normaler Form und Breite. Weitere Befundbesserung bezüglich der
+linken Lungenentfaltung, noch zarte Dystelektasen im Oberfeld und
+retrokardial. Bilateral feingranulär verstärkte Lungengerüstzeichnung,
+IRDS. Kein konfluierendes Infitrat. Kein Zeichen für Pleuraergüsse.",3 d 20 h 17 min,1.0,,1207.0,1207 g,2.0,0 m  2 d,test,,Unknown
+,,93,False,,0 m  0 d,27 + 6,F,,Tubeposition?,"Trachealtubus mit Spitze in Höhe des II. ICR. Gastroduodenalsonde,
+distales Ende nicht im Bildausschnitt.
+Herz von normaler Form und Breite. Verstärkte Lungengerüstzeichnung mit
+teils unscharfer Herzkontur, IRDS-Veränderungen Grad 2-3. Kein Zeichen
+für auslaufende Pleuraergüsse.",3 d 18 h 2 min,1.0,,1084.0,1084 g,0.0,0 m  0 d,train,,Unknown
+,,94,False,,0 m  3 d,35 + 5,M,,Tubeposition?,"Regelrechte Tubuslage. Unveränderte kardiomedistinale Silhouette - plump und verbreitert.
+Die Tubes & Lines unverändert, in erster Linie projektionsbedingt etwas
+weiter cranial gelegene Hickman-Katheter-Spitze auf Höhe der 9. Rippe.
+Regrediente Stauungszeichen. Die zuletzt abgrenzbaren Minderbelüftungen
+im Ober- und Mittelfeld beidseits aktuell großteils resorbiert.
+Keine höhergradigen Ergüsse, kein Pneumothorax. Unverändertes Skelett.",1 d 23 h 17 min,1.0,,2988.0,2988 g,3.0,0 m  3 d,test,,Unknown
+,,95,False,,0 m  2 d,38 + 5,F,,Tubeposition?,"Trachealtubus mit Spitze in Höhe der 3. Rippen.
+Herz Fallot-typisch konfiguriert, gering verbreitert. Z.B. rechts
+zentral betonte pulmonale Gefäßzeichnung. Gute Lungenbelüftung. Keine
+Stauung. Kein Infiltrat. Kein Zeichen für relevante Menge an
+auslaufenden Pleuraergüssen.",4 d 1 h 1 min,1.0,,2786.0,2786 g,2.0,0 m  2 d,train,,Unknown
+,,96,False,,0 m  14 d,40 + 0,M,,Tubeposition?,"Trachealtubus mit Spitze in Höhe der 3. Rippen. Mediastinaldrainage,
+Pleuradrainagen beidseits, Spitzen basolateral. 4 Sternalcerclagen.
+Epikardiale Schrittmacher. Gastroduodenalsonde, distales Ende nicht im
+Bildausschnitt.
+Das Herz dilatiert, unverändert konfiguriert im Bildvergleich zu
+29.11.2022. Keine Stauung. Retrokardiale Dystelektasen. Apikale
+Pleuraergüsse.",3 d 23 h 48 min,1.0,,3530.0,3530 g,14.0,0 m  14 d,test,,Unknown
+,,97,False,,0 m  14 d,35 + 4,M,,Tubeposition?,"Regelrechte Tubuslage. Liegendes Mediastinaldrain sowie bilaterale Thoraxdrainagen. Epikardiale
+Schrittmacherelektroden. Sternalcerclagen. Magensonde mit Projektion der
+Spitze auf den linken Oberbauch.
+Wohl postoperative zentrale Überwässerung/Stauungszeichen sowie
+Minderbelüftungen. Bild wie kleine Winkelergüsse. Kein umschriebener
+Pneumothorax. Mittelständige kardiomediastinale Silhouette. Soweit
+stationärer Herzschatten. Ansonsten keine signifikante Befunddynamik",0 d 0 h 2 min,1.0,,2480.0,2480 g,14.0,0 m  14 d,test,,Unknown
+,,98,False,,0 m  4 d,40 + 2,F,,Tubeposition?,"Intubierte Patientin, die Tubusspitze in Projektion auf den
+Intervertebralraum TH2/TH3. Magensonde, die Spitze nicht abgebildet.
+EKG-Elektroden. Unveränderte Lage des NVK.
+Unveränderte Darstellung der kardiomediastinalen Silhouette, der
+Herzschatten ist linksseitig etwas verbreitert. Etwas verstärkte
+zentrale pulmonale Gefäßfülle. Seitengleiche Lungenbelüftung. Kein
+flächiges Infiltrat. Kein Pneumothorax.",5 d 10 h 16 min,1.0,,3044.0,3044 g,4.0,0 m  4 d,test,,Unknown
+,,99,False,,0 m  0 d,39 + 4,F,,Atelectasis?,"Tubes and Lines unauffällig. Mittelständige
+Kardiomediastinalsilhouette. Der Herzschatten nicht verbreitert und
+besser tonisiert als zuletzt. Rückläufige kardiopulmonale
+Stauungszeichen. In etwa unveränderte basale Ergussverschattungen. Kein
+Hinweis für ein flächiges Infiltrat.",1 d 15 h 15 min,1.0,,3800.0,3800 g,0.0,0 m  0 d,train,,Unknown
+,,100,False,,0 m  0 d,41 + 2,M,,Tubeposition?,"Trachealtubus mit Spitze in Höhe der 2. Rippen. Gastroduodenalsonde,
+distales Ende intraventrikulär. NAK-Spitze in Höhe Th 7/Th 8.
+Herz von unauffälliger Form und Breite. Seitengleiche, gute
+Lungenbelüftung. Kein Infiltrat. Kein Zeichen für auslaufende
+Pleuraergüsse.
+Das Abdomen ist schlank. Magen-Darmstrukturen bis in Höhe des
+Mittelbauches sind luftkontrastiert, mit unauffälligem Kaliber.
+Unauffälliger Skelettbefund.",0 d 6 h 0 min,1.0,,2641.0,2641 g,0.0,0 m  0 d,test,,Unknown

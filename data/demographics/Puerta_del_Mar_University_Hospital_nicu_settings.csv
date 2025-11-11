@@ -1,0 +1,101 @@
+Folder,Patient Duplicate?,Dicoms copied,Age (days),Gestational Age ,Sex,Race,Reason for X-ray (confirm report with history if able),Deidentified Report,Time until Report ,"ET, Correct ","ET, Incorrect ",Weight (grams),Weight_original,Age_days,Age_original,Split,Gestational_Age_Weeks,Race_Standardized
+1,,,1,35,M,W,Respiratory deterioration,Atelectasia en hemitórax izquierdo,today,0,1,2900.0,2900,1.0,1,test,35.0,White
+2,,,0,24,M,A,Check tubes,Membrana hialina grado II,today,1,0,680.0,680,0.0,0,train,24.0,Asian
+3,,,0,30,M,W,Respiratory diagnosis,Atelectasia en hemitórax izquierdo,today,0,1,1620.0,1620,0.0,0,train,30.0,White
+4,,,0,40,F,W,Diagnosis respiratory disease,Infiltrados algodonosos bilaterales,today,1,0,3500.0,3500,0.0,0,train,40.0,White
+5,,,0,36,F,W,Control respiratory situation,Inifltrado intersticial hiliofugal,today,1,0,2700.0,2700,0.0,0,test,36.0,White
+6,,,25,40,F,W,Suspition milk aspiration,Normal ,today,1,0,3400.0,3400,25.0,25,train,40.0,White
+7,,,0,23,M,W,Control respiratory situation,Infiltrados algodonosos en hemitórax izquierdo y lobulo superior derecho,today,1,0,570.0,570,0.0,0,train,23.0,White
+8,,,5,25,F,PI,Respiratory deterioration,Atelectasia en lobulo superior derecho,today,0,1,550.0,550,5.0,5,train,25.0,Pacific Islander
+9,,,1,23,F,W,Control respiratory situation,Hiperinsuflacion bilateral,today,1,0,500.0,500,1.0,1,train,23.0,White
+10,,,6,38,F,W,Diagnosis respiratory disease,Normal ,today,1,0,2730.0,2730,6.0,6,train,38.0,White
+11,,,2,35,M,W,Control respiratory situation,Normal ,today,1,0,2890.0,2890,2.0,2,test,35.0,White
+12,,,1,31,F,W,Respiratory deterioration,"Infiltrado alveolar bilateral, fundamentalmente en ambas bases pulmonares",today,1,0,1430.0,1430,1.0,1,test,31.0,White
+13,,,17,30,M,W,Respiratory deterioration,Atelectasia hemitórax derecho,today,0,1,650.0,650,17.0,17,test,30.0,White
+14,,,0,39,M,W,Respiratory deterioration,Atelectasia en hemitórax izquierdo,today,0,1,3060.0,3060,0.0,0,test,39.0,White
+15,,,0,30,M,W,Check tubes,Infiltrado intersticial hiliofugal,today,1,0,1450.0,1450,0.0,0,train,30.0,White
+16,,,15,26,F,W,Respiratory deterioration,Atelectasia en hemitórax izquierdo,today,0,1,625.0,625,15.0,15,test,26.0,White
+17,,,20,27,M,W,Respiratory deterioration,Infiltrados algodonosos bilaterales,today,0,1,1100.0,1100,20.0,20,test,27.0,White
+18,,,0,39,F,W,Pneumothorax suspiction,Neumotórax derecho,today,0,1,3500.0,3500,0.0,0,test,39.0,White
+19,,,0,24,F,W,Check tubes,Normal ,today,0,1,690.0,690,0.0,0,train,24.0,White
+20,,,5,37,F,W,Respiratory deterioration,Infiltrados algodonosos bilaterales,today,1,0,2300.0,2300,5.0,5,train,37.0,White
+21,,,0,25,F,W,Check tubes,Normal ,today,1,0,700.0,700,0.0,0,train,25.0,White
+22,,,0,27,M,W,Respiratory diagnosis,Infiltrados algodonosos bilaterales,today,1,0,800.0,800,0.0,0,train,27.0,White
+23,,,1,24,M,W,Respiratory diagnosis,Hiperinsuflacion bilateral,today,1,0,500.0,500,1.0,1,test,24.0,White
+24,,,5,26,F,W,Respiratory deterioration,Atelectasia en lobulo superior derecho,today,1,0,450.0,450,5.0,5,train,26.0,White
+25,,,1,28,M,W,Respiratory deterioration,Neumotórax derecho,today,0,1,1300.0,1300,1.0,1,test,28.0,White
+26,,,1,34,F,W,Respiratory deterioration,Atelectasia en lobulo superior derecho,today,1,0,1900.0,1900,1.0,1,train,34.0,White
+27,,,3,24,M,A,Respiratory deterioration,Atelectasia hemitórax derecho y neumotórax izquierdo,today,0,1,700.0,700,3.0,3,train,24.0,Asian
+28,,,3,24,F,A,Respiratory deterioration,Hipoventilacion bilateral,today,1,0,600.0,600,3.0,3,test,24.0,Asian
+29,,,10,36,F,W,Diagnosis respiratory disease,Infiltrado intersticial hiliofugal,today,1,0,2810.0,2810,10.0,10,train,36.0,White
+30,,,30,25,M,W,Respiratory deterioration,Atelectasia en hemitórax izquierdo,today,1,0,840.0,840,30.0,30,test,25.0,White
+31,,,1,26,M,A,Check tubes,Normal ,today,1,0,1265.0,1265,1.0,1,train,26.0,Asian
+32,,,1,36,F,W,Control respiratory situation,Infiltrado intersticial hiliofugal,today,1,0,2500.0,2500,1.0,1,test,36.0,White
+33,,,5,28,F,W,Check tubes,Infiltrado alveolar bilateral,today,1,0,1065.0,1065,5.0,5,test,28.0,White
+34,,,0,25,M,W,Check tubes,Normal ,today,1,0,400.0,400,0.0,0,train,25.0,White
+35,,,0,41,F,W,Diagnosis respiratory disease,Normal ,today,1,0,2890.0,2890,0.0,0,train,41.0,White
+36,,,2,36,M,W,Diagnosis respiratory disease,Normal ,today,1,0,2450.0,2450,2.0,2,train,36.0,White
+37,,,30,22,M,W,Respiratory deterioration,Infiltrados algodonosos bilaterales,today,1,0,500.0,500,30.0,30,test,22.0,White
+38,,,33,40,M,A,Respiratory deterioration,Atelectasia en lobulo superior derecho,today,1,0,2120.0,2120,33.0,33,test,40.0,Asian
+39,,,15,27,M,W,Check tubes,Normal ,today,1,0,1000.0,1000,15.0,15,train,27.0,White
+40,,,1,29,M,W,Diagnosis respiratory disease,Normal ,today,1,0,1360.0,1360,1.0,1,train,29.0,White
+41,,,0,39,F,W,Check tubes,Normal ,today,1,0,2900.0,2900,0.0,0,train,39.0,White
+42,,,1,34,M,W,Respiratory deterioration,Normal ,today,1,0,2200.0,2200,1.0,1,test,34.0,White
+43,,,0,38,F,W,Diagnosis respiratory disease,Infiltrado intersticial hiliofugal,today,1,0,3650.0,3650,0.0,0,test,38.0,White
+44,,,0,25,M,A,Respiratory deterioration,Pneumomediastinum,today,0,1,600.0,600,0.0,0,test,25.0,Asian
+45,,,15,34,F,A,Check tubes,Normal ,today,1,0,700.0,700,15.0,15,test,34.0,Asian
+46,,,0,40,F,A,Respiratory deterioration,Infiltrados algodonosos bilaterales,today,0,1,3958.0,3958,0.0,0,train,40.0,Asian
+47,,,0,26,M,W,Check tubes,Normal ,today,1,0,750.0,750,0.0,0,train,26.0,White
+48,,,0,33,F,A,Respiratory deterioration,Atelectasia en lobulo superior derecho,today,0,1,1750.0,1750,0.0,0,train,33.0,Asian
+49,,,0,26,M,AI,Check tubes,Normal ,today,0,1,700.0,700,0.0,0,train,26.0,American Indian/Alaska Native
+50,,,65,24,M,A,Check tubes,Enfisema intersticial izquierdo,today,0,1,600.0,600,65.0,65,test,24.0,Asian
+51,,,0,26,F,W,Respiratory deterioration,"Infiltrados algodonosos bilaterales, atelectasia en hemitórax izquierdo",today,0,1,850.0,850,0.0,0,train,26.0,White
+52,,,30,26,M,W,Respiratory deterioration,Quistes y bullas bilaterales,today,0,1,890.0,890,30.0,30,test,26.0,White
+53,,,2,40,M,W,Respiratory deterioration,Infiltrado intersticial hiliofugal,today,1,0,2760.0,2760,2.0,2,test,40.0,White
+54,,,20,23,M,W,Respiratory deterioration,Hiperinsuflacion bilateral,today,0,1,550.0,550,20.0,20,test,23.0,White
+55,,,2,25,F,W,Respiratory deterioration,Infiltrado intersticial hiliofugal,today,0,1,750.0,750,2.0,2,test,25.0,White
+56,,,9,24,M,W,Check tubes,Atelectasia pulmonar bilateral,today,0,1,700.0,700,9.0,9,test,24.0,White
+57,,,7,39,M,W,Check tubes,Normal ,today,0,1,2780.0,2780,7.0,7,test,39.0,White
+58,,,2,40,M,W,Diagnosis respiratory disease,"Infiltrado alveolar bilateral, fundamentalmente en ambas bases pulmonares",today,1,0,3757.0,3757,2.0,2,test,40.0,White
+59,,,0,37,M,W,Diagnosis respiratory disease,Infiltrado intersticial hiliofugal,today,0,1,1950.0,1950,0.0,0,train,37.0,White
+60,,,8,25,M,W,Check tubes,Normal ,today,0,1,700.0,700,8.0,8,test,25.0,White
+61,,,7,25,F,W,Pneumothorax suspiction,Infiltrado intersticial hiliofugal,today,0,1,700.0,700,7.0,7,train,25.0,White
+62,,,9,25,F,W,Check tubes,Infiltrado intersticial hiliofugal,today,0,1,750.0,750,9.0,9,test,25.0,White
+63,,,1,32,F,W,Respiratory deterioration,Infiltrado alveolar bilateral,today,0,1,1150.0,1150,1.0,1,unknown,32.0,White
+64,,,1,35,F,W,Diagnosis respiratory disease,Right pneumothorax,today,0,1,2150.0,2150,1.0,1,test,35.0,White
+65,,,0,23,M,W,Diagnosis respiratory disease,Atelectasia en lobulo superior derecho,today,0,1,480.0,480,0.0,0,train,23.0,White
+66,,,3,25,M,W,Respiratory deterioration,Hiperinsuflacion bilateral,today,0,1,750.0,750,3.0,3,test,25.0,White
+67,,,14,25,F,W,Check tubes,Normal ,today,0,1,700.0,700,14.0,14,train,25.0,White
+68,,,0,36,M,W,Diagnosis respiratory disease,Normal ,today,1,0,2300.0,2300,0.0,0,train,36.0,White
+69,,,22,35,M,W,Control respiratory situation,Neumotórax derecho,today,1,0,1960.0,1960,22.0,22,train,35.0,White
+70,,,14,38,F,W,Respiratory deterioration,Atelectasia en lobulo superior derecho,today,0,1,299.0,299,14.0,14,train,38.0,White
+71,,,0,28,F,W,Check tubes,Normal ,today,0,1,740.0,740,0.0,0,test,28.0,White
+72,,,0,30,M,W,Check tubes,Infiltrado intersticial hiliofugal,today,1,0,1450.0,1450,0.0,0,test,30.0,White
+73,,,0,24,M,W,Check tubes,Normal ,today,1,0,400.0,400,0.0,0,train,24.0,White
+74,,,4,31,M,W,Check tubes,Infiltrado intersticial hiliofugal,today,1,0,1200.0,1200,4.0,4,test,31.0,White
+75,,,0,39,F,PI,Diagnosis respiratory disease,Infiltrado alveolar bilateral,today,0,1,3600.0,3600,0.0,0,train,39.0,Pacific Islander
+76,,,0,32,M,W,Diagnosis respiratory disease,Infiltrado alveolar bilateral,today,0,1,2100.0,2100,0.0,0,train,32.0,White
+77,,,20,29,M,W,Diagnosis respiratory disease,Infiltrado intersticial hiliofugal,today,0,1,985.0,985,20.0,20,train,29.0,White
+78,,,0,32,M,A,Diagnosis respiratory disease,Normal ,today,1,0,1080.0,1080,0.0,0,train,32.0,Asian
+79,,,0,32,M,A,Diagnosis respiratory disease,Normal ,today,1,0,2370.0,2370,0.0,0,test,32.0,Asian
+80,,,0,31,M,W,Diagnosis respiratory disease,Infiltrado alveolar bilateral,today,0,1,1680.0,1680,0.0,0,train,31.0,White
+81,,,2,30,M,W,Diagnosis respiratory disease,Infiltrado intersticial hiliofugal,today,0,1,2100.0,2100,2.0,2,train,30.0,White
+82,,,0,40,M,A,Diagnosis respiratory disease,Inifltrado intersticial hiliofugal,today,0,1,3630.0,3630,0.0,0,test,40.0,Asian
+83,,,0,40,M,A,Diagnosis respiratory disease,Normal ,today,0,1,3500.0,3500,0.0,0,test,40.0,Asian
+84,,,84,38,F,W,Diagnosis respiratory disease,Atelectasia en lobulo superior derecho,today,1,0,2380.0,2380,84.0,84,test,38.0,White
+85,,,2,33,F,W,Diagnosis respiratory disease,Atelectasia hemitorax izquierdo,today,0,1,2240.0,2240,2.0,2,test,33.0,White
+86,,,0,39,F,W,Diagnosis respiratory disease,Atelectasia en lobulo superior derecho,today,1,0,3200.0,3200,0.0,0,test,39.0,White
+87,,,0,30,F,W,Diagnosis respiratory disease,Normal ,today,0,1,1360.0,1360,0.0,0,test,30.0,White
+88,,,0,30,F,W,Diagnosis respiratory disease,Infiltrado alveolar bilateral,today,0,1,1650.0,1650,0.0,0,test,30.0,White
+89,,,1,40,M,W,Diagnosis respiratory disease,Normal ,today,0,1,3300.0,3300,1.0,1,test,40.0,White
+90,,,1,28,M,W,Diagnosis respiratory disease,Infiltrado intersticial hiliofugal,today,0,1,1280.0,1280,1.0,1,train,28.0,White
+91,,,0,35,F,W,Diagnosis respiratory disease,Normal ,today,1,0,2900.0,2900,0.0,0,test,35.0,White
+92,,,0,40,M,A,Diagnosis respiratory disease,Infiltrados algodonosos bilaterales,today,1,0,3150.0,3150,0.0,0,train,40.0,Asian
+93,,,0,27,F,W,Check tubes,Normal ,today,0,1,1200.0,1200,0.0,0,train,27.0,White
+94,,,0,35,F,W,Check tubes,Normal ,today,0,1,2600.0,2600,0.0,0,train,35.0,White
+95,,,0,38,F,W,Check tubes,Hipoventilacion bilateral,today,0,1,3555.0,3555,0.0,0,train,38.0,White
+96,,,1,40,M,W,Check tubes,Normal ,today,1,0,4240.0,4240,1.0,1,train,40.0,White
+97,,,0,35,F,W,Diagnosis respiratory disease,Infiltrado intersticial hiliofugal,today,1,0,2000.0,2000,0.0,0,train,35.0,White
+98,,,0,37,M,W,Diagnosis respiratory disease,Normal ,today,0,1,3900.0,3900,0.0,0,test,37.0,White
+99,,,0,26,F,W,Diagnosis respiratory disease,Normal ,today,0,1,450.0,450,0.0,0,test,26.0,White
+100,,,4,35,M,W,Diagnosis respiratory disease,Infiltrado alveolar derecho,today,1,0,1630.0,1630,4.0,4,test,35.0,White

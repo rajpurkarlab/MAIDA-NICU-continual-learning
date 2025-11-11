@@ -1,0 +1,733 @@
+Folder,Patient Duplicate?,Dicoms copied,Age,Gestational Age ,Sex,Race,Reason for X-ray (confirm report with history if able),Deidentified Report,Time until Report ,"ET, Correct ","ET, Incorrect ",Weight (grams),Weight_original,Age_days,Age_original,Split,Gestational_Age_Weeks,Race_Standardized
+1,,True,1d,23 2/7wks,M,A,respiratory distress syndrome neonatal sepsis,". S/P an umbilical venous catheter insertion.
+. S/P endotracheal intubation with the tip above the carina. S/P 
+nasogastric tube insertion.
+. Increased lung markings at the both lungs. ",00:16:00,,1.0,580.0,0.58kg,1.0,1d,train,7.0,Asian
+2,,True,1d,40 3/7wks,F,A,perinatal asphyxia,"> Note retention of a nasogastric tube. 
+> Status post endotracheal intubation with tip in appropriate 
+site. 
+> ground-glass opacities in bilateral lung zones which may 
+relate to true lesion such as inflammation/infection or 
+atelectasis. 
+> There is non-specific bowel gas.
+> Otherwise, no remarkable finding could be identified.",00:10:00,1.0,,3310.0,3.31kg,1.0,1d,train,7.0,Asian
+3,,True,2d,28 4/7wks,F,A,respiratory distress syndrome neonatal sepsis,"Radiography of the chest was performed and revealed as follows:
+1. Diffuse aveolar infiltration of the both lungs is identified, 
+   suspicious of respiratory distress syndrome. Suggest clinical 
+   correlation. 
+2. Status post endotracheal tube insertion with the tip above 
+   the carina. 
+3. Status post orogastric tube insertion with tip projecting in 
+   the proper position. 
+4. Status post central line insertion via umbilical 
+   artery.
+5. Status post PICC insertion with tip located in the inferior 
+   vena cava. 
+6. Non-specific bowel gas pattern. ",00:08:00,,1.0,1035.0,1.035kg,2.0,2d,test,7.0,Asian
+4,,True,11d,26 3/7wks,M,A,respiratory distress syndrome neonatal sepsis,"> Note retention of a nasogastric tube. 
+> Status post endotracheal intubation with tip in appropriate 
+site. 
+> S/P central venous line insertion with tip located in the 
+superior vena cava 
+> Note diffuse interstitial infiltrations. Please correlate with 
+clinical condition to exclude pneumonia or late change or 
+surfactant deficiency. 
+> Note gaseous distention of bowel loops. 
+> Otherwise, there is no other remarkable finding is observed    
+in current image. (Note that ground-glass lesion or small nodule 
+might be missed on plain chest radiography.)",01:52:00,,1.0,830.0,0.83kg,11.0,11d,train,7.0,Asian
+5,,True,1d,39 6/7wks,F,A,"perinatal asphyxia
+neonatal sepsis
+respiratory distress
+persistent hypertension",". S/P nasal-gastric tube insertion 
+. S/P endotracheal intubation with the tip beyond the carina 
+. Total patchy opacity and air-bronchogram on both lung are 
+noted. please correlate with clinical condition. ",00:12:00,,1.0,3435.0,3.435kg,1.0,1d,train,7.0,Asian
+6,,True,1d,34 2/7wks,F,A,respiratory distress syndrome neonatal sepsis,"Radiography of the chest was performed and revealed as follows:
+1. Normal heart size is identified.
+2. Diffuse airspace infiltrations in the both lungs are noted. 
+Suggest clinical correlation.
+4. Degenerative disk disease of the T-spine, with marginal 
+osteophytes formation. 
+5. S/P endotracheal tube insertion with the tip above the 
+carina. 
+6. S/P nasogastric tube insertion.
+7. S/P central venous catheter insertion with the tip in the 
+right antrium. 
+8. Otherwise, no other remarkable abnormality is seen.",00:31:00,,1.0,690.0,0.69kg,1.0,1d,train,7.0,Asian
+7,,True,3m5d,39 5/7wks,M,A,"teratoma
+hepatoblastoma
+anemia ",". S/P insertion of an endotracheal tube with appropriate 
+position. 
+S/P nasogastric tube insertion. 
+1. Note increased ground-glass opacity of bilateral lungs. 
+Suggest clinical correlation and follow-up. 
+2. Hypoinflation of the both lungs is noted. ",00:24:00,1.0,,3460.0,3.46kg,96.32000000000001,3m5d,train,7.0,Asian
+8,,True,16d,28 2/7wks,F,A,respiratory distress syndrome neonatal sepsis,"1. Increasing interstitial markings and ground-glass opacity in 
+both lungs is noted. 
+2. S/P endotracheal tube insertion with tip in the appropriate 
+location.  
+3. S/P PICC catheter insertion with tip in the IVC.  
+4. S/P inserting a chest tube over left hemithorax. ",00:13:00,,1.0,1155.0,1.155kg,16.0,16d,train,7.0,Asian
+9,,True,1d,25 3/7wks,M,A,respiratory distress syndrome neonatal sepsis,"Radiography of the chest was performed and revealed as follows:
+1. Mild increased markings of the both lung is seen. Suggest    
+   clinical correlation. 
+2. The heart size is within normal limit.
+3. The bony structures, including bilateral ribs, scapula,       
+   clavicles and vertebral bodies, show normal appearance      
+   without evidence of fracture or destruction.
+4. Status post endotracheal tube insertion with the tip above 
+   the carina. 
+5. Status post orogastric tube insertion with tip projecting in 
+   the stomach. 
+6. Status post transumbilical vein and atery catheters 
+   insertion.",00:14:00,,1.0,815.0,0.815kg,1.0,1d,unknown,7.0,Asian
+10,,True,1d,29 2/7wks,F,A,respiratory distress syndrome neonatal sepsis,"> Status post endotracheal intubation with tip near carina. 
+> Note retention of a nasogastric tube. 
+> Note diffuse reticular pattern in bilateral lungs. Please 
+correlate with clinical condition to exclude respiratory distress 
+syndrome or other etiology.
+> Otherwise, there is no other remarkable finding is observed    
+in current image. (Note that ground-glass lesion or small nodule 
+might be missed on plain chest radiography.)",00:18:00,,1.0,1060.0,1.06kg,1.0,1d,test,7.0,Asian
+11,,True,11d,28 2/7wks,M,A,"neonatal sepsis
+infectious enterocolitis","1. Increasing interstitial markings in both lungs is noted. 
+2. S/P endotracheal tube insertion with tip in the appropriate 
+location. 
+3. Ileus with dilatation of small intestine and colons is noted.",00:09:00,1.0,,860.0,0.86kg,11.0,11d,train,7.0,Asian
+12,,True,1d,21 wks,M,A,"respiratory distress syndrome
+neonatal sepsis
+",". Mildly increased lung marking is noted in both lung fields. 
+. Status post endotracheal intubation and retention of NG tube 
+are noted. 
+. Status post central venous lines insertion is noted. 
+. Otherwise, there is no significant abnormality of the chest.
+(Note that ground-glass lesion or small nodule might be missed on 
+plain chest radiography.) ",00:13:00,,1.0,775.0,0.775kg,1.0,1d,test,21.0,Asian
+13,,True,2d,37 1/7 wks,M,A,"bowel obstruction
+meconium plug syndrome
+sepsis",". S/P endotracheal tube intubation. 
+. S/P PICC line insertion, with tip in the IVC.
+. S/P oro-gastric tube insertion. 
+. Mild gaseous dilatation of the bowel loops in the abdomen is 
+noted. Suggest clinical correlation. ",00:23:00,1.0,,2590.0,2.59kg,2.0,2d,test,7.0,Asian
+14,,True,1d,39 5/7 wks,M,A,"neonatal sepsis
+perinatal asphyxia
+",". Mild distention of the stomach and dilatation of the bowel 
+loops in the abdomen. 
+. Status post endotracheal tube insertion. Status post NG tube 
+insertion. 
+. Otherwise, there is no significant abnormality of the chest.
+(Note that ground-glass lesion or small nodule might be missed 
+on plain chest radiography.) ",00:13:00,1.0,,3515.0,3.515kg,1.0,1d,test,7.0,Asian
+15,,True,1d,37 4/7wks ,F,A,"neonatal sepsis
+respiratory distress disease ","Status post endotracheal tube insertion with tip above the   
+carina. 
+Status post NG tube insertion with tip at proper position. ",00:15:00,1.0,,2550.0,2.55kg,1.0,1d,train,7.0,Asian
+16,,True,1d,37 6/7 wks,M,A,"tachypnea and desaturation
+choanal atresia",". Diffuse, bilateral and symmetrical granular opacities of both 
+lungs are noted. Suggest correlate with clinical condition to 
+rule out suspicious of respiratory distress syndrome. 
+. S/P endotracheal tube intubation and retention of O-G tube. 
+. S/P umbilical vein catheter insertion.",00:19:00,1.0,,3100.0,3.1kg,1.0,1d,train,7.0,Asian
+17,,True,1d,31 2/7 wks,F,A,respiratory distress syndrome neonatal sepsis,". Mild increased interstitial infiltration of the both lungs is 
+identified. Suggest clinical correlation.
+. S/P endotracheal intubation with the tip above the carina.  
+. S/P nasogastric tube insertion. 
+. S/P umbilical arterial and venous catheter insertion. ",00:09:00,,1.0,1470.0,1.47kg,1.0,1d,test,7.0,Asian
+18,,True,1d,33 5/7 wks,M,A,imperforate anus,". Status post nasogastric tube insertion and endotracheal tube 
+insertion. 
+. Nonspecific increased bowel gas pattern is noted in the 
+abdomen. Clinical correlation is required. 
+. Mildly increased bilateral lung marking is noted. Suggest 
+correlate clinically. ",00:07:00,,1.0,2125.0,2.125kg,1.0,1d,train,7.0,Asian
+19,,True,1d,38 6/7 wks,M,A,"perinatal asphyxia
+",". S/P endotracheal intubation and retention of a gastric tube. 
+. Increased pulmonary vasculatures with interstitial lines 
+thickening of bilateral lung fields. 
+. Mild widening of superior mediastinum and enlargement of 
+cardiac silhouette are seen.
+. Increased bowel gas pattern is noted, suspicious for ileus or 
+obstruction. Clinical correlation is required. 
+. Otherwise, no significant abnormal finding in the present 
+study. Suggest clinical correlation and follow-up. 
+(Note that ground-glass lesion, small nodule or retrocardiac 
+lesion might be missed on plain chest radiography.)  ",00:29:00,1.0,,2655.0,2.655kg,1.0,1d,train,7.0,Asian
+20,,True,1d,26 3/7 wks ,M,A,"respiratory distress syndrome
+neonatal sepsis
+",". S/P endotracheal intubation and retention of a gastric tube. 
+. Hazy increased markings over the bilateral lungs are noted. 
+Suggest clinical correlation.  
+. Increased bowel gas pattern is noted.
+. Otherwise, no significant abnormal finding in the present 
+study. Suggest clinical correlation and follow-up. 
+(Note that ground-glass lesion, small nodule or retrocardiac 
+lesion might be missed on plain chest radiography.) ",00:18:00,1.0,,990.0,0.99kg,1.0,1d,test,7.0,Asian
+21,,True,5d,39 3/7 wks,M,A,neonatal hyperbilirubinemia,". Mild increased interstitial infiltration and hazy opacities 
+of the both lungs is identified. Suggest clinical correlation. 
+. Increased bowel gas is noted.
+. S/P nasogastric tube insertion with its tip in the stomach. 
+. S/P endotracheal intubation with the tip around the carina.
+Suggest correlate with its position. ",00:07:00,,1.0,2905.0,2.905kg,5.0,5d,train,7.0,Asian
+22,,True,4d,39 4/7wks,M,A,inguinal hernia,"1. Status post an endotracheal tube intubation with tip in 
+proper location is noted. 
+2. Bowal gas in the middle upper abdomen is noted.
+3. Otherwise, no significant abnormal findings are noted. ",00:25:00,1.0,,3500.0,3.5kg,4.0,4d,train,7.0,Asian
+23,,True,1d,36 1/7 wks ,F,A,neonatal brachial plexus palsy ,"S/P nasal-gastric tube insertion 
+s/p PICC, right 
+1. There is fracture in the right clavicle.
+2. Increased interstitial and ground-glass opacities of the both 
+lungs are noted. 
+3. Gaseous distention of bowel loops is noted, probably due to 
+   ileus, suggest clinical correlation. ",00:21:00,1.0,,3775.0,3.775kg,1.0,1d,test,7.0,Asian
+24,,True,1d,23 wks ,M,A,"neonatal sepsis
+respiratory distress syndrome ",". Hazy lung markings of bilateral lung are noted. 
+. Reticular infiltration in both lung fields, compatible with 
+bronchopulmonary dysplasia 
+. Widening of superior mediastinum, which may be prominent 
+thymus. 
+. Non-specific bowel gas is seen. 
+. S/P endotracheal tube intubation 
+. S/P N-G tube insertion. 
+. S/P umbilical arterial catheter and venous catheter insertion.",00:18:00,,1.0,790.0,0.79kg,1.0,1d,train,23.0,Asian
+25,,True,1d,29 2/7wks,M,A,"respiratory distress syndrome
+neonatal sepsis
+transient tachypnea
+",". Interstitial infiltration with hazy opacities over bilateral 
+lungs. Suspicious for inflammatory or infectious process. 
+. S/P PICC insertion.
+. S/P endotracheal intubation and retention of a NG tube. 
+. Widening of mediastineum is seen.
+. Otherwise, no significant abnormal finding in the present 
+study. Suggest clinical correlation and follow-up. 
+(Note that ground-glass lesion, small nodule or retrocardiac 
+lesion might be missed on plain chest radiography.) ",00:40:00,,1.0,1380.0,1.38kg,1.0,1d,test,7.0,Asian
+26,,True,1d,26 2/7 wks,M,A,"respiratory distress syndrome
+neonatal sepsis
+","S/P endotracheal tube insertion. 
+S/P nasal-gastric tube insertion 
+s/p umbilical catheter. 
+1. Increased interstitial and ground-glass opacities of the both 
+lungs are noted. ",00:24:00,1.0,,1130.0,1.13kg,1.0,1d,train,7.0,Asian
+27,,True,1d,26wks,M,A,respiratory distress syndrome neonatal sepsis,"Radiography of the chest was performed and revealed as follows:
+1. Increased lung marking on both sides. Please correlate with 
+   clinical condition and follow up 
+2. Normal distribution of the pulmonary vessels is noted.
+3. The heart size is within normal limit.
+4. The bony structures, including bilateral ribs, scapula,       
+   clavicles and vertebral bodies, show normal appearance      
+   without evidence of fracture or destruction.
+5. Status post endotracheal tube insertion with the tip above 
+   the carina. 
+6. Status post nasogastric tube insertion with tip projecting in 
+   the stomach. 
+7. Status post PICC insertion with tip located in the right 
+   brachiocephalic vein.
+8. Otherwise, no other remarkable abnormality is seen. ",00:19:00,1.0,,994.0,0.994kg,1.0,1d,train,26.0,Asian
+28,,True,1d,25 3/7wks,M,A," respiratory distress syndrome
+neonatal sepsis
+",". Increased lung marking, consolidations, and ground-glass 
+opacity over bilateral lungs, suggest clinical correlation and 
+follow-up. 
+. Bilateral pneumothorax is noted. S/P chest tube insertion, 
+bilateral. 
+. S/P insertion of an endotracheal tube with appropriate 
+position. 
+. S/P nasogastric tube insertion.  ",00:05:00,1.0,,890.0,0.89kg,1.0,1d,train,7.0,Asian
+29,,True,1d,25 3/7wks,M,A," respiratory distress syndrome
+neonatal sepsis
+",". S/P endotracheal intubation with the tip above the carina.  
+. S/P nasogastric tube insertion with its tip in the stomach. 
+. S/P umbilical arterial and venous catheter insertion.
+. Increased interstitial infiltration of the both lungs is 
+identified. Suggest clinical correlation. ",00:40:00,1.0,,880.0,0.88kg,1.0,1d,test,7.0,Asian
+30,,True,1d,30 3/7 wks,F,A," respiratory distress syndrome
+neonatal sepsis
+",". Status post gastric tube insertion.
+. S/P endotracheal tube insertion.
+. Status post umbilical venous and arterial catheters insertion. 
+. Increased infiltration of both lungs.  Suggest clinical 
+correlation and follow up. ",00:25:00,1.0,,1655.0,1.655kg,1.0,1d,test,7.0,Asian
+31,,True,13d,38 3/7wks,F,A,"neonatal sepsis
+tachycardia
+myocarditis",". S/P endotracheal intubation.
+. S/P gastric tube insertion with tip projecting in the proper 
+position. 
+. Interstitial infiltration with ground glass opacities in 
+bilateral lungs, suspicious for inflammatory process or pulmonary 
+edema. Suggest correlate with clinical condition and follow up. 
+. Distention of stomach is noted. ",00:29:00,,1.0,3149.0,3.149kg,13.0,13d,train,7.0,Asian
+32,,True,2m 26d,39 3/7wks ,M,A,neonatal sepsis,"S/P endotracheal tube insertion. 
+S/P nasal-gastric tube insertion 
+1. Distensio of stomach 
+2. Otherwise, there is no significant abnormality. ",00:27:00,,1.0,2926.0,2.926kg,86.88,2m 26d,train,7.0,Asian
+33,,True,1d ,37 6/7wks,M,A,"neonatal sepsis
+cephatohematoma
+respiratory distress syndrome",". Increased interstitial line and ground-glass opacity over 
+bilateral lungs, suggest clinical correlation and follow-up. 
+. S/P nasogastric tube insertion. 
+. S/P central venous line insertion. 
+. S/P insertion of an endotracheal tube with appropriate 
+position. ",00:05:00,1.0,,3560.0,3.56kg,1.0,1d ,train,7.0,Asian
+34,,True,1d,25 3/7wks ,M,A," respiratory distress syndrome
+neonatal sepsis
+",". Status post endotracheal intubation. 
+. Status post gastric tube insertion.
+. Status post umbilical venous and arterial catheters insertion.
+. Increased bowel gas pattern is noted. 
+. Interstitial infiltration with hazy opacities, bilateral, 
+suspicious for inflammatory process or pneumonia.",00:28:00,,1.0,680.0,0.68kg,1.0,1d,test,7.0,Asian
+35,,True,1d,25 3/7wks ,F,A," respiratory distress syndrome
+neonatal sepsis
+","1. Hazy increased markings and mild infiltrations in the 
+   both lower lungs are noted. Favor acute inflammatory process. 
+   Suggest clinical correlation. 
+2. Perihilar infiltrations, bilateral.
+3. Normal heart size is identified. 
+4. The T-spine shows unremarkable.
+5. S/P oral-gastric tube insertion.
+6. S/P central venous catheter insertion with the tip in the 
+   inferior vena cava. 
+7. S/P drainage tubes retention in the abdomen.
+8. Otherwise, no other remarkable abnormality is seen.",00:14:00,1.0,,655.0,0.655kg,1.0,1d,train,7.0,Asian
+36,,True,1m6d,38 6/7wks,M,A,physiological anemia,". Increased lung markings in both lungs. Suggest clinical 
+correlation and follow-up. 
+. Non-specific increased bowel gas pattern is seen. 
+. S/P endotracheal intubation with tip above carina. 
+. Otherwise, there is no significant abnormality of the chest. 
+(Note that ground-glass lesion, small nodule, or other subtle 
+findings might be missed on plain chest radiography.) ",00:09:00,1.0,,3080.0,3.08kg,36.44,1m6d,train,7.0,Asian
+37,,True,1d,26 1/7 wks,M,A,placenta rupture,". Diffuse opacities and consolidations in both lungs. Suggest 
+clinical correlation. 
+. Status post endotracheal tube insertion.
+. Status post central venous line insertion. ",00:09:00,1.0,,785.0,0.785kg,1.0,1d,test,7.0,Asian
+38,,True,1d,34 2/7wks,M,A," respiratory distress syndrome
+neonatal sepsis
+",". S/P NG tube insertion with tip at proper position.
+. S/P endotracheal tube insertion.
+. S/P UA/UV catheters retention.   
+. Pneumothorax and S/P chest tube retention*3, bilaterally.
+. Increased interstitial infiltrations over the bilateral lung 
+fields are noted, suggest correlate clinically and follow up. ",00:24:00,,1.0,2365.0,2.365kg,1.0,1d,train,7.0,Asian
+39,,True,1d,30 2/7wks,M,A," respiratory distress syndrome
+neonatal sepsis
+
+",". Mild increased lung marking and ground-glass opacity over 
+bilateral lungs, suggest clinical correlation and follow-up. 
+. S/P nasogastric tube insertion. 
+. S/P central venous line insertion.
+. S/P insertion of an endotracheal tube with appropriate 
+position. ",00:17:00,1.0,,1970.0,1.97kg,1.0,1d,test,7.0,Asian
+40,,True,1d,27 4/7wks,F,A," respiratory distress syndrome
+neonatal sepsis
+
+",". Bilateral hilar peribonchial cuffing is depicted with airspace 
+and ground-glass opacities in bilateral lung fields, suspicious 
+for pulmonary edema. Recommend clinical correlation to rule out 
+concomitant infectious or inflammatory processes. 
+. Status post umbilical arterial catheter insertion. 
+. Status post umbilical venous catheter insertion. 
+. Status post nasogastric tube insertion with tip at proper 
+position. 
+. Status post endotracheal intubation with tip above carina. ",00:15:00,1.0,,1170.0,1.17kg,1.0,1d,test,7.0,Asian
+41,,True,1d,31wks,M,A," respiratory distress syndrome
+neonatal sepsis
+
+",". There are diffuse ground-glass opacities in both lungs fields. 
+Suggest clinical correlation and follow-up. 
+. A radiopaque opacity projecting over the RLQ abdomen is seen. 
+Suggest clinical correlation.
+. A curly tube projecting over the lower abdomen is seen.
+. Status post endotracheal intubation and retention of OG tube.",00:16:00,1.0,,1680.0,1.68kg,1.0,1d,train,31.0,Asian
+42,,True,1d,38 5/7wks,F,A,Respiratory distress syndrome,". Diffuse ground-glass opacities in bilateral lung fields are 
+seen. Suggest clinical correlation and follow-up. 
+. Status post endotracheal intubation and retention of OG tube.",00:08:00,,1.0,3930.0,3.93kg,1.0,1d,train,7.0,Asian
+43,,True,5d,27 4/7wks,F,A," respiratory distress syndrome
+neonatal sepsis
+
+","S/P nasal-gastric tube insertion 
+S/P endotracheal tube insertion. 
+1. Increased interstitial and ground-glass opacities of the both 
+lungs are noted. 
+2. Suspicious atelectasis in RUL. Suggest further evaluation. 
+3. Gaseous distention of bowel loops is noted, probably due to 
+   ileus, suggest clinical correlation.  ",00:21:00,,1.0,985.0,0.985kg,5.0,5d,test,7.0,Asian
+44,,True,1d,26 wks,M,A," respiratory distress syndrome
+neonatal sepsis",". Note increased infiltrations and ground glass opacities of 
+bilateral lungs. Suggest clinical correlation and follow-up. 
+. S/P insertion of an endotracheal tube. Please check tip 
+location. 
+. S/P central venous line insertion with tip located in the 
+inferior vena cava. ",00:35:00,,1.0,920.0,0.92kg,1.0,1d,test,26.0,Asian
+45,,True,1d,29 4/7 wks,M,A," respiratory distress syndrome
+neonatal sepsis
+perinatal asphyxia","S/P endotracheal tube insertion. 
+S/P nasal-gastric tube insertion 
+1. Increased interstitial and ground-glass opacities of the both 
+lungs are noted. ",00:11:00,,1.0,715.0,0.715kg,1.0,1d,train,7.0,Asian
+46,,True,1d,30 2/7wks,F,A," respiratory distress syndrome
+neonatal sepsis
+hypernagnesemia",".  Increased interstitial marking and ground-glass opacities of 
+the both lungs are noted. Recommend clinical correlation and 
+follow-up. 
+. Mild enlargement of the cardiac silhoutte is identified.
+. S/P nasogastric tube insertion.
+. S/P umbilical vein insertion is noted.
+. S/P endotracheal intubation is seen
+. Otherwise, there is no significant abnormality of the chest. 
+(Note that ground-glass lesion, small nodule or retrocardiac   
+   lesion might be missed on plain chest radiography.) ",00:08:00,,1.0,1440.0,1.44kg,1.0,1d,train,7.0,Asian
+47,,True,1d,31 wks,M,A," respiratory distress syndrome
+neonatal sepsis","1. Increasing interstitial markings and ground-glass 
+opacities in both lungs are noted. 
+2. S/P endotracheal tube insertion with tip in the appropriate 
+location. 
+3. Retention of N-G tube. ",00:10:00,1.0,,1600.0,1.6kg,1.0,1d,test,31.0,Asian
+48,,True,1d,40 5/7 wks,M,A,"right diaphragmatic paralysis or diaphragmatic hernia
+persistent pulmonary hypertension
+neonatal sepsis",". Status post insertion of endotracheal tube and orogastric tube. 
+. Relative elevation of right hemi-diaphragm is noted. 
+. Relative apparentness of lung marking over bilateral perihilar 
+region and lower lung fields is noted, which might be either 
+normal distribution or truly increased lung marking. Suggest 
+clinical correlation. 
+. Non-specific bowel gas is seen. 
+. Mild haziness over the left lung is suspected. Suggest clinical 
+correlation and follow-up. 
+. R/O skin fold or pleural line over the peripheral region of the 
+right upper hemithorax. Suggest clinical correlation and follow-
+up. ",00:19:00,,1.0,2910.0,2.91kg,1.0,1d,train,7.0,Asian
+49,,True,1d,39 2/7wks,F,A,"transient tachypnea
+respiratory distress syndrome
+neonatal sepsis","1. Increased interstitial and ground-glass opacities of the both 
+lungs are noted. 
+2. S/P nasal-gastric tube insertion ",00:08:00,1.0,,3375.0,3.375kg,1.0,1d,train,7.0,Asian
+50,,True,1d ,34 3/7 wks,F,A,IUGR,". Bilateral pneumothorax S/P chest tube insertion in both lungs. 
+. Status post endotracheal tube insertion. Status post NG tube 
+insertion. 
+. Gaseous dilatation of bowel loops in the abdomen. Suggest 
+clinical correlation and further evaluation. ",00:20:00,1.0,,1755.0,1.755kg,1.0,1d ,test,7.0,Asian
+51,,True,1d,28 4/7 wks,F,A," respiratory distress syndrome
+neonatal sepsis
+",". Thickening interstitial lines and increased ground-glass 
+opacity of both lungs are noted. Suggest follow-up. 
+. S/P insertion of an endotracheal tube with appropriate 
+position. S/P nasogastric tube insertion. ",00:47:00,,1.0,1195.0,1.195kg,1.0,1d,train,7.0,Asian
+52,,True,1m16d,31 1/7wks,F,A,respiratory distress syndrome neonatal sepsis,". S/P insertion of an endotracheal tube with appropriate 
+position. 
+. Increased bowel gas in the abdomen and pelvis is noted. 
+. Mild increased infiltration and ground-glass opacity over 
+bilateral lungs, suggest clinical correlation and follow-up. ",00:14:00,1.0,,1140.0,1.14kg,46.44,1m16d,train,7.0,Asian
+53,,True,1d,32 wks,F,A," respiratory distress syndrome
+neonatal sepsis
+","Infiltration of both lung fields is seen. Recommend correlate 
+with clinical condition. 
+S/p NG tube insertion. ",00:12:00,1.0,,1450.0,1.45kg,1.0,1d,test,32.0,Asian
+54,,True,1d,32 wks,F,A," respiratory distress syndrome
+neonatal sepsis
+",". Diffuse opacities over both lungs. Suggest clinical 
+correlation and further evaluation. 
+. Dilataion of the stomach and bowel loops is noted. Suggest 
+correlate with clinical condition and follow up. 
+. Status post NG tube insertion. Status post endotracheal tube 
+insertion. 
+. Otherwise, there is no significant abnormality of the chest.
+(Note that ground-glass lesion or small nodule might be missed 
+on plain chest radiography.) ",00:04:00,1.0,,1335.0,1.335kg,1.0,1d,test,32.0,Asian
+55,,True,1d,34 4/7wks,M,A,"perinatal asphyxia
+respiratory distress syndrome
+neonatal sepsis",". Status post endotracheal tube and nasogastric tube insertion. 
+. Status post UA and UV catheters insertion.
+. Prominent cardiac silhouette is noted. 
+. Opacification of the left hemithorax with poor visualization of 
+aerated left lung is noted. Suggest clinical correlation. 
+. Gasless of the abdomen is noted. Only gastric gas is visible. 
+Suggest clinical correlation. ",00:31:00,,1.0,2080.0,2.08kg,1.0,1d,train,7.0,Asian
+56,,True,5d,36 2/7wks,M,A,neonatal hyperbilirubinemia,"1. Increasing interstitial markings and ground-glass 
+opacities in both lungs are noted. 
+2. S/P endotracheal tube insertion with tip in the appropriate 
+location. ",00:21:00,,1.0,2610.0,2.61kg,5.0,5d,unknown,7.0,Asian
+57,,True,1d,24 2/7wks,M,A,respiratory distress syndrome neonatal sepsis,"Mild increased bilateral lung markings is seen. 
+S/p an endotracheal tube insertion with tip in proper location. 
+S/p NG tube insertion. 
+S/p UA/UV implantation.",00:23:00,1.0,,720.0,0.72kg,1.0,1d,test,7.0,Asian
+58,,True,1d,26 4/7wks,M,A,"respiratory distress syndrome
+ neonatal sepsis",". Consolidations and patchy ground-glass opacities in bilateral 
+lungs are seen. Suggest clinical correlation and further 
+evaluation. 
+. Status post endotracheal tube insertion. Status post NG tube 
+insertion. 
+. S/P tube retention in the IVC.",00:22:00,,1.0,710.0,0.71kg,1.0,1d,test,7.0,Asian
+59,,True,1d,25 6/7 wks,F,A,respiratory distress syndrome neonatal sepsis,"Tension pnemothorax,Rt is noted. 
+S/p an endotracheal tube insertion with tip in proper location. ",00:28:00,,1.0,675.0,0.675kg,1.0,1d,test,7.0,Asian
+60,,True,1d,37 3/7wks,F,A,respiratory distress syndrome,"1. Increasing interstitial markings and ground-glass opacities 
+in both lungs are noted. 
+2. Retention of N-G tube. 
+3. S/P endotracheal tube insertion with tip in the appropriate 
+location. ",00:11:00,,1.0,3150.0,3.15kg,1.0,1d,test,7.0,Asian
+61,,True,1d,26 4/7wks,F,A,"twin to twin transfusion syndrome
+respiratory distress syndrome
+ neonatal sepsis","Infiltration of both lung fields is seen. Recommend correlate 
+with clinical condition. 
+S/p NG tube insertion. 
+S/p an endotracheal tube insertion with tip in proper location. 
+S/p umbilical vein tube implantation.",00:20:00,,1.0,665.0,0.665kg,1.0,1d,test,7.0,Asian
+62,,True,1d,26 4/7wks,F,A,"twin to twin transfusion syndrome
+respiratory distress syndrome
+ neonatal sepsis
+espphageal atresia
+pulmonary hemorrhage","Status post endotracheal tube insertion with tip above the   
+carina. 
+Hazy increased density and mild increased interstitial markings 
+of both lungs are identified. ",00:13:00,,1.0,665.0,0.665kg,1.0,1d,train,7.0,Asian
+63,,True,1d,28 wks,F,A,"respiratory distress syndrome
+neonatal sepsis
+perinatal asphysia
+coagulation disorders","1. Increasing interstitial markings in both lungs is noted. 
+2. Retention of N-G tube. 
+3. S/P endotracheal tube insertion with tip in the appropriate 
+location. 
+4. Retention of an umbilical catheter. ",00:39:00,1.0,,700.0,0.7kg,1.0,1d,train,28.0,Asian
+64,,True,1d,27wks,M,A,respiratory distress syndrome neonatal sepsis,"1. Diffuse consolidation in both lungs is noted. 
+2. S/P endotracheal tube insertion with tip in the appropriate 
+location. 
+3. Retention of N-G and UV tube. ",00:32:00,,1.0,1175.0,1.175kg,1.0,1d,train,27.0,Asian
+65,,True,13d,26 5/7wks,F,A,"neutropenia
+respiratory distress syndrome neonatal sepsis","1. There are ground glass and patchy opacities in bilateral lung 
+fields with mild bilateral costcophrenic angle blurring. 
+Recommend clinical correlation and follow up. 
+2. There is right sided pneumothorax s/p chest intubations. 
+Recommend clinical correlation and follow up. 
+3. Status post endotracheal intubation and retention of NG tube. 
+4. Status post central venous line insertion. 
+5. Otherwise, there is no significant abnormality of the chest.
+(Note that ground-glass lesion or small nodule might be missed 
+on plain chest radiography.) ",00:05:00,1.0,,665.0,0.665kg,13.0,13d,train,7.0,Asian
+66,,True,7d,38 2/7 wks,M,A,imperforate anus,"Mild increased interstitial markings of both lungs. 
+Status post endotracheal tube insertion with tip above the   
+carina. 
+Status post NG tube insertion with tip at proper position. ",00:20:00,,1.0,2335.0,2.335kg,7.0,7d,test,7.0,Asian
+67,,True,16d,39 5/7wks,F,A,sturge weber syndrome,"Status post endotracheal tube insertion with tip above the   
+carina. ",00:29:00,,1.0,2610.0,2.61kg,16.0,16d,train,7.0,Asian
+68,,True,15d,36 4/7wks,M,A,abdomianl distension,"1. S/P endotracheal tube insertion. 
+2. S/P orogastric tube insertion. 
+3. Ileus with continuous dilatation of the bowel loops is noted. 
+Suggest clinical correlation and follow-up. 
+4. Otherwise, there is no significant abnormality. ",00:37:00,1.0,,2230.0,2.23kg,15.0,15d,train,7.0,Asian
+69,,True,11d,26 1/7wks,F,A,respiratory distress syndrome neonatal sepsis,"Mild increased bilateral lung markings is seen. 
+Ileus bowel gas pattern is seen. Recommend correlate with 
+clinical condition. 
+S/p an endotracheal tube insertion.
+S/p UV tube insertion.
+S/p PICC insertion.
+S/p NG tube insertion. 
+S/p a chest tube insertion,Lt. ",00:17:00,,1.0,885.0,0.885kg,11.0,11d,test,7.0,Asian
+70,,True,1d,39 5/7wks,M,A,"INCA 
+CPR","1. Mild increase of interstitial lung markings in the both lungs 
+is noted. Suggest correlate clinically and follow up. 
+2. Status post endotracheal tube insertion. Status post NG tube 
+insertion. S/P tube retention in IVC. 
+3. Otherwise, there is no significant abnormality of the chest.
+(Note that ground-glass lesion or small nodule might be missed 
+on plain chest radiography.) ",00:09:00,1.0,,2995.0,2.995kg,1.0,1d,train,7.0,Asian
+71,,True,3d,29 1/7wks,M,A,respiratory distress syndrome,"1. Increasing interstitial markings and ground-glass opacities 
+in both lungs are noted. 
+2. Retention of N-G tube. 
+3. S/P endotracheal tube insertion with tip in the appropriate 
+location. ",00:15:00,1.0,,1070.0,1.07kg,3.0,3d,train,7.0,Asian
+72,,True,3d,32 3/7wks,M,A,respiratory distress syndrome neonatal sepsis,"1. Increased interstitial and ground-glass opacities of the both 
+lungs are noted. 
+2. S/P nasal-gastric tube insertion 
+3. S/P endotracheal tube insertion. ",00:08:00,1.0,,2055.0,2.055kg,3.0,3d,test,7.0,Asian
+73,,True,24d,25 3/7wks,F,A,respiratory distress syndrome neonatal sepsis,"Infiltration of both lung fields is seen. Recommend correlate 
+with clinical condition. 
+Ileus bowel gas pattern is seen. Recommend correlate with 
+clinical condition. 
+S/p OG tube insertion. ",00:09:00,,1.0,710.0,0.71kg,24.0,24d,train,7.0,Asian
+74,,True,2d,30 wks,F,A,respiratory distress syndrome neonatal sepsis,". Status post NG tube insertion and retention of a NG tube.
+. Status post UV catheter insertion.
+. No focal mass lesion in bilateral lung fields. 
+. The size of heart is within normal limit.",00:00:00,1.0,,1355.0,1.355kg,2.0,2d,train,30.0,Asian
+75,,True,2d,39 6/7wks,M,A,low type imperforate anus,"S/P nasal-gastric tube insertion 
+S/P endotracheal tube insertion. 
+1. Hypoinflation of both lungs with mild increased bilateral lung 
+   markings. 
+2. Otherwise, there is no significant abnormality. ",00:00:00,1.0,,2805.0,2.805kg,2.0,2d,train,7.0,Asian
+76,,True,1m 17d,36 4/7wks,F,A,neonatal seizure,". S/P insertion of an endotracheal tube. Please check tip 
+location. 
+. S/P nasogastric tube insertion. ",00:01:00,,1.0,2515.0,2.515kg,47.44,1m 17d,test,7.0,Asian
+77,,True,1d,39 1/7wks,F,A,"cyanosis
+neotal sepsis","1. There are increased interstital markings in bilateral lung 
+fields. Recommend clinical correlation and follow up. 
+2. Status post endotracheal intubation and retention of NG tube. 
+3. Status post central venous line insertion. 
+4. Otherwise, there is no significant abnormality of the chest.
+(Note that ground-glass lesion or small nodule might be missed 
+on plain chest radiography.) ",00:04:00,1.0,,2515.0,2.515kg,1.0,1d,train,7.0,Asian
+78,,True,9d,29wks,F,A,respiratory distress syndrome neonatal sepsis,". S/P nasogastric tube insertion. S/P endotracheal intubation 
+with the tip above the carina. 
+. Increased opacities at the both lungs. 
+. S/P central venous line insertion with tip located in the 
+inferior vena cava.
+. Blurring of bilateral costophrenic angles is noted. Suggest 
+clinical correlation. ",00:10:00,,1.0,1160.0,1.16kg,9.0,9d,test,29.0,Asian
+79,,True,15d,27 1/7wks,M,A,respiratory distress syndrome neonatal sepsis,". Status post pig-tail retention, left.
+. Status post NG tube insertion. 
+. S/P endotracheal tube insertion. 
+1. Left-sided pneumothorax with left lung atelectasis and 
+subcutaneous emphysema is also noted.
+2. The size of heart is within normal limit.
+3. Increased interstitial and ground-glass opacities of the both 
+lungs are noted. ",00:04:00,1.0,,920.0,0.92kg,15.0,15d,test,7.0,Asian
+80,,True,1m20d,40 1/7 wks,M,A,epileptic spasms,". Status post endotracheal intubation. 
+. Status post nasogastric tube insertion. 
+1. Grossly there is no active lung lesion. Suggest follow-up. 
+2. Normal heart size is noted.  
+3. Relatively good alignment of T-L spine is noted. ",00:18:00,1.0,,2695.0,2.695kg,50.44,1m20d,test,7.0,Asian
+81,,True,1m12d,28 2/7wks,F,A,"respiratory distress syndrome 
+neonatal sepsis
+neonatal hyperglycemia
+anemia","1. Note fine interstitial markings in bilateral lung zones.
+2. S/P- endotracheal intubation with the tip above the carina.
+3. S/P- OG tube insertion with the tip in the stomach is noted.
+4. Some fecal material retained in the colon with non-specific
+   bowel pattern is identified.",00:13:00,,1.0,1335.0,1.335kg,42.44,1m12d,test,7.0,Asian
+82,,True,7d,32 wks,M,A,"respiratory distress syndrome neonatal sepsis
+anemia","> Note retention of a nasogastric tube. 
+> Interstitial infiltrations in bilateral lungs are noted. 
+> There is non-specific bowel gas. 
+> Otherwise, no remarkable finding could be identified.",00:24:00,1.0,,1805.0,1.805kg,7.0,7d,test,32.0,Asian
+83,,True,1d,25wks,F,A,respiratory distress syndrome neonatal sepsis,"1. Patchy ground-glass opacities in bilateral lungs are seen, 
+may be inflammatory process or pneumonia. Suggest follow up. 
+2. Status post endotracheal tube insertion. 
+3. Status post NG tube insertion. 
+4. Otherwise, there is no significant abnormality of the chest.
+(Note that ground-glass lesion or small nodule might be missed 
+on plain chest radiography.) ",00:13:00,1.0,,770.0,0.77kg,1.0,1d,test,25.0,Asian
+84,,True,9d,25 4/7wks,F,A,respiratory distress syndrome neonatal sepsis,"Radiography of the chest was performed and revealed as follows:
+1. Mild increased interstitial infiltration of the both lungs are 
+   identified. Suggest clinical correlation. 
+2. Status post orogastric tube insertion with tip projecting in  
+   the stomach. 
+3. Ileus of the bowel loops is identified. Suggest clinical 
+   correlation. 
+4. Status post endotracheal tube insertion with the tip above the 
+   carina. 
+5. Otherwise, no other remarkable abnormality is seen. ",00:32:00,1.0,,710.0,0.71kg,9.0,9d,test,7.0,Asian
+85,,True,1d,27 2/7wks,M,A,respiratory distress syndrome neonatal sepsis,"1. Increased ground glass opacities, bilateral is noted, suggest 
+correlate cliniclly and follow up. 
+2. Status post endotracheal tube intubation. 
+3. A tube projecting over the abdomen is noted, suggest 
+correlate clinically. ",00:12:00,1.0,,1455.0,1.455kg,1.0,1d,train,7.0,Asian
+86,,True,3d,36 wks,M,A,GBS infection,". Status post an endotracheal tube insertion.
+. Status post a nasal-gastric tube insertion.
+. Status post a drainage tube retention.
+1. No focal mass lesion in bilateral lung fields. 
+2. The size of heart is within normal limit.
+3. Non-specific bowel gas pattern is identified. ",01:05:00,1.0,,2450.0,2.45kg,3.0,3d,test,36.0,Asian
+87,,True,2d,24 5/7wks,M,A,respiratory distress syndrome neonatal sepsis,"S/P nasal-gastric tube insertion 
+S/P CVP line insertion  
+1. Increased interstitial marking and ground-glass opacities of 
+the both lungs are noted. 
+2. Otherwise, there is no significant abnormality. ",00:47:00,,1.0,805.0,0.805kg,2.0,2d,test,7.0,Asian
+88,,True,4d,26 6/7wks,F,A,respiratory distress syndrome neonatal sepsis,"Increased pulmonary vasculatures with interstitial lines 
+thickening over bilateral lung fields are noted. 
+Decreased bowel gas pattern is seen. Recommend correlate with 
+clinical condition. 
+S/p central line catheter insertion with tip in right atrium. 
+S/p NG tube insertion.
+S/p an endotracheal tube insertion with tip in proper location.  ",00:17:00,,1.0,820.0,0.82kg,4.0,4d,test,7.0,Asian
+89,,True,1d,36 2/7wks,F,A,"transient tachypena 
+respiratory distress syndrome neonatal sepsis
+",". S/P nasogastric tube insertion. 
+. S/P endotracheal intubation is seen.
+1. Mild enlargement of the cardiac silhoutte is identified.
+2. Increased hazy lung markings in bilateral lung fields,    
+Suggest clinical correlation. 
+3. Mild ileus of the bowel loops is noted. Suggest clinical 
+correlation and follow-up.
+4. Otherwise, there is no significant abnormality of the chest. 
+(Note that ground-glass lesion or small nodule might be missed 
+on plain chest radiography.) ",00:23:00,1.0,,2220.0,2.22kg,1.0,1d,test,7.0,Asian
+90,,True,18d,25 4/7wks,F,A,respiratory distress syndrome neonatal sepsis,"1. Increased ground glass opacities, bilateral is noted, suggest 
+correlate cliniclly and follow up. 
+2. Status post NG tube insertion with tip at proper position. 
+3. Status post endotracheal tube intubation. ",00:47:00,1.0,,663.0,0.663kg,18.0,18d,test,7.0,Asian
+91,,True,3d,39 4/7wks,M,A,hyperammonemia,"1. Increasing interstitial markings and ground-glass opacity in 
+both lungs are noted. 
+2. S/P endotracheal tube insertion with tip in the appropriate 
+location. 
+3. Retention of N-G tube. ",00:47:00,1.0,,3200.0,3.2kg,3.0,3d,test,7.0,Asian
+92,,True,1d,33 1/7wks,M,A,"perinatal asphyxia
+respiratory distress syndrome","1. Patchy ground-glass opacities in bilateral lungs are seen, 
+may be inflammatory process or pneumonia. Suggest follow up. 
+2. Status post endotracheal tube insertion. 
+3. Status post NG tube insertion. 
+4. Otherwise, there is no significant abnormality of the chest.
+(Note that ground-glass lesion or small nodule might be missed 
+on plain chest radiography.) ",00:08:00,,1.0,2045.0,2.045kg,1.0,1d,test,7.0,Asian
+93,,True,1d,27 4/7wks,F,A,respiratory distress syndrome neonatal sepsis,"1. Increasing interstitial markings and ground-glass opacity in 
+both lungs are noted. 
+2. S/P endotracheal tube insertion with tip in the appropriate 
+location. 
+3. Retention of N-G tube. 
+4. S/P UA and UV catheters insertion . ",00:18:00,,1.0,995.0,0.995kg,1.0,1d,test,7.0,Asian
+94,,True,1d,25 2/7wks,M,A,"perinatal asphyxia
+neonatal sepsis
+respiratory distress
+persistent hypertension","S/P endotracheal tube insertion. 
+S/P nasal-gastric tube insertion 
+1. Increased interstitial marking and ground-glass opacities of 
+the both lungs are noted. ",00:18:00,,1.0,815.0,0.815kg,1.0,1d,test,7.0,Asian
+95,,True,29d,26 4/7wks,M,A,respiratory distress syndrome neonatal sepsis,"1. Reticular opacities and ground-glass-opacities of both lungs 
+are noted, might be inflammatory process.  Suggest correlate 
+clinically and follow up. 
+2. Ileus of the abdomen. 
+3. Status post NG tube insertion. 
+4. Status post endotracheal tube insertion. 
+5. Otherwise, there is no significant abnormality of the chest.
+(Note that ground-glass lesion or small nodule might be missed 
+on plain chest radiography.) ",00:15:00,,1.0,930.0,0.93kg,29.0,29d,train,7.0,Asian
+96,,True,4m23d,36 2/7wks,F,A,encephalomacia,"Radiography of the chest was performed and revealed as follows:
+1. Both lung parenchyma show normal appearance without         
+   evidence of focal mass lesion.
+2. Normal distribution of the pulmonary vessels is noted.
+3. The heart size is within normal limit.
+4. The bony structures, including bilateral ribs, scapula,       
+   clavicles and vertebral bodies, show normal appearance      
+   without evidence of fracture or destruction.
+5. Status post endotracheal tube insertion with the tip in the 
+   right main bronchus. Recommend adjustment.
+6. Otherwise, no other remarkable abnormality is seen. ",00:37:00,,1.0,2255.0,2.255kg,144.76,4m23d,train,7.0,Asian
+97,,True,1m26d,37 3/7wks,F,A,"neonatal sepsis
+infectious enterocolitis","S/P oral-gastric tube insertion 
+S/P Foley's catheter insertion  
+1. Gaseous distention of bowel loops is noted, probably due to 
+   ileus, suggest clinical correlation. 
+2. Otherwise, there is no significant abnormality. ",00:18:00,,1.0,3160.0,3.16kg,56.44,1m26d,test,7.0,Asian
+98,,True,1m13d,37 1/7wks,M,A,hyponatremia,"1. Increased ground glass opacities, bilateral is noted, favor 
+inflammatory process . Suggest correlate cliniclly and follow 
+up. 
+2. Status post endotracheal tube intubation. 
+3. Status post NG tube insertion with tip at proper position. ",00:11:00,1.0,,2720.0,2.72kg,43.44,1m13d,test,7.0,Asian
+99,0.0,True,1d,29 2/7wks,F,A,respiratory distress syndrome neonatal sepsis,"> Status post endotracheal intubation with tip near carina. 
+> Note retention of a nasogastric tube. 
+> Note diffuse reticular pattern in bilateral lungs. Please 
+correlate with clinical condition to exclude respiratory distress 
+syndrome or other etiology.
+> Otherwise, there is no other remarkable finding is observed    
+in current image. (Note that ground-glass lesion or small nodule 
+might be missed on plain chest radiography.)",00:18:00,,1.0,1060.0,1.06kg,1.0,1d,train,7.0,Asian
+100,,True,1m26d,38 2/7wks,F,A,congenital glaucoma,"Radiography of the chest was performed and revealed as follows:
+1. Both lung parenchyma show normal appearance without         
+   evidence of focal mass lesion.
+2. Normal distribution of the pulmonary vessels is noted.
+3. The heart size is within normal limit.
+4. The bony structures, including bilateral ribs, scapula,       
+   clavicles and vertebral bodies, show normal appearance      
+   without evidence of fracture or destruction.
+5. Status post endotracheal tube insertion with the tip above 
+   the carina. 
+6. Gaseous distension of the stomach is identified. Suggest 
+   clinical correlation. 
+7. Otherwise, no other remarkable abnormality is seen. ",00:29:00,,1.0,2760.0,2.76kg,56.44,1m26d,train,7.0,Asian

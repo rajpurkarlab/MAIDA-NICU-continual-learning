@@ -1,0 +1,4338 @@
+MRN (should be removed before sharing),Study ID (should be removed before sharing),Folder,Patient Duplicate?,Dicoms copied,Age,Gestational Age ,Sex,Race,Reason for X-ray (confirm report with history if able),Deidentified Report,Time until Report ,"ET, Correct ","ET, Incorrect ",Weight (grams),Weight_original,Age_days,Age_original,Split,Gestational_Age_Weeks,Race_Standardized
+,,1,False,x,16 days,25w6d ,M,W,elbw requiring reintubation. evaluate ett.,"EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: elbw requiring reintubation. evaluate ett.
+
+COMPARISON: Same day chest and abdomen radiographs.
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:
+
+Lines/Tubes:
+*	Endotracheal tube tip overlies the lower thoracic trachea partially angulated towards the right mainstem bronchus.
+*	There are two enteric tube tips with one overlying the stomach body, the other overlying the region of the pylorus.
+
+Mediastinum: Stable.
+
+Lungs: Mild diffuse interstitial opacities with improved, low normal lung volumes. Patient's hand overlies the left apex.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable.
+
+Upper abdomen: Partially visualized gaseous distention of bowel.
+
+
+IMPRESSION:
+
+1. Endotracheal tube tip overlies the lower thoracic trachea partially angulated towards the right mainstem bronchus, retracted on a follow up study.
+
+2. Overall improved expansion and aeration of the lungs with mild changes of evolving lung disease of prematurity.
+
+Dictated by: [PHYSICIAN_NAME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:15:00,,1.0,840.0,0.84,16.0,16 days,train,25.86,White
+,,2,False,x,4 days,25w3d ,M,B,25 weeker on cmv eval line and tube placement,"EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 25 weeker on cmv eval line and tube placement
+
+COMPARISON: Chest abdomen radiograph [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained on 2 cassettes. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*	Endotracheal tube with tip entering the right mainstem bronchus.
+*	Nasogastric tube tip and side-port overlie the stomach. 
+*	Umbilical arterial catheter tip overlies the central cardiac silhouette at the level of the T5 vertebra.
+*	Umbilical venous catheter overlies the T4-5 interspace.
+
+Mediastinum: Obscured on the left.
+
+Lungs: Diffuse left lung opacification with air bronchograms. Decreased granular opacities of the right lung with improved aeration. Decreased lung volumes. There is at least partial collapse of the left lung.
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Increased diffuse gaseous distention of bowel throughout the abdomen and pelvis, with gas overlying the rectum. 
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Stable. 
+
+Other: None.
+
+
+IMPRESSION: 
+
+Endotracheal tube tip is entering the right mainstem bronchus. Recommend at least 0.5-0.7 cm of retraction.
+
+Umbilical venous catheter tip overlies the medial superior right atrium, potentially crossing the intra-atrial septum. Recommend approximately 1.2 cm of retraction.
+
+Findings of surfactant deficiency with increased atelectasis of the left lung, likely due to endotracheal tube positioning.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",02:30:00,,1.0,567.0,0.567,4.0,4 days,train,25.43,Black
+,,3,False,x,0 days,23w0d ,F,W,preterm infant conventional ventilation ETT placement,"EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: preterm infant conventional ventilation ETT placement
+
+COMPARISON: Chest radiographs today [TIME].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:
+
+Lines/Tubes:
+*	Endotracheal tube tip is at the low thoracic trachea.
+*	Right upper extremity PICC tip projects over the superior cavoatrial junction.
+*	Umbilical arterial catheter tip projects over the descending thoracic aorta at the T6-7 level below the left bronchus.
+*	Umbilical venous catheter tip projects over the right T12 pedicle within the liver.
+
+Mediastinum: Normal.
+
+Lungs: Generalized pulmonary haze and granular opacities, unchanged. Lungs are less hyperinflated.            
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.     
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION:
+
+Endotracheal tube tip projects over the low thoracic trachea and may be withdrawn 0.5 to 1 cm.
+
+Umbilical venous catheter tip projects over the right T12 pedicle within the liver.
+
+Satisfactory position of additional lines and tubes.
+
+Unchanged moderate surfactant deficiency pattern. Lungs are less hyperinflated since [TIME].
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:09:00,,1.0,622.0,0.622,0.0,0 days,train,23.0,White
+,,4,False,x,1 day,27w2d ,F,,27 week infant with resp distress and ETT was adjusted.  Needs umbilical lines adjusted. premature infant with need to evaluate ETT and umbilical line positioning.,"EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 27 week infant with resp distress and ETT was adjusted. Needs umbilical lines adjusted. premature infant with need to evaluate ETT and umbilical line positioning.
+
+COMPARISON: Same day chest radiograph.
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained.
+
+FINDINGS:  
+
+Support lines/tubes: 
+*	Endotracheal tube tip at the level of the carina with tip directed into the right mainstem bronchus.
+*	Umbilical arterial and venous catheters at the level of the T5 and T6 vertebral bodies respectively, unchanged.
+*	Enteric tube tip and side-port overlie the stomach.
+
+Mediastinum: Stable.
+
+Lungs: Unchanged diffuse interstitial and hazy opacification of the lungs. Normal lung volumes.
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Nonobstructive.  
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Normal.
+
+
+IMPRESSION: 
+
+1. Endotracheal tube tip at the level of the carina with tip directed into the right mainstem bronchus. Follow-up imaging demonstrates appropriate retraction of the tube.
+
+2. Umbilical arterial and venous catheters at the level of the T5 and T6 vertebral bodies respectively. Follow-up imaging demonstrates appropriate catheter adjustment.
+
+Dictated by: [PHYSICIAN_NAME]. 
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:05:00,,1.0,820.0,0.82,1.0,1 day,test,27.29,Unknown
+,,5,False,x,3 months,33w3d,N,W,"33 weeker transferred for ENT consult, s/p surgery for dehiscing incision, post op intubated patient","EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 33 weeker transferred for ENT consult, s/p surgery for dehiscing incision, post op intubated patient
+
+COMPARISON: Chest/abdomen radiograph [DATE]
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:
+
+Lines/Tubes:
+*	Endotracheal tube tip abuts/overlies right mainstem bronchus.
+*	Left scalp PICC tip overlies junction of left brachiocephalic vein and superior vena cava.
+*	Partially visualized gastrojejunostomy tube overlying stomach.
+
+Mediastinum: Stable.
+
+Lungs: Mildly improved coarse interstitial opacities.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable.      
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION:
+
+Endotracheal tube tip overlies right bronchus. Recommend retraction 1 cm.
+
+Chronic lung disease with improved patchy atelectasis.
+
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME] on [DATE].
+
+Dictated by: [PHYSICIAN_NAME]. [DATE]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [DATE]",02:52:00,,1.0,5070.0,5.07,91.32000000000001,3 months,test,33.43,White
+,,6,False,x,1 day,26w4d ,F,B,"Preterm infant on vent, left cdh Evaluate lungs/abdomen","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Preterm infant on vent, left cdh Evaluate lungs/abdomen
+
+COMPARISON: [DATE] radiograph.
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*	Endotracheal tube tip overlying the distal thoracic trachea angulated into the right bronchus.
+*	Enteric tube tip and side-port overlies distal esophagus, tip projected over stomach.
+*	Umbilical venous catheter overlying the inferior cavoatrial junction.
+*	Umbilical artery catheter at the T7 level, unchanged.
+
+Mediastinum: Rightward shift, partially obscured on the left.
+
+Lungs: Slightly improved diffuse granular hazy opacities right lung and left upper lung. Bowel gas again seen overlying the left hemithorax with left midlung opacity.            
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Nonobstructive; main portion of bowel gas is overlying the left upper abdomen/left hemithorax.     
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Stable.
+
+Other: None.
+
+
+IMPRESSION: 
+1. Endotracheal tube tip overlying distal thoracic trachea angulated towards the right bronchus, recommend 1 cm retraction and obtain repeat images.
+2. Enteric tube side-port overlies distal esophagus, recommend 1 cm advancement.
+3. Slightly improved granular hazy opacities in the right lung the left upper lung.
+4. Unchanged appearance of abdominal contents within left hemithorax compatible with congenital diaphragmatic hernia.
+
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME] on [DATE].
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:55:00,,1.0,650.0,0.65,1.0,1 day,test,26.57,Black
+,,7,False,x,8 days,39w6d ,F,W,"infant with micrognathia requiring reintubation, evaluate ETT placement","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: infant with micrognathia requiring reintubation, evaluate ETT placement
+
+COMPARISON: Same day babygram.
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Interval removal of the enteric tube.
+*	Interval placement of endotracheal tube which terminates over the right mainstem bronchus.
+
+Mediastinum: Stable.
+
+Lungs: Increased hazy opacification of the left lung. Streaky right perihilar atelectasis. Similar diffuse interstitial markings in the right lung.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Unchanged.
+
+Upper abdomen: Gas-filled stomach.
+
+Other: None.
+
+
+IMPRESSION: 
+
+Right mainstem bronchus intubation with left lung atelectasis. At the time of dictation, subsequent radiographs demonstrate appropriate retraction of the endotracheal tube. There is resultant atelectasis of the left lung.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",00:37:00,,1.0,4035.0,4.035,8.0,8 days,test,39.86,White
+,,8,False,x,15 days,26w2d ,F,W,Evaluate lungs and abdomen,"EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Evaluate lungs and abdomen    
+
+COMPARISON: Abdominal radiograph [DATE]. Chest radiograph [DATE]
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained.  
+
+FINDINGS:  
+
+Support lines/tubes: 
+*	Endotracheal tube tip is at the level of the carina pointing towards the right mainstem bronchus.
+*	Nasogastric tube tip and side-port overlie the stomach.
+*	Left upper extremity PICC tip overlies the superior vena cava.
+
+Mediastinum: Normal.
+
+Lungs: Increased diffuse interstitial and hazy opacities.            
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Nonobstructive. Diffuse gaseous distention of bowel throughout the abdomen and pelvis. 
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Normal.  
+
+Other: None.
+
+
+IMPRESSION: 
+
+Endotracheal tube tip is at the level of the carina pointing towards the right mainstem bronchus. Per NICU nursing, the care team is already aware and has retracted the tube.
+
+Increased diffuse interstitial and hazy opacities, possible etiologies include edema versus infection.
+
+Gaseous distention of the stomach and proximal bowel likely secondary to recent intubation.
+
+Dictated by: [PHYSICIAN_NAME] [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:23:00,,1.0,630.0,0.63,15.0,15 days,train,26.29,White
+,,9,False,x,12 days,26w1d ,M,B,Former 26wk infant now DOL 12; intubated on conventional ventilator. Evaluate ETT location and PICC location please.,"EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Former 26wk infant now DOL; intubated on conventional ventilator. Evaluate ETT location and PICC location please.
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*	Enteric tube tip and side-port overlying stomach
+*	Right upper extremity PICC with tip overlying right atrium
+*	Endotracheal tube overlying right mainstem bronchus
+
+Mediastinum: Stable.
+
+Lungs: Persistent diffuse granular opacities. There is slightly more confluent opacification of the bases consistent with atelectasis.        
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Nonobstructive. Diffuse gaseous distention of bowel throughout the abdomen and pelvis. 
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Stable.  
+
+Other: None.
+
+
+IMPRESSION: 
+
+Endotracheal tube located within the right mainstem bronchus. Recommend retraction 1 cm. Right upper extremity PICC with tip overlying right atrium.
+
+Persistent diffuse granular opacities suggestive of surfactant deficiency.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube in the bronchus or esophagus 
+[PHYSICIAN_NAME] became aware of the critical finding at [TIME]. 
+Key results discussed with [PHYSICIAN_NAME] at [DATE].
+
+Dictated by: [PHYSICIAN_NAME]. [DATE]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [DATE]",00:12:00,,1.0,775.0,0.775,12.0,12 days,test,26.14,Black
+,,10,False,x,45 days,25w1d ,F,B,Increase in RESP distress with WOB and bradycardia ,"EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Increase in RESP distress with WOB and bradycardia 
+
+COMPARISON: [DATE]
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	The endotracheal tube tip is at the level of the carina with the tip directed into the right mainstem bronchus.
+*	Enteric tube courses below the diaphragm with tip and side-port overlying the stomach.
+
+Mediastinum: Stable.
+
+Lungs: Pulmonary hyperinflation. Unchanged diffuse interstitial opacities and hazy opacification of the lungs.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.  
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION: 
+
+Endotracheal tube lies at the level of the carina with the tip directed into the right mainstem bronchus. Consider retraction by 5 mm
+
+Unchanged lung disease of prematurity with superimposed pulmonary edema.
+
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME] on [DATE].
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:03:00,,1.0,1130.0,1.13,45.0,45 days,train,25.14,Black
+,,11,False,x,58 days,22w0d,M,B,former 22 weeker always intubated. change in respiratory status.,"EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: former 22 weeker always intubated. change in respiratory status.
+
+COMPARISON: Chest radiograph today at [TIME].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*Endotracheal tube tip overlies the takeoff of the right main stem bronchus.
+*Enteric tube tip and side-port overlie the stomach.
+*Right upper extremity PICC with tip overlying the expected region of the
+medial subclavian vein.
+*Left upper extremity PICC with tip overlying the right atrium.
+
+Mediastinum: Normal.
+
+Lungs: Unchanged diffuse coarse interstitial opacities. Unchanged right
+perihilar and right lower lobe atelectasis with improved aeration of the left
+lung. Stable pulmonary hyperinflation.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.
+
+Upper abdomen: Paucity of bowel gas. External artifact noted.
+
+
+
+IMPRESSION: 
+
+1. Endotracheal tube tip overlies the takeoff of the right main stem bronchus.
+Recommend retraction by 8 mm.
+
+2. Chronic lung disease of prematurity with stable right lower lobe and right
+perihilar atelectasis. Improved aeration of the left lung with residual
+atelectasis.
+
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME] on [DATE]
+3:06 PM.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [DATE]",00:13:00,,1.0,950.0,0.95,58.0,58 days,test,22.0,Black
+,,12,False,x,20 days,25w6d ,M,W,"elbw required re-intubation with abdominal distention; now NPO with
+replogle evaluate lung fields, ett, and bowel gas pattern","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: elbw required re-intubation with abdominal distention; now NPO with replogle evaluate lung fields, ett, and bowel gas pattern
+
+COMPARISON: Chest abdomen radiograph [DATE] at [TIME].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*Endotracheal tube tip at the origin of the right bronchus.
+*Enteric tube tip and sideholes in the stomach.
+
+Mediastinum: Normal.
+
+Lungs: Normal.
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Generalized gaseous distention, reduced.
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Possible butterfly vertebra at T7. No acute.
+
+Other: None.
+
+
+
+IMPRESSION: 
+
+Endotracheal tube tip at the origin of the right bronchus, recommend retracting
+0.75-1 cm.
+
+Unchanged hazy lung opacities.
+
+Reduced but ongoing gaseous bowel distention.
+
+Discussed with [PHYSICIAN_NAME] at [TIME] [DATE]. 
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",03:49:00,,1.0,820.0,0.82,20.0,20 days,train,25.86,White
+,,13,False,x,1 day,27w0d,M,W,"27 week M, eval lung fields","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: M, eval lung fields
+
+COMPARISON: Babygram [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*Endotracheal tube terminates over the lower thoracic trachea, potentially
+within the right mainstem bronchus.
+*Enteric tube terminates over the stomach.
+*Umbilical venous catheter terminates over the inferior cavoatrial
+junction.
+
+Mediastinum: New significant leftward mediastinal shift.
+
+Lungs: Diffuse granular opacities.
+
+Pleura: Moderate right pneumothorax measuring up to 8 mm. No pleural effusion.
+
+Bones: Unchanged.
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+
+IMPRESSION: 
+
+Moderate right pneumothorax with evidence of tension.
+
+Endotracheal tube terminates over the lower thoracic trachea, potentially
+within the right mainstem bronchus. Recommend retraction.
+
+CRITICAL RESULTS: Tension Pneumothorax/Hydrothorax 
+[PHYSICIAN_NAME] became aware of the critical finding at [TIME]. 
+Key results discussed with [PHYSICIAN_NAME] at [DATE].
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in
+this report.  [TIME]",00:10:00,,1.0,932.0,0.932,1.0,1 day,train,27.0,White
+,,14,False,x,2 days,37w1d,F,B,"30 hour old infant with multiple congenital anomalies currently on
+vent with sedation for complex airway. imperforate anus with rectovestibular
+fistula. Assess for bowel gas pattern, concern for intestinal atresia, assess
+prior left sided-pneumo","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 30 hour old infant with multiple congenital anomalies currently on 
+vent with sedation for complex airway. imperforate anus with rectovestibular 
+fistula. Assess for bowel gas pattern, concern for intestinal atresia, assess 
+prior left sided-pneumo
+
+COMPARISON: Chest/abdomen radiograph [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained.
+
+FINDINGS:  
+
+Support lines/tubes: 
+*Endotracheal tube tip overlies right mainstem bronchus.
+*Enteric tube tip and side-port overlies stomach.
+*UVC catheter tip overlies inferior cavoatrial junction.
+
+Mediastinum: Left cardiomediastinal silhouette obscured.
+
+Lungs: New complete opacification of left hemithorax.
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Gaseous filled loops of bowel noted in the right
+hemiabdomen.
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Segmentation anomalies again noted in the thoracic and sacral spine.
+
+Other: None.
+
+
+
+IMPRESSION: 
+
+Endotracheal tube tip overlies right mainstem bronchus with collapse of left
+lung. Recommend retraction 12 mm.
+
+Other lines and tubes in satisfactory positions. Paucity of bowel gas.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube in the bronchus or esophagus 
+[PHYSICIAN_NAME] became aware of the critical finding at [TIME]. 
+Key results discussed with [PHYSICIAN_NAME] at [TIME].
+Per provider, team aware and endotracheal tube has already been retracted
+at time of conversation.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in 
+this report.  [TIME]",01:36:00,,1.0,2870.0,2.87,2.0,2 days,train,37.14,Black
+,,15,False,x,56 days,24w4d,F,B,"Hx of BPD, on vent evaluate lung fields","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Hx of BPD, on vent evaluate lung fields
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*Endotracheal tube tip is slightly advanced compared to prior and projects
+at the right mainstem bronchus.
+*Enteric tube courses below the diaphragm with tip and side-port overlying
+the stomach.
+*Vascular occlusion device projecting over the left upper mediastinum is
+unchanged.
+
+Mediastinum: Stable.
+
+Lungs: Persistent coarse interstitial opacities with increased hazy opacities
+in the right upper lung and retrocardiac left lung base.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable.  
+
+Upper abdomen: Gaseous distention of bowel and stomach noted.
+
+Other: Patchy rim calcification in the right upper quadrant again noted, better
+visualized on abdominal ultrasound [DATE].
+
+IMPRESSION: 
+
+Chronic lung disease with superimposed atelectasis in the right upper lung and
+left lung base.
+
+Endotracheal tube is slightly advanced compared to prior with tip overlying the
+proximal right mainstem bronchus. Recommend retracting 8 mm. 
+
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME] on [DATE]
+[TIME].
+
+Dictated by: [PHYSICIAN_NAME]. [DATE] [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the
+findings in this report.  [DATE]",01:00:00,,1.0,1790.0,1.79,56.0,56 days,test,24.57,Black
+,,16,False,x,6 days,37w0d,F,W,"Term infant with RUL atelectasis on prior CXR intubated. evaluate
+re expansion of RUL.","EXAMINATION: XR PEDS CHEST AP [DATE]
+ 
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+ 
+INDICATION: Term infant with RUL atelectasis on prior CXR intubated. evaluate re expansion of RUL.
+ 
+COMPARISON: Chest radiograph yesterday at [TIME].
+ 
+TECHNIQUE: Single frontal view of the chest was obtained.
+ 
+FINDINGS: 
+ 
+Lines/Tubes: 
+*Endotracheal tube tip overlies the lower thoracic trachea near the
+carina, possibly into the right mainstem bronchus.
+*Enteric tube side port overlies the stomach with distal tip excluded by
+collimation.
+*UVC tip overlies the inferior cavoatrial junction.
+
+Mediastinum: Shifted rightward.
+
+Lungs: New collapse of the right middle and lower lobes with reexpansion of the
+previously collapsed right upper lobe. Left lung is hyperexpanded. Decreased
+mild diffuse interstitial opacities.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable.
+
+Upper abdomen: Moderate gaseous distention of the stomach.
+
+
+
+IMPRESSION: 
+
+1. Low lying endotracheal tube with the tip near the carina possibly into the
+right mainstem bronchus. Recommend retraction by approximately 1 cm to place
+the tip within the midthoracic trachea.
+
+2. New collapse of the right middle and lower lobes with reexpansion of the
+right upper lobe.
+
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME] on 
+[DATE]. 
+
+Dictated by: [PHYSICIAN_NAME]. [DATE]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in
+this report.",0.2,,1.0,3110.0,3.11,6.0,6 days,test,37.0,White
+,,17,False,x,3 days,26w1d ,F,B,"26 week infant on vent with dilated bowel, eval lung fields and
+bowel gas pattern,","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 26 week infant on vent with dilated bowel, eval lung fields and 
+bowel gas pattern,
+
+COMPARISON: Abdominal radiographs and PICC series [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*Endotracheal tube overlies right mainstem bronchus.
+*Left internal jugular central venous catheter tip overlies superior vena
+cava.
+*UAC tip overlies T7.
+*Enteric tube tip overlies stomach with proximal sidehole over the
+gastroesophageal junction.
+
+Mediastinum: Normal.
+
+Lungs: Moderate diffuse granular and hazy opacities.
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Persistent gaseous dilation of bowel in the central abdomen
+with overall mild decrease in degree distention throughout the abdomen and
+pelvis.
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Normal.
+
+
+
+IMPRESSION: 
+
+1. Endotracheal tube tip overlies right mainstem bronchus.
+
+2. Slightly decreased gaseous dilation of bowel. No evidence of pneumatosis
+intestinalis, portal venous gas, or pneumoperitoneum.
+
+3. Unchanged surfactant deficiency lung pattern.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube in the bronchus or esophagus 
+[TIME] became aware of the critical finding at [TIME]. 
+Key results discussed with [PHYSICIAN_NAME] [TIME].
+Per provider, team aware and endotracheal tube already retracted since time of
+dictation. 
+
+Dictated by: [PHYSICIAN_NAME]
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in
+this report. ",01:55:00,,1.0,690.0,0.69,3.0,3 days,train,26.14,Black
+,,18,False,x,18 days,27w5d,F,W,"18 day old 27w5d requiring reintubation on 3/29 for Co2 retention.
+Evaluate ET tube and lungs","EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 18 day old 27w5d requiring reintubation on [DATE] for Co2 retention.
+Evaluate ET tube and lungs
+
+COMPARISON: chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*Endotracheal tube tip projects over the right mainstem bronchus.
+*Enteric tube tip and side-port projecting the stomach
+
+Mediastinum: Stable.
+
+Lungs: Persistent minimal diffuse coarse opacities. Persistent perihilar and
+retrocardiac airspace opacities.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+
+IMPRESSION: 
+Interval advancement of the endotracheal tube with tip projecting over the
+right mainstem bronchus.
+
+Lung disease of prematurity with stable perihilar and retrocardiac atelectasis.
+
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME] on [DATE] [TIME].
+
+Dictated by: [PHYSICIAN_NAME]. [DATE] [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in
+this report.  [DATE]",00:15:00,,1.0,1310.0,1.31,18.0,18 days,test,27.71,White
+,,19,False,x,3 days,36w6d,F,B,"term infant, HIE, on vent, higher O2 Evaluate lungs","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: term infant, HIE, on vent, higher O2 Evaluate lungs
+
+COMPARISON: Babygram [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Support lines/tubes: 
+*Endotracheal tube tip is in close proximity to the carina and may be just
+within the right mainstem bronchus.
+*Enteric tube tip and side-port overlying the stomach.
+*Umbilical venous catheter overlies the T8-T9 intervertebral space.
+*Umbilical artery catheter at the T5-T6 disc level
+
+Mediastinum: Stable.
+
+Lungs: Increased, near complete hazy opacification of the left lung. Improved
+aeration of the right lung with some minimal right upper lobe atelectasis.
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Paucity of bowel gas.  
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Normal. 
+
+Other: None.
+
+
+
+IMPRESSION: 
+
+Low position of the endotracheal tube, likely causing atelectasis of the left
+lung. 
+
+Increased, near complete left lung hazy opacification. Improved aeration of the
+right lung although there is minimal right upper lobe atelectasis.
+
+Results discussed with [PHYSICIAN_NAME]  , by [PHYSICIAN_NAME]. [TIME], who reports 
+that the tube has already been withdrawn 
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this
+report.",00:02:00,,1.0,2660.0,2.66,3.0,3 days,test,36.86,Black
+,,20,False,x,4 days,30w0d,F,B,"preterm infant on vent, abdominal distention Evaluate lungs/abdomen","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: preterm infant on vent, abdominal distention Evaluate lungs/abdomen
+
+COMPARISON: None.
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*Endotracheal tube with tip overlying the proximal right mainstem
+bronchus.
+*Enteric tube tip and side-port of the stomach.
+*Umbilical venous catheter overlying the liver at the T11 level.
+
+Mediastinum: Stable.
+
+Lungs: Stable lung volumes with persistent diffuse granular opacities.
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Overall unchanged diffuse gaseous distention of bowel
+throughout the abdomen with rectal gas present.
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Normal.
+
+Other: None.
+
+
+
+IMPRESSION: 
+
+1. Low position of endotracheal tube with tip overlying the proximal right
+mainstem bronchus. Discussion with the [PHYSICIAN_NAME] revealed plan for
+imminent extubation. 
+
+2. Low lying umbilical venous catheter with the tip in the right upper
+quadrant.
+
+3. Unchanged findings of surfactant deficiency without new focal opacity.
+
+Findings discussed with [PHYSICIAN_NAME] at [TIME] on [DATE] by [PHYSICIAN_NAME].
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in
+this report.",00:02:00,,1.0,940.0,0.94,4.0,4 days,test,30.0,Black
+,,21,False,x,1 day,34w5d,F,B,"colpocephaly, absent corpus callosum, seizures UVC placement","EXAMINATION: XR PEDS UMBILICAL VESSEL/ARTERIAL CATHETER INSERTION [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: colpocephaly, absent corpus callosum, seizures UVC placement
+
+COMPARISON: Abdomen radiograph [DATE].
+
+TECHNIQUE: 2 serial supine AP views of the chest and abdomen were obtained.
+
+FINDINGS:  
+
+Lines/Tubes:
+*Umbilical venous catheter with tip overlying the inferior right atrium on
+the final image
+*Enteric tube tip and side-port overlie the stomach
+*Endotracheal tube appears advanced with tip near the right mainstem
+bronchus.
+
+Mediastinum: Stable.
+
+Lungs: No focal airspace opacities.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Slightly increased gaseous distention of multiple bowel
+loops.
+
+Pneumatosis: Nonspecific bubbly lucencies overlying left hemiabdomen.
+
+Pneumoperitoneum: None.
+
+Portal Venous gas: None.
+
+Bones: No acute osseous abnormality.
+
+
+
+IMPRESSION: 
+
+Endotracheal tube tip overlies the lower thoracic trachea, near the right
+mainstem bronchus. Recommend 1-1.5 cm retraction.
+
+UVC line tip overlies the right inferior atrium.
+
+Slightly increased gaseous distention of multiple bowel loops. Nonspecific
+bubbly lucencies overlying left abdomen. No evidence of pneumoperitoneum.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube in the bronchus or esophagus 
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME] on [DATE]
+PM.
+
+Dictated by: [PHYSICIAN_NAME]. [DATE]
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in
+this report.  [DATE]",04:54:00,,1.0,2180.0,2.18,1.0,1 day,train,34.71,Black
+,,22,False,x,1 day,31w3d,F,AI,Preterm infant needing surfactant. Evaluate tube position.,"EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Preterm infant needing surfactant. Evaluate tube position.
+
+COMPARISON: Chest abdomen radiograph yesterday at [TIME].. 
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Enteric tube tip and side-port overlies stomach.
+*	Endotracheal tube tip overlies the distal thoracic trachea angulated down the right mainstem bronchus.
+
+Mediastinum: Normal.
+
+Lungs: Diffuse interstitial and hazy opacities. Asymmetric airspace opacification of the left lung. 
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.  
+
+Upper abdomen: Gaseous distention of bowel and stomach noted.
+
+
+IMPRESSION: 
+Endotracheal tube tip overlies distal thoracic trachea angulated on the right mainstem bronchus with asymmetric increased opacification of the left lung.
+
+Diffuse interstitial and hazy opacities consistent with lung disease of prematurity.
+
+Findings were discussed with [PHYSICIAN_NAME] who stated team noticed tube was too inferior on procedural radiograph and obtained repeat after adjusting ET by [PHYSICIAN_NAME] on [DATE].
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",00:22:00,,1.0,1740.0,1.74,1.0,1 day,train,31.43,American Indian/Alaska Native
+,,23,False,x,12 days,24w5d,F,B,"ex 24 weeker, on Jet eval lung fields on Jet","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: ex 24 weeker, on Jet eval lung fields on Jet
+
+COMPARISON: Same day chest/abdomen radiograph.
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Interval advancement of endotracheal tube with distal tip abutting right mainstem bronchus.
+*	Enteric tube tip and side-port overlies stomach.
+*	Left upper extremity PICC tip overlies left brachiocephalic vein.
+
+Mediastinum: Partially obscured, unchanged.
+
+Lungs: Diffuse coarse interstitial opacities with mildly improved aeration bilaterally. Prominent air bronchograms centrally.  
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION: 
+
+Interval placement of endotracheal tube with tip abutting right mainstem bronchus. Recommend retracting 5 mm.
+
+Lung disease of prematurity with diffuse airspace disease improved bilaterally.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",01:55:00,,1.0,620.0,0.62,12.0,12 days,test,24.71,Black
+,,24,False,x,5 days,27w1d,F,B,"27 week, RDS, surf x 3. Interval eval, increased vent support, s/p
+3 doses surf.","EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 27 week, RDS, surf x 3. Interval eval, increased vent support, s/p 3 doses surf.
+
+COMPARISON: Chest abdomen radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip projects over the right mainstem bronchus, either over the opening or in the proximal portion.
+*	Umbilical venous catheter tip projects over the inferior right atrium 8 mm above the inferior cavoatrial junction.
+*	Enteric tube tip and side-port project over the stomach.
+
+Mediastinum: Stable.
+
+Lungs: Slightly decreased generalized pulmonary haze with improved aeration of the right upper lobe compared to prior. Normal lung volumes overall.      
+
+Pleura: No pleural effusion or pneumothorax. Prominent skinfold over the right lateral thorax.
+
+Bones: Normal.
+
+Upper abdomen: Unremarkable.
+
+IMPRESSION: 
+
+1. Endotracheal tube tip overlying either the opening or the proximal portion of the right mainstem bronchus. Recommend 0.5 cm retraction.
+
+2. Slightly improved aeration of the lungs with moderate diffuse surfactant deficiency pattern.
+
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME]. Dictated by: [PHYSICIAN_NAME].
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",01:24:00,,1.0,795.0,0.795,5.0,5 days,train,27.14,Black
+,,25,False,x,2 days,36w1d,M,B,"premie with pneumo, renal and res failure with PPHN, NPO","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: premie with pneumo, renal and resp failure with PPHN, NPO evaluate lung fields, pneumo and bowel gas pattern
+
+COMPARISON: chest and abdomen radiograph [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained.
+
+FINDINGS:
+
+Support lines/tubes:
+*The endotracheal tube tip overlies the midthoracic trachea
+*Enteric tube tip and side-port overlie the stomach
+*Umbilical venous catheter overlies the inferior cavoatrial junction
+*Umbilical arterial catheter overlies the level of T6
+*Interval insertion of right superior approach central venous catheter
+with tip overlying the right atrium 
+*Retraction of catheter tubing overlying the pelvis, likely within the
+penile urethra.
+
+Mediastinum: Stable.
+
+Lungs: Unchanged left perihilar and right mid and upper lung opacities
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Gasless
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Normal.
+
+Other: None.
+
+
+
+IMPRESSION:
+
+Interval insertion of right superior approach central venous catheter with tip
+overlying the right atrium. 
+
+Unchanged sequela of surfactant deficiency with superimposed atelectasis in the
+mid and upper lung fields.
+
+Gasless abdomen.
+
+Bladder catheter has been retracted into the penile urethra.
+
+Dictated by: [PHYSICIAN_NAME] [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this
+report.  [TIME]",00:04:00,1.0,,2350.0,2.35,2.0,2 days,train,36.14,Black
+,,26,False,x,3 months,27w03,F,B,"3mo s/p PDA closure now intubated, eval ETT placement","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 3mo s/p PDA closure now intubated, eval ETT placement
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*The endotracheal tube tip projects over the upper to midthoracic trachea.
+*The PDA occlusion device projects over the the aortopulmonic window.
+
+Mediastinum: Stable.
+
+Lungs: The right upper lobe is collapsed. There are streaky perihilar opacities
+within the aerated lungs.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable.
+
+Upper abdomen: There is excreted contrast material within the right more so
+than the left kidney.
+
+Other: None.
+
+
+
+IMPRESSION: 
+
+1.Endotracheal tube tip in the upper to midthoracic trachea.
+2.Right upper lobe collapse with other mild areas of perihilar
+atelectasis.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in
+this report.  [TIME]",00:29:00,1.0,,2630.0,2.63,91.32000000000001,3 months,train,27.0,Black
+,,27,False,x,23 days,33w2d,F,B,"Ex-preterm with coarc s/p stent placement in cath lab. Evaluation
+of ETT following transport.","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Ex-preterm with coarc s/p stent placement in cath lab. Evaluation of ETT following transport.
+
+COMPARISON: Chest radiograph yesterday.
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:
+
+Lines/Tubes:
+*Endotracheal tube tip overlies the midthoracic trachea.
+*Enteric tube tip and side-port overlie the left upper quadrant.
+*Right upper extremity PICC tip overlies the mid right subclavian vein.
+
+Mediastinum: Persistent cardiothymic enlargement with overcirculation. Vascular stent overlies the region of the aortic isthmus.
+
+Lungs: Mild edema. Patchy perihilar atelectasis. Normal lung volumes.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Unchanged
+
+Upper abdomen: Excreted contrast material within the left renal collecting system, presumably from catheterization earlier today.
+
+
+
+IMPRESSION:
+
+1. Persistent cardiothymic enlargement and overcirculation with mild pulmonary edema. Vascular stent overlies the region of the aortic isthmus.
+
+2. Endotracheal tube in satisfactory position with tip over the midthoracic trachea.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:09:00,1.0,,1800.0,1.8,23.0,23 days,train,33.29,Black
+,,28,False,x,5 days,34w0d,M,B,"Atresia resection this evening. Eval ett position and bowel gas
+pattern.","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Atresia resection this evening. Eval ett position and bowel gas pattern.
+
+COMPARISON: Same day abdominal radiograph [TIME].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*One or 2 enteric tubes project over the stomach --difficult to tell if
+one or 2 tubes are present as there are parallel lines along the entire course
+of the visible tubes..
+*Endotracheal tube overlies the midthoracic trachea approximately 5 mm
+above the carina.
+
+Mediastinum: Normal.
+
+Lungs: Normal.
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Postsurgical changes of atresia resection. Mild bowel gas.
+
+Pneumatosis: Bubbly lucencies over the bilateral hemiabdomen.
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: No acute osseous abnormality Other: None.
+
+
+
+IMPRESSION: 
+
+Endotracheal tube tip overlies the midthoracic trachea approximately 5 mm above
+the carina. The lungs are clear and well-inflated.
+
+Postop jejunal atresia repair, no longer with dilated bowel.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in
+this report.  [TIME]",00:15:00,1.0,,1620.0,1.62,5.0,5 days,train,34.0,Black
+,,29,False,x,47 days,33w6d,M,W,S/P distractors. Infant is nasally intubated. Evaluate lung fields.,"EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: S/P distractors. Infant is nasally intubated. Evaluate lung fields.
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained. Slight rightward
+patient rotation.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*Endotracheal tube tip overlies the proximal to midthoracic trachea. The
+carina is poorly visualized, but tip is approximately 1.5 cm above the carina.
+*Enteric tube tip and side-port overlie the stomach.
+
+Mediastinum: Stable.
+
+Lungs: Decreased lung volumes with increased patchy opacities in the the upper
+lungs and left base.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.
+
+Upper abdomen: Unremarkable.
+
+
+
+IMPRESSION: 
+
+1. Satisfactory position of the endotracheal and enteric tubes.
+
+2. Decreased lung volumes with increased mild patchy upper lobe and left
+basilar atelectasis.
+
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME] on 
+[DATE].
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in
+this report.  [DATE]",02:36:00,1.0,,3800.0,3.8,47.0,47 days,train,33.86,White
+,,30,False,x,17 days,25w6d ,M,W,"former 25 weeker with concern for pneumatosis evolving abdominal
+pathology","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: former 25 weeker with concern for pneumatosis evolving abdominal
+pathology
+
+COMPARISON: Chest and abdomen radiographs [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*Endotracheal tube tip has been retracted and overlies the midthoracic
+trachea.
+*Enteric tube tip and side-port overlie the stomach.
+
+Mediastinum: Normal.
+
+Lungs: Persistent hazy airspace opacities, predominant in the right upper lobe.
+Diffuse coarse granular interstitial opacities.Lungs are normal in volume.
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Decreased gaseous distention of the bowel with relative
+paucity of bowel gas in the right abdomen.
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Normal.
+
+Other: None.
+
+
+
+IMPRESSION: 
+
+1. Decreased gaseous distention of the bowel. No pneumatosis, pneumoperitoneum
+or portal venous gas.
+2. Support lines/tubes are in satisfactory positions.
+3. Changes of premature lung disease with increased atelectasis in the right
+upper lobe.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this
+report.  [TIME]",02:08:00,1.0,,890.0,0.89,17.0,17 days,test,25.86,White
+,,31,False,x,1 day,39w3d,M,B,"term, MAS, resp failure, PPHN interval eval of exansion and lung
+fields","EXAMINATION: XR PEDS CHEST AP PORTABLE, XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER], [ACCESSION_NUMBER]
+
+INDICATION: term, MAS, resp failure, PPHN interval eval of exansion and lung
+fields
+
+COMPARISON: Chest radiograph [DATE] at [TIME].
+
+TECHNIQUE: Single frontal view of the chest was obtained at [TIME] and 2
+frontal views of the chest obtained at [TIME].
+
+FINDINGS:  
+
+Lines/Tubes: 
+*The endotracheal tube tip projects over the midthoracic trachea.
+*Umbilical venous catheter tip projects over the lower right atrium at the
+T9 level.
+*Enteric tube tip and sidehole project over the stomach in the left upper
+quadrant
+
+Mediastinum: Normal.
+
+Lungs: Ropey and patchy opacities in the perihilar regions apices similar to
+prior. There is mild hyperinflation.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+
+IMPRESSION: 
+
+Hyperinflation and ropey/patchy lung opacities due to meconium aspiration are
+unchanged. No air leak phenomenon, lobar consolidation, or pleural effusion.
+
+Satisfactory position of support lines and tubes. The umbilical venous catheter
+has been withdrawn to the T9 level in the lower right atrium and the
+endotracheal tube tip projects over the midthoracic trachea.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in
+this report.  [DATE] [TIME]",01:24:00,1.0,,3300.0,3.3,1.0,1 day,test,39.43,Black
+,,32,False,x,1 day,33w3d,M,B,"33wk infant with concern for congenital pneumonia, 33wk infant with
+PPHN and respiratory failure, eval lung expansion on high frequency jet","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 33wk infant with concern for congenital pneumonia, 33wk infant with PPHN and respiratory failure, eval lung expansion on high frequency jet
+
+COMPARISON: Chest abdomen radiograph [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Lines/Tubes
+*Endotracheal tube tip overlies the midthoracic trachea.
+*Umbilical artery catheter tip overlies the T8 vertebral body.
+*Umbilical venous catheter tip projects to the right of the L2 vertebral body, unchanged.
+*Urinary catheter projects over the pelvis.
+
+Mediastinum: Prominent cardiothymic silhouette, unchanged.
+
+Lungs: Persistent diffuse hazy opacities with opacification of the right midlung pulmonary parenchyma. There are focal lucencies overlying the right upper and lateral right lower lung. 
+
+Pleura: Trace pleural effusions. Small right pneumothorax without mediastinal shift, unchanged in appearance from prior.
+
+Bones: Stable.  
+
+Upper abdomen: Gaseous-filled bowel overlies the lower abdomen. Scattered nonspecific bubbly lucencies are favored to represent intraluminal gas.
+
+
+
+IMPRESSION: 
+
+Grossly stable right pneumothorax.
+
+Unchanged interstitial and perihilar opacities.
+
+Unchanged low-lying umbilical venous catheter located to the right of the L2 vertebral body.  Otherwise stable lines and tubes.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",05:25:00,1.0,,2180.0,2.18,1.0,1 day,train,33.43,Black
+,,33,False,x,0 days,37w1d,F,W,"37 week term infant with jejunal atresia, post op jejunal repair,
+post op eval","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 37 week term infant with jejunal atresia, post op jejunal repair,
+post op eval
+
+COMPARISON: Abdominal radiograph, upper GI, and barium enema from earlier
+[TIME].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*Endotracheal tube overlies the midthoracic trachea.
+*Enteric tube side port and tip overlie the left upper quadrant.
+*Surgical staples project over the midline abdomen.
+
+Mediastinum: Stable.
+
+Lungs: Increased diffuse hazy opacification with scattered regions of
+hyperlucency.
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Enteric contrast material within the microcolon. The cecum
+is not clearly demonstrated. 
+
+Pneumatosis: None.
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Stable.
+
+Other: Increased bulging of the flanks bilaterally.
+
+
+
+IMPRESSION: 
+
+1.Satisfactory positioning of lines and tubes.
+
+2.Postsurgical changes of jejunal repair. Residual enteric contrast
+material within the small caliber colon, consistent with patient's known
+microcolon.
+
+3.Increased bulging of the lungs bilaterally which may represent
+small-volume ascites.
+
+4.Diffuse hazy opacities are increased from prior which may represent
+edema, atelectasis, or sequelae of meconium aspiration.
+
+Dictated by: [PHYSICIAN_NAME].  [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in
+this report.",00:09:00,1.0,,3340.0,3.34,0.0,0 days,train,37.14,White
+,,34,False,x,3 days,30w3d,M,B,"30 week infant with cardiac anomaly evaluate lung volumes and line
+location","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 30 week infant with cardiac anomaly evaluate lung volumes and line location
+
+COMPARISON: Prenatal MRI [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*	Endotracheal tube tip projects over the midthoracic trachea.
+*	Umbilical arterial catheter tip projects over the T9 level to the left of the spine.
+*	 Low position of umbilical venous catheter tip in the liver.
+*	Enteric tube tip and sidehole project over the stomach.
+
+Mediastinum: Normal.
+
+Lungs: Moderate granular lung opacities and mild hyperinflation.            
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Nonobstructive.      
+ 
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: Present.
+
+Bones: Normal.      
+
+Other: None.
+
+
+IMPRESSION: 
+
+Umbilical arterial catheter tip at the T9 level, slightly low position in the descending thoracic aorta.
+
+Low position of umbilical venous catheter tip in the liver with associated portal venous air.
+
+Endotracheal tube tip projects over the midthoracic trachea.
+
+Enteric tube tip and sidehole project over the stomach.
+
+Moderate surfactant deficiency pattern.
+
+Normal bowel gas pattern.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report. [DATE]",02:59:00,1.0,,1280.0,1.28,3.0,3 days,train,30.43,Black
+,,35,False,x,2 months,26w2d ,M,B,plan to extubate today eval lung fields,"EXAMINATION: XR PEDS CHEST AP 
+
+ACCESSION NUMBER:  [ACCESSION_NUMBER] 
+
+INDICATION: plan to extubate today eval lung fields
+
+COMPARISON: Chest radiograph .
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*Endotracheal tube tip overlies mid thoracic trachea 6 mm above carina.
+*Enteric tube courses below diaphragm with tip excluded by collimation.
+
+Mediastinum: Partially obscured on the right, but grossly unchanged.
+
+Lungs: Stable mild diffuse interstitial opacities. Shifting atelectasis,
+decreased in the right upper and perihilar regions, and slightly increased in
+the left upper lobe. 
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Unchanged diffuse demineralization is associated periosteal reaction of
+the bilateral humeri.
+
+Upper abdomen: Gaseous distention of bowel noted.
+
+Other: None.
+
+
+
+IMPRESSION: 
+
+Endotracheal tube has been advanced with tip now overlying the midthoracic
+trachea.
+
+Chronic lung disease of prematurity with shifting atelectasis.
+
+Dictated by: [PHYSICIAN_NAME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in
+this report.",02:51:00,1.0,,2320.0,2.32,60.88,2 months,test,26.29,Black
+,,36,False,x,3 days,31w1d,F,B,"31 weeker, on vent, left atelectasis, bowel gas pattern concerning
+for septic ileus. eval lung field and bowel gas pattern.","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 31 weeker, on vent, left atelectasis, bowel gas pattern concerning for septic ileus. eval lung field and bowel gas pattern.
+
+COMPARISON: Multiple recent chest and abdomen radiographs, including yesterday at [TIME].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained.
+
+FINDINGS:  
+
+Support lines/tubes: 
+*Endotracheal tube tip over the midthoracic trachea.
+*Enteric tube tip over the stomach with proximal sidehole over the distal esophagus.
+*Umbilical artery catheter tip at the T5-T6 level. Umbilical venous catheter tip over the right atrium.
+*Right arm angiocatheter.
+
+Mediastinum: Normal.
+
+Lungs: Mild diffuse interstitial opacities with continued improvement in aeration and expansion of the left lung. Shifting atelectasis in the right upper lobe, now mild. Minimal additional scattered patchy atelectasis.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Nonobstructive. Moderate gaseous distention of bowel with otherwise decreased amount of intraluminal gas.
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Stable.
+
+
+
+IMPRESSION: 
+
+1. Continued improvement in expansion and aeration of the lungs, with now mild scattered patchy atelectasis, worst in the right upper lobe.
+
+2. No acute abdominal abnormality. No definite pneumatosis or other findings of necrotizing enterocolitis. No dilated bowel.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report. [DATE]",03:43:00,1.0,,1450.0,1.45,3.0,3 days,train,31.14,Black
+,,37,False,x,6 days,28w4d,M,W,"ex 28 weeker now 1 week old with emesis. evaluate ETT placement and
+bowel gas pattern.","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: ex 28 weeker now 1 week old with emesis. evaluate ETT placement and 
+bowel gas pattern.
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*Endotracheal tube tip over the midthoracic trachea.
+*Enteric tube tip and sidehole overlie the stomach.
+
+Mediastinum: Normal.
+
+Lungs: Mild diffuse interstitial coarsening with patchy bilateral upper lobe
+atelectasis. Normal lung volumes.
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Diffuse gaseous distention of bowel with mild dilation in
+the left hemiabdomen.
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: No acute osseous abnormality.
+
+
+
+IMPRESSION: 
+
+1. Appropriate positioning of endotracheal and enteric tubes.
+
+2. Diffuse gaseous distention of bowel with mild dilation of the left
+hemiabdomen. No pneumatosis intestinalis or pneumoperitoneum.
+
+3. Mild changes of lung disease of prematurity with patchy bilateral upper lobe
+atelectasis.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",01:10:00,1.0,,1135.0,1.135,6.0,6 days,train,28.57,White
+,,38,False,x,2 days,29w5d ,M,W,"29 weeker on CMV, s/p surf eval lung fields","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 29 weeker on CMV, s/p surf eval lung fields
+
+COMPARISON: [DATE] chest radiograph.
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip overlies the midthoracic trachea.
+*	Enteric tube courses below diaphragm with tip excluded by collimation.
+
+Mediastinum: Stable.
+
+Lungs: Stable mild diffuse granular opacities with mildly increased patchy bilateral atelectasis.            
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable.
+
+Upper abdomen: Gaseous distention of bowel and stomach noted.
+
+
+IMPRESSION: 
+
+Stable mild diffuse granular opacities. Mild patchy left upper lung and bibasilar atelectasis..
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",00:10:00,1.0,,1545.0,1.545,2.0,2 days,train,29.71,White
+,,39,False,x,1 day,28w1d ,F,W,Assess endotracheal tube in bilateral lungs,"EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Assess endotracheal tube in bilateral lungs    
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Enteric tube tip overlies the midthoracic trachea.
+*	Enteric tube tip and side-port overlie the stomach.. 
+
+Mediastinum: Normal.
+
+Lungs: Increased lung volumes with decreased bilateral hazy lung opacities. Decreased diffuse granular opacities.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable.  
+
+Upper abdomen: Gaseous distention of bowel and stomach noted.
+
+Other: None.
+
+
+IMPRESSION: 
+
+Lung disease of prematurity with improved aeration of the bilateral lungs. 
+
+
+I, [PHYSICIAN_NAME], have reviewed the study at [TIME] and agree with the findings in this report at [TIME].",00:11:00,1.0,,1080.0,1.08,1.0,1 day,train,28.14,White
+,,40,False,x,11 days,27w3d,M,A,"infant with new intubation on vent. Please evaluate new ET tube
+placement and lung expansion.","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: infant with new intubation on vent. Please evaluate new ET tube placement and lung expansion.
+
+COMPARISON: Chest radiograph from [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:
+
+Lines/Tubes:
+*Endotracheal tube tip overlies the midthoracic trachea.
+*Enteric tube tip and side-port overlie the stomach.
+
+Mediastinum: Stable.
+
+Lungs: Slightly increased diffuse interstitial and hazy opacities.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable.
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+
+IMPRESSION:
+
+Endotracheal tube tip overlies the midthoracic trachea.
+
+Lung disease of prematurity with slightly increased atelectasis/mild pulmonary edema.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:53:00,1.0,,1170.0,1.17,11.0,11 days,test,27.43,Asian
+,,41,False,x,3 days,37w0d,M,W,Endotracheal tube.,"EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Endotracheal tube.
+
+COMPARISON: Same day chest and abdomen radiograph at [TIME].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*Endotracheal tube tip overlies the mid thoracic trachea approximately 1.5
+cm above the carina
+*Enteric tube tip overlies the stomach.
+
+Mediastinum: Normal.
+
+Lungs: Similar diffuse interstitial opacities with hazy bibasilar opacities.
+Mild pulmonary hyperinflation.
+
+Pleura: Trace bilateral pleural effusions. No pneumothorax.
+
+Bones: Normal.
+
+Upper abdomen: No dilated bowel.
+
+
+
+IMPRESSION: 
+
+1. Endotracheal tube tip over the midthoracic trachea.
+
+2. Stable pulmonary edema.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in
+this report.",00:04:00,1.0,,3870.0,3.87,3.0,3 days,test,37.0,White
+,,42,False,x,49 days,25w4d,F,B,Preterm infant on CMV. Please eval lung fields and expansion.,"EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Preterm infant on CMV. Please eval lung fields and expansion.
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*Endotracheal tube tip overlies the midthoracic trachea
+*Enteric tube tip and side-port overlie stomach, advanced from prior.
+
+Mediastinum: Unchanged.
+
+Lungs: Persistent diffuse hazy opacification and scattered confluent
+opacities. Confluent right upper lung opacification. Improved aeration. Low
+lung volumes.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Unchanged.
+
+Upper abdomen: Gaseous distention of bowel and stomach noted.
+
+Other: None.
+
+
+
+IMPRESSION: 
+
+Lung disease of prematurity with low lung volumes and shifting multifocal
+atelectasis.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",01:59:00,1.0,,1190.0,1.19,49.0,49 days,test,25.57,Black
+,,43,False,x,11 days,28w6d,F,W,2 week old preemie with NEC. post op silo placement.,"EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 2 week old preemie with NEC. post op silo placement.
+
+COMPARISON: Chest and abdomen radiographs [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained.
+
+FINDINGS:
+
+Support lines/tubes: 
+*Endotracheal tube has been retracted with the tip overlying the
+midthoracic trachea.
+*Enteric tube tip and distal side-port overlie the stomach. Proximal
+side-port overlies the distal esophagus.
+*Silo bag overlies the central abdomen.
+
+Chest: Mild interstitial and hazy opacities. Normal mediastinal silhouette. No
+pleural effusion or pneumothorax.
+
+Bowel gas pattern: Decreased but persistent diffuse gaseous bowel dilation.
+
+Pneumatosis: Scattered bubbly lucencies are slightly less prominent.
+
+Pneumoperitoneum: Small-volume postoperative pneumoperitoneum.
+
+Portal Venous gas: Decreased.
+
+Bones: Stable.
+
+
+
+IMPRESSION:
+
+1. Postsurgical abdomen with silo in place.
+
+2. Decreased bowel dilation with small volume postoperative pneumoperitoneum.
+
+3. Endotracheal tube has been retracted with the tip now overlying the
+midthoracic trachea. Unchanged enteric tube.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:52:00,1.0,,1260.0,1.26,11.0,11 days,train,28.86,White
+,,44,False,x,2 days,36w1d,M,W,"Post op for duodenal atresia, intubated on vent support, reploge
+placed. evaluate lungs and bowel","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Post op for duodenal atresia, intubated on vent support, reploge placed. evaluate lungs and bowel
+
+COMPARISON: Abdominal radiograph earlier today. PICC series [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained on two cassettes.
+
+FINDINGS:
+
+Support lines/tubes:
+*Endotracheal tube tip over the midthoracic trachea.
+*Right upper extremity PICC tip over the SVC.
+*Enteric tube tip over the stomach.
+
+Mediastinum: Normal.
+
+Lungs: Mild edema with patchy retrocardiac atelectasis.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Nonobstructive. Surgical suture material and scattered surgical clips in the central and upper abdomen.
+
+Pneumatosis: None
+
+Pneumoperitoneum: Small volume postoperative pneumoperitoneum.
+
+Portal venous gas: None.
+
+Bones: Normal.
+
+Other: None.
+
+
+
+IMPRESSION:
+
+1. Mild pulmonary edema.
+
+2. Nonobstructive bowel gas pattern with small volume postoperative pneumoperitoneum.
+
+3. Satisfactory positioning of support lines and tubes.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report at [TIME] and [TIME].",00:12:00,1.0,,2530.0,2.53,2.0,2 days,test,36.14,White
+,,45,False,x,33 days,39w1d,M,B,"term infant s/p cdh repair, low bps Evaluate lungs","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: term infant s/p cdh repair, low bps Evaluate lungs
+
+COMPARISON: Chest radiograph [TIME].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*Endotracheal tube tip overlies the midthoracic trachea.
+*Right internal jugular catheter overlies the superior vena cava.
+*Unchanged positioning of the left chest tube.
+*Enteric tube courses below the diaphragm with tip overlying the proximal
+stomach and sidehole near the gastroesophageal junction, unchanged.
+*Left scalp PICC tip overlies the left internal jugular vein.
+*Right femoral central venous catheter tip overlies the intrahepatic IVC.
+
+Mediastinum: Obscured.
+
+Lungs: Hyperinflation of the right lung herniating across midline, similar in
+appearance to prior radiograph. Similar aeration of the left lung. Unchanged
+bilateral perihilar opacities.
+
+Pleura: Small bilateral pleural effusions, left greater than right. No visible
+pneumothorax.
+
+Bones: Stable. 
+
+Upper abdomen: Unremarkable.
+
+Other: Chest wall edema.
+
+
+
+IMPRESSION: 
+
+Persistent right lung hyperinflation with herniation across midline. Unchanged
+perihilar opacities.
+
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:12:00,1.0,,5090.0,5.09,33.0,33 days,test,39.14,Black
+,,46,False,x,1 day,24w0d,F,B,"ELBW on HFOV evaluate chest expansion f0llowing decrease in MAP,
+evaluate UVC position, evaluate ETT position after withdrawal of 0.5cm","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: ELBW on HFOV evaluate chest expansion follow[TIME], evaluate UVC position, evaluate ETT position after withdrawal of 0.5cm
+
+COMPARISON: Same day chest radiograph [TIME] and chest and abdomen radiograph
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained.
+
+FINDINGS:
+
+Support lines/tubes:
+*Endotracheal tube overlies the midthoracic trachea.
+*Umbilical venous catheter tip overlies the superior right atrium at T6 level.
+*Umbilical artery catheter overlies the inferior endplate of T6
+*Nasogastric tube tip and side-port overlie the stomach
+
+
+Medistinum: Stable.
+
+Lungs: Unchanged mild diffuse granular opacities.  Lungs are normal in volume.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Nonobstructive.
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Stable.
+
+Other: None.
+
+
+
+IMPRESSION:
+
+Endotracheal tube tip overlies the midthoracic trachea. Unchanged findings of
+surfactant deficiency with normal lung volumes.
+
+High position of UVC catheter. Suggest retraction by about 1.2 cm
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:54:00,1.0,,690.0,0.69,1.0,1 day,train,24.0,Black
+,,47,False,x,5 days,37w2d,M,B,"term infant with hx of PPHN, reintubated for hypercapnea.  evaluate
+ett placement and lung fields.","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: term infant with hx of PPHN, reintubated for hypercapnea. evaluate 
+ett placement and lung fields.
+
+COMPARISON: Chest radiograph earlier today at [TIME].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*New endotracheal tube tip overlies the midthoracic trachea with mild leftward
+tenting of the trachea.
+*Enteric tube tip and side-port overlying the stomach.
+*Umbilical artery catheter at the T6 level.
+
+Mediastinum: Normal. Gaseous distention of the esophagus is noted at the
+thoracic inlet.
+
+Lungs: Unchanged mild\central predominant interstitial opacities. The lungs
+are mildly hyperinflated.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable.
+
+Upper abdomen: Gaseous distention of bowel and stomach noted.
+
+
+
+IMPRESSION: 
+
+1. New endotracheal tube tip overlies the midthoracic trachea.
+
+2. Mild central interstitial edema with mild pulmonary hyperinflation.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in
+this report.",00:21:00,1.0,,3030.0,3.03,5.0,5 days,train,37.29,Black
+,,48,False,x,1 day,26w1d ,M,A,premie on vent for res failure evaluate lung fields on vent,"EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: premie on vent for res failure evaluate lung fields on vent
+
+COMPARISON: [DATE]
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*Endotracheal tube tip overlies the midthoracic trachea.
+*UVC tip overlies the inferior right atrium and withdrawal 0.5 -1.0 cm recommended
+*UAC tip overlies the aorta at T6.
+
+Mediastinum: Normal.
+
+Lungs: Diffuse granular haze bilaterally. Trace thickening of the minor
+fissure.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+
+IMPRESSION: 
+
+Diffuse changes of surfactant deficiency.
+
+Slightly high position of the UVC with tip overlying the right atrium and
+withdrawal 0.5 cm recommended.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",01:20:00,1.0,,880.0,0.88,1.0,1 day,test,26.14,Asian
+,,49,False,x,4 days,39w0d,M,B," 4 day old s/p jejunal atresia resection, return from OR Evaluate
+tubes and lines","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 4 day old s/p jejunal atresia resection, return from OR Evaluate tubes and lines
+
+COMPARISON: Line placement radiographs [DATE]. Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*Endotracheal tube tip overlies the midthoracic trachea.
+*Left upper extremity PICC tip overlies the cephalad superior vena cava.
+*Enteric tube tip overlies the stomach.
+
+Mediastinum: Normal.
+
+Lungs: Minimal perihilar and retrocardiac haziness likely atelectasis
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable. 
+
+Upper abdomen: Unremarkable.
+
+Other: Epigastric lucency and subtle falciform ligament compatible with postoperative pneumoperitoneum
+
+IMPRESSION:  
+
+Left perihilar and retrocardiac hazy probable atelectasis
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:05:00,1.0,,2840.0,2.84,4.0,4 days,test,39.0,Black
+,,50,False,x,2 months,29w4d,M,W,pretermi nfant intubated for OR evaluate lung fields and tube,"EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: preterm infant intubated for OR evaluate lung fields and tube
+
+COMPARISON: Chest radiograph.
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*Endotracheal tube tip overlies the midthoracic trachea.
+*Enteric feeding tube courses into the upper abdomen, but tip is excluded
+by collimation. 
+*Gastrostomy tube overlies the left upper quadrant.
+
+Mediastinum: Enlarged, unchanged. Gaseous distension of the esophageal to the
+level of the gastroesophageal junction. No visible hiatal hernia. 
+
+Lungs: Mild diffuse interstitial opacities. Perihilar opacities.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable. 
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+
+IMPRESSION: 
+
+Endotracheal tube tip overlies the midthoracic trachea.
+
+Cardiomegaly with interstitial and perihilar opacities, likely a combination of
+edema and atelectasis.
+
+Postsurgical changes of hiatal hernia repair with gaseous distension of the
+esophagus to the level of the gastroesophageal junction. Percutaneous
+gastrostomy tube overlies left upper quadrant.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in
+this report.  [TIME]",01:35:00,1.0,,3940.0,3.94,60.88,2 months,train,29.57,White
+,,51,False,x,21 days,25w0d ,M,,"preterm infant with RDS, remains intubated evaluate lung fields","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: preterm infant with RDS, remains intubated evaluate lung fields
+
+COMPARISON: Chest radiograph [DATE] [TIME] hours.
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*	ET tube tip overlies the midthoracic trachea.
+*	Advancement of the enteric tube, which still overlies the stomach.
+
+Mediastinum: Normal heart size.
+
+Lungs: Lower lung volumes with increased bilateral hazy opacities.            
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Decreased gaseous distention of the stomach.
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Normal.
+
+Other: None.
+
+
+IMPRESSION: 
+Satisfactory position of support lines and tubes.
+
+Premature lung disease with increased subsegmental perihilar atelectasis and lower lung volumes since [DATE].
+
+Normal bowel gas pattern.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",00:21:00,1.0,,1060.0,1.06,21.0,21 days,train,25.0,Unknown
+,,52,False,x,6 days,27w2d ,M,B,"27 week infant, RDS, pulm hemorrhage, fixed bowel gas pattern.
+interval eval of lung fields and bowel gas pattern.","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 27 week infant, RDS, pulm hemorrhage, fixed bowel gas pattern. interval eval of lung fields and bowel gas pattern.
+
+COMPARISON: Chest abdomen radiographs [DATE] and multiple recent priors. Abdominal ultrasound yesterday.
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained.
+
+FINDINGS:
+
+Support lines/tubes:
+*	Endotracheal tube tip overlies the right mainstem bronchus.
+*	Enteric tube tip and side-ports overlying the stomach.
+*	Umbilical arterial catheter overlying the T7 vertebral body.
+*	Umbilical venous catheter tip over the inferior right atrium.
+
+Mediastinum: Normal.
+
+Lungs: Decreased lung volumes increased right worse than left diffuse granular and hazy opacities. More dense opacities of the right upper lobe and left retrocardiac region, likely atelectasis secondary to malpositioned endotracheal tube. 
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Nonobstructive. Slightly increased amount of bowel gas compared with the most recent prior study, without frank dilation.
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Normal.
+
+
+IMPRESSION:
+
+1. Endotracheal tube tip overlying the right mainstem bronchus. Recommend 0.5 cm retraction.
+
+2. Increased right worse than left diffuse granular and hazy opacities, with additional elements of atelectasis over the upper right lung as well as left retrocardiac region likely secondary to malpositioned endotracheal tube.
+
+3. Slightly increased volume of bowel gas within nondilated bowel loops. No pneumatosis intestinalis or pneumoperitoneum.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube in the bronchus or esophagus 
+[PHYSICIAN_NAME] became aware of the critical finding at [TIME].
+Key results discussed with [PHYSICIAN_NAME] at [TIME].
+Dictated by: [PHYSICIAN_NAME]. [DATE]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [DATE]",01:28:00,,1.0,790.0,0.79,6.0,6 days,test,27.29,Black
+,,53,False,x,9 days,36w0d ,F,W,"Pfeffer syndrome, critical airway 36 week infant with pfeffer
+syndrome, assess ETT placement","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Pfeffer syndrome, critical airway 36 week infant with pfeffer syndrome, assess ETT placement
+
+COMPARISON: Chest radiograph 
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip appears deep and may be within the right mainstem bronchus.
+
+Mediastinum: Slight rightward mediastinal shift.
+
+Lungs: Increased atelectasis of the right middle and lower lobe. Unchanged right upper lobe atelectasis.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Multiple anomalies, unchanged. 
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION: 
+
+Endotracheal tube tip appears deep and may be within the right mainstem bronchus.  Recommend retracting 7mm.
+
+Unchanged right upper and increased right lower lung atelectasis.
+
+Findings were discussed with [PHYSICIAN_NAME] by [ACCESSION_NUMBER] on [DATE].
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:10:00,,1.0,2790.0,2.79,9.0,9 days,train,36.0,White
+,,54,False,x,1 day,22w1d ,F,B,"infant with worsening co2 retension, on jet, increasing support
+please evaluate ett placement and lung expansion","EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: infant with worsening co2 retension, on jet, increasing support please evaluate ett placement and lung expansion
+
+COMPARISON: Chest abdomen radiographs for line placement [DATE] [TIME].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip projects over the midthoracic trachea which is deviated to the right of midline.
+*	Enteric tube sidehole projects at the GE junction, tip over the left upper quadrant.
+*	Umbilical arterial catheter tip projects over the T5 level/level of the left bronchus
+
+Mediastinum: Rightward tracheal shift. Normal cardiac silhouette size..
+
+Lungs: Hazy/granular opacities throughout, with more confluent triangular opacity of the right upper lung. Lung volumes are slightly lower than the comparison.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+IMPRESSION: 
+
+The umbilical arterial catheter tip is at the T5 level, recommend withdrawing 5 mm.
+
+The enteric tube sidehole is at the GE junction. Recommend advancing this tube 1 cm so both the sidehole and tip are within the stomach.
+
+Satisfactory position of other lines and tubes.
+
+New right upper lobe atelectasis producing rightward tracheal shift.
+
+Background surfactant deficiency pattern with normal-low lung volumes, lower than yesterday at [TIME].
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:27:00,1.0,,392.0,0.392,1.0,1 day,train,22.14,Black
+,,55,False,X,50 days,23w2d ,M,B,"51 day old ex 23 weeker treating for UTI on vent Increased oxygen
+requirement","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 51 day old ex 23 weeker treating for UTI on vent Increased oxygen requirement
+
+COMPARISON: Chest radiograph [TIME]
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*_Endotracheal tube tip projects over the proximal right bronchus._
+*_Enteric tube tip and sidehole project over the peripyloric region._
+* Left internal jugular central venous catheter tip projects over the left brachiocephalic vein._
+* Amplatzer occlusion device projects over the expected location of the ductus arteriosus._
+
+Mediastinum: Normal heart size.
+
+Lungs: Slightly lower lung volumes with improved aeration of the retrocardiac region, not better visualization of left hemidiaphragm. Patchy perihilar and biapical atelectasis.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Mild generalized demineralization.  
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+IMPRESSION: 
+
+Endotracheal tube tip in the proximal right bronchus. Recommend withdrawing 0.75 cm.
+
+Satisfactory position of other lines and tubes.
+
+Slightly improved retrocardiac atelectasis. Other areas of subsegmental atelectasis superimposed on chronic lung disease.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:54:00,,1.0,1080.0,1.08,50.0,50 days,train,23.29,Black
+,,56,False,x,17 days,25w1d ,M,B,"former 25 week newborn requiring HFJV evolution of chronic lung
+disease","EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: former 25 week newborn requiring HFJV evolution of chronic lung disease
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:
+
+Lines/Tubes:
+*	Endotracheal tube tip overlies the carina directed towards the right mainstem bronchus.
+*	Enteric tube courses below the diaphragm but tip is excluded by collimation.
+*	Right upper extremity PICC tip overlies the superior vena cava.
+
+Mediastinum: Grossly stable partially obscured.
+
+Lungs: Grossly stable interstitial and airspace opacities. Pulmonary hyperinflation.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: No acute osseous abnormality. 
+
+Upper abdomen: Unremarkable.
+
+
+IMPRESSION:
+
+1. Endotracheal tube tip overlies the carina directed toward right mainstem bronchus.
+2. Lung disease of prematurity with unchanged atelectasis.
+
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME] on [DATE].
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",00:21:00,,1.0,810.0,0.81,17.0,17 days,test,25.14,Black
+,,57,False,x,4 months,23w5d ,M,B,"former preterm infant with BPD on vent evaluate for atelectasis and
+lung volumes","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: former preterm infant with BPD on vent evaluate for atelectasis and lung volumes
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip overlies the right mainstem bronchus.
+*	Enteric tube tip and side-port overlie the stomach.
+
+Mediastinum: Stable.
+
+Lungs: Unchanged chronic interstitial opacities, unchanged. Decreased but persistent shifting atelectasis. The lungs are hyperinflated.     
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: No acute osseous abnormality.     
+
+Upper abdomen: Unremarkable.
+
+Other: Unchanged right upper quadrant calcifications.
+
+
+IMPRESSION:  
+
+1. Right mainstem bronchus intubation. Of note, endotracheal tube was retracted on subsequent films which was performed prior to this dictation.
+2. Changes of BPD, with superimposed shifting atelectasis.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",02:27:00,,1.0,3750.0,3.75,121.76,4 months,test,23.71,Black
+,,58,False,x,1 day,24w6d ,F,B,"preterm infant on vent. to evaluate for possible pneumothorax on
+right.","EXAMINATION: XR PEDS BABYGRAM 2 VIEW [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: preterm infant on vent. to evaluate for possible pneumothorax on right.
+
+COMPARISON: Chest abdomen radiographs earlier today..
+
+TECHNIQUE: Frontal supine and left lateral decubitus views of the chest and abdomen were obtained.
+
+FINDINGS:
+
+Support lines/tubes:
+*	Endotracheal tube tip overlying the orifice of the right main bronchus.
+*	Enteric tube tip and sidehole over the stomach.
+*	Umbilical artery catheter tip at the level of T6-T7.
+*	Umbilical venous catheter tip over the inferior right atrium 6 mm above the inferior cavoatrial junction.
+
+Mediastinum: Normal.
+
+Lungs: Decreased but mild persistent diffuse hazy and granular opacities. Patchy perihilar and left basilar atelectasis.
+ 
+Pleura: No pleural effusion or pneumothorax. Previously described lucency was likely secondary to external artifact.
+
+Bowel gas pattern: Nonobstructive.     
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: Previously described total venous gas and a longer demonstrated.
+
+Bones: Normal.
+
+IMPRESSION:
+
+1. Endotracheal tube tip over the orifice of the right main bronchus. Suggest 5-10 mm retraction.
+
+2. No pneumothorax.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube in the bronchus or esophagus 
+[PHYSICIAN_NAME] became aware of the critical finding at [TIME].
+Key results discussed with the nurse practitioner caring for the patient at [DATE] by [PHYSICIAN_NAME].
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:19:00,,1.0,740.0,0.74,1.0,1 day,test,24.86,Black
+,,59,False,x,7 days,25w6d ,M,B,"Former 25w6d infant, now one week old on mechanical ventilation.
+S/P surf x2 Evaluate bilateral lung fields","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Former 25w6d infant, now one week old on mechanical ventilation. S/P surf x2 Evaluate bilateral lung fields
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip within the right mainstem bronchus.
+*	Enteric tube tip and side-port overlie the stomach.
+*	Left upper extremity PICC tip overlies the superior vena cava.
+
+Mediastinum: Increased obscuration of the right heart border. Otherwise grossly stable in size.
+
+Lungs: Diffuse interstitial and granular opacities, with slightly improved aeration of the left lung compared to the prior exam. Persistent blurring the right heart border.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable. 
+
+Upper abdomen: Gaseous distention of bowel noted.
+
+Other: None.
+
+
+IMPRESSION:  
+
+Endotracheal tube tip in the right mainstem bronchus.
+
+Lung disease of prematurity with unchanged right middle lobe atelectasis. Slightly improved aeration of the left lung.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube in the bronchus or esophagus 
+[PHYSICIAN_NAME] discussed key results with [PHYSICIAN_NAME] at [TIME].
+
+Dictated by: [PHYSICIAN_NAME]
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:31:00,,1.0,710.0,0.71,7.0,7 days,train,25.86,Black
+,,60,False,x,2 months,29w6d ,F,W,"TEF, repaired; paralyzed right diaphragm. Eval ETT placement, lung
+fields, right diaphragm.","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: TEF, repaired; paralyzed right diaphragm. Eval ETT placement, lung fields, right diaphragm.
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*_Endotracheal tube tip overlies distal thoracic trachea, near right mainstem bronchus._
+*_Enteric tube courses below diaphragm with tip excluded by collimation_
+
+Mediastinum: Stable.
+
+Lungs: Persistent right upper lung focal atelectasis. Slightly increased left retrocardiac atelectasis. Persistent right hemidiaphragm elevation.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Unchanged Changes of the right lateral thoracotomy. 
+
+Upper abdomen: Upper abdominal gaseous gastric and bowel distention.
+
+Other: None.
+
+
+IMPRESSION: 
+
+Persistent bilateral patchy atelectasis, increased within left lung.
+
+Endotracheal tube overlies distal thoracic trachea near right mainstem bronchus.
+
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME] on [DATE].
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",00:14:00,,1.0,3070.0,3.07,60.88,2 months,test,29.86,White
+,,61,False,x,6 days,36w3d ,F,AI,"6 day old F ex 36 wk infant with gastroschisis s/p repair, evaluate
+lung fields evaluate lung fields","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 6 day old F ex 36 wk infant with gastroschisis s/p repair, evaluate lung fields evaluate lung fields
+
+COMPARISON: Chest and abdomen radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes:  
+*	Endotracheal tube has been placed with tip entering the right mainstem bronchus.
+*	Enteric tube courses below the diaphragm, tip is excluded by collimation.
+*	Right scalp PICC tip overlies the superior vena cava
+
+Mediastinum: Normal.
+
+Lungs: Right upper lobe atelectasis. Mild diffuse interstitial opacities.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable.  
+
+Upper abdomen: Gaseous distention of stomach noted.
+
+Other: None.
+
+
+IMPRESSION:  
+
+Endotracheal tube has been placed with tip entering the right mainstem bronchus. Recommend retracting 8 mm.
+
+Right upper lobe atelectasis.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube in the bronchus or esophagus 
+[PHYSICIAN_NAME] discussed key results with [PHYSICIAN_NAME] at [TIME]. She stated the endotracheal tube already been retracted at the time of the call.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [DATE]",00:42:00,,1.0,1750.0,1.75,6.0,6 days,train,36.43,American Indian/Alaska Native
+,,62,False,x,1 day,24w6d ,M,B,"24w6d intubated on conventional ventilator Evaluate lung fields and
+expansion","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: intubated on conventional ventilator Evaluate lung fields and expansion
+
+COMPARISON: Same day chest and abdomen radiograph.
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:
+
+Lines/Tubes:
+*	Endotracheal tube tip overlies the distal trachea at the inlet of the right mainstem bronchus.
+*	Enteric tube tip and side port overlie the stomach.
+*	Umbilical artery catheter tip terminates at the level of the T7 vertebral body.
+*	Umbilical venous catheter tip terminates over the right atrium.
+
+Mediastinum: Stable.
+
+Lungs: Normal lung volumes with improved aeration compared to the prior exam. Diffuse granular opacities. Decreased atelectasis in the left lung base.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable.
+
+Upper abdomen: Unremarkable.
+
+
+IMPRESSION:
+
+Endotracheal tube tip overlies the distal trachea at the inlet of the right mainstem bronchus. Recommend withdrawing approximately 5 mm.
+
+Lung disease of prematurity with decreased left basilar atelectasis.
+
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME] on [DATE].
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:23:00,,1.0,697.0,0.697,1.0,1 day,train,24.86,Black
+,,63,False,x,57 days,35w3d ,F,W,8wk old s/p bronch with PDA and double aortic arch ETT placement,"EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 8wk old s/p bronch with PDA and double aortic arch ETT placement
+
+COMPARISON: None.
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip projects over the right main bronchus, lower than on the prior radiograph from this morning.
+*	The enteric tube courses into the stomach with the tip not included within the field-of-view.
+
+Mediastinum: Stable.
+
+Lungs: Overall improved aeration with decreased patchy confluent opacities.            
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable.
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION:  
+
+1.	The endotracheal tube is deeper than this morning with the tip in the right main bronchus.
+2.	Despite the low position of the tube, aeration of both lungs is improved.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube in the bronchus or esophagus 
+[PHYSICIAN_NAME] became aware of the critical finding at [TIME].
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",02:56:00,,1.0,1740.0,1.74,57.0,57 days,train,35.43,White
+,,64,False,x,20 days,30w4d ,M,W,"33 week infant with worsening apneic and bradycardic events
+necessitating intubation. evaluate ETT placement","EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 33 week infant with worsening apneic and bradycardic events necessitating intubation. evaluate ETT placement.
+
+COMPARISON: Chest and abdominal radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:
+
+Lines/Tubes:
+*	Endotracheal tube with tip at the ostium of the right mainstem bronchus.
+*	Enteric tube with tip and sidehole overlying stomach.
+
+Mediastinum: Stable.
+
+Lungs: Granular opacities of bilateral lungs. Low lung volumes.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable.
+
+Upper abdomen: Gaseous distention of bowel again noted.
+
+Other: None.
+
+
+IMPRESSION:
+
+Endotracheal tube within the right mainstem bronchus. At time of dictation, there is a sequential radiograph with retraction of the endotracheal tube.
+
+Dictated by: [PHYSICIAN_NAME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report. [DATE]",00:11:00,,1.0,1770.0,1.77,20.0,20 days,train,30.57,White
+,,65,False,x,2 days,23w6d ,M,W,Preterm infant with bilateral chest tubes. Eval lung fields.,"EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Preterm infant with bilateral chest tubes. Eval lung fields.
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:
+
+Lines/Tubes:
+*	ENDOTRACHEAL TUBE WITH TIP AT THE OSTIUM OF THE RIGHT MAINSTEM BRONCHUS
+*	Bilateral thoracostomy tubes unchanged position.
+*	Enteric tube with tip and sidehole overlying stomach.
+*	Umbilical venous and arterial catheters in unchanged position.
+
+Mediastinum: Stable.
+
+Lungs: Diffuse interstitial and hazy opacities bilaterally, unchanged from prior.
+
+Pleura: Left pneumothorax increased from the prior study. Decreased right pneumothorax.
+
+Bones: Stable.
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION:
+
+1.	Increased size of left pneumothorax.
+2.	ENDOTRACHEAL TUBE WITH TIP AT THE OSTIUM OF THE RIGHT MAINSTEM BRONCHUS.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube in the bronchus or esophagus 
+
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME] on [DATE].
+
+Dictated by: [PHYSICIAN_NAME]. [DATE]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [DATE]",00:07:00,,1.0,692.0,0.692,2.0,2 days,train,23.86,White
+,,66,False,x,3 months,24w,M,B,"Eval for ETT positioning
+and lung fields.","EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Eval for ETT positioning and lung fields. Eval for ETT positioning and lung fields.
+
+COMPARISON: None.
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:
+
+Lines/Tubes:
+*	Endotracheal tube tip overlies the proximal right mainstem bronchus.
+
+Mediastinum: Normal.
+
+Lungs: Diffuse interstitial and hazy right greater than left airspace opacities. Patchy right upper lobe atelectasis.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.
+
+Upper abdomen: Gaseous distention of bowel noted.
+
+
+IMPRESSION:
+
+1. Endotracheal tube with tip over the right mainstem bronchus, recommend retraction.
+
+2. Diffuse interstitial with patchy right greater than left airspace opacities likely representing edema and/or atelectasis. Patchy right upper lobe atelectasis.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube in the bronchus or esophagus [TIME]
+
+Dictated by: [PHYSICIAN_NAME]. [DATE]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [DATE]",00:05:00,,1.0,2360.0,2.36,91.32000000000001,3 months,test,24.0,Black
+,,67,False,x,1 day,26w6d ,M,W,"1 day old M 27 weeker requiring surf x2, now intubated evaluate ET
+tube location","EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 1 day old M 27 weeker requiring surf x2, now intubated evaluate ET tube location
+
+COMPARISON: Chest and abdomen radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Intubation with endotracheal tube tip overlying the proximal right mainstem bronchus just slightly past the carina.
+*	Enteric tube tip and side-port overlies stomach.
+
+Mediastinum: Stable.
+
+Lungs: Mild diffuse granular opacities. Lungs are normal in volume. Increased patchy opacity in the left lung base obscuring the left hemidiaphragm.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable. 
+
+Upper abdomen: Gaseous distention of stomach.
+
+Other: None.
+
+
+IMPRESSION: 
+
+Intubation with endotracheal tube tip overlying the proximal right mainstem bronchus. Recommend repositioning.
+
+Findings of surfactant deficiency with increased left basilar atelectasis.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube in the bronchus or esophagus 
+[PHYSICIAN_NAME] became aware of the critical finding at [TIME].
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",00:05:00,,1.0,940.0,0.94,1.0,1 day,test,26.86,White
+,,68,False,x,6 days,30w2d ,F,AI,30w F with apnea. eval ETT/lung fields/bowel gas pattern.,"EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 30w F with apnea. eval ETT/lung fields/bowel gas pattern.
+
+COMPARISON: Chest abdomen radiograph [DATE]
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*	Endotracheal tube tip over the right main bronchus.
+*	Umbilical venous catheter tip overlies the liver just inferior to the inferior cavoatrial junction with tip directed leftward.
+*	Enteric tube tip and sidehole overlie the stomach.
+
+Mediastinum: Normal.
+
+Lungs: Mild hazy and interstitial opacities with mild patchy left-sided atelectasis.
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Diffuse gaseous distention of bowel with a few mildly dilated loops in the left upper quadrant.
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Normal.     
+
+IMPRESSION: 
+
+1. Umbilical venous catheter tip directed leftward inferior to the inferior cavoatrial junction, consider repositioning.
+
+2. Endotracheal tube tip over the right main bronchus, retracted on follow up study.
+
+3. Diffuse gaseous distention of bowel with mildly dilated loops in the left upper quadrant. No specific findings of necrotizing enterocolitis.
+
+4. Mild changes of lung disease of prematurity with mild patchy atelectasis.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",02:43:00,,1.0,610.0,0.61,6.0,6 days,train,30.29,American Indian/Alaska Native
+,,69,False,x,23 days,24w1d ,M,W,"Preterm infant being reintubated for increased fiO2 requirements
+Please eval lung fields and expansion","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Preterm infant being reintubated for increased fiO2 requirements Please eval lung fields and expansion
+
+COMPARISON: Chest and abdomen radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:
+
+Lines/Tubes: 
+*	Endotracheal tube is been placed with tip entering the right mainstem bronchus.
+*	Enteric tube tip and sidehole overlie the stomach.
+*	Left upper extremity PICC tip overlies superior vena cava.
+
+Mediastinum: Stable.
+
+Lungs: Normal lung volumes. Diffuse interstitial opacities with decreased hazy opacities. Mild residual left retrocardiac atelectasis.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable. 
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION:
+
+Endotracheal tube tip is entering the right mainstem bronchus. Recommend retracting 7 mm.
+
+Lung disease of prematurity with improved aeration status post intubation.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube in the bronchus or esophagus 
+[PHYSICIAN_NAME] became aware of the critical finding at [TIME].
+Key results discussed with [PHYSICIAN_NAME] at [DATE]. She stated the endotracheal had already been retracted before the call was made. 
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",01:56:00,,1.0,835.0,0.835,23.0,23 days,test,24.14,White
+,,70,False,x,0 days,32w2d ,F,W,preterm infant with RDS s/p intubation post intubation,"EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: preterm infant with RDS s/p intubation post intubation
+
+COMPARISON: [DATE] chest abdomen radiograph..
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip is within the right mainstem bronchus.
+
+Mediastinum: Normal.
+
+Lungs: Diffuse granular opacities with increased hazy airspace opacities. Low lung volumes.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable. 
+
+Upper abdomen: Gaseous distention of bowel and stomach noted.
+
+Other: None.
+
+
+IMPRESSION: 
+
+Endotracheal tube is within the right mainstem bronchus. Recommend retraction.
+
+Findings of surfactant deficiency with increased bibasilar atelectasis.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube in the bronchus or esophagus 
+[PHYSICIAN_NAME] became aware of the critical finding at [TIME].
+
+Key results discussed with [PHYSICIAN_NAME] at [DATE] [TIME].
+
+Dictated by: [PHYSICIAN_NAME]. [DATE] [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [DATE] [TIME]",10:34:00,,1.0,1575.0,1.575,0.0,0 days,train,32.29,White
+,,71,False,x,3 months,31w6d ,F,B,"3 mo w/ repaired bilat CDH repair who is now s/p Gtube placement
+with ETT. eval tube and lungs","EXAMINATION: XR PEDS CHEST AP 
+[DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: mo w/ repaired bilat CDH repair who is now s/p Gtube placement with ETT. eval tube and lungs
+
+COMPARISON: Abdominal radiograph . Chest abdomen radiograph .
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip at the level of the carina and directed toward the right main bronchus.
+*	Gastrostomy tube overlies the stomach.
+
+Mediastinum: Normal.
+
+Lungs: Mild diffuse interstitial coarsening with mild scattered patchy atelectasis.
+
+Pleura: Trace right pleural effusion. No visible pneumothorax.
+
+Bones: No acute osseous abnormality.
+
+Other: Surgical changes of diaphragmatic repair bilaterally, without evidence of recurrence. Small amount of residual enteric contrast material from recent swallow function study.
+
+
+IMPRESSION:  
+
+1. Endotracheal tube tip at the level of the carina, directed toward the right main bronchus. Recommend retraction.
+
+2. Chronic lung changes with mild scattered patchy atelectasis and trace right pleural effusion.
+
+3. Surgical changes of diaphragmatic repair bilaterally, without evidence of recurrence.
+
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME] on [DATE]. The endotracheal tube tip had been retracted by cm at the time of communication.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:09:00,,1.0,4320.0,4.32,91.32000000000001,3 months,train,31.86,Black
+,,72,False,x,1 day,23w2d ,M,B,"23 week infant on vent, now with new chest tube to right side
+Please evalute chest tube placement, right pneumothorax and ett placement","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+[ACCESSION_NUMBER]
+
+INDICATION: 23 week infant on vent, now with new chest tube to right side Please evaluate chest tube placement, right pneumothorax and ett placement
+
+COMPARISON: Chest radiograph [DATE] [TIME].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	New right pigtail chest tube projects over the periphery of the right hemithorax.
+*	Endotracheal tube tip projects over the midthoracic trachea.
+*	Umbilical venous catheter tip projects over the T5 level of the superior cavoatrial junction.
+*	Umbilical arterial catheter tip projects at the T5-6 level below the left bronchus in the descending thoracic aorta.
+
+Mediastinum: Normal.
+
+Lungs: Generalized granular lung opacities.            
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.     
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION:
+
+Drainage of right pneumothorax by new pigtail chest tube.
+
+Recommend withdrawing the umbilical venous catheter 1-1.5 cm to place tip at the inferior cavoatrial junction; tip is currently at the superior cavoatrial junction.
+
+Underlying premature lung disease.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report [DATE].",00:01:00,1.0,,498.0,0.498,1.0,1 day,test,23.29,Black
+,,73,False,x,16 days,25w6d ,M,B,"interval retintubation and abd is full/distended eval for ETT
+placmeent","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: interval retintubation and abd is full/distended eval for ETT placmeent
+
+COMPARISON: Same day chest and abdomen radiograph at [TIME]. Chest and abdomen radiograph [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained.
+
+FINDINGS:
+
+Support lines/tubes:
+*	Endotracheal tube tip in the right mainstem bronchus.
+*	Enteric tube tip and side-port overlie the stomach.
+
+Mediastinum: Obscured with leftward cardiomediastinal shift. Gas-filled esophagus.
+
+Lungs: Near-complete opacification of the left lung with air bronchograms. Interstitial and hazy opacities throughout the right lung.
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Diffuse gaseous distention of the bowel. 
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Stable.
+
+Other: None.
+
+
+IMPRESSION:
+
+Right mainstem bronchus intubation with increased atelectasis throughout the left lung. Please note at time of dictation there is a subsequent radiograph with appropriate tube position.
+
+Lung disease of prematurity with increased hazy atelectasis in the right lung.
+
+Diffuse gaseous distention of bowel as well as a gas-filled esophagus. No evidence of pneumatosis, portal venous gas, or supine pneumoperitoneum.
+
+Dictated by: [PHYSICIAN_NAME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:13:00,,1.0,830.0,0.83,16.0,16 days,test,25.86,Black
+,,74,False,x,22 days,24w2d ,F,W,recent re-taping of ETT evaluation of lung fields,"EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: recent re-taping of ETT evaluation of lung fields
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube overlies the lower thoracic trachea with tip overlying the right mainstem bronchus.
+*	Enteric tube courses below the diaphragm with tip excluded by collimation.
+
+Mediastinum: Stable.
+
+Lungs: Mildly hyperinflated lungs. Persistent diffuse interstitial opacities with scattered patchy/confluent airspace opacities.
+
+Pleura: No pleural effusion or visible pneumothorax.
+
+Bones: Unchanged.  
+
+Upper abdomen: Unremarkable.
+
+
+IMPRESSION: 
+
+1. Endotracheal tube tip overlies the right mainstem bronchus. Recommend retraction approximately 5 mm for optimal positioning. Stable enteric tube.
+
+2. Lung disease of prematurity with persistent patchy atelectasis.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube within the right mainstem bronchus 
+[PHYSICIAN_NAME] became aware of the critical finding at [TIME].
+
+Key results discussed with [PHYSICIAN_NAME] at [TIME] at [DATE]. 
+
+Per discussion with the clinical team, the endotracheal tube was previously retracted.
+
+Dictated by: [PHYSICIAN_NAME]. [DATE]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [DATE]",00:43:00,,1.0,710.0,0.71,22.0,22 days,train,24.29,White
+,,75,False,x,7 days,38w0d ,M,,"Term infant pphn, hfov Evaluate lungs","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Term infant pphn, hfov Evaluate lungs
+
+COMPARISON: [DATE]
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	ETT low near orifice right mainstem bronchus. Suggest retraction by about 6 mm
+*	Right upper extremity PICC projects over SVC
+*	Enteric tube tip and side-port project over left gastric air shadow
+*	UAC at the T8/T9 level
+
+Mediastinum: Cardiothymic silhouette normal
+
+Lungs: Diffuse hazy edematous pattern slightly improved. There is increasing focal atelectasis left lower lobe
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.  
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+IMPRESSION: 
+
+*	ETT low near orifice right mainstem bronchus. Suggest retraction by about 6 mm
+*	Cardiac size normal
+*	Diffuse edematous pattern shows slight improvement with continued focal atelectasis left lower lobe. No effusion
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",03:03:00,,1.0,2930.0,2.93,7.0,7 days,test,38.0,Unknown
+,,76,False,x,3 months,26w2d ,M,B,"ex 26 week infant in NICU going for trach and g/tube assess airway
+and lungs","EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: ex 26 week infant in NICU going for trach and g/tube assess airway and lungs
+
+COMPARISON: [DATE]
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip is at the carina if not down the right mainstem and withdrawal at least 5 mm is recommended.
+*	Enteric tube tip and sidehole overlie the stomach.
+
+Mediastinum: Normal.
+
+Lungs: Coarse interstitial opacities bilaterally. Slightly more confluent opacity in the left base.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.  
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION: 
+
+Chronic lung changes with patchy left lower lobe atelectasis.
+
+Low position the endotracheal tube at or just into the right mainstem bronchus. Results communicated with [PHYSICIAN_NAME] at [TIME] by [PHYSICIAN_NAME].
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [DATE] [TIME]",03:33:00,,1.0,3565.0,3.565,91.32000000000001,3 months,train,26.29,Black
+,,77,False,x,2 months,24w1d ,M,B,ex 24 weeker on vent evaluate lung fields and rib expansion,"EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: ex 24 weeker on vent evaluate lung fields and rib expansion
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes:  
+*	Endotracheal tube tip overlies the distal thoracic trachea, possibly over the carina or in the proximal right mainstem bronchus.
+*	Enteric tube tip and side-port overlie the stomach.
+
+Mediastinum: Stable, though partially obscured.
+
+Lungs: Diffuse coarse lung opacities, slightly decreased. Similar low lung volumes.  
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Generalized demineralization without acute abnormality.  
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION:  
+
+Endotracheal tube tip overlying the carina or proximal right mainstem bronchus. Recommend 0.5 to 1 cm retraction.
+
+Slightly decreased shifting atelectasis superimposed on lung disease of prematurity.
+
+Findings were discussed with [PHYSICIAN_NAME] by [PHYSICIAN_NAME] on [DATE].
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+Case also discussed NICU morning rounds [DATE].
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",00:47:00,,1.0,1300.0,1.3,60.88,2 months,unknown,24.14,Black
+,,78,False,x,2 months,27w1d ,M,B,Evaluate lung fields ,"EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Evaluate lung fields evaluate lung fields
+
+COMPARISON: [DATE] chest radiograph.
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes:  
+*	Endotracheal tube appears to terminate in the right mainstem bronchus, recommend immediate retraction
+*	Enteric tube with tip and sidehole overlying the stomach.
+
+
+Mediastinum: Enlarged, unchanged.
+
+Lungs: Diffuse interstitial opacities with increased patchy right greater than left airspace opacities.            
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Generalized demineralization and periostitis.
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION:  
+
+1. Endotracheal tube overlies the right mainstem bronchus, recommend immediate retraction.
+
+2. Increased patchy right greater than left airspace opacities overlying chronic lung disease of prematurity, likely superimposed atelectasis.
+
+CRITICAL RESULTS: Malpositioned endotracheal tube in the bronchus or esophagus 
+[PHYSICIAN_NAME] became aware of the critical finding at [TIME].  
+Key results discussed with  at [DATE].
+
+Dictated by: [PHYSICIAN_NAME], [DATE]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [DATE]",00:20:00,,1.0,2374.0,2.374,60.88,2 months,test,27.14,Black
+,,79,False,x,4 days,28w3d ,F,AI,"preterm infant on HFJV, chest tube Evaluate lungs","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: preterm infant on HFJV, chest tube Evaluate lungs
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:
+
+Lines/Tubes:
+*	Endotracheal tube tip within the right mainstem bronchus.
+*	Enteric tube side port overlies the stomach, tip excluded by collimation.
+*	Unchanged pigtail chest tube overlying the right lateral chest.
+*	Umbilical venous catheter tip overlies the inferior cavoatrial junction at the level of T10.
+
+Mediastinum: Stable.
+
+Lungs: Mild diffuse interstitial granular opacities, similar to the prior exam. Decreased right perihilar opacities.
+
+Pleura: No pleural effusion. No visible pneumothorax.
+
+Bones: Redemonstrated right proximal humeral metaphyseal fracture. No fractures right proximal humerus.
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+IMPRESSION:
+
+Endotracheal tube within the right mainstem bronchus. Recommend retraction 1 cm.
+
+Diffuse hazy and granular opacities, similar to the prior exam.
+
+CRITICAL RESULTS:
+Key results discussed with [PHYSICIAN_NAME] at [TIME]. 
+
+Dictated by: [PHYSICIAN_NAME] [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:03:00,,1.0,1575.0,1.575,4.0,4 days,train,28.43,American Indian/Alaska Native
+,,80,False,x,5 days,37w6d ,F,B,Term HIE PPHN red tinged meconium passage,"EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Term HIE PPHN red tinged meconium passage
+
+COMPARISON: Chest radiograph [TIME].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*	Endotracheal tube tip overlies the midthoracic trachea.
+*	Enteric tube tip overlies stomach.
+*	Umbilical venous catheter tip overlies the inferior cavoatrial junction.
+*	Bladder catheter tip overlies the pelvic inlet.
+
+Mediastinum: Stable.
+
+Lungs: Hyperinflation of the left lung with unchanged diffuse interstitial opacities and patchy atelectasis, predominantly in the left upper and right mid/lower lung.  
+
+Pleura: Stable trace bilateral effusions. No pneumothorax.
+
+Bowel gas pattern: Paucity of bowel gas throughout the abdomen.  
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Stable. 
+
+Other: Anasarca.
+
+
+IMPRESSION: 
+
+1. Hyperinflation of the left lung with unchanged diffuse interstitial opacities and patchy atelectasis.
+
+2. Paucity of bowel gas throughout the abdomen without portal venous gas or supine evidence of free air.
+
+Dictated by: [PHYSICIAN_NAME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [PHYSICIAN_NAME]",09:46:00,1.0,,3360.0,3.36,5.0,5 days,test,37.86,Black
+,,81,False,x,1 day,40w5d ,F,B,"40w5d infant 2nd DOL, weaning PIP/FIO2 f/u PPHN/meconium aspiration","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 40w5d infant 2nd DOL, weaning PIP/FIO2 f/u PPHN/meconium aspiration
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip overlies the midthoracic trachea.
+*	Enteric tube courses below the diaphragm with tip not visualized due to collimation.
+*	Umbilical central venous catheter tip overlies the right atrium.
+*	Umbilical arterial catheter tip terminates at the level of the superior aspect of the T6 vertebral body.
+
+Mediastinum: Stable.
+
+Lungs: Borderline pulmonary hyperinflation. Unchanged diffuse coarse central markings. No new focal opacities.
+
+Pleura: No pneumothorax. Unchanged trace bilateral pleural effusions.
+
+Bones: Stable. 
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION:  
+
+Unchanged coarse interstitial opacities and trace bilateral pleural effusions. No pneumothorax.
+
+Stable position of support lines and tubes.
+
+Dictated by: [PHYSICIAN_NAME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [PHYSICIAN_NAME]",00:07:00,1.0,,3470.0,3.47,1.0,1 day,test,40.71,Black
+,,82,False,x,49 days,25w5d ,F,W,"Preterm infant on conventional ventilation with previously high
+appearing ETT Evaluate lung fields","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Preterm infant on conventional ventilation with previously high appearing ETT Evaluate lung fields
+
+COMPARISON: Chest radiograph [DATE] at [TIME].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube has been advanced with the tip overlying the midthoracic trachea.
+*	Enteric tube tip and side-port overlie the stomach.
+*	Inferior approach central venous catheter tip projects at the level of T12.
+
+Mediastinum: Stable.
+
+Lungs: Increased confluent hazy opacities in the right upper lung. Unchanged coarse chronic lung changes.  
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Demineralized.
+
+Upper abdomen: Unremarkable.
+
+
+IMPRESSION:
+
+Endotracheal tube is been advanced with the tip overlying the midthoracic trachea.
+
+Chronic lung disease with increased right upper lung atelectasis.
+
+Dictated by: [PHYSICIAN_NAME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:47:00,1.0,,1450.0,1.45,49.0,49 days,test,25.71,White
+,,83,False,x,4 days,40w1d ,F,B,"infant with acute decompensation please evaluate ett placement and
+lung expansion","EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: infant with acute decompensation please evaluate ett placement and lung expansion
+
+COMPARISON: Chest abdomen radiograph [DATE] [TIME].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip projects over the midthoracic trachea.
+*	Umbilical venous catheter tip projects over the lower right atrium at the T8 level.
+*	Umbilical arterial catheter tip projects over the descending thoracic aorta at the T7 level.
+*	Enteric tube sidehole projects over the left upper quadrant, tip below the field-of-view.
+
+Mediastinum: Normal.
+
+Lungs: Increased patchy perihilar opacities. Increased hyperinflation.  
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION: 
+
+Increased lung hyperinflation and patchy perihilar opacities.
+
+Ongoing body wall swelling.
+
+Satisfactory position of support lines and tubes.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",01:08:00,1.0,,3380.0,3.38,4.0,4 days,test,40.14,Black
+,,84,False,x,8 days,35w5d,M,W,late preterm infant s/p gastroschisis repair Evaluate lungs/abdomen,"EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: late preterm infant s/p gastroschisis repair Evaluate lungs/abdomen
+
+COMPARISON: Chest and abdomen radiographs [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained.
+
+FINDINGS:
+
+Support lines/tubes:
+*	Endotracheal tube tip overlies the midthoracic trachea.
+*	Right scalp PICC tip overlies the brachiocephalic venous confluence.
+*	Enteric tube tip and side-port overlie the stomach.
+
+Mediastinum: Normal.
+
+Lungs: Mild pulmonary vascular prominence, unchanged.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Decreased gaseous distention of the stomach with similar degree of gaseous distention of the bowel, in a relatively fixed bowel gas pattern.
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Normal.
+
+
+IMPRESSION:
+
+1.	Similar degree of gaseous distention of the bowel in a relatively fixed bowel gas pattern.
+
+2.	Mild pulmonary vascular prominence, unchanged.
+
+3.	Satisfactory position of support lines and tubes.
+
+Dictated by: [PHYSICIAN_NAME] [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",03:10:00,1.0,,1940.0,1.94,8.0,8 days,test,35.71,White
+,,85,False,x,3 days,36w3d ,M,W,"Post -op day 1/conventional ventilation assess bilateral lung
+fields and bowel gas pattern","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Post -op day 1/conventional ventilation assess bilateral lung fields and bowel gas pattern
+
+COMPARISON: PICC series [DATE]. Chest and abdomen radiograph [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*	Endotracheal tube tip overlies the midthoracic trachea.
+*	Right scalp PICC tip overlies the upper right atrium.
+*	Unchanged positioning of the surgical drain in the abdomen.
+*	Tip and sideholes of the Replogle tube overlie the stomach.
+
+Mediastinum: Partially obscured but grossly stable.
+
+Lungs: Increased patchy opacity in the right upper lobe. Hazy bilateral perihilar opacities.
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Moderate gaseous distention of stomach. Otherwise relative paucity of bowel gas in the abdomen.
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Unchanged lower thoracic and lumbar spina bifida. Known right clavicle fracture is excluded from the field-of-view. 
+
+Other: Body wall edema.
+
+
+IMPRESSION: 
+
+Stable support lines and tubes.
+
+Increased right upper lobe and perihilar atelectasis.
+
+Moderate gaseous distention of the stomach. Otherwise relative paucity bowel gas in the abdomen and pelvis. No pneumatosis, portal venous gas, or supine evidence of free air.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.[DATE]",03:38:00,1.0,,3210.0,3.21,3.0,3 days,test,36.43,White
+,,86,False,x,2 days,36w4d ,F,,"term infant with UAC in place, evaluate for correct placement of
+UAC after repositioning","EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: term infant with UAC in place, evaluate for correct placement of UAC after repositioning
+
+COMPARISON: Chest x-ray [DATE].
+
+TECHNIQUE: Single frontal prone view of the chest and abdomen was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*.Endotracheal tube overlying midthoracic trachea 
+*	Umbilical artery catheter overlying T6-T7
+*	Umbilical venous catheter overlying mid right atrium
+
+Mediastinum: Stable.
+
+Lungs: Streaky perihilar opacities.            
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Unchanged vertebral segmentation anomalies. Unchanged dysplastic hips with superior lateral dislocation.     
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION: 
+
+The umbilical artery catheter has been retracted to the T6-T7 level, but the umbilical venous catheter has advanced into the right atrium.
+
+Perihilar atelectasis.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:14:00,1.0,,2230.0,2.23,2.0,2 days,train,36.57,Unknown
+,,87,False,x,1 day,40w4d ,M,W,"2 day old term infant requiring intubation, evaluate ETT placement","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 2 day old term infant requiring intubation, evaluate ETT placement
+
+COMPARISON: Same-day chest radiograph.
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip overlying the midthoracic trachea, 8 mm above the level of carina.
+*	Enteric tube coursing below diaphragm with tip excluded by collimation.
+
+Mediastinum: Stable.
+
+Lungs: Increased coarse opacities. New bibasilar airspace opacities. Branching lucency in the left lung.    
+
+Pleura: No pleural effusion.
+
+Bones: Stable.      
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION: 
+
+Endotracheal tube tip in the midthoracic trachea.
+
+Increased coarse opacities with new bibasilar atelectasis. New branching lucencies in the left lung favored to represent air bronchograms, but recommend attention on follow-up.
+
+Lower lung volumes with increased diffuse opacification, likely atelectasis superimposed on the underlying lung disease.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [PHYSICIAN_NAME]",00:00:00,1.0,,3346.0,3.346,1.0,1 day,train,40.57,White
+,,88,False,x,2 days,27w4d ,M,B,"2 day old e27 week infant,  RDS received surfactant and required
+roc during intubation, now on CMV, evaluate lung fields","EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 2 day old e27 week infant, RDS received surfactant and required roc during intubation, now on CMV, evaluate lung fields
+
+COMPARISON: Chest/abdomen radiographs [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	The endotracheal tube tip projects over the midthoracic trachea.
+*	The umbilical venous catheter tip projects over the inferior cavoatrial junction.
+*	The enteric tube tip projects over the stomach.
+
+Mediastinum: Normal.
+
+Lungs: Similar degree of diffuse granular opacities with slightly decreased hazy lung opacification.            
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION: 
+
+1.	Endotracheal tube tip in the midthoracic trachea.
+2.	Surfactant deficiency pattern with slightly improved lung expansion.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:08:00,1.0,,925.0,0.925,2.0,2 days,test,27.57,Black
+,,89,False,x,3 days,37w2d ,F,B,"36 hr old ex 37 weeker with T18 and large omphalocele req HFOV eval
+lung fields","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 36 hr old ex 37 weeker with T18 and large omphalocele req HFOV eval lung fields
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS: Patient is rotated to the right.
+
+Lines/Tubes: 
+*	Endotracheal tube tip projects over the midthoracic trachea, unchanged.
+*	Enteric tube courses below the diaphragm, tip is excluded by collimation.
+*	Left upper extremity PICC tip projects over the left neck.
+
+Mediastinum: Unchanged.
+
+Lungs: Granular opacities with increased opacification of the right upper lung.            
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Very gracile.
+
+Upper abdomen: Paucity of bowel gas noted.
+
+Other: None.
+
+
+IMPRESSION: 
+
+Increased patchy atelectasis in the right upper lung.
+
+Left upper extremity PICC tip projects over the left neck likely within the internal jugular vein.
+
+Findings were discussed with [PHYSICIAN_NAME] on [DATE] [TIME].
+
+Dictated by: [PHYSICIAN_NAME] [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",03:22:00,1.0,,1900.0,1.9,3.0,3 days,test,37.29,Black
+,,90,False,x,0 days,25w4d ,M,B,"elbw infant with tachycardia; s/p surf evaluate lung ifelds, ett,
+and umbilical lines","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: elbw infant with tachycardia; s/p surf evaluate lung ifelds, ett, and umbilical lines
+
+COMPARISON: Same day chest radiograph [TIME]
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*	Endotracheal tube overlies the midthoracic trachea.
+*	Nasogastric tube tip and side-port overlie the stomach.
+*	Umbilical venous catheter overlies the mid right atrium.
+*	Umbilical artery catheter tip overlies T6-T7.
+
+Mediastinum: Normal.
+
+Lungs: Unchanged diffuse granular and hazy opacities.            
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Nonobstructive.      
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Stable.
+
+Other: None.
+
+
+IMPRESSION: 
+
+Unchanged surfactant deficiency pattern.
+
+Normal bowel gas pattern.
+
+The umbilical venous catheter may be withdrawn 0.75-1.0 cm, tip currently in the mid right atrium. Satisfactory position of other support lines and tubes.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:17:00,1.0,,772.0,0.772,0.0,0 days,test,25.57,Black
+,,91,False,x,19 days,25w0d ,M,B,"previous film ett high and unable to assess head/chin position
+Please evalute ett position and lung expansion","EXAMINATION: XR PEDS CHEST AP PORTABLE [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: previous film ett high and unable to assess head/chin position Please evaluate ett position and lung expansion
+
+COMPARISON: Chest radiograph [TIME]
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube has been advanced with tip now overlying the midthoracic trachea.
+*	Enteric tube tip overlies the stomach.
+
+Mediastinum: Stable.
+
+Lungs: Diffuse interstitial opacities. Unchanged patchy more hazy opacities. Normal lung volumes.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Stable. 
+
+Upper abdomen: Gaseous distention of bowel noted.
+
+Other: None.
+
+IMPRESSION:  
+
+Endotracheal tube has been advanced with tip now overlying the midthoracic trachea.
+
+Lung disease of prematurity with unchanged patchy atelectasis and/or edema.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",03:33:00,1.0,,1020.0,1.02,19.0,19 days,test,25.0,Black
+,,92,False,x,13 days,26w4d ,F,AI,eval ETT placement,"EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: eval ETT placement eval ETT placement
+
+COMPARISON: Abdominal radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:
+
+Lines/Tubes:
+*	Endotracheal tube tip terminates over the midthoracic trachea
+*	Enteric tube tube courses below the diaphragm and tip overlies the stomach. Side-port overlies the GE junction.
+
+Mediastinum: Stable.
+
+Lungs: Mild diffuse interstitial opacities.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.
+
+Upper abdomen: Increased portal venous gas. Dilated loops of bowel.
+
+Other: None.
+
+
+IMPRESSION:
+
+Endotracheal tube tip terminates over the midthoracic trachea
+TP tube courses below the diaphragm and tip overlies the stomach. Side-port overlies the GE junction.
+
+Gas-distended loops of bowel and increased portal venous gas.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:35:00,1.0,,900.0,0.9,13.0,13 days,test,26.57,American Indian/Alaska Native
+,,93,False,x,1 day,34w3d ,M,B,HIE on cooling at 34 weeks eval ETT and UVC,"EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: HIE on cooling at 34 weeks eval ETT and UVC
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*	Endotracheal tube tip overlies the midthoracic trachea.
+*	Umbilical venous catheter tip overlies the inferior cavoatrial junction.
+*	Enteric tube courses below the diaphragm with side-port and tip overlying the left upper abdomen.
+*	Urinary catheter and temperature probe overlie the mid-pelvis.
+
+Mediastinum: Partially obscured mediastinal silhouette.
+
+Lungs: Similar appearance of diffuse, bilateral granular opacities and left peri-hilar hazy opacity. Improved left lung volume and aeration.   
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Paucity of bowel gas.  
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Normal, unchanged.  
+
+Other: None.
+
+
+IMPRESSION: 
+
+1. Endotracheal tube has been retracted with tip now overlying the midthoracic trachea.
+
+2. Similar appearance of diffuse, bilateral granular opacities and left peri-hilar hazy opacity. Improved left lung volume and aeration. Findings may represent mild pulmonary edema and/or atelectasis.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",02:55:00,1.0,,1920.0,1.92,1.0,1 day,train,34.43,Black
+,,94,False,x,5 days,29w6d ,M,B,infant with free air in abdomen so electively intubated intubated,"EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: infant with free air in abdomen so electively intubated intubated
+
+COMPARISON: Chest abdomen radiograph [TIME]
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:
+
+Lines/Tubes:
+*	Endotracheal tube tip projects over the midthoracic trachea.
+*	Enteric tube tip and sidehole project over the left upper quadrant.
+
+Mediastinum: Normal.
+
+Lungs: Normal.            
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.
+
+Upper abdomen: Large volume of pneumoperitoneum with continuous diaphragm and falciform ligament signs
+
+Other: None.
+
+
+IMPRESSION:
+
+Endotracheal tube tip projects over the midthoracic trachea.
+
+Large volume pneumoperitoneum.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",00:48:00,1.0,,1340.0,1.34,5.0,5 days,test,29.86,Black
+,,95,False,x,1 day,32w3d ,M,W,"Preterm infant status post intubation and bilateral needle
+decompression. Evaluate lung fields and for pneumothorax.","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Preterm infant status post intubation and bilateral needle decompression. Evaluate lung fields and for pneumothorax.
+
+COMPARISON: Multiple chest radiographs from earlier today.
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:
+
+Lines/Tubes:
+*	The endotracheal tube tip projects over the midthoracic trachea.
+*	The enteric tube tip projects over the distal stomach.
+
+Mediastinum: Normal.
+
+Lungs: The lungs are better aerated with persistent diffuse granular opacities.            
+
+Pleura: Both pneumothoraces are decreased in size.
+
+Bones: Normal.
+
+Upper abdomen: Gaseous distention of the stomach.
+
+Other: None.
+
+
+IMPRESSION:
+
+Decreased size of the bilateral pneumothoraces.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",00:46:00,1.0,,1940.0,1.94,1.0,1 day,test,32.43,White
+,,96,False,x,24 days,25w1d ,F,W,"Infant reintubated and placed on conventional ventilator evaluate
+lung fields, evaluate ETT position","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Infant reintubated and placed on conventional ventilator evaluate lung fields, evaluate ETT position
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip overlies the midthoracic trachea.
+*	Enteric tube tip and sidehole overlie the stomach.
+
+Mediastinum: Enlarged, unchanged.
+
+Lungs: Mild pulmonary hyperinflation. Mild diffuse groundglass opacities with decreased patchy hazy opacities.
+
+Pleura: No pleural effusion or pneumothorax. Hyperlucency in the left lateral costophrenic angles is favored to represent a skin fold.
+
+Bones: Stable. 
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION:  
+
+Lung disease of prematurity with decreased superimposed hazy opacities, likely improving atelectasis and edema. Mild pulmonary hyperinflation.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",07:42:00,1.0,,930.0,0.93,24.0,24 days,train,25.14,White
+,,97,False,x,1 day,37w0d ,F,B,"Prenatal diagnosis of truncus on PGE, intubated for respiratory
+failure Evaluate lung fields, ETT, UAC","EXAMINATION: XR PEDS BABYGRAM [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Prenatal diagnosis of truncus on PGE, intubated for respiratory failure Evaluate lung fields, ETT, UAC
+
+COMPARISON: Abdominal radiograph [DATE].
+
+TECHNIQUE: Frontal supine view of the chest and abdomen was obtained. 
+
+FINDINGS:  
+
+Support lines/tubes: 
+*	Endotracheal tube tip overlying the midthoracic trachea.
+*	Umbilical arterial catheter with tip overlying the right side of the spine at the T6 vertebral level.
+*	Enteric tube tip and side-port overlie the stomach.
+
+Mediastinum: Upturned cardiac apex. Unchanged cardiac enlargement. Right aortic arch.
+
+Lungs: Unchanged mild diffuse interstitial opacities. Lungs are normal in volume. Decreased central subsegmental atelectasis.
+ 
+Pleura: No pleural effusion or pneumothorax.
+
+Bowel gas pattern: Nonobstructive. Gaseous bowel distention.
+
+Pneumatosis: None
+
+Pneumoperitoneum: None.
+
+Portal venous gas: None.
+
+Bones: Normal. 
+
+Other: None.
+
+
+IMPRESSION:  
+
+Unchanged mild pulmonary edema, cardiomegaly.
+
+Gaseous bowel distention.
+
+Satisfactory position of lines and tubes.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",02:39:00,1.0,,2160.0,2.16,1.0,1 day,test,37.0,Black
+,,98,False,x,1 day,34w2d ,F,W,"34 weeker with multiple congenital anomalies- acute decompensation
+evaluate lung fields","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: 34 weeker with multiple congenital anomalies- acute decompensation evaluate lung fields
+
+COMPARISON: Same day chest radiograph.
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip overlies the midthoracic trachea.
+*	Enteric tube and side-port overlie the stomach.
+*	Unchanged position of right chest tube with tip overlying the right medial lung.
+*	Interval removal of umbilical venous catheter.
+*	Left upper extremity PICC tip overlies the left superior mediastinum. 
+
+Mediastinum: Stable silhouetting of the left heart border.
+
+Lungs: Stable left upper lung atelectasis. Decreased right perihilar opacities with persistent bibasilar airspace opacities. Low lung volumes.            
+
+Pleura: No pleural effusion or visible pneumothorax.
+
+Bones: Stable appearance of multiple thoracic and lumbar vertebral anomalies.     
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+IMPRESSION: 
+  
+Endotracheal tube tip overlies the midthoracic trachea. Interval removal of umbilical venous catheter.
+
+Low lung volumes with persistent left upper lung atelectasis, decreased right perihilar opacities and persistent bibasilar airspace opacities, also likely atelectasis. No visible pneumothorax.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",00:09:00,1.0,,1820.0,1.82,1.0,1 day,train,34.29,White
+,,99,False,x,1 day,27w1d ,M,W,Preterm infant on vent adjusted ett Evaluate ett,"EXAMINATION: XR PEDS CHEST AP Portable [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Preterm infant on vent adjusted ett Evaluate ett
+
+COMPARISON: Chest abdomen radiograph same date [TIME]
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes:  
+*	Endotracheal tube tip overlies mid thoracic trachea.
+*	Enteric tube courses below the diaphragm, tip by collimation.
+*	Inferior approach catheter tip overlies the T7 level.
+
+Mediastinum: Stable.
+
+Lungs: Mild diffuse interstitial opacities. Lung volumes are low.
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.
+
+Upper abdomen: Unremarkable.
+
+Other: None.
+
+
+IMPRESSION: 
+
+Endotracheal tube tip overlies the midthoracic trachea.
+
+Unchanged mild diffuse interstitial opacities.
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.",01:07:00,1.0,,1160.0,1.16,1.0,1 day,test,27.14,White
+,,100,False,x,2 days,37w1d ,M,W,"Term infant with PPHN on CMV Please evaluate lung fields and
+expansion.","EXAMINATION: XR PEDS CHEST AP [DATE]
+
+ACCESSION NUMBER: [ACCESSION_NUMBER]
+
+INDICATION: Term infant with PPHN on CMV Please evaluate lung fields and expansion.
+
+COMPARISON: Chest radiograph [DATE].
+
+TECHNIQUE: Single frontal view of the chest was obtained.
+
+FINDINGS:  
+
+Lines/Tubes: 
+*	Endotracheal tube tip overlies the midthoracic trachea.
+*	Enteric tube has unchanged course below the diaphragm with tip excluded from the field-of-view.
+*	Umbilical artery catheter tip overlies the descending thoracic aorta at the approximate level of T6.
+*	Umbilical venous catheter is not visualized on this study.
+
+Mediastinum: Stable.
+
+Lungs: Opacity right upper lobe could represent thymus given more rightward positioning of patient. Stable mild diffuse interstitial opacities. Lungs are normal in volume.  
+
+Pleura: No pleural effusion or pneumothorax.
+
+Bones: Normal.
+
+Upper abdomen: Unremarkable.
+
+
+IMPRESSION: 
+
+1. Increased right upper lobe atelectasis with stable mild interstitial opacities.
+
+2. Endotracheal tube tip overlies the midthoracic trachea. Otherwise stable position of lines/tubes as above.
+
+Dictated by: [PHYSICIAN_NAME]. [TIME]
+
+Study reviewed with NICU service morning rounds [DATE]
+
+I, [PHYSICIAN_NAME], have reviewed the study and agree with the findings in this report.  [TIME]",04:34:00,1.0,,2950.0,2.95,2.0,2 days,train,37.14,White

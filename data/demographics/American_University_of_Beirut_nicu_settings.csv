@@ -1,0 +1,1530 @@
+Folder,Patient Duplicate?,Dicoms copied,Age,Gestational Age ,Sex,Race,Reason for X-ray (confirm report with history if able),Deidentified Report,Time until Report ,"ET, Correct ","ET, Incorrect ",Weight (grams),Weight_original,Age_days,Age_original,Split,Gestational_Age_Weeks,Race_Standardized
+1,,X,5M,37 w 3D,F,W,follow up on collapse,Exam NameXR Chest  Clinical Indicationfollow up on collapse TechniqueChest radiograph; AP view. Comparison19 March 2021. ImpressionThere is interval resolution of the right upper lobe collapse with re-expansion.  There is left basal atelectasis. There is persistent congestion.  No pneumothorax. The tubes and lines are stable in position. Other findingsIs there a critical or an unexpected finding?No  Report Severity2,03:00:00,1.0,,6300.0,6.3,152.20000000000002,5M,test,37.43,White
+2,,X,3M,36W,F,W,post op cardiac,"Exam NameXR Chest  Clinical Indicationpost op TechniqueChest radiograph; AP view. Comparison9 August 2021. ImpressionThe tip of the endotracheal tube is 2 cm above the carina.  The NG tube terminates in the stomach.  Post placement of epicardial pacers.  The lungs are hyperinflated with left lower lobe pneumonic consolidation showing a faint air bronchogram.  No pleural effusion or pneumothorax. The cardiomediastinal silhouette is unchanged. Other findingsIs there a critical or an unexpected finding?No  Report Severity1
+",01:11:00,1.0,,3000.0,3,91.32000000000001,3M,train,36.0,White
+3,,X,2W,31W,M,W,Respiratory distress,"Exam Name
+XR Chest AP.
+ 
+Clinical Indication
+RD
+ 
+Comparison
+None.
+ 
+Impression
+There is an endotracheal tube terminating 1 cm of the carina in the feeding tube terminating in the stomach.
+There are bilateral symmetric diffuse ground glass opacities in a predominantly central/perihilar distribution, most suggestive of interstitial pulmonary edema.
+No large pleural effusion or detectable pneumothorax.
+ 
+Other findings
+Is there a critical or an unexpected finding?
+No
+ 
+Report Severity
+2
+",00:40:00,1.0,,1300.0,1.3,14.0,2W,test,31.0,White
+4,,x,5W,38w 0d,F,W,chest tube removal.,"The ET tube, NG tube and right internal jugular central line remain in stable position. The stomach is seen in the right side of the abdomen, in keeping with the known history of situs inversus abdominis.
+There are new left lung air space opacities, showing air bronchograms, edematous or infectious in nature.
+There is a possible new small left pleural effusion with underlying consolidation/collapse.
+The right lung shows also edematous changes and congestion.
+The cardiomediastinal silhouette is unchanged, with cardiomegaly.
+ 
+",00:45:00,1.0,,3500.0,3.5,35.0,5W,train,38.0,White
+5,,X,2W,36W,F,W,PRE-OP,"Exam Name
+XR Chest .
+ 
+Clinical Indication
+PRE-OP
+ 
+Technique
+AP view of the chest was obtained.
+ 
+Impression
+No consolidation.  No pneumothorax.
+No large pleural effusion.
+The heart is enlarged.
+The ET tube is seen 1.5 cm above the carina.
+No acute osseous abnormality.
+ 
+Other findings
+Is there a critical or an unexpected finding?
+No
+ 
+ 
+Report Severity
+2",03:02:00,1.0,,3700.0,3.7,14.0,2W,test,36.0,White
+6,,x,6D,39w 0d,M,W,rule out pneumothorax post chest tube removal,"There has been interval removal of the chest tubes.  No detectable pneumothorax.
+There is mild decrease in the right upper lung zone opacities, likely due to decrease in the atelectatic changes.
+ET tube, feeding tube, epicardial wires are seen in stable position. The right central line is mildly retracted and now near the cavoatrial junction.
+",03:00:00,1.0,,3900.0,3.9,6.0,6D,train,39.0,White
+7,,X,6W,37 W,M,W,check ETT,"Exam Name
+XR Chest 
+ 
+Clinical Indication
+check ETT
+ 
+Technique
+Chest radiograph; AP view.
+ 
+Impression
+The tip of the endotracheal tube is 2.4 cm above the carina. The gastric tube has its tip in the gastric body.
+ 
+There are mild atelectatic changes in the right upper lobe.  The lungs are otherwise clear.  No pleural effusion or pneumothorax.
+ 
+Note is made of dextrocardia.
+ 
+No worrisome osseous lesions are demonstrated.
+ 
+Other findings
+Is there a critical or an unexpected finding?
+No
+ 
+ 
+Report Severity
+1
+",03:05:00,1.0,,3600.0,3.6,42.0,6W,test,37.0,White
+8,,X,6M,34W,M,W,Postoperative,"Exam Name
+XR Chest AP
+ 
+Clinical Indication
+Postoperative
+ 
+Technique
+AP view of the chest
+ 
+Comparison
+15 September 2021
+ 
+Impression
+The tip of the endotracheal tube is 3.7 cm above the carina.  The tip of the right internal jugular central venous catheter terminates in SVC. The gastric tube terminates in the stomach.  Post operative bilateral chest tubes and epicardial placement.
+ 
+Interval decrease in the lung plethora.  No consolidation.  No pleural effusion or pneumothorax.
+ 
+Other findings
+Is there a critical or an unexpected finding?
+No
+ 
+Report Severity
+1
+",04:20:00,1.0,,6000.0,6,182.64000000000001,6M,test,34.0,White
+9,,X,4W,38W 8D,F,W,post op,"Exam Name
+XR Chest 
+ 
+Clinical Indication
+post op
+ 
+Technique
+Chest radiograph; AP view.
+ 
+Impression
+S/P open heart surgery.  There is pulmonary edema and generalised body edema.  No significant pleural effusion.  No pneumothorax.
+ 
+The endotracheal tube terminates at the carina, adjustment is needed.  The right internal jugular central venous catheter terminates in the right atrium.
+ 
+Chest tubes and epicardial pacers are placed.
+ 
+Other findings
+Is there a critical or an unexpected finding?
+No
+ 
+Report Severity
+1
+",00:40:00,,1.0,3500.0,3.5,28.0,4W,train,39.14,White
+10,,x,3W,27w 0d,F,W,post chest tube removal.,"The NG tube is seen with its tip terminating in the stomach.
+The ET tube is seen with its tip terminating at the good position. There is a new PDA clip in position.
+ 
+There are again ill-defined reticular opacities with interspersed rounded lucent areas diffusely involving hyperinflated lungs, in keeping with findings of bronchopulmonary dysplasia.
+ 
+There is a suspicion of a small right basilar pneumothorax which can be further substantiated by a cross table left lateral decubitus view.
+ 
+No consolidation or overt pulmonary oedema.
+ 
+",00:40:00,1.0,,900.0,0.9,21.0,3W,test,27.0,White
+11,,X,7W,39W 6D,F,W,tube placement,"
+Exam Name:
+XR Chest AP.
+Clinical Indication:
+tube placement
+Technique:
+AP view.
+Impression:
+Suboptimal rotated film.
+The lungs volumes are small. The heart is enlarged.
+The ET tube is seen with tip terminating below the thoracic inlet, in adequate position.
+No gross consolidation or detectable pneumothorax.
+No large pleural effusion.
+There is gaseous distension of partially visualized upper abdomen stomach and bowel loops.
+Other findings:
+Is there a critical or an unexpected finding?
+No",00:40:00,1.0,,2800.0,2.8,49.0,7W,train,39.86,White
+12,,X,5D,37W 7D,M,W,check ETT,"Exam Name:
+XR Chest AP.
+Clinical Indication:
+ETT level
+Comparison:
+None
+Impression:
+Rotated radiograph.
+The ET tube is seen with its tip terminating at a good position in the mid trachea.
+The enteric tube is seen with its tip terminating in the topography of the stomach.
+The umbilical venous line is seen with tip terminating in topography of the right atrium, 3 mm above
+the cavoatrial junction.
+The umbilical arterial line is seen with its tip terminating opposite T12-L1 vertebral body.
+No consolidation or detectable pneumothorax.
+No large pleural effusion.
+The cardiomediastinal silhouette are unremarkable.
+The rib cage is intact. No displaced rib fracture.
+Other findings:
+Is there a critical or an unexpected finding?
+No",01:51:00,1.0,,2300.0,2.3,5.0,5D,train,38.0,White
+13,,X,10W,36W,M,W,check ETT and PICC,"Exam Name:
+XR Chest , AP.
+Clinical Indication:
+ET and picc
+10 week-old male born at term.
+He was diagnosed with VSD and Dandy walker syndrome
+Comparison:
+None
+Impression:
+Rotated film.
+The ET tube is seen terminating 2.6 cm above the carina, satisfactory position.
+The enteric tube tip is seen terminating over the topography of the stomach.
+The right upper extremity PICC line catheter is seen with the tip terminating over the topography of
+the right subclavian vein.
+There are left retrocardiac opacities, most likely atelectatic in nature. However, infection at this
+level cannot be completely excluded.  No large pleural effusion or detectable pneumothorax.
+There is paucity of the bowel gason the visualized portion of the abdomen.
+Other findings:
+Is there a critical or an unexpected finding?
+No",10:20:00,1.0,,3900.0,3.9,70.0,10W,test,36.0,White
+14,,x,3W,39w 0d,M,W,Follow up on pneumothorax,"Patient is intubated with tip of the ET tube 1 cm above the carina in good position.
+Right internal jugular central venous catheter is noted with tip in the topography of the right atrium.
+Feeding tube is noted with tip in the topography of the stomach.
+Bilateral chest tubes and epicardial pacing wires are noted.
+ 
+The lungs are mildly congested. There is decrease in right basal atelectasis.
+Resolution of small left pneumothorax.
+ 
+No cardiomegaly. 
+ 
+There is no gross osseous abnormality.
+ 
+Note is made of mediastinal surgical clips.
+",00:25:00,1.0,,3300.0,3.3,21.0,3W,train,39.0,White
+15,,x,7W,39w 0d,F,W,Follow-up.,"The ET and NG tubes are in stable position.
+ 
+There is near resolution of the right upper lobe collapse with residual linear band-like opacities, likely atelectatic.
+There are faint perihilar streaking linear opacities, likely atelectatic.
+ 
+There is unchanged small right pleural effusion.
+No detectable pneumothorax.
+ 
+The cardiac silhouette is stable in appearance.
+ 
+",02:00:00,1.0,,3400.0,3.4,49.0,7W,train,39.0,White
+16,0.0,x,3W,38w 4d,F,W,post intubation,"ET tube that is seen terminating 2.5 cm above the carina.
+The ND tube is again noted.
+Again noted the bilateral airspace opacities suggestive of edema or more likely diffuse pneumonia more obvious in the left lower lobe with an air bronchogram and associated small reactive left parapneumonic pleural effusion, to be correlated clinically.
+",05:00:00,1.0,,2720.0,2.72,21.0,3W,test,38.57,White
+17,,X,2M,37W,M,W,follow up,"Exam Name:
+XR Chest, AP.
+Clinical Indication:
+Follow-up
+Comparison:
+18 April 2021.
+Impression:
+The ET tube is seen terminating 5 mm above the carina and can be slightly further retracted.
+The enteric tube is seen terminating over topography of the stomach.
+There is improved aeration of the right upper and mid-lung fields as well as left lower lung fields,
+due to decrease in infectious process or pulmonary edema.
+There is a stable tiny right pleural effusion.
+No pneumothorax or pneumomediastinum.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+1",06:12:00,,1.0,2300.0,2.3,60.88,2M,test,37.0,White
+18,,X,1D,36W,M,W,check UVL position,"Exam Name:
+XR Chest , AP.
+Clinical Indication:
+check UVL position.
+Patient is known to have D-TGA
+Large PDA with left to right shunt flow
+Comparison:
+None.
+Impression:
+There is mild diffuse interstitial pulmonary edema.
+No gross consolidation. No large pleural effusion.
+The umbilical venous line is seen terminating over the topography of the right atrium and needs
+retraction by approximately 1.7 cm to reach the IVC right atrial junction.
+The cardiomediastinal silhouette is slightly prominent in size.
+The ET tube is seen terminating 2 cm above the carina, satisfactory position.
+The enteric tube is seen terminating over topography of the stomach.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+1",11:30:00,1.0,,2900.0,2.9,1.0,1D,test,36.0,White
+19,,X,4D,36W,F,W,post intubation,"Exam Name:
+XR Chest.
+Clinical Indication:
+Post intubation.
+Technique:
+AP view of the chest.
+Comparison:
+1 May 2021 done at 11:33 a.m.
+Impression:
+There is interval insertion of a ET tube with its tip terminating at 1.1 cm above the carina.
+The feeding tube is again seen with its tip terminating in the stomach.
+No other significant interval change.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+2",10:42:00,1.0,,3400.0,3.4,4.0,4D,test,36.0,White
+20,,x,1D,40w 0d,F,W,POST CATH,"Feeding tube is seen terminating at the topography of the stomach.
+ET tube is seen terminating 2.5 cm above the carina.
+ 
+An UVC is seen at a low position terminating near the edge of the liver at T11 vertebral level, probably in the topography of the umbilical vein.
+ 
+Increased haziness of the right upper lobe and left lobes with prominence of the right horizontal fissure indicating mild bilateral congestion and minimal right effusion.
+ 
+Enlarged cardiac silhouette with prominent right para-tracheal stripe. There is upturning of the cardiac apex.
+ 
+The bowel gas pattern is normal.
+ 
+There is no gross osseous abnormality.
+",01:00:00,1.0,,1900.0,1.9,1.0,1D,train,40.0,White
+21,,X,7D,38W,M,W,post chest tube adjustment,"Exam Name:
+XR Chest
+Clinical Indication:
+post chest tube adjustment
+Technique:
+AP view of the chest and abdomen.
+Comparison:
+13 may 2021
+Impression:
+Further re-expansion of the right lung with evidence of residual mild to moderate pneumothorax.
+The left lung is essentially clear.
+Significant decrease in the pneumoperitoneum, with a small residual component.
+Decrease in the abdominal, chest wall and right axillary subcutaneous emphysema.
+Feeding tube terminating in the topography of the stomach.
+ET tube is seen terminating at the level of the carina, please consider retraction.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+2",03:00:00,,1.0,2400.0,2.4,7.0,7D,train,38.0,White
+22,,X,2M,26W,F,W,Status post intubation.,"Exam Name:
+XR Chest.
+Clinical Indication:
+Status post intubation.
+Technique:
+AP view of the chest.
+Comparison:
+None.
+Impression:
+The lungs are hypo-inflated.  There are bilateral patchy opacities, likely part of hypoventilatory
+changes or pneumonic infiltrates, to be correlated clinically and closely foolowed up.
+No pleural effusions. No pneumothorax.
+The cardiac silhouette is normal in size.
+The ET tube is seen terminating at the thoracic inlet, needs to be advanced.
+The gastric tube is seen terminating in the gastric fundus.
+Other findings:
+Is there a critical or an unexpected finding?
+No",01:00:00,,1.0,800.0,0.8,60.88,2M,test,26.0,White
+23,,X,3W,36W,M,W,post intubation,"Exam Name:
+XR Chest
+Clinical Indication:
+post intubation
+Technique:
+Chest radiograph, AP view.
+Comparison:
+None.
+Impression:
+There is an endotracheal tube terminating at the thoracic inlet, 2.2 cm above the carina.
+There is a feeding tube terminating in the stomach.
+Subtle opacities in the right upper lobe, infectious or atelectatic.
+The cardiac silhouette is prominent.
+The thoracic cage is intact.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+2",04:00:00,,1.0,2600.0,2.6,21.0,3W,test,36.0,White
+24,,X,5D,38W,F,W,post intubation,"Exam Name:
+XR Chest .
+Clinical Indication:
+post intubation
+Technique:
+AP view of the chest was obtained.
+Comparison:
+16 July 2021.
+Impression:
+Interval removal of the feeding tube.
+ET tube is seen terminating 2.4 cm above the carina.
+There is a right thymic shadow or a right sided aorta.
+No large consolidations. No pneumothorax or pleural effusions.
+No suspicious osseous lesions.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+1",10:00:00,1.0,,4500.0,4.5,5.0,5D,test,38.0,White
+25,,X,3W,33W,F,W,Post PICC line,"Exam Name:
+XR Chest PA
+Clinical Indication:
+Post PICC line
+Technique:
+AP view of the chest
+Comparison:
+None
+Impression:
+There is increase in the pulmonary vascularity with minimal fluid in the minor fissure suggestive of
+pulmonary congestion or plethora.
+Prominent cardiac silhouette with prominent right cardiac border.
+Please correlate with echocardiography to rule out a left to right shunt.
+ET tube is seen terminating in the right main stem bronchus and requires 2 cm retraction.
+Left-sided PICC line terminating at the left brachiocephalic-subclavian junction.
+NG tube terminating in the topography of the stomach.
+Significant angulation of the axillary segment of the left seventh and eighth left ribs could represent
+congenital deformity versus as a sequela of birth trauma.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+1",10:00:00,,1.0,1800.0,1.8,21.0,3W,train,33.0,White
+26,,X,10D,36W,F,W,post intubation,"Exam Name:
+XR Chest AP
+Clinical Indication:
+post intubation
+Comparison:
+31 July 2021
+Impression:
+Interval placement of an ET tube with its tip seen satisfactorily above the carina.
+The lungs remain clear.
+Cardiac silhouette within normal limits in size.
+No other change.
+Other findings:
+Is there a critical or an unexpected finding?
+No",03:40:00,1.0,,3100.0,3.1,10.0,10D,train,36.0,White
+27,,X,4D,35W,F,W,v tach,"Exam Name:
+XR Chest PA
+Clinical Indication:
+v tach
+Technique:
+Chest radiograph; AP view.
+Comparison:
+6 August 2021.
+Impression:
+There is interval development of small right pleural effusion.  The lungs are congested. No
+pneumothorax. Interval appearance of generalised body edema.
+The tip of the endotracheal tube terminates in the thoracic inlet, advancement may be needed. The
+tip of the NG tube terminates in the stomach.  The esophageal probe has been removed.  The tip
+of the umbilical arterial line terminates at the level of T5-T6 level.
+Other findings:
+Is there a critical or an unexpected finding?
+No",06:40:00,,1.0,2800.0,2.8,4.0,4D,train,35.0,White
+28,,x,8W,28w 0d,F,W,Post chest tube removal.,"The ET and enteric tube are in stable satisfactory position.
+There has been removal of the left chest tube.
+There is interval worsening of diffuse interstitial lung markings, that may be due to increase in lung congestion with an element of atelectasis.  No large pleural effusion.  No other change is seen.
+",01:00:00,1.0,,1440.0,1.44,56.0,8W,test,28.0,White
+29,,X,11D,38W3D,F,W,post op,"Exam Name:
+XR Chest
+Clinical Indication:
+post op
+Technique:
+Chest radiograph; AP view.
+Impression:
+S/P open heart surgery. There is pulmonary edema and generalised body edema. No significant
+pleural effusion. No pneumothorax.
+The endotracheal tube terminates at the carina, adjustment is needed. The right internal jugular
+central venous catheter terminates in the right atrium.
+Chest tubes and epicardial pacers are placed.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+1",01:20:00,,1.0,3500.0,3.5,11.0,11D,train,38.43,White
+30,,X,6D,37W2D,M,W,"ET tube, postoperative. Follow-up (tracheoesopahgeal repair), rule out pneumothorax","Exam Name:
+XR Chest AP
+Clinical Indication:
+ET tube, postoperative. Follow-up (tracheoesopahgeal repair), rule out pneumothorax
+Technique:
+AP view of the chest
+Comparison:
+31 August 2021
+Impression:
+The ET tube needs advancement as it terminates now the 3.4 cm above the carina, at the level of
+the thoracic inlet.
+Re-demonstration of the gastric tube, right chest tube and right IJ central venous catheter in stable
+position.
+The left lung is completely opacified and with evidence of left hemidiaphragm elevation and left
+mediastinal shift, consistent with partial left lung collapse.
+The right lung is clear without evidence of pleural effusions or pneumothorax.
+No skeletal abnormalities are seen.
+Other findings:
+Is there a critical or an unexpected finding?
+Yes",02:20:00,,1.0,2600.0,2.6,6.0,6D,test,37.29,White
+31,,X,4W,38W,M,W,"intubated
+","Exam Name:
+XR Chest AP
+Clinical Indication:
+intubated
+Technique:
+AP view of the chest
+Comparison:
+12 September 2021
+Impression:
+The patient is status post cardiac surgery.
+He is intubated the tip of the ET tube terminating 1.4 cm above the carina.
+The gastric tube is seen terminating in the topography of the stomach.  Note is made of epicardial
+pacing wires. Interval insertion of a right IJ central venous catheter terminating at the level of the
+SVC.
+Mild increase in the interstitial markings, more prominent at the level of the perihilar lesions
+suggestive of mild interstitial pulmonary edema.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+1",01:45:00,1.0,,2600.0,2.6,28.0,4W,train,38.0,White
+32,,X,2W,36W,M,W,ET tube check,"Exam Name:
+XR Chest AP
+Clinical Indication:
+ET tube check
+Technique:
+AP view of the chest
+Comparison:
+None.
+Impression:
+The patient is status post exploratory laparotomy for presumed bowel occlusion, reduction of
+internal hernia, appendectomy and rectal seromuscular biopsy.
+He is intubated with the tip of the ET tube terminating 1.1 cm above the carina.
+The feeding tube is seen terminating in the topography of the stomach.
+The right IJ central venous catheter is seen terminating in the right atrium.
+No lung consolidations is seen.
+No pleural effusions or detectable pneumothorax.
+The cardiomediastinal silhouette is unremarkable.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+1",15:00:00,1.0,,2100.0,2.1,14.0,2W,test,36.0,White
+33,,X,11D,36W,M,W,"Baseline lung assessment, check ET tube and esophageal probe position","Exam Name:
+XR Chest PA.
+Clinical Indication:
+baseline.
+Comparison:
+None.
+Findings:
+The lungs are clear. No detectable pleural effusion or pneumothorax.
+The cardiac silhouette is enlarged.
+There is decreased pulmonary vascularity.
+The lines and tubes are in adequate position.
+Impression:
+Cardiomegaly and decreased pulmonary vascularity. Rule out congenital heart disease by
+echocardiography.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+-",01:09:00,1.0,,4200.0,4.2,11.0,11D,test,36.0,White
+34,,X,8D,31W3D,F,W,"intubated, check tube level","Exam Name - all studies:
+XR Chest AP.
+XR Abdomen AP
+Clinical Indication - all studies:
+intubated, check tube level
+Technique - all studies:
+Single AP radiograph of the chest and abdomen.
+Comparison - all studies:
+None.
+Impression - all studies:
+The tip of the ET tube is seen projecting below the thoracic inlet and well above the carina (1.3 cm
+above the carina), in satisfactory position.
+There is a nasogastric tube seen coursing into the upper abdomen and terminating at the
+topography of the GE junction, for further advancement.
+Note is made of UVL with its tip seen terminating at the IVC just below the inferior cavoatrial
+junction in satisfactory position.
+The lungs are clear.
+No detectable pleural effusions or pneumothorax.
+The cardiomediastinal silhouette is unremarkable.
+No acute osseous abnormality.
+Nonspecific bowel gas pattern.
+No evidence of free air in the abdomen. However lateral decubitus views are more sensitive for
+small amount of free air.
+Other findings - all studies:
+Is there a critical or an unexpected finding?
+No",01:30:00,1.0,,2300.0,2.3,8.0,8D,test,31.43,White
+35,,X,1D,38W,F,W,"congenital diaphragmatic hernia, intubated, UV line","Exam Name:
+XR Chest PA
+Clinical Indication:
+congenital diaphragmatic hernia, intubated, UV line
+Technique:
+AP view of the chest.
+Comparison:
+None.
+Impression:
+There is an umbilical line seen terminating at the level of T6.
+The feeding tube is seen terminating in the topography of the distal oesophagus.
+The ET tube is seen with its tip at the level of the thoracic inlet.
+There are bowel gas pattern in the left lower lung zone, related to the patient's known
+diaphragmatic hernia, apparently containing small and large bowel loops. The stomach remains
+subdiaphragmatic. It is seen exerting mass effect on the adjacent lung and mediastinum with the
+cardiac silhouette seen shifted to the right.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+2",09:20:00,1.0,,2700.0,2.7,1.0,1D,test,38.0,White
+36,,X,6d,39W,M,W,congestion,"Exam Name:
+XR Chest PA
+Clinical Indication:
+congestion
+Technique:
+AP view.
+Comparison:
+None.
+Impression:
+The ET tube terminates at 1.1 cm above the carina.
+The feeding tube terminating topography of the stomach.
+A partially visualised catheter terminating topography of the IVC.
+The cardiac silhouette is enlarged.
+There are bilateral perihilar interstitial opacities, more so on the right side suggestive of congestion
+and interstitial pulmonary oedema. 
+No detectable pleural effusion or pneumothorax.
+No acute osseous abnormality.
+Other findings:
+Is there a critical or an unexpected finding?
+No",00:45:00,1.0,,3000.0,3,6.0,6d,test,39.0,White
+37,,X,18M,37W5D,M,W,post op,"Exam Name:
+XR Chest.
+Clinical Indication:
+post op.
+Technique:
+AP view of the chest.
+Comparison:
+4 June 2023.
+Findings:
+Interval intubation with the ET tube seen at 1.8 cm above the carina, insertion of a right IJ central
+line seen terminating in the SVC, insertion of two chest tubes and a single mediastinal tube in good
+position.
+Increased bilateral perihilar haziness, hypoventilatory and/or mild pulmonary congestion
+No large pleural effusion.  No pneumothorax.
+Impression:
+Expected postsurgical changes.
+Other findings:
+Is there a critical or an unexpected finding?
+No",18:00:00,1.0,,2700.0,2.7,547.9200000000001,18M,train,37.71,White
+38,,X,5D,39W,M,W,desaturation,"Exam Name:
+XR Chest AP.
+Clinical Indication:
+term baby with TGA, desaturation reaching 50-60%, increased secretions
+Comparison:
+21 December 2021.
+Impression:
+There are new bilateral upper lobe patchy air space opacities, more so on the left , with large left
+lower lobe consolidation, with air bronchograms, infectious in the appropriate clinical setting.
+No large pleural effusions.
+The ET tube is seen with its tip terminating above the carina.
+The NG tube is seen with its tip terminating beyond the field of view.
+No other significant change.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+2",00:10:00,1.0,,3300.0,3.3,5.0,5D,test,39.0,White
+39,,X,9D,38W,M,W,post intubation,"Exam Name:
+XR Chest
+Clinical Indication:
+post intubation
+Technique:
+Chest radiograph; AP view.
+Impression:
+The tip of the endotracheal tube is 1.4 cm above the carina.  The lungs are well-aerated and clear.
+No consolidation.  No pleural effusion or pneumothorax.
+The cardiac silhouette is enlarged with an abnormal cardiac configuration.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+2",01:30:00,1.0,,2800.0,2.8,9.0,9D,test,38.0,White
+40,,X,0D,39W5D,M,W,post intubation,"Exam Name:
+XR Chest AP.
+Clinical Indication:
+post intubation
+Comparison:
+None
+Impression:
+The lungs are well expanded with streak perihilar opacities suggestive of atelectasis. No
+consolidation. No pneumothorax. No pleural effusion.
+The ET tube is seen with its tip terminating at the good position in the thoracic inlet.
+The umbilical arterial line is seen with its tip terminating opposite T9 vertebral body and in good
+position.
+The umbilical venous central line is seen with its tip terminating in the topography of the right
+atrium and can be retracted 1 cm.
+There is nonspecific mild gaseous distension of the stomach.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+-",05:00:00,1.0,,3700.0,3.7,0.0,0D,test,39.71,White
+41,,X,1D,37W3D,F,W,post intubation,"Exam Name:
+XR Chest AP.
+Clinical Indication:
+post intubation.
+Comparison:
+01 January 2021
+Impression:
+The ET tube is seen with its tip terminating at the level of the carina and can be retracted by
+approximately 1 cm.
+The NG tube is seen in stable position.
+The central venous line again overlies the topography of the liver and needs adjustment.
+No consolidation or detectable pneumothorax.
+No significant change.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+-",01:00:00,,1.0,3000.0,3,1.0,1D,test,37.43,White
+42,,X,2D,37W1D,M,W,post intubation,"Exam Name:
+XR Chest PA
+Clinical Indication:
+post intubation
+Comparison:
+8 January 2021
+Impression:
+Th UVL is just below the IVC right atrial junction. The ET tube tip is above the thoracic inlet. Enteric
+tube tip is in the stomach.
+There is worsening of bilateral ground glass opacities.
+The cardiomediatstinal silhouette is enlarged.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+1","1 day, 8:00:00",,1.0,2700.0,2.7,2.0,2D,test,37.14,White
+43,,X,3W,37W1D,M,W,post intubation,"Exam Name:
+XR Chest.
+Clinical Indication:
+post intubation
+Technique:
+AP view of the chest was obtained.
+Comparison:
+10 February 2021.
+Impression:
+There has been interval placement of an ET tube with its tip seen at the thoracic inlet.
+There is mild increase in the peripheral airspace disease in the right upper lung zone.
+There is better aeration of the left perihilar airspace disease with however slight increase in the
+opacities throughout the peripheral left lung.
+No large pleural effusion or detectable pneumothorax.
+The feeding tube is again seen in the topography of the stomach.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+2",00:10:00,1.0,,2300.0,2.3,21.0,3W,train,37.14,White
+44,,X,3D,39W3D,M,W,"Intubation, check the Et tube","Exam Name:
+XR Chest PA
+Clinical Indication:
+Intubation, check the Et tube
+Comparison:
+23 January 2021
+Impression:
+The ET tube tip is at the carina and needs to be retracted.
+The lungs remain clear.
+The UVL tip overlies the liver in the topography of the ductus, stable.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+-",09:00:00,,1.0,3700.0,3.7,3.0,3D,train,39.43,White
+45,,X,0D,28W4D,F,W,post intubation,"Exam Name:
+XR Chest PA
+Clinical Indication:
+post intubation
+Technique:
+AP view
+Comparison:
+28 January 2021
+Impression:
+Interval intubation with tip of the ET tube at 0.8 cm above the carina. The gastric tube tip is in the
+topography of the stomach.  The UVL tip is in the left portal vein The UAL tip is at T7-T8 vertebral
+level.
+There is slight improvement in the diffuse ground glass lung opacities. There is non-specific diffuse
+bowel gas distention.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+1",00:20:00,1.0,,1400.0,1.4,0.0,0D,test,28.57,White
+46,,X,1D,31W3D,F,W,post intubation,"Exam Name:
+XR Chest PA
+Clinical Indication:
+post intubation
+Technique:
+AP view
+Comparison:
+4 February 2021
+Impression:
+Interval intubation with the ET tube at the thoracic inlet and needs further advancement. The UVL
+terminates in the right atrium. The UAL terminates at the level of T7 vertebral body. The gastric
+tube is in adequate position.
+There is significant increase in the bilateral ground-glass and air space opacification of the lungs
+with air bronchograms and nearly white lungs. No pleural effusion or detectable pneumothorax.
+No other significant interval changes.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+1",02:00:00,,1.0,1700.0,1.7,1.0,1D,train,31.43,White
+47,,X,0D,28W4D,M,W,post intubation,"Exam Name:
+XR Chest
+Clinical Indication:
+post intubation
+Technique:
+AP view
+Comparison:
+5 February 2021 at 07:44 a.m.
+Impression:
+Interval intubation with tip of the ET tube at 1.3 cm above the carina.
+The UAL has been advanced and now terminates at the level of T7 vertebral body. The UVL has is
+slightly retracted and remains terminating in the right atrium, needs retraction by 0.6 cm.
+There is mild improvementin the ground glass opacities in the lungs.
+No other significant interval changes on this short term follow-up.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+1",00:30:00,1.0,,1400.0,1.4,0.0,0D,train,28.57,White
+48,,X,0D,27W,F,W,,"Exam Name:
+XR Chest
+Clinical Indication:
+post lines insertion
+Technique:
+AP view
+Comparison:
+None.
+Impression:
+Status post insertion of UAL with tip terminating at T11 vertebral body and needs adjustment. The
+UVL terminates in the right atrium/superior cavoatrial junction and requires retraction by around 2
+cm.
+The ET tube tip is at 0.7 cm above the carina.
+There is bilateral ground-glass opacification of the lungs, related to moderate surfactant efficiency.
+No consolidations. No pleural effusion or detectable pneumothorax.  The cardiomediastinal
+silhouette is unremarkable. The thoracic cage is intact.
+There is paucity of bowel gas in the right abdomen. Findings may be related to incomplete
+gaseous distension due to early post natal imaging, to be followed up.
+There is a lucency along the left upper abdomen, felt to be related to a skin fold, due to its
+continuity with the outside subcutaneous tissues.
+Other findings:
+Is there a critical or an unexpected finding?
+No",01:00:00,1.0,,1100.0,1.1,0.0,0D,train,27.0,White
+49,,X,0D,28W5D,M,W,intubation,"Exam Name:
+XR Chest
+Clinical Indication:
+intubated baby
+Technique:
+Chest and abdomen radiograph, AP view.
+Impression:
+The tip of the endotracheal tube is 1.3 cm above the carina.  The tip of the umbilical arterial line is
+at the level of T7 vertebra.  The tip of the umbilical venous line is at the level of the right atrium.
+The tip of the NG tube is in the topography of gastric body.
+The lungs are under-expanded with diffuse bilateral ground glass opacities and air bronchograms
+in keeping with surfactant deficiency.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+3",01:00:00,1.0,,1300.0,1.3,0.0,0D,test,28.71,White
+50,,X,1D,24W2D,F,W,intubation,"Exam Name - all studies:
+XR Chest
+XR Abdomen
+Clinical Indication - all studies:
+ttn intubated; lines
+Technique - all studies:
+Chest and abdomen radiograph; AP view.
+Impression - all studies:
+The tip of the NG tube is in topography of the gastric body.
+The tip of the endotracheal tube remains at the level of the right main-stem bronchus, adjustment
+is needed.
+The tip of the umbilical arterial line is at the level of the T6-T7 level.
+The tip of the umbilical venous line is at the level of the ductus. There is resolution of portal venous
+gas.
+The lungs are free in bilateral air space and interstitial opacities. No pleural effusion or
+pneumothorax.
+No evidence of dilated bowel loops or pneumoperitoneum.
+Other findings - all studies:
+Is there a critical or an unexpected finding?
+No
+Report Severity - all studies:
+1",09:00:00,,1.0,600.0,0.6,1.0,1D,train,24.29,White
+51,,X,1D,26W2D,M,W,intubation,"Exam Name:
+XR Chest
+Clinical Indication:
+intubation
+Technique:
+Chest radiograph; AP view.
+Comparison:
+24 March 2021.
+Impression:
+The lungs are slightly less expanded and there is slight increase in the diffuse bilateral ground-
+glass opacities, suggestive of surfactant deficiency. No pneumothorax. No pleural effusion.
+The tip of the endotracheal tube is at the carina / right mainstem bronchus, adjustment is needed.
+The tip of the umbilical venous line is at the level of the right atrium.
+The tip of the umbilical arterial line is at the level of T6-T7.
+The tip of the NG tube terminates in the stomach.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+2",01:10:00,,1.0,1100.0,1.1,1.0,1D,train,26.29,White
+52,,X,0D,24W1D,M,W,intubation,"Exam Name:
+XR Chest PA
+Clinical Indication:
+Intubation and umbilical lines
+Technique:
+Chest radiograph; AP view
+Comparison:
+None
+Impression:
+The tip of the endotracheal tube is at the carina, and needs retraction.
+The tip of the umbilical venous line terminates in the upper aspect of the right atrium.
+The umbilical arterial line does not course inferiorly in the expected location of the umbilical artery.
+It is seen coursing overlying the left abdomen and terminating in the left upper quadrant, not
+confined to an arterial anatomy.
+There is diffuse bilateral ground-glass opacities, suggestive of surfactant deficiency. No
+pneumothorax. No pleural effusion.
+Other findings:
+Is there a critical or an unexpected finding?
+Yes",01:00:00,,1.0,500.0,0.5,0.0,0D,train,24.14,White
+53,,x,3M,38W6D,F,W,intubation,"Exam Name:
+XR Chest.
+Clinical Indication:
+post intubation
+Technique:
+AP view of the chest was obtained.
+Comparison:
+22 July 2021 at 07:13 p.m.
+Impression:
+There is interval placement of an ET tube with its tip seen terminating 2.5 cm above the carina.
+Decrease in the minimal right pneumothorax
+Decrease in the air space opacification mainly in the lower lobes bilaterally.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+2",02:00:00,1.0,,3200.0,3.2,91.32000000000001,3M,test,38.86,White
+54,,x,4D,38W5D,F,W,intubation,"Exam Name:
+XR Chest PA
+Clinical Indication:
+post intubation
+Technique:
+AP view.
+Comparison:
+13 May 2021.
+Impression:
+The tip of the ET tube is seen at 1.1 cm above the carina.
+There has been also interval insertion of a feeding tube terminating in the topography of the
+stomach.
+No consolidation seen.
+No detectable pleural effusion or pneumothorax.
+The cardiomediastinal silhouette is unremarkable.
+No acute osseous abnormality.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+2",10:00:00,1.0,,2100.0,2.1,4.0,4D,train,38.71,White
+55,,x,2W,39W2D,M,W,post bt shunt,"Exam Name:
+XR Chest
+Clinical Indication:
+Post BT shunt
+Technique:
+Chest radiograph; AP view.
+Comparison:
+10 June 2021.
+Impression:
+There is mild increase in the mild congestion.  No consolidation. No detectable pleural effusion or
+pneumothorax.
+The endotracheal tube is 4 cm above the carina, adjustment is needed. The NG tube is stable in
+position.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+-",00:49:00,,1.0,3300.0,3.3,14.0,2W,train,39.29,White
+56,,x,0D,30W3D,M,W,intubation,"Exam Name:
+XR Chest AP
+Clinical Indication:
+post intubation. Patient with left congenital diaphragmatic hernia.
+Technique:
+XR Chest AP
+Comparison:
+None
+Impression:
+There is a large right-sided pneumothorax with consequent collapse of the right lung and
+mediastinal shift to the left representing a tension component.
+There is almost complete opacification of the left hemithorax with air bubbles noted, could be
+related to lung hypoplasia or congenital diaphragmatic hernia on the left side.
+There is a paucity of gas in the bowel could be related to poor sucking reflex.
+An NG tube is seen terminating at the level of T12.
+An endotracheal tube is seen terminating at the thoracic aperture, adjustment is recommended.
+An umbilical venous line with an abnormal trajectory is seen.
+No acute osseous abnormalities.
+Other findings:
+Is there a critical or an unexpected finding?
+Report Severity:
+3",00:40:00,,1.0,1600.0,1.6,0.0,0D,train,30.43,White
+57,,x,2D,35W1D,F,W,intubation,"Exam Name:
+XR Chest .
+Clinical Indication:
+intubated
+Technique:
+AP view of the chest was obtained.
+Comparison:
+23 June 2021.
+Impression:
+Interval placement of a ET tube with its tip seen terminating 1.5 cm above the carina.
+Lungs are underaerated with bilateral widespread infiltrates, rule out TTN/wet lung versus
+pneumonia including aspiration pneumonia.
+No detectable pleural effusion or pneumothorax.
+The NG tube is seen in an appropriate position with its tip terminating in the topography of the
+stomach.
+There is significant decrease in the previously noted dilatation of the small bowel loops.
+No acute osseous abnormality.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+2",05:30:00,1.0,,2400.0,2.4,2.0,2D,test,35.14,White
+58,,x,0D,24W3D,M,W,intubated,"Exam Name:
+XR Chest AP
+Clinical Indication:
+post intubation
+Technique:
+Chest X-ray: AP view
+Comparison:
+21/06/2021 at 10:02 p.m.
+Findings:
+Impression:
+There is interval removal of the nasogastric tube and withdrawal of the venous line by a few
+centimetres now seen terminating in the topography of the umbilical vein. Adjustment of the line
+position is advised. The umbilical arterial line seen in a stable position.
+The ET tube is seen with its tip terminating 1.2 cm above the carina.
+No significant change in the appearance of the chest.
+Other findings:
+Is there a critical or an unexpected finding?
+Yes",12:00:00,1.0,,800.0,0.8,0.0,0D,train,24.43,White
+59,,x,3D,32W,F,W,desaturation,"Exam Name:
+XR Chest PA
+Clinical Indication:
+desaturation
+Technique:
+AP view of the chest
+Comparison:
+5 July 2021
+Impression:
+Persistent small right pneumothorax.
+There is elevation of the left hemidiaphragm with increased lucency at the level of the left upper
+quadrant likely secondary to stomach distension.
+The ET tube is seen terminating 1 cm above the carina, requiring at least 1 cm retraction.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+1",02:00:00,,1.0,1300.0,1.3,3.0,3D,test,32.0,White
+60,,x,4M,24w 2d,M,W,follow up for possible extubation,"The ET tube is unchanged in position at 2.4 cm above the carina.
+The feeding tube is extending in the abdomen beyond the field of view.
+There are left hilar and suprahilar ill-defined airspace opacities. There is interval better aeration of the lower lobes with overall mild hyperinflation of the lung fields.
+The cardiac silhouette is enlarged, unchanged.
+No detectable pleural effusion or pneumothorax.
+ 
+",05:00:00,1.0,,8500.0,8.5,121.76,4M,train,24.29,White
+61,,x,1D,31w 0d,M,W,post intubation,"There are worsening ground-glass opacities in the lungs, suggestive of worsening changes of surfactant deficiency.  
+ 
+The patient is now intubated with the ET tube in good position.  Enteric tube tip is projecting over the view of the stomach.
+ 
+The patient is status post UAL catheter insertion with its tip at the level of T10 vertebral body.  The umbilical venous catheter tip is within the right atrium and can be retracted by 1.7 cm.
+ 
+The bowel gas pattern is unremarkable.
+",00:40:00,1.0,,1815.0,1.815,1.0,1D,train,31.0,White
+62,,x,0D,27W3D,M,W,NICU,"Exam Name:
+XR Chest PA
+Clinical Indication:
+NICU
+Technique:
+AP view of the chest
+Comparison:
+None
+Impression:
+Decreased lung volumes with diffuse ground glass opacification of the bilateral lungs more so on
+the right. Findings are suggestive of RDS, less likely neonatal pneumonia, transient tachypnea of
+the newborn or cardiogenic pulmonary oedema.
+ET tube is seen terminating 0.5 cm above the carina and requires adjustment.
+Feeding tube is seen terminating in the topography of the stomach.
+The mediastinal silhouette is unremarkable.
+No suspicious osseous lesions.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+1",02:00:00,,1.0,1000.0,1,0.0,0D,train,27.43,White
+63,,x,2D,35W6D,M,W,intubation,"Exam Name:
+XR Chest.
+Clinical Indication:
+et tube location
+Technique:
+AP view of the chest was obtained.
+Comparison:
+23 July 2021 at 12:39 a.m.
+Impression:
+Status post placement of a ET tube with its tip seen terminating 1.9 cm above the carina.
+No pneumothorax.
+Otherwise, unchanged appearance of the chest on this short-term interval follow-up. 
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+2",03:00:00,1.0,,2300.0,2.3,2.0,2D,train,35.86,White
+64,,x,6W,28W3D,M,W,RDS,"Exam Name:
+XR Chest AP
+Clinical Indication:
+rds; lines insertion
+Comparison - all studies:
+None.
+Impression - all studies:
+There are diffuse confluent air space opacities throughout both lungs with hazy ground-glass
+appearance, compatible with respiratory distress syndrome (lung disease of prematurity).
+The ET tube is at the level of the carina and needs to be retracted by 2 cm.
+Native of the feeding tube is in adequate position.
+The tip of the UVL catheter is in suboptimal position and used be advanced approximately 2.5 cm
+Other findings - all studies:
+Is there a critical or an unexpected finding?
+No","1 day, 16:00:00",,1.0,1300.0,1.3,42.0,6W,test,28.43,White
+65,,x,2D,24W0D,M,W,desaturation,"Exam Name:
+XR Chest AP
+Clinical Indication:
+premature intubated with resp distress; desats
+Comparison - all studies:
+25 July 2021
+Impression - all studies:
+The ET tube has been retracted with its tip now seen at the thoracic inlet, advancement by 0.7 cm
+is recommended.
+Interval development of diffuse ground-glass opacification of both lungs, related to patient's known
+lung disease of prematurity (respiratory distress syndrome).
+Slight advancement of the UAL with its tip now seen at the topography T8 vertebra, in adequate
+position.
+No other change.
+Other findings - all studies:
+Is there a critical or an unexpected finding?
+No
+Report Severity - all studies:
+2",03:50:00,,1.0,630.0,0.63,2.0,2D,train,24.0,White
+66,,x,2D,35W2D,M,W,post intubation,"Exam Name:
+XR Chest AP
+Clinical Indication:
+cystic mass in lungs, post intubation
+Technique:
+AP view of the chest
+Comparison:
+None.
+Impression:
+The patient is intubated with the tip of the ET tube terminating 2.3 cm above the carina.
+The feeding tube is seen terminating in the topography of the stomach.
+There is a large right hemithorax calcified mass corresponding to T4-T7 levels and indenting the
+right 8th rib, likely arising from the ribs, showing bone expansion and sclerosis.
+There is underlying partial collapse of the right lung.
+The left lung is clear. No right pleural effusion.
+The cardiomediastinal silhouette is hardly visualised.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+1",15:00:00,1.0,,1800.0,1.8,2.0,2D,train,35.29,White
+67,,x,0D,35W4D,F,W,desaturation,"Exam Name:
+XR Chest AP
+Clinical Indication:
+desats
+Technique:
+AP view of the chest
+Comparison:
+14 September 2021
+Impression:
+Significant decrease in the bilateral diffuse air space opacities with improved aeration of both
+lungs.
+The ET tube, umbilical venous and arterial catheters remain in stable position.
+No pleural effusions or detectable pneumothorax.
+The cardiomediastinal silhouette is unremarkable.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+1",11:00:00,1.0,,2100.0,2.1,0.0,0D,test,35.57,White
+68,,x,11D,32W1D,M,W,intubation,"Exam Name:
+XR Chest PA.
+Clinical Indication:
+post intubation.
+Technique:
+AP view of the chest.
+Comparison:
+6 October 2021.
+Impression:
+Status post intubation, the tip of the ET tube is seen in good position at the level of the carina.
+Interval increase in the right upper and middle lobes air space disease with air bronchogram.
+Mild decrease in the left upper lobe consolidation/collapse.
+The pleural spaces are clear.
+The tip of the UVL is again seen at the level of T12 vertebral body, needs to be advanced by 2.5
+cm to reach T9 vertebral body.
+Again noted the situs inversus totalis.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+-",22:00:00,1.0,,1300.0,1.3,11.0,11D,train,32.14,White
+69,,x,0D,31W3D,F,W,intubation,"Exam Name:
+XR Chest PA.
+Clinical Indication:
+umbilical lines placement and ETT.
+Impression:
+The tip of the UAL is seen between the left aspects of T10-T11 vertebral bodies, should be
+advanced by 2.3 cm to reach T8 level.
+The tip of the UVL is seen at the right aspect of T5 vertebral body, should be retracted by 3-4 cm to
+reach the diaphragm.
+The tip of the ET tube is seen at 2.1 cm above the carina.
+There is evidence of diffuse fine granular bilateral lung opacification with air bronchograms and
+pulmonary hypoventilation. Rule out severe hyaline membrane disease.
+Nonspecific gaseous distension of the small bowel loops.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+-",17:00:00,1.0,,1700.0,1.7,0.0,0D,train,31.43,White
+70,,x,0D,31W3D,F,W,lines placement,"Exam Name:
+XR Chest PA.
+Clinical Indication:
+Umbilical lines placement and ETT.
+Comparison:
+None.
+Impression:
+The tip of the UVL is seen in good position at the left aspect of T9 vertebral body, at the level of the
+diaphragm.
+The tip of the UAL is seen between the left aspects of T5 and T6 vertebral bodies, better to be
+retracted by 1.2 cm to reach T6-T9 level.
+The tip of the ET tube is seen at 2.3 cm above the carina.
+The lungs are clear of consolidations. No pleural effusion.
+Nonspecific gaseous distension of the small bowel loops.
+Other findings:
+Is there a critical or an unexpected finding?
+No
+Report Severity:
+-",17:30:00,1.0,,1300.0,1.3,0.0,0D,train,31.43,White
+71,,x,11W,25w 4d,M,W,post intubation,"The ET tube terminates below the thoracic inlet, sufficiently above the carina.  Feeding tube terminates in the topography of the stomach body.
+There is interval removal of the left upper extremity PICC line.
+The lungs appear hypoinflated, with increased patchy foci of consolidation in both lungs more so the right lung and the posterior basal segment of the left lower lobe likely consolidation collapse however follow-up is suggested to document resolution and lack of superimposed infection.
+No pneumothorax or large pleural effusion.
+No other interval change is appreciated.
+ 
+Other findings
+Is there a critical or an unexpected finding?
+No
+ 
+",00:20:00,1.0,,4900.0,4.9,77.0,11W,train,25.57,White
+72,,x,8W,39W,F,W,follow up,"The ET tube has been retracted, its tip is now seen at the level of the thoracic inlet and may be advanced by 1 cm.
+The feeding tube has been advanced.
+ 
+There is worsening consolidation collapse in the left lung with mild leftward mediastinal shift.
+There is, however improved lung congestion and atelectasis on the right.
+No detectable pneumothorax.
+Improved subcutaneous emphysema in the left lateral chest wall.
+",02:10:00,0.0,1.0,2700.0,2.7,56.0,8W,test,39.0,White
+73,,x,7d,36W0D,M,W,confirm ET position,"Impression
+The tip of the ET tube is seen at 3 mm above the carina and should be retracted by approximately 5 mm.
+ 
+The lungs are hypoinflated with bibasilar atelectatic changes and perihilar bronchovascular crowding. There are patchy densities seen in the perihilar region lung bases could represent foci of atelectasis, superimposed congestion or early interstitial oedema cannot be excluded.
+ 
+No detectable pleural effusions or pneumothorax.
+The cardiac silhouette is within normal limits.
+No gross osseous pathology.
+",03:00:00,0.0,1.0,1500.0,1.5,7.0,7d,test,36.0,White
+74,,x,1d,38W0D,M,W,FU,"Impression
+The umbilical venous catheter has been repositioned and is now seen in the topography of subdiaphragmatic IVC.
+ 
+The umbilical arterial line is not included in the included chest and upper abdomen.  
+ 
+ 
+There has been interval insertion of a feeding tube with its tip seen terminating in the topography of the stomach.
+The ET tube terminates below the thoracic inlet, sufficiently above the carina.
+ 
+There is minimal improvement to no significant change of the opacity seen previously in the right middle lobe region and lower aspect of the right upper lobe.  There is otherwise over inflation of the remaining right lung.
+There is worsening consolidation collapse of the left upper lobe with over inflation of the left lower lobe.
+The cardiac silhouette is unchanged.
+No large pleural effusion.
+No pneumothorax.
+No other interval change
+",04:00:00,1.0,0.0,,,1.0,1d,test,38.0,White
+75,,x,5w,38W0D,F,W,Respiratory distress,"Impression
+There is re-expansion of the left lung. There remains moderate bilateral lung congestion.
+No large effusion on either side.
+ 
+ET Tube tip is at the carina and can be retracted by 0.6 cm.
+There is interval placement of an enteric tube with its tip just beyond the GE junction.
+ 
+No other change.
+",01:40:00,0.0,1.0,1500.0,1.5,35.0,5w,test,38.0,White
+76,,x,6d,40W0D,M,W,respiratory distress,"
+Impression
+There is worsening bilateral air space disease with increased air bronchograms in both lung fields  (white lungs). Findings suggestive of diffuse severe edema or ARDS. The possibility of infection cannot be excluded.
+ 
+There is blunting of both costophrenic, could be due to associated small effusions.
+ 
+The ET tube is terminating at the level of the carina and needs to be retracted.
+ 
+Lines and tubes are otherwise  in good position.
+ 
+Other findings
+Is there a critical or an unexpected finding?
+No
+Medical team was informed about the ET tube 
+",00:36:00,0.0,1.0,3300.0,3.3,6.0,6d,test,40.0,White
+77,,x,3m,27W3D,M,W,Follow-up atelectasis,"Impression
+The lungs are again hyperinflated with further improvement in the bilateral upper and lower lobes foci of air space disease.
+Diffuse bilateral severe reticular opacities are again noted in keeping with chronic lung disease.
+There are tiny foci of lucency interspersed between the foci of air space disease likely overinflated lung parenchyma.  There may be a superimposed mild interstitial emphysema in the perihilar region and the lung bases, to be followed.
+No pneumothorax.
+There is mild unchanged blunting of the bilateral costophrenic angles.  No significant pleural effusion.
+The ET tube tip projects slightly below the thoracic inlet sufficiently above the carina, can be advancement by 0.8 C M.
+ 
+Interval retraction of the feeding tube now seen at the level of the GE junction, needing advancement by 3 C M. (has been advanced on follow-up imaging).
+No other changes.
+",00:50:00,0.0,1.0,1070.0,1.07,91.32000000000001,3m,train,27.43,White
+78,,x,2w,29w 2d,F,W,Follow up post surfactant,"Impression
+The ET tube is seen terminating 3 mm above carina and should be retracted by 0.5 cm .
+The umbilical venous catheter is seen terminating in the topography of the right atrium and should be retracted by approximately 1 cm.
+ 
+Dr Mustafa Rashed was informed of the tube positions and adjustments needed by Dr Reve Chahine on 10 February 2020 at 12:15 PM with verbal read-back.
+ 
+The umbilical arterial catheter and feeding tube are in stable position.
+ 
+There has been interval decrease in the diffuse micronodular opacities bilaterally with improved inflation of both lungs.
+The cardiac silhouette is within normal limits.
+No definite pleural effusion or pneumothorax.
+No other interval change is seen.
+",00:50:00,0.0,1.0,1090.0,1.09,14.0,2w,test,29.29,White
+79,,x,1d,29w 2d,F,W,Follow up post surfactant.,"The ET tube is seen terminating 3 mm above carina and should be retracted by 0.5 cm .
+The umbilical venous catheter is seen terminating in the topography of the right atrium and should be retracted by approximately 1 cm.
+ 
+Dr Mustafa Rashed was informed of the tube positions and adjustments needed by Dr Reve Chahine on 10 February 2020 at 12:15 PM with verbal read-back.
+ 
+The umbilical arterial catheter and feeding tube are in stable position.
+ 
+There has been interval decrease in the diffuse micronodular opacities bilaterally with improved inflation of both lungs.
+The cardiac silhouette is within normal limits.
+No definite pleural effusion or pneumothorax.
+No other interval change is seen.
+",00:50:00,0.0,1.0,1090.0,1.09,1.0,1d,test,29.29,White
+80,,x,2d,24w 1d,F,W,follow up,"The ET tube is seen at the origin if the right mainstem bronchus and needs to be retracted by approximately 7 mm.
+The umbilical arterial catheter is again seen terminating in the topography of T5 vertebral body,and needs to be retracted by approximately 1.5 cm.
+The umbilical venous catheter remains in the topography of the right atrium and needs to be retracted by 1.5 cm.
+The tip of the feeding tube is seen terminating in the topography of the stomach
+ 
+Dr Amani Assaad was informed of the lines and tubes positions
+ 
+There are essentially unchanged mild residual diffuseï¿½bilateral micronodular opacities.
+No detectable pleural effusion or pneumothorax.
+",03:00:00,0.0,1.0,568.0,568 g,2.0,2d,test,24.14,White
+81,,x,1d,28w 2d,F,W,Post intubation,"Impression
+There has been interval intubation with the tip of the ET tube seen seen at the level of the carina near the right main-stem bronchus inlet and needs to be retracted by approximately 0.8 cm.
+The umbilical venous catheter is seen terminating in the topography of the portal vein, and needs adjustment.
+The umbilical arterial catheter and feeding tubes remain in adequate position.
+ 
+Unchanged bilateral micronodular opacities.
+There is nonspecific gaseous distension of the stomach.
+",01:30:00,0.0,1.0,1115.0,1.115,1.0,1d,train,28.29,White
+82,,x,9W,30w 2d,M,W,Follow up; bradycardia and desaturation.,"The ET tube is seen terminating over the topography of the carina and going more to the level of the right main-stem bronchus and needs retraction by 1 cm.
+The enteric tube is seen projecting over topography of the stomach.
+There is slight interval improvement in air space disease in the right upper lobe.
+ 
+No pleural effusion.  No pneumothorax. 
+ 
+There is apparent increased opacification in the right and left abdomen with minimal central crowding of bowel loops in the upper abdomen, concerning for possible hepatosplenomegaly or ascites to be correlated clinically.
+Otherwise the bowel gas pattern appears within normal limits.  No gross free intra-abdominal air or portal venous air.  No definite pathologic calcifications.
+No gross osseous lesion.
+",02:00:00,0.0,1.0,900.0,0.9,63.0,9W,train,30.29,White
+83,,x,8D,39w 0d,F,W,ET tube position,"The tip of the endotracheal tube is at the level of the thoracic inlet, needing advancement by 1 cm.
+ 
+The umbilical arterial line tip terminates at the level of the T6, adjustment is needed as reported earlier.
+ 
+The umbilical venous line terminates in topography of inferior cavoatrial junction.
+ 
+Lungas are hypoinflated with no gross focal lung abnormality. No pleural effusion or pneumothorax.  The cardiac silhouette is enlarged.
+ 
+No gross osseous lesion.
+",01:00:00,0.0,1.0,3565.0,3.565,8.0,8D,test,39.0,White
+84,,x,8W,28w 2d,F,W,follow up on NEC; co2 retention,"In the abdomen, there is  slight interval increase in the moderate bowel gas distension.  Previously seen tiny lucencies in the region of the ascending colon and rectosigmoid have near completely resolved.  No definite pneumatosis intestinalis is seen.  No gross free intra-abdominal air.  No portal venous air.
+Improved bilateral lower lobe atelectasis.  The feeding tube terminates in the topography of the stomach.
+ 
+No other interval change.
+ 
+In the chest, when compared to the study from same day at 01:28 p.m., there is improved lung inflation with improved bilateral upper and lower lung zone air space disease with persistent mild perihilar interstitial lung thickening.  No large pleural effusion.  No pneumothorax or pneumomediastinum.
+The cardiac silhouette is slightly prominent, unchanged.
+The stomach is mildly gas distended.
+The ET tube is entering the left main stem bronchus and should be retracted by 1 C M.
+",01:30:00,0.0,1.0,1020.0,1.02,56.0,8W,test,28.29,White
+85,,x,5M,28w 2d,F,W,POST INTUBATION,"Total opacification of the left upper lobe and lingula most likely related to mucous plugging / atelectasis.
+ 
+Diffuse bilateral cystic changes and reticular opacities are again noted, suggestive of bronchopulmonary dysplasia.
+ 
+There is no pleural effusion or pneumothorax.
+ 
+ET tube is seen terminating 0.7 cm above the carina. ET-tube retraction for 0.5-1 cm is advised.
+ 
+Again noted the minimal rounding of the cardiac apex representing possible right ventricular hypertrophy due to probable changes of pulmonary hypertension, to be correlated with echocardiography findings.
+ 
+PICC line is seen with the tip terminating in the SVC.
+ 
+Impression
+ 1. Near total opacification of the left upper lobe and lingula most likely related to mucous plugging / atelectasis.
+ 2. ET tube is seen terminating 0.7 cm above the carina. ET-tube retraction for 1.5 cm is advised.
+",00:45:00,0.0,1.0,6100.0,6.1,152.20000000000002,5M,train,28.29,White
+86,,x,2D,34w 6d,F,W,r/o atelectasis,"There is mild improvement in the left retrocardiac opacities which are likely atelectatic in nature.  There are minimal right lung base atelectasis.  The tip of the ET tube is in the carina and needs to be retracted by approximately 1.3 cm.  The remaining tubes and lines are unchanged.
+ 
+",00:40:00,0.0,1.0,2420.0,2.42,2.0,2D,test,34.86,White
+87,,x,4M,37w 4d,F,W,follow up,"The ET tube and feeding tube are in stable position. The ET tube terminates just above the carina and can be retracted by approximately 0.7 C M
+ 
+There is interval increase in the diffuse reticular opacities in both lung fields, this may relate to worsening pulmonary interstitial emphysema, superimposed infection cannot be completely excluded. There is a minimal interval improvement of the left lower lobe posterior basal consolidation collapse.
+No pleural effusion.
+No pneumothorax.
+ 
+ 
+Unchanged enlargement of the cardiac silhouette.
+There is no significant change in the chest wall and body wall edema
+The rest is unchanged.
+",00:45:00,0.0,1.0,5835.0,5.835,121.76,4M,test,37.57,White
+88,,x,4w,30w 2d,M,W,UAL,"Impression
+There has been interval intubation with the endotracheal tube terminating just above the thoracic inlet, requiring advancement by approximately 7 mm.
+ 
+The lungs are slightly less expanded and show apparent mild increase in the diffuse granular opacities.
+ 
+The umbilical arterial line is terminating in the topography of the descending aorta at T8-T9.
+The umbilical venous line has been advanced and is terminating over the topography of the liver at T12, probably within the ductus venosus.
+ 
+The bowel gas pattern is normal.
+ 
+",01:00:00,0.0,1.0,1115.0,1.115,28.0,4w,train,30.29,White
+89,,x,3d,29w 1d,M,W,Intubation and umbilical lines,"Narrative & Impression
+ 
+Exam Name
+XR Chest
+ 
+Clinical Indication
+Intubation and umbilical lines
+ 
+Technique
+Chest radiograph, AP view.
+ 
+Comparison
+18 June 2020 at 09:13 p.m.
+ 
+Impression
+The umbilical arterial line has been advanced, and is seen projecting over the aortic arch, requiring retraction by approximately 4 cm.
+The umbilical venous line is projecting over the right atrium needs retraction by 2 cm.
+ 
+The endotracheal tube is projecting at the carina needs retraction by 5 mm.
+ 
+There is mild improvement in the diffuse granular pulmonary opacities.
+The bowel gas patten is normal.
+ 
+
+",00:30:00,0.0,1.0,1250.0,1.25,3.0,3d,train,29.14,White
+90,,x,3W,29w 1d,F,W,post intubation,"There has been interval intubation with the endotracheal tube terminating just above the thoracic inlet, requiring advancement.
+The umbilical venous line is unchanged.
+The umbilical artery line is not visualised on this radiograph.
+Re-demonstration of the diffuse granular opacities in the lungs.
+",04:00:00,0.0,1.0,1355.0,1.355,21.0,3W,train,29.14,White
+91,,x,4D,38w 2d,M,W,follow up,"The endotracheal tube is seen terminating above the thoracic inlet, requiring advancement by approximately 1.5 cm.
+The umbilical venous line is in stable position.
+The gastric tube is seen reaching the stomach, terminating beyond the field of view.
+The umbilical arterial line is not visualised on this radiograph.
+ 
+The right pneumothorax is no longer seen with certainty. There is possibly trace residual left pneumothorax. There is decrease in the subcutaneous emphysema in the neck. Stable pneumomediastinum and / or pneumopericardium.
+Re-demonstration of the diffuse granular opacities in the lungs.
+",01:20:00,0.0,1.0,3750.0,3.75,4.0,4D,test,38.29,White
+92,,x,7W,36w 1d,M,W,POST OP,"There is mild to moderate bilateral lung congestion. 
+There are left basal atelectatic changes.
+No gross consolidation.
+There is no pleural effusion or pneumothorax.
+ 
+ET tube is seen terminating 0.5 cm above the carina.  Please consider 1 cm retraction.
+Polysite catheter is seen with tip in the topography of the right atrium.
+ 
+There is significant decrease in the dilated bowel loop in the upper abdomen.
+ 
+",01:10:00,0.0,1.0,6700.0,6.7,49.0,7W,train,36.14,White
+93,,x,13D,38w 4d,F,W,F/U post ETT advancement,"There is mild increase in the right upper lobe collapse. The ET tube tip is at the thoracic inlet. Left abdominal catheter is unchanged. No other change in lines and tubes.
+No other change.
+ 
+",01:00:00,0.0,1.0,2930.0,2.93,13.0,13D,train,38.57,White
+94,,x,4D,36w 2d,M,W,Respiratory distress.,"Impression
+The ET tube is projecting over the topography of the trachea at the level of the carina and can be retracted by 1 cm. 
+ 
+The NG tube is in good position.
+ 
+The umbilical venous and arterial lines are essentially unchanged.
+ 
+There is increase in the ground glass opacities in the lower lobes.
+ 
+No detectable pneumothorax.
+ 
+",10:00:00,0.0,1.0,2495.0,2.495,4.0,4D,test,36.29,White
+95,,x,6D,38w 0d,M,W,Post needle decompression and intubation,"Status post needle decompression of the right apical pneumothorax. Tiny lucency noted at the base likely a tiny residual. Linear lucency at the left heart border, possibly projectional or tiny pneumothorax, to be followed up.
+ 
+Status post intubation with the tip of the ET tube seen in the thoracic inlet and above the carina and can be advanced by 0.5 cm.
+ 
+The umbilical arterial line is seen with its tip terminating at the good position opposite T6 vertebra. The umbilical venous line is seen terminating in the topography of the right portal vein and needs adjustment. The NG tube has been removed.
+ 
+There is a new right upper lobe air space opacity, likely atelectatic in nature.
+No large pleural effusion.
+The cardiomediastinal silhouette is unchanged.
+",00:25:00,0.0,1.0,4190.0,4.19,6.0,6D,train,38.0,White
+96,,x,4W,37w 1d,F,W,post chest closure,"The ET tube tip is in the right mainstem bronchus.
+ 
+The enteric tube tip is in the stomach. Chest tubes noted: on the right the tip is at the base, and on the left the tip is at the apex. No pneumothorax. No large effusions.
+No other change.
+",01:05:00,0.0,1.0,2555.0,2.555,28.0,4W,train,37.14,White
+97,,x,4D,26w 3d,F,W,"Respiratory distress, for follow-up.","There is interval improvement in the bilateral granular opacities with air bronchograms. There are mild perihilar air space opacity, likely atelectatic.
+ No pleural effusion.
+The ET tube is now seen in the topography of the right stem bronchus and needs retraction by approximately 7 mm.
+The enteric tube tip is seen terminating in the stomach.
+The umbilical arterial line is seen terminating adjacent to T7- T8 vertebra, satisfactory position.
+The umbilical venous line is seen with the tip projecting over topography of the ductus venosus and can be adjusted approximately 1.2 cm to reach the IVC at the level of the diaphragm. 
+ 
+",03:00:00,0.0,1.0,1000.0,1,4.0,4D,train,26.43,White
+98,,x,2w,40w 3d,M,W,"Duodenal web with partial obstruction.
+Status post duodenal web dissection and duodeno-duodenostomy formation.
+","Unchanged mild increase in the bilateral interstitial markings with a superimposed upper lobes and lower lobes atelectasis.  No definite pneumonia is seen.
+The cardiac silhouette there appears slightly prominent in size.
+ 
+No pneumothorax or pleural effusion.
+ 
+An ET tube is seen terminating in the topography of the C6-C7 vertebral body at the thoracic inlet needing advancement, (team is aware of the finding at time of this report)
+The feeding tube is seen terminating in the topography of the right lower quadrant .  
+There is residual contrast in the descending colon and rectosigmoid.  No significant bowel distension.  There are scattered tiny densities at the peripheral aspect of the right upper quadrant, felt to be external, to be correlated clinically.
+There is a right lower extremity PICC line terminating in the topography of the IVC opposite T12-L1.
+ 
+No other interval change is identified.
+",03:00:00,0.0,1.0,2940.0,2.94,14.0,2w,test,40.43,White
+99,,x,2D,37w 2d,M,W,f/u,"Endotracheal tube tip projects over the right main bronchus with complete opacification of the left hemithorax in keeping with left lung collapse. The ET tube should be retracted by approximately 1.7 C M.
+ 
+ 
+Status post prior small median sternotomy with Insertion of epicardial pacemaker and probes on the LV apex mild unchanged. 
+The umbilical arterial line projects now opposite T9 and the umbilical venous line projects now in the topography of the subdiaphragmatic IVC, satisfactory locations.
+ 
+There is partial atelectasis in the right upper lobe.
+ 
+No other interval change is identified.
+",05:00:00,0.0,1.0,2810.0,2.81,2.0,2D,test,37.29,White
+100,,x,3W,38w 5d,M,W,post op,"Status post cardiac surgery.  The tip of the ET tube is seen at the carina and needs to be retracted by approximately 1.5 cm.
+Status post insertion of a right internal jugular central line with its tip seen in the topography of the superior aspect of the right atrium.
+Pacing wires are noted. Bilateral chest drains are noted.  No pneumothorax is seen.  No large pleural effusion.
+The lungs appear less inflated compared to prior exam with no new patchy air space disease in the left upper lobe and in the left lower lobe retrocardiac location likely atelectasis.
+No other interval change is identified.
+",00:30:00,0.0,1.0,3000.0,3,21.0,3W,test,38.71,White

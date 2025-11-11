@@ -1,0 +1,1562 @@
+MRN (should be removed before sharing),Study ID (should be removed before sharing),Folder,Patient Duplicate?,Dicoms copied,Age,Gestational Age ,Sex,Race,Reason for X-ray (confirm report with history if able),Deidentified Report,Time until Report ,"ET, Correct ","ET, Incorrect ",Weight (grams),Weight_original,Age_days,Age_original,Split,Gestational_Age_Weeks,Race_Standardized
+,,1,False,1,6D,,M,,"36 week preemie, respiratory distress","TECHNIQUE: Frontal radiograph and fronal abdominal radiograph. FINDINGS/IMPRESSION: 
+CHEST: The endotracheal tube tip is near the thoracic inlet. The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately. There are diffuse interstitial opacities, greatest in the upper lungs.
+
+ABDOMEN: The enteric tube tip is in the stomach. The tip of the right femoral line is in the IVC at the T11-T12 level. There is a paucity of bowel gas.",50 min,,1.0,,,6.0,6D,test,,Unknown
+,,2,False,1,0D,,M,,"27 week preemie, respiratory distress","TECHNIQUE: Frontal radiograph and fronal abdominal radiograph.  FINDINGS: Endotracheal tube now ends just above the carina. The enteric tube ends in the stomach, new from prior. New umbilical artery ends at the level of T4-T5 and umbilical vein and the level of T7, new from prior. The cardiomediastinal silhouette is normal. There is low lung volumes. There is diffuse bilateral granular opacities with air bronchograms. No pneumothorax or pleural effusion is seen. Air is seen within the stomach. Impression: Recommend retractions of umbilical artery and venous catheters.  Endotracheal tube now ends just above the carina. ",8 hours,,1.0,,,0.0,0D,train,,Unknown
+,,3,False,1,4D,,M,,line placement,"Technique: Frontal chest and abdominal radiograph.  Findings/Impression: CHEST:  Endotracheal tube now ends just above the carina.  The enteric tube ends in the stomach, new from prior.  New umbilical artery ends at the level of T4-T5 and umbilical vein at level of T7, new from prior. Cardiac Silhouette is normal.  There are low lung volumes.  There are diffuse bilateral granular opacities with air bronchrograms. No pneumothorax or pleural effusion. ABDOMEN: Top of the enteric tube is seen in the stomach. The bowel gas pattern is nonspecific. ",30 min,,1.0,,,4.0,4D,test,,Unknown
+,,4,False,1,1D,,F,,"34 week preemie, respiratory distress","Technique: frontal chest and abdominal radiographs 
+
+Findings/Impression: 
+Chest: The endotracheal tube is near the carina.  The umbilical arterial line tip is at T6-T7.  The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately.  Diffuse granular opacities are unchanged.
+
+Abdomen: The umbilical venous line tip projects over the liver at the T10 level.  The enteric tube is in the stomach.  There are mild tubular distention of bowel in the right hemiabdomen and possible gastric pneumatosis, suspicious for necrotizing enterocolitis. ",30 min,,,,,1.0,1D,test,,Unknown
+,,5,False,1,13D,,M,,"Exploratory laparotomy, wash out and diverting loop ileostomy for small bowel perfoation formally treated with penrose drain, 31 weeks premature","Technique: frontal chest and abdominal radiograph
+
+Findings/Impression: 
+Chest: the endotracheal tube is 5 mm above the carina.  The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately.  There are diffuse granular opacities. 
+
+Abdomen: The tip of the right femoral PICC projects in the IVC at the T11 level.  The enteric tube tip is in the stomach.  The bowel gas pattern is nonspecific.  There is no evidence of bowel distention.  There is no evidence of pneumatosis.  Pneumoperitoneum has decreased.",50 min,,1.0,,,13.0,13D,train,,Unknown
+,,6,False,1,6D,,F,,"29 week preemie, respiratory distress","Technique: frontal chest and abdominal radiograph
+
+Findings/Impression: 
+Chest: the endotracheal tube tip is near the thoracic inlet.  There is near complete collapse of the left lung with mediastinal shift to the left.  There are diffuse granular opacities in the right lung with hyperinflation of the right lung base.  ABDOMEN: The enteric tube tip in the stomach. The umbilical venous line tip projects over the liver at the T11 level. The umbilcal arterial line tip is at T10. There is mild diffuse tubilar distention of bowel. There is no evidence of pneumatosis or portal venous gas.",2 hours,,1.0,,,6.0,6D,test,,Unknown
+,,7,False,1,3M,,F,,"Peritoneal dialysis catheter placement, acute respiratory failure. ","Technique: frontal chest and abdomen radiograph 
+
+Findings/Impression: The endotracheal tube tip is near the thoracic inlet. The pigtail pleural catheter projects of the right lung apex. The tip of the left jugular line is in the right atrium. The cariac silhouette is borderline in size. The right sided pleural effusion has decreased, now small. There is interstitial edema. There is anasarca. ABDOMEN: A gastrostomy projects over the stomach. The peritoneal dialysis catheter projects over the pelvis. There is no evidence of bowel distention.",14 hours,,1.0,,,91.32000000000001,3M,test,,Unknown
+,,8,False,1,0D,,F,,respiratory distress,"Technique: frontal chest and abdominal radiograph
+
+Findings/impression: 
+Chest: Tip of the endotracheal tube is near the thoracic inlet. The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately.  There are diffuse granular opacities. 
+
+Abdomen: the enteric tube is in the stomach.  The bowel gas pattern is normal.",2 hours,,1.0,,,0.0,0D,train,,Unknown
+,,9,False,1,1M,,M,,"shortness of breath,  line placement,","Technique: frontal chest and abdominal radiograph
+
+Findings/impression: 
+Chest: tip of the endotracheal tube is at the carina, as before.  Enteric tube side hole is above the diaphragm. Bilateral lung infiltrates are noted. There is no pneumothorax or pleural effusion.
+
+Abdomen: There is interval placement of right femoral venous catheter, with its tip approximately in the right iliac vein.  A foley catheter is seen coiled within the urinary bladder.  Nonobstructive bowel gas pattern is noted. ",3 hours,,1.0,,,30.44,1M,train,,Unknown
+,,10,False,1,0D,,M,,"respiratory distress, c-section delivery, maternal chronic hypertention","Technique: frontal chest and abdominal radiograph
+
+Findings/impression: 
+Chest: Endotracheal tube is at T4, just above the carina.  Umbilical arterial line ends at T5.  Umbilical venous tip is noted within the right atrium.  There are scattered granular opacities bilaterally without focal consolidation, pleural effusion, or pneumothorax.
+
+Abdomen: There is normal bowel gas pattern, without evidence of portal venous gas or pneumatosis. No abdominal calcifications identified. ",1 hour,,1.0,,,0.0,0D,test,,Unknown
+,,11,False,1,0 days,,F,Other,"Prematurity, 
+respiratory distress,
+arterial and venous line placement.","EXAMINATION PERFORMED: Portable chest and abdomen x-ray 
+
+TECHNIQUE: Single AP view.
+
+FINDINGS: 
+
+Tip of endotracheal tube is seen at the level of the thoracic inlet. 
+Tip of umbilical
+arterial catheter is seen at the level of T7, tip of umbilical venous 
+catheter is seen
+at the level of T7-T8. Granular opacities are seen throughout both 
+lungs, without focal
+consolidation. Both costophrenic angles are sharp. No pneumothorax is 
+seen.
+
+Normal bowel gas pattern is observed.
+
+IMPRESSION:
+
+Findings compatible with hyaline membrane disease.
+
+Endotracheal tube and umbilical arterial venous catheters as 
+described above.",1 hour,,1.0,,,0.0,0 days,test,,Other
+,,12,False,1,5D,,F,,respiratory distress,"Technique: frontal chest and abdominal radiograph
+
+Findings/impression: 
+Chest: The endotracheal tube tip is near the carina.  The tip of the left subclavian line is in the innominate vein.  There are chest tubes and epicardial pacer wires.  The margins of the cardiac silhouette are obscured.  There is pulmonary edema.  Apparent lucency at the lateral left lung apex is likely artifactual rather than pneumothorax.
+
+Abdomen: The enteric tube tip is in the stomach.  There are bilateral femoral lines and tube projecting over the pelvis.  There is severe bowel distention in the upper right abdomen.  Bubbly lucency’s in the right lower abdomen likely represent air in the stool. ",1 hour,,1.0,,,5.0,5D,test,,Unknown
+,,13,False,1,8 days,,M,B,"Premature at 25 
+weeks, intrauterine
+growth restriction, follow-up.","EXAMINATION PERFORMED: Portable chest x-ray
+hours.
+
+TECHNIQUE: Single AP view.
+
+FINDINGS: 
+
+Umbilical venous catheter seen on prior has been removed. Right PICC 
+has been retracted,
+tip projects over the central right subclavian vein. Tip of 
+endotracheal tube is again
+seen at the carina. Enteric tube is seen coursing over the left upper 
+abdomen, tip not
+visualized. Granular opacities throughout both lungs are similar to 
+prior. No
+consolidation is seen. Both costophrenic angles are sharp. No 
+pneumothorax is seen.
+
+IMPRESSION:
+
+Compared to prior study, interval removal of 
+umbilical venous catheter.
+
+Interval retraction of right PICC, tip projects over the central 
+right subclavian vein.
+Consider advancement.
+
+Tip of endotracheal tube remains at the level of the carina. Consider 
+retraction.
+
+No significant interval change in findings compatible with hyaline 
+membrane disease.",30 min,,1.0,,,8.0,8 days,train,,Black
+,,14,False,1,16D,,F,,respiratory disress,Technique: frontal chest and abdominal radiograph FINDINGS/IMPRESSION: CHEST: The endotracheal tube tip is near the carina. THe cardiac silhouette is unchanged in size. Patchy bilateral lung opacities are unchanged. ABDOMEN: The enteric tube tip is in the stomach. The tip of the left lower extremity PICC projects in teh IVC at the L2 level. The bowel gas pattern is normal. ,5 hours,,1.0,,,16.0,16D,test,,Unknown
+,,15,False,1,5D,,M,,respiratory distress,"Technique: frontal chest and abdominal radiograph
+
+Findings/impression: 
+Chest: The endotracheal tube tip is at the thoracic inlet. The tip of the PICC is in the SVC. The umbilical arterial line tip is at T6. The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately. The pleural air collection at the left lung base has mostly filled with effusion. Right upper lobe collapse has developed. ABDOMEN: The enteric tube tip is in the stomach. There is a paucity of bowel gas.
+",13 hours,,1.0,,,5.0,5D,test,,Unknown
+,,16,False,1,6D,,F,,"24 weeks premature, perforation","Technique: frontal chest and abdominal radiograph
+
+Findings/impression: 
+CHEST: The endotracheal tube tip is near the thoracic inlet. The heart size is normal. There are diffuse interstitial opacities in the lungs and diffuse pulmonary interstitial emphysema. ABDOMEN: The umbilical venous line is at the IVC/RA junction. The umbilical arterial line tip is at T8-T9. There is hydropneumoperitoneum. There are tubular midly distended loops of bowel in the midabdomen with probable pneumoastosis  in the right lower quadrant.",20 min,,1.0,,,6.0,6D,test,,Unknown
+,,17,False,1,13D,,M,,25 weeks premature,"Technique: frontal chest and abdominal radiograph
+
+Findings/Impression: The enteric tube extends into the stomach but the tip is beyond the caudal margin of the image. The endotracheal tube tip is near the thoracic inlet. The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately. There are diffuse granular lung opacities.",3 hours,,1.0,,,13.0,13D,train,,Unknown
+,,18,False,1,1M,,M,,24 weeks premature,"Technique: frontal chest  radiograph
+
+Findings/Impression: The endotracheal tube tip is 6 mm above the carina. The tip of the PICC is in the SVC. The enteric tube tip is in the stomach. The cardiac silhouette is borderline in size. diffuse opacification of the lungs has slightly increased.",2 hours,,1.0,,,30.44,1M,test,,Unknown
+,,19,False,1,7D,,F,,"respiratory distress, mother GBS positive","Technique: frontal chest radiograph
+
+Findings/Impression: The endotracheal tube tip is near the carina. The umbilical venous line tip is near the SVC/RA junction. The umbilical arterial line tip is at T8-T9. The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately. Opacification of the mid to lower lungs has increased. Opacification of the upper lungs is unchanged. There is probable pulmonary interstitial emphysema.",3 hours,,1.0,,,7.0,7D,train,,Unknown
+,,20,False,1,1M,,M,,"ET tube placement, wolf-hirschhorn syndrome","Technique: frontal chest  radiograph
+
+Findings/Impression: The endotracheal tube tip is near the carina. The gastrostomy tube projects over the stomach. The cardiac silhouette is unchanged in size. Consolidation has developed in the left mid to upper lung. There is generalized hazy opacification of the lungs.",2 hours,,1.0,,,30.44,1M,test,,Unknown
+,,21,False,1,3M,,F,,"25 weeks premature, repair of bilateral inguinal hernia, evaluate tube placement","Technique: frontal chest  radiograph
+
+Findings/Impression: There is an endotracheal tube with tip approximately 0.6 cm proximal to the carina. There is diffuse opacification of the lungs with low lung inflation, likely diffuse atelectasis rather than pulmonary edema. There is no pneumothorax.",2 hours,,1.0,,,91.32000000000001,3M,train,,Unknown
+,,22,False,1,30D,,F,,25 weeks premature,"Technique: frontal chest  radiograph
+
+Findings/Impression: The tip of the PICC is in the SVC. The endotracheal tube tip is at the clavicles. The enteric tube tip is in the stomach. The PDA ligation clip is in expected location. The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately. Diffuse opacification of the lungs has increased.",2 hours,,1.0,,,30.0,30D,train,,Unknown
+,,23,False,1,0D,,M,,respiratory distress,"Technique: frontal chest radiograph
+
+Findings/Impression: The endotracheal tube tip is at the thoracic inlet. There are ECMO cannulas. The enteric tube tip is in the stomach. The umbilical arterial line tip is at T7-T8. The umbilical venous line tip is in the right atrium. The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately. Diffuse opacification of the lungs is unchanged.",17 hours,,1.0,,,0.0,0D,test,,Unknown
+,,24,False,1,2D,,F,,respiratory distress,"Technique: frontal chest  radiograph
+
+Findings/Impression:The endotracheal tube tip is 6 mm above the carina. The enteric tube tip is in the stomach. The umbilical venous line tip is in the right atrium. The umbilical arterial line tip is at T9. The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately. Diffuse opacification of the lungs has decreased. There is pulmonary interstitial emphysema.",1 hour,,1.0,,,2.0,2D,train,,Unknown
+,,25,False,1,4M,,M,,respiratory distress,"Technique: frontal chest radiograph
+
+Findings/Impression: The tip of the central line is in the SVC. The endotracheal tube tip is at the thoracic inlet. An endovascular closure device projects in the expected location of the ductus arteriosus. The cardiac silhouette is unchanged in size. There is chronic lung disease. There is decreased hyperinflation at the lung bases.",10 min,,1.0,,,121.76,4M,train,,Unknown
+,,26,False,1,3M,,F,,pulmonary valve repair,"Technique: frontal chest radiograph
+
+CHEST: The endotracheal tube tip is near the thoracic inlet. The pigtail pleural catheter projects of the right lung apex. The tip of the left jugular line is in the right atrium. The cardiac silhouette is borderline in size but unchanged. The right-sided pleural effusion has decreased, now small. There is interstitial edema. There is anasarca.",3 hours,,1.0,,,91.32000000000001,3M,train,,Unknown
+,,27,False,1,26D,,M,,respiratory distress,"Technique: Frontal chest radiograph.  Findings: Tip of the endotracheal tube is approximately just above the carina. Tip of the enteric tube overlies the stomach. Tip of the right jugular central venous catheter is in the right atrium. The cardiac silhouette is normal in size. Reticular interstitial opacities are likely decreased. There is no focal consolidation, pleural effusion, or pneumothorax.  Impression: Decreasing reticular interstitial opacities. Tip of the endotracheal tube is just above the carina. ",6 hours,,1.0,,,26.0,26D,train,,Unknown
+,,28,False,1,1M,,M,,Cardiac arrest,"CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:	Cardiac arrest			
+			
+Technique:			
+Frontal chest radiograph			
+			
+FINDINGS/IMPRESSION:			
+The endotracheal tube tip is 5 mm anove the carina. Ther enteric tube tup is in the stomach. The heart size is normal. There are trace symmetric bilateral infiltrates. 						",1 hour,,1.0,,,30.44,1M,train,,Unknown
+,,29,False,1,2M,,F,,"23 week preemie, respiratory distress","CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:										
+23 week preemie, ligation of large PDA										
+										
+Technique:										
+Frontal chest radiograph.										
+										
+FINDINGS/IMPRESSION:										
+The endotracheal tube tip is at the thoracic inlet. The enteric tube tip is in the stomach. There is a PDA ligation clip in expected position.  The cardiac silhouette has decreased in size but is still mildly enlarged.  Patchy bilateral consolidations have developed, greatest in the right upper lung, likely pulmonary edema.										",10 hours,,1.0,,,60.88,2M,test,,Unknown
+,,30,False,1,1D,,F,,24 week preemie,"CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:											
+24 week preemie, 360 g birth weight											
+											
+Technique:											
+Frontal chest radiograph.											
+											
+FINDINGS/IMPRESSION:											
+The endotracheal tube tip is near the carina. The umbilical venous line tip is at the IVC/RA junction.  The margins of the cardiac silhouette are obscured.  Near complete opacification of the lungs has developed. There is probable pulmonary interstitial emphysema. There is moderate diffuse bowel distention in the upper abdomen.											",11 hours,,1.0,360.0,360 g,1.0,1D,test,,Unknown
+,,31,False,1,3M,,M,,27 week preemie,"CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:											
+27 week preemie											
+											
+Technique:											
+Frontal chest radiograph.											
+											
+FINDINGS/IMPRESSION:											
+The endotracheal tube tip is in the bronchus intermedius. The enteric tube tip is in the stomach.   The left margin of the cardiac silhouette is obscured.  Collapse of the left lung has developed with mediastinal shift to the left. There are scattered interstitial opacities in the right lung. There is benign physiologic periostitis along the humeri.											",2 horus,,1.0,,,91.32000000000001,3M,test,,Unknown
+,,32,False,1,16D,,F,,"Moderate PDA, FO, VSD, ASD","CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:	
+Moderate PDA, PFO, VSD, ASD	
+	
+Technique:	
+Frontal chest radiograph 	
+	
+FINDINGS/IMPRESSION:	
+The endotracheal tube tip is near the carina. The cardiac silhouette is unchanged in size. Hazy opacification of the mid to lower lungs is unchaged allowing for differences in technique.",3 hours,,1.0,,,16.0,16D,test,,Unknown
+,,33,False,1,6D,,F,,"24 week preemie, perforation","CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:								
+24 week preemie, perforation								
+								
+Technique:								
+Left lateral decubitus chest  radiograph.								
+								
+FINDINGS/IMPRESSION:								
+CHEST: The endotracheal tube tip is near the carina. The tip of the PICC is in the SCV. The enteric tube extends into the stomach but the tip is beyond the caudal margin of the image. The cardiac silhette is unchanged in size. Diffuse opacification of the lungs and pulmonary intersistatial emphysema are unchanged. 							",1 hour,,1.0,,,6.0,6D,train,,Unknown
+,,34,False,1,5D,,M,,meconium aspiration,"CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:																
+Meconium aspiration syndrome																
+																
+Technique:																
+Frontal chest radiograph.																
+																
+FINDINGS/IMPRESSION:																
+The endotracheal tube tip is near the thoracic inlet. The umbilical arterial line tip is at T7-T8. The umbilical venous line tip is in the right atrium. The enteric tube extends into the stomach but the tip is beyond the caudal margin of the image.   The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately.  Diffuse interstitial opacities are unchanged. There is no pneumothorax or pneumomediastinum.																",1 hour,,1.0,,,5.0,5D,test,,Unknown
+,,35,False,1,1M,,F,,25 week preemie,"CLINICAL INFORMATION AVAILABLE: Bowel perforation managed with abdominal drain, 25 week preemie; small PDA with mild left atrial enlargement on echocardiogram 		
+		
+TECHNIQUE: Frontal view of the chest.		
+		
+FINDINGS:		
+		
+The endotracheal tube tip is near the carina at T4. The enteric tube tip overlies the stomach. There is a left lower extremity PICC with tip overlying the inferior vena cava.		
+		
+The cardiac silhouette has increased in size, consistent with PDA. Diffuse opacification of the lungs has also increased, likely interstitial/alveolar edema superimposed on atelectasis.		",12 hours,,1.0,,,30.44,1M,train,,Unknown
+,,36,False,1,0D,,M,,dyspnea,"CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:					
+Dyspnea					
+					
+Technique:					
+Frontal chest radiograph and frontal abdominal radiograph.					
+					
+FINDINGS/IMPRESSION:					
+CHEST: The endotracheal tube tip is near the thoracic inlet. The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately. There are diffuse granular lung opacities. ABDOMEN: The umbilical venous line tip in near the IVC/RA junction. The umbilical arterial line tip is at T6=T7. There is rectal temperature probe. There is a foley catheter. The bowel gas pattern is normal. 			",16 hours,,1.0,,,0.0,0D,train,,Unknown
+,,37,False,1,0D,,M,,dyspnea,"	Technique:
+	Frontal chest radiograph and frontal abdominal radiograph.
+	
+	FINDINGS/IMPRESSION:
+	CHEST: The endotracheal tube tip is at the thoracic inlet. The umbilical arterial line tipThe patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately. There are diffuse granular lung opacities.
+	
+	ABDOMEN: The enteric tube tip is in the stomach. The umbilical venous line tip is in the IVC at the T11 level. There is a paucity of bowel gas.",4 hours,,1.0,,,0.0,0D,test,,Unknown
+,,38,False,1,2 M,,F,,"23 week preemie, respiratory distress","CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:																
+23 week preemie twin, birthweight 500 g												
+Technique:
+Frontal chest radiograph and frontal abdominal radiograph.				
+															
+FINDINGS/IMPRESSION:																
+CHEST: The endotracheal tube tip is near the carina. There is a PDA ligation clip. The cardiac silhouette is borderline in size. There is chronic lung disease. There is air trapping at the lung bases right greater than left. 													ABDOMEN: The enteric tube tip is in the stomach. There is a pauicty of bowel gas. There is generalized abdominal distention. 			",1 hour,,1.0,500.0,500 g,60.88,2 M,test,,Unknown
+,,39,False,1,0D,,F,,33 week preemie,"CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:
+Hypoxic ischemic encephalopathy, 33 week preemie
+
+Technique:
+Frontal chest radiograph and frontal abdominal radiograph.
+
+FINDINGS/IMPRESSION:
+CHEST: The endotracheal tube tip is near the thoracic inlet. The tips of the umbilical lines are at T8. The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately. There are diffuse reticulogranular opacities in the lungs.
+
+ABDOMEN: The bowel gas pattern is nonspecific.",30 min,,1.0,,,0.0,0D,train,,Unknown
+,,40,False,1,10D,,F,,ECMO,"
+Technique:
+Frontal chest radiograph and frontal abdominal radiograph. FINDINGDS/IMPRESSION: CHEST: The endotraacheal tube tip is near the carina. The tip of the left femoral line is likely in the left atrium. The tip of the umbilical venous line is in the right atrium. The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhoutte cannot be assessed accuratley. There is patchy atelectasis in the mid to lower lungs, greater at the left lung base.  ABDOMEN: The enteric tube tip is in the stomach. There is paucity of bowel gas. There is generalized abdominal distenstion. ",30 min,,1.0,,,10.0,10D,train,,Unknown
+,,41,False,1,2D,,F,,25 week preemie,"CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:							
+25 week preemie							
+							
+Technique:							
+Frontal chest radiograph and frontal abdominal radiograph.							
+							
+FINDINGS/IMPRESSION:							
+CHEST: The endotracheal tube tip is near the carina. The umbilical arterial line tip is at T6-T7. The margins of the cardiac silhouette are obscured. There is near complete opacification of the lungs.							
+							
+ABDOMEN: The enteric tube tip is in the stomach. The umbilical venous line tip projects over the liver at the T10 level. There is moderate to severe tubular distention of bowel throughout most of the abdomen without specific signs of necrotizing enterocolitis.							",13 hours,,1.0,,,2.0,2D,test,,Unknown
+,,42,False,1,1M,,M,,"23 week preemie, respiratory distress","CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:						
+23 week preemie						
+						
+Technique:						
+Frontal chest radiograph.						
+						
+FINDINGS/IMPRESSION:						
+The endotracheal tube tip is near the carina. The enteric tube tip is in the stomach.   The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately.  There is chronic lung disease.						",17 hours,,1.0,,,30.44,1M,train,,Unknown
+,,43,False,1,10D,,F,,respiratory distress,"CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:										
+Central line placement; respiratory distress										
+										
+Technique:										
+Frontal chest radiograph.										
+										
+FINDINGS/IMPRESSION:										
+The tip of the central line is in the SVC. The endotracheal tube tip is near the carina.    The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately.  There is probable diffuse peribronchial thickening. There is no consolidation or pleural effusion.										",13 hours,,1.0,,,10.0,10D,test,,Unknown
+,,44,False,1,0D,,M,,line placement,"CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:
+Line placement
+
+Technique:
+Frontal chest radiograph and frontal abdominal radiograph.
+
+FINDINGS/IMPRESSION:
+CHEST: The heart and thymus are normal in width and contour. The endotracheal tube tip is near the carina. The umbilical arterial line tip is at T3-T4. The umbilical venous line tip is in the left atrium. There are diffuse granular lung opacities.
+
+ABDOMEN: The enteric tube tip is in the stomach. The bowel gas pattern is normal.",1 hour,,1.0,,,0.0,0D,test,,Unknown
+,,45,False,1,2D,,M,,25 week preemie,"CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:
+25 week preemie
+
+Technique:
+Frontal chest radiograph and frontal abdominal radiograph.
+
+FINDINGS/IMPRESSION:
+CHEST: The endotracheal tube tip is near the carina. The umbilical arterial line tip is at T4. The umbilical venous line tip is at T5. The patient is obliquely positioned on the frontal view therefore the size of the cardiac silhouette cannot be assessed accurately. There are diffuse granular lung opacities. There is dense opacification in the right upper lung.
+
+ABDOMEN: The enteric tube tip is in the stomach. The bowel gas pattern is nonspecific.",2 hours,,1.0,,,2.0,2D,train,,Unknown
+,,46,False,1,6M,,M,,respiratory distress,"Technique:				
+Frontal chest radiograph.				
+				
+			
+FINDINGS/IMPRESSION:				
+				
+Interval placement of the endotracheal tube with the tip ending at the level of the carina. The enteric tube has been retracted and now lies at the level of T6-T7, likely within the mid esophagus.				
+				
+The cardiac silhouette is unchanged in size. There are low lung volumes with diffuse peribronchial thickening. There are patchy perihilar opacities, unchanged, either multifocal pneumonia or atelectasis.				",15 horus,,1.0,,,182.64000000000001,6M,train,,Unknown
+,,47,False,1,10D,,F,,24 week preemie,"CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:		
+Prematurity, likely 24 weeks, maternal cocaine use, no prenatal care, atelectasis, respiratory distress		
+		
+Technique:		
+Frontal chest radiograph.			
+		
+FINDINGS/IMPRESSION:		
+		
+Tip of the endotracheal tube lies near the carina. The umbilical venous catheter is unchanged. There is interval removal of the umbilical arterial catheter.		
+		
+Unchanged diffuse pulmonary interstitial emphysema and diffuse opacification of the lungs. Unchanged right middle lobe consolidation. There is no definite pneumothorax.		",3 hours,,1.0,,,10.0,10D,train,,Unknown
+,,48,False,1,3D,,F,,"Omphalocele, VSD, trisomy 18	","CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:						
+Omphalocele, VSD, trisomy 18						
+						
+Technique:						
+Frontal chest radiograph.						
+						
+FINDINGS/IMPRESSION:						
+The enteric tube tip is in the stomach. The tip of the left PICC is at the SVC/RA junction. The endotracheal tube tip is near the carina.    The cardiac silhouette is unchanged in size.  Diffuse opacification of the lungs has slightly increased.						",2 hours,,1.0,,,3.0,3D,train,,Unknown
+,,49,False,1,6M,,F,,trisomy 21,"CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:								
+Trisomy 21, ASD, VSD								
+								
+Technique:								
+Frontal chest radiograph.								
+								
+FINDINGS/IMPRESSION:								
+The endotracheal tube tip is near the thoracic inlet. The tip of the central line is in the SVC. There is a mediastinal drain. There are epicardial pacer wires.  The cardiomediastinal silhouette is unchanged in size.  Pulmonary edema is unchanged. There is no pneumothorax.								",3 hours,,1.0,,,182.64000000000001,6M,test,,Unknown
+,,50,False,1,6M,,F,,trisomy 21,"CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION:						
+Trisomy 21; echocardiogram  demonstrating moderate tricuspid regurgitation, moderate right atrial and ventricular dilation, and moderate right ventricular hypertrophy; pulmonary hypertension; surgical repair of complete AV canal and ligation of PDA
+						
+Technique:						
+Frontal chest radiograph.						
+						
+FINDINGS/IMPRESSION:						
+The endotracheal tube tip is near the carina. The gastrostomy projects over the stomach.  The cardiac silhouette is enlarged but unchanged in size.  There is probable interstitial edema. There is a small right-sided pleural effusion.						",16 hours,,1.0,,,182.64000000000001,6M,test,,Unknown
+,,51,False,1,0D,,M,,"r37 weeks, espiratory distress, intubated","Technique: supine chest/abdomen
+
+Findings: the endotracheal tube tip is at T1.  Enteric tube ends in stomach apparently in gastroschisis with tip projecting over right lower quadrant of abdomen. 
+Cardiothymic silhouette is within normal limits.  No infiltrate, effusion or pneumothorax is identified. 
+
+The abdomen is gasless.
+
+Impression: endotracheal tube in satisfactory position. Gastrocheisis with the enteric tube ending in the stomach apparently in the gastroschisis",1 hour,1.0,,,,0.0,0D,train,,Unknown
+,,52,False,1,2D,,F,,respiratory distress,"Technique: single supine image of chest and abdomen
+
+Findings: endotracheal tube tip is above carina in satisfactory position.  Right femoral line ends in right atrium.  Urinary bladder catheter is coiled within the bladder.  A circular retention device is noted for gastroschisis. 
+
+Cardiac silhouette appears enlarged.  
+
+There is improved aeration in right lung with some infiltrate in right upper lobe.  Gas is noted within the stomach and there may be some gas in bowel in the right lower quadrant. 
+
+Impression: endotracheal tube in satisfactory position.  Improved aeration of right lung. ",1 hour,1.0,,,,2.0,2D,test,,Unknown
+,,53,False,1,2M,,F,,respiratory distress,"Technique: single image obtained of chest and abdomen
+
+Findings: endotracheal tube tip is above carina in satisfactory position. There appear to be 2 enteric tubes ending in proximal stomach. 
+
+The cardiac silhouette is at upper limits of normal in size.  There is pulmonary vascular congestion.  No consolidation or pneumothorax is identified.  There is normal bowel gas pattern in abdomen.  No extraluminal gas is suspected ",1 hour,1.0,,,,60.88,2M,train,,Unknown
+,,54,False,1,6D,,F,,respiratory distress,"Technique: frontal chest and abdominal radiograph 
+
+Findings: endotracheal tube is now seen with tip is above carina. Enteric tube ends in stomach. Left PICC ends in superior cavoatrial junction.  
+
+The cardiomediastinal silhouette is normal. Interstitial emphysema is noted throughout both lungs.  No pleural effusion or pneumothorax is seen. 
+
+Mildly distended stomach and bowel loops are noted with tubular shape of bowel loops 
+
+Impression: 
+Interval placement of endotracheal tube in satisfactory position
+Chronic lung disease, as before. No pneumothorax. 
+Mildly distended tubular shaped bowel loops, similar to 3 hours prior. No free air suspected. ",12 hours,1.0,,,,6.0,6D,test,,Unknown
+,,55,False,1,5D,,M,,respiratory distress,"Technique: single supine image was obtained of chest and abdomen together
+
+Findings: endotracheal tube tip is above carina in satisfactory position. Enteric tube ends in stomach. Evaluation of umbilical lines is confounded by multiple overlying catheter loops and monitor leads.  The umbilical lines end at T4 and T8.  Anatomy is distorted because heart and mediastinum are shifted to right by bowel contents in left hemithorax, apparently gaseous distended stomach. 
+
+Aerated lung is seen at right lung base and also at left apex. 
+
+Impression: congenital left diaphragmatic hernia with gaseous bowel in left hemithorax.  Shift of heart and mediastinum to right. Endotracheal tube in satisfactory position. Umbilical lines end at T4 and T8",30 min,1.0,,,,5.0,5D,test,,Unknown
+,,56,False,1,0D,,F,,respiratory distress,"Indication: history of congenital diaphragmatic hernia. 
+
+Technique : single AP view 
+
+Findings: enteric tube is seen over right upper quadrant.  Tip of umbilical arterial catheter is seen at level of T4. Another catheter is seen coiled over abdomen, tip curved over left upper quadrant, presumably umbilical venous catheter. Lucencies are seen over lower half of right and left hemithoraces, compatible with bowel containing diaphragmatic hernias bilaterally. Mild leftward mediastinal shift is noted. The right upper lobe is opacified.  No pneumothorax. 
+
+Impression: bilateral congenital diaphragmatic hernias containing bowel with mediastinal shift to the left.  Endotracheal tube in satisfactory position. ",1 hour,1.0,,,,0.0,0D,test,,Unknown
+,,57,False,1,1M,,F,,respiratory distress,"Technique: supine image was obtained of chest and abdomen together. 
+
+Findings: endotracheal tube tip is above carina in satisfactory position.  Enteric tube ends in stomach.  Left PICC line ends in left subclavian vein. Cardiac silhouette is not enlarged. Granular infiltrates are again seen in both lung fields. 
+
+Impression: endotracheal tube in satisfactory position. 
+Granular lung infiltrates as before. No pneumothorax ",3 hours,1.0,,,,30.44,1M,train,,Unknown
+,,58,False,1,0D,,F,,premature at 24 weeks,"Technique: single supine image was obtained of chest and abdomen together 
+
+Findings: endotracheal tube tip is above carina in satisfactory position.  Enteric tube ends in stomach.  Umbilical artery catheter ends at T3. Umbilical vein catheter ends at T7. 
+
+Cardiothymic silhouette is not enlarged.  There is mild haziness at lung fields but no consolidation, effusion or pneumothorax. There is nonspecific bowel gas pattern. Gas has not yet reached the rectum. 
+
+Impression: endotracheal tube in satisfactory position.  Hazy lungs but no consolidation or pneumothorax. ",30 min,1.0,,,,0.0,0D,train,,Unknown
+,,59,False,1,6M,,M,,respiratory distress,"Technique: frontal view of the chest 
+
+Findings: endotracheal tube tip is above carina.  Enteric tube is coiled in the stomach.  There is a left internal jugular central venous catheter with tip overlying left internal jugular vein
+
+Cardiomediastinal silhouette is normal in size.  Right greater than left alveolar consolidations and interstitial infiltrates have decreased from prior. 
+
+Impression: Endotracheal tube tip is in satisfactory position.  Slightly improved aeration in the right upper lobe predominant infiltrates. ",6 hours,1.0,,,,182.64000000000001,6M,test,,Unknown
+,,60,False,1,4M,,M,,respiratory distress,"Technique: frontal view of the chest  Findings: endotracheal tube tip is above carina in satisfactory position. Enteric tube ends in stomach.  Left femoral PICC line ends at L2.  
+
+Chronic infiltrates are again noted in both lung fields, greater on right.  No effusion or pneumothorax is identified. 
+
+Impression: endotracheal tube in satisfactory position. Chronic infiltrates. No pneumothorax. ",1 hour,1.0,,,,121.76,4M,test,,Unknown
+,,61,False,1,1 day,,F,B,"Evaluate support 
+lines and tubes","EXAMINATION PERFORMED: CHEST AND ABDOMEN RADIOGRAPH, ONE VIEW
+ 
+
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Evaluate support 
+lines and tubes
+ 
+Technique: Frontal supine chest and abdominal radiograph
+ 
+FINDINGS: 
+The endotracheal tube tip is above the carina at T4. The enteric tube 
+courses below the
+diaphragm overlying the stomach. The tip of the umbilical venous 
+catheter overlies the
+left atrium.
+ 
+The cardiothymic silhouette is normal in size. There are diffuse 
+granular lung
+opacities.
+ 
+There is tubular distention of bowel loops in the mid and left 
+hemiabdomen with
+nondistended bowel loops on the right without evidence for 
+pneumatosis or portal venous
+gas.
+ 
+IMPRESSION:
+Tubular distention of bowel loops in the abdomen without specific 
+signs of necrotizing
+enterocolitis.
+ ",28 min,1.0,,2250.0,2250 g,1.0,1 day,test,,Black
+,,62,False,1,15 days,29 weeks,M,B,"Cesarean section, 
+tube placement.","EXAMINATION PERFORMED: Portable chest x-ray 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Cesarean section, 
+tube placement.
+ 
+TECHNIQUE: Single AP view.
+ 
+FINDINGS: 
+ 
+Tip of left PICC is again seen at the level of the medial left 
+clavicle. Endotracheal
+and enteric tubes remain in satisfactory positions. Right greater 
+than left granular
+infiltrates are unchanged. Both costophrenic angles are sharp. No 
+pneumothorax is seen.
+ 
+IMPRESSION:
+ 
+No significant interval change in left PICC, 
+tip projects over
+the level of the medial left clavicle.
+ 
+Stable right greater than left regular infiltrates.",40 min,1.0,,980.0,980 g,15.0,15 days,train,29.0,Black
+,,63,False,1,1 day,26 weeks,F,Other ,"Prematurity at 26 weeks, primary cesarean section, fetal hydrops, premature 
+labor, premature
+rupture of membranes, breech presentation; line placement","EXAMINATION PERFORMED: CHEST and ABDOMEN, SINGLE VIEW, portable.
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: 
+Prematurity at 26 weeks, primary cesarean section, fetal hydrops, premature 
+labor, premature
+rupture of membranes, breech presentation; line placement
+ 
+Technique: 
+Frontal chest radiograph and frontal abdominal radiograph.
+ 
+FINDINGS: 
+CHEST: The umbilical arterial line tip is at T6-T7. The umbilical 
+venous line tip is in
+the right atrium. The endotracheal tube tip is at T2. The cardiac 
+silhouette is
+enlarged. Diffuse granular lung opacities have slightly decreased. 
+There is anasarca.
+ 
+ABDOMEN: The enteric tube tip is in the stomach. Probable 
+hepatomegaly is unchanged. The
+bowel gas pattern is otherwise normal.  
+ 
+IMPRESSION: Endotracheal tube in satisfactory position.  Improved 
+lungs.  No
+pneumothorax.
+ 
+Nonobstructive bowel gas pattern.",8 hours,1.0,,1150.0,1150 g,1.0,1 day,test,26.0,Other
+,,64,False,1,48 days,,F,Other ,Increasing CO2 requirment; bilateral hydronephrosis; dysplastic pulmonary valve.,"EXAMINATION PERFORMED: CHEST RADIOGRAPH, SINGLE VIEW
+ 
+CLINICAL INFOMRATION: Increasing CO2 requirment; bilateral hydronephrosis; dysplastic pulmonary valve.
+ 
+Technique: Frontal chest radiograph.
+ 
+FINDINGS/IMPRESSION: The gatrotomy tube projects in the stomach. The endotracheal tube tip projects at T2. The cardiac silhouette is enlarged but unchanged in size. Diffuse hazy opacification of the lungs has slightly increased. ",2 hours 40 min,1.0,,3605.0,3605 g,48.0,48 days,test,,Other
+,,65,False,1,19 days,33 weeks ,F,Other ,"Respiratory 
+distress, increasing
+respiratory support.","EXAMINATION PERFORMED: Portable chest x-ray.
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Respiratory 
+distress, increasing
+respiratory support.
+ 
+TECHNIQUE: Single AP view.
+ 
+ 
+FINDINGS: 
+ 
+Endotracheal and enteric tubes are unchanged. Hazy opacities are 
+again seen throughout
+both lungs, right greater than left. Opacification on the right has 
+slightly progressed
+from prior. No pneumothorax is seen.
+ 
+IMPRESSION:
+ 
+Hazy opacification throughout both lungs, right greater than left, 
+and slightly
+progressed throughout the right lung compared to prior.",5 hours 30 min,1.0,,2070.0,2070 g,19.0,19 days,train,33.0,Other
+,,66,False,1,1 day,38 weeks,F,B,"Delivery at 37 weeks, gastroschisis, GBS positive mother, suspected 
+sepsis.","EXAMINATION PERFORMED: CHEST, SINGLE VIEW; ABDOMEN, SINGLE VIEW 
+  
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: 
+Delivery at 37 weeks, gastroschisis, GBS positive mother, suspected 
+sepsis.
+ 
+Technique: 
+Frontal chest radiograph and frontal abdominal radiograph.
+ 
+FINDINGS/IMPRESSION:  
+Endotracheal tube ends at the T3 level, but the carina. Enteric tube 
+ends at the
+gastroesophageal junction. There are bilateral hazy perihilar 
+opacities. There is a
+paucity of bowel gas.",15 hours,1.0,,1920.0,1920 g,1.0,1 day,train,38.0,Black
+,,67,False,1,1 day,37 weeks 4 days,M,B,Gastroschisis repair," 
+EXAMINATION PERFORMED: CHEST, SINGLE VIEW; ABDOMEN, SINGLE VIEW 
+ 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: 
+Gastroschisis repair
+ 
+Technique: 
+Frontal chest radiograph and frontal abdominal radiograph.
+ 
+FINDINGS/IMPRESSION: 
+CHEST: The endotracheal tube tip is near the thoracic inlet. The 
+heart size is normal.
+Hazy opacification of the lungs is unchanged.
+ 
+ABDOMEN: The enteric tube is unchanged in position. The tip of the 
+right lower extremity
+PICC projects over the IVC at the L4 level. There is no evidence of 
+bowel distention.
+The silo device projects over the abdomen.",17 hours,1.0,,3500.0,3500 g,1.0,1 day,train,37.57,Black
+,,68,False,1,2 days,33 weeks 3 days,M,B,33 week preemie twin," 
+EXAMINATION PERFORMED: CHEST, SINGLE VIEW; ABDOMEN, SINGLE VIEW 
+ 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: 
+33 week preemie twin
+ 
+Technique: 
+Frontal chest radiograph and frontal abdominal radiograph.
+ 
+FINDINGS/IMPRESSION: 
+CHEST: The tip of the endotracheal tube is 2 cm above the carina. The 
+umbilical venous
+line tip is at the left superior pulmonary vein/left atrium junction. 
+The patient is
+obliquely positioned on the frontal view therefore the size of the 
+cardiac silhouette
+cannot be assessed accurately. There are diffuse granular lung 
+opacities.
+ 
+ABDOMEN: The enteric tube tip is in the stomach. The bowel gas 
+pattern is normal.",30 min,1.0,,2285.0,2285 g,2.0,2 days,test,33.43,Black
+,,69,False,1,3 days,26 weeks 0 days,F,Other ,Tube placement; agenesis of the corpus callosum,"EXAMINATION PERFORMED: CHEST RADIOGRAPH, SINGLE VIEW
+ 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: 
+Tube placement; agenesis of the corpus callosum
+ 
+Technique: 
+Frontal chest radiograph.
+ 
+FINDINGS/IMPRESSION: 
+The tip of the umbilical venous line is in the right atrium. The 
+endotracheal tube tip
+is at T4. The enteric tube extends into the stomach but the tip is 
+beyond the caudal
+margin of the image.    The patient is obliquely positioned on the 
+frontal view
+therefore the size of the cardiac silhouette cannot be assessed 
+accurately.  Diffuse
+opacification of the lungs has slightly decreased.",30 min,1.0,,2590.0,2590 g,3.0,3 days,train,26.0,Other
+,,70,False,1,3 days,25 weeks 1 day,F,B,Endotracheal tube and line placement.,"EXAMINATION PERFORMED: Portable chest and abdomen x-ray.
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Endotracheal tube 
+and line placement.
+ 
+TECHNIQUE: Single AP view.
+ 
+FINDINGS: 
+ 
+Umbilical venous catheter has been slightly retracted, tip seen at 
+the level of T7. Tip
+of umbilical arterial catheter is again seen at the level of T5. 
+Endotracheal and
+enteric tubes remain in satisfactory positions. Granular opacities 
+are again seen
+throughout both lungs, without focal consolidation. Both costophrenic 
+angles are sharp.
+No pneumothorax is seen.
+ 
+Nonobstructed abdominal bowel gas pattern is observed.
+ 
+IMPRESSION:
+ 
+Compared to prior study, slight interval retraction of umbilical venous 
+catheter, tip at
+the level of T7, in satisfactory position.
+ 
+Tip of umbilical arterial catheter remains at the level of T5, for 
+which retraction is
+recommended.
+ 
+Stable findings compatible with hyaline membrane disease.
+ 
+No evidence for bowel obstruction.",2 hours,1.0,,670.0,670 g,3.0,3 days,train,25.14,Black
+,,71,False,1,100 days,,M,B,"Apnea, acute 
+respiratory failure.","EXAMINATION PERFORMED: Portable chest x-ray 
+ 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Apnea, acute 
+respiratory failure.
+ 
+TECHNIQUE: Single AP view.
+ 
+FINDINGS: 
+ 
+Endotracheal and enteric tubes and right internal jugular central 
+venous catheter are
+unchanged. Aeration in the left lower lobe has improved. New right 
+middle and right
+lower lobe atelectasis is noted. Central peribronchial thickening is 
+again noted
+bilaterally. Both costophrenic angles are sharp. No pneumothorax is 
+seen.
+ 
+IMPRESSION:
+ 
+Compared to prior study, interval improved aeration in the left lower 
+lobe.
+ 
+New right middle and lower lobe atelectasis.",3 hours,1.0,,2325.0,2325 g,100.0,100 days,train,,Black
+,,72,False,1,34 days,27 weeks 1 day,M,Other ,27 week preemie,"EXAMINATION PERFORMED: CHEST, SINGLE VIEW; ABDOMEN, SINGLE VIEW 
+ 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: 
+27 week preemie
+ 
+Technique: 
+Frontal chest radiograph and frontal abdominal radiograph.
+ 
+FINDINGS/IMPRESSION: 
+CHEST: The endotracheal tube tip is at T2-T3. Atelectasis in the 
+right upper lobe and to
+a lesser extent in the lingula is unchanged. The cardiac silhouette 
+is borderline in
+size.
+ 
+ABDOMEN: The tip of the weighted enteric tube projects in the first 
+portion of the
+duodenum. The bowel gas pattern is normal.
+ ",15 hours,1.0,,1600.0,1600 g,34.0,34 days,train,27.14,Other
+,,73,False,1,53 days,,F,B,"Premature, 
+dyspnea.","EXAMINATION PERFORMED: Portable chest x-ray
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Premature, 
+dyspnea.
+ 
+TECHNIQUE: Single AP view.
+  
+FINDINGS: 
+ 
+Endotracheal and enteric tubes and left PICC remain in satisfactory 
+positions. PDA clip
+is again seen. Chronic lung disease is again noted bilaterally. 
+Atelectasis or
+consolidation seen in the right upper lobe on prior has resolved. 
+Both costophrenic
+angles are sharp. No pneumothorax is seen.
+ 
+IMPRESSION:
+ 
+Compared to prior study, interval resolution of right upper lobe 
+atelectasis or
+consolidation.
+ 
+Stable chronic lung disease bilaterally.",1 hour,1.0,,1275.0,1275 g,53.0,53 days,train,,Black
+,,74,False,1,16 days,36 weeks 6 days,M,B,"Term newborn, micropenis, agenesis of the corpus callosum, hypoplasia 
+of the cerebellar
+vermis, bilateral undescended testicles, respiratory distress, 
+necrotizing enterocolitis","EXAMINATION PERFORMED: CHEST RADIOGRAPH, SINGLE VIEW
+  
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: 
+Term newborn, micropenis, agenesis of the corpus callosum, hypoplasia 
+of the cerebellar
+vermis, bilateral undescended testicles, respiratory distress, 
+necrotizing enterocolitis
+ 
+Technique: 
+Frontal chest radiograph.
+ 
+FINDINGS/IMPRESSION: 
+The tip of the right upper extremity PICC is in the right subclavian 
+vein. The
+endotracheal tube tip is 2 cm above the carina.  The patient is 
+obliquely positioned on
+the frontal view therefore the size of the cardiac silhouette cannot 
+be assessed
+accurately.  There are patchy interstitial opacities. The umbilical 
+venous line tip is
+near the IVC/RA junction. The enteric tube tip is in the stomach. 
+ ",2 hours 15 min,1.0,,2110.0,2110 g,16.0,16 days,test,36.86,Black
+,,75,False,1,1 day,,M,Other ,"Prematurity at 36 weeks, congenital 
+malformations,
+gastroschisis and ventricular septal defect","EXAMINATION: X-RAY CHEST SINGLE VIEW
+ 
+CLINICAL INFORMATION AVAILABLE: Prematurity at 36 weeks, congenital 
+malformations,
+gastroschisis and ventricular septal defect
+ 
+TECHNIQUE: Frontal view of the chest.  
+ 
+FINDINGS: 
+ 
+The endotracheal tube tip is above the carina at T2-T3. The enteric 
+tube overlies the
+stomach.
+ 
+The cardiomediastinal silhouette is normal in size. There are 
+decreased granular
+opacities with improved aeration bilaterally. There is no focal 
+consolidation, pleural
+effusion or pneumothorax.
+ 
+IMPRESSION: 
+ 
+Decreased bilateral granular opacities with improved aeration.",1 hour,1.0,,2330.0,2330 g,1.0,1 day,test,,Other
+,,76,False,1,2 days,,F,B,"Hypothermia, ET tube placement","
+EXAMINATION: X-RAY CHEST SINGLE VIEW
+ 
+CLINICAL INFORMATION AVAILABLE: Hypothermia, ET tube placement
+ 
+TECHNIQUE: Frontal view of the chest.  
+ 
+FINDINGS: 
+ 
+Interval placement of endotracheal tube with tip at T2-T3 above the 
+carina. Esophageal
+probe tip is at T4-T5 and the midline. The enteric tube overlies the 
+stomach. There is
+an umbilical venous catheter with tip slightly advanced, probably in 
+the umbilical vein.
+ 
+The cardiomediastinal silhouette is normal in size. No focal 
+consolidation, pleural
+effusion or pneumothorax is identified on either side.
+ 
+IMPRESSION: 
+ 
+Compared to prior study, interval placement of an endotracheal tube 
+with tip above the
+carina at T2-T3.
+ 
+Umbilical venous line tip slightly advanced probably in the umbilical 
+vein overlying the
+liver.
+ 
+No focal consolidation, pleural effusion, or pneumothorax.",17 hours,1.0,,3410.0,3410 g,2.0,2 days,train,,Black
+,,77,False,1,164 days,,M,B,"Nasoduodenal tube 
+placement.","         
+EXAMINATION PERFORMED: Portable chest and abdomen x-ray
+  
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Nasoduodenal tube 
+placement.
+ 
+TECHNIQUE: Single AP view.
+ 
+FINDINGS: 
+ 
+Enteric tube seen on prior has been removed. New enteric tube is 
+seen, metallic tip over
+the stomach. Endotracheal tube is unchanged. Coarse opacities are 
+again noted throughout
+both lungs, probably chronic lung disease. No focal consolidation is 
+seen. Both
+costophrenic angles are sharp. No pneumothorax is seen.
+ 
+Ileus bowel gas pattern is again noted.
+ 
+IMPRESSION:
+ 
+Compared to prior study, interval exchange of enteric tube, metallic 
+tip identified over
+the stomach.",15 hours 45 min,1.0,,1880.0,1880g,164.0,164 days,test,,Black
+,,78,False,1,18 days,,F,Other ,"Preterm, 
+intestinal perforation,
+endotracheal tube placement.","EXAMINATION PERFORMED: Portable chest and abdomen x-ray
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Preterm, 
+intestinal perforation,
+endotracheal tube placement.
+ 
+TECHNIQUE: Single AP view.
+ 
+FINDINGS: 
+ 
+Tip of endotracheal tube is again seen approximately 3 vertebral body 
+heights above the
+carina, similar to prior. Tip of left PICC is again seen over the 
+central left
+subclavian vein. Enteric tube remains in satisfactory position, tip 
+identified over the
+left upper abdomen. Hazy opacities throughout both lungs are 
+unchanged. No focal
+consolidation is seen. Both costophrenic angles are sharp. No 
+pneumothorax is seen.
+ 
+Large collection of gas is again seen in the left mid abdomen, 
+slightly decreased in
+size from prior. Otherwise, bowel gas pattern is normal.
+ 
+IMPRESSION:
+ 
+Compared to prior study, slight interval decrease in 
+size of large
+collection of gas in the left mid abdomen, could represent distended 
+stomach or other
+focally distended segment of bowel, versus extraluminal collection.
+ 
+Stable diffuse hazy infiltrates throughout both lungs.",5 hours,1.0,,960.0,960 g,18.0,18 days,train,,Other
+,,79,False,1,1 day,,F,Other ,"Umbilical line placement, 29 week preemie, uterine rupture, RDS, 
+suspected sepsis","         
+EXAMINATION: CHEST AND ABDOMEN, PORTABLE
+ 
+CLINICAL INFORMATION/INDICATION: 
+Umbilical line placement, 29 week preemie, uterine rupture, RDS, 
+suspected sepsis
+ 
+Technique: 
+Frontal chest and abdominal radiograph.
+ 
+FINDINGS: 
+Chest: The tip of the endotracheal tube is above the carina at T1. 
+The tip of the
+umbilical venous catheter is in the right atrium at T6. The tip of 
+the umbilical
+arterial catheter is at T4. There are diffuse granular opacities and 
+low lung volumes.
+No pneumothorax is seen.
+ 
+Abdomen: The bowel gas pattern is normal.
+ 
+IMPRESSION:  
+1. Consider retraction of umbilical arterial catheter.
+2. Findings compatible with RDS.
+3. Normal bowel gas pattern.",16 hours,1.0,,1450.0,1450 g,1.0,1 day,train,,Other
+,,80,False,1,18 days,,F,Other ,"Duodenal atresia, 
+postoperative,
+evaluate endotracheal tube placement.","EXAMINATION PERFORMED: Portable chest and abdomen x-ray
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Duodenal atresia, 
+postoperative,
+evaluate endotracheal tube placement.
+ 
+TECHNIQUE: Single AP view.
+ 
+FINDINGS: 
+ 
+New endotracheal tube is seen, tip approximately 3 vertebral body 
+heights above the
+carina. Enteric tube is again seen over the left upper abdomen. PICC 
+is again seen via
+the left lower extremity, slightly retracted from prior, tip 
+identified the level of S2.
+No focal consolidation is seen. Both costophrenic angles are sharp. 
+No pneumothorax is
+seen.
+ 
+Oral contrast material is identified in the stomach and some loops of 
+bowel in the right
+upper quadrant and left lower quadrant.
+ 
+IMPRESSION:
+ 
+Compared to prior study, interval satisfactory 
+placement of endotracheal
+tube.
+ 
+Clear lungs.
+ 
+No bowel obstruction.",3 hours,1.0,,2520.0,2520 g,18.0,18 days,test,,Other
+,,81,False,1,3 months,,F,Other ,"Ventricular 
+septal defect.","EXAMINATION PERFORMED: Portable chest x-ray.
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Ventricular 
+septal defect.
+ 
+TECHNIQUE: Single AP view.
+ 
+FINDINGS: 
+ 
+The patient is post interval median sternotomy. New endotracheal tube 
+is seen, tip
+approximately 3 vertebral body heights above the carina. New right 
+chest tube epicardial
+pacer wires are seen. Enteric tube seen on prior has been removed. 
+Residual shunt
+vascularity and/or mild pulmonary vascular congestion is seen. No 
+focal consolidation is
+seen. Both costophrenic angles are sharp. No pneumothorax is seen.
+ 
+Again noted, the cardiac silhouette is enlarged.
+ 
+IMPRESSION:
+ 
+Compared to prior study, post interval median sternotomy.
+ 
+New right chest tube and endotracheal tube, in satisfactory positions.
+ 
+Interval removal of enteric tube.
+ 
+Residual shunt vascularity and/or mild pulmonary vascular congestion.
+ ",1 hour,1.0,,4900.0,4900 g,91.32000000000001,3 months,test,,Other
+,,82,False,1,25 days,,M,B,"Endocarditis. 
+Preterm. Postoperative
+endotracheal tube placement.","         
+EXAMINATION PERFORMED: Portable chest x-ray
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Endocarditis. 
+Preterm. Postoperative
+endotracheal tube placement.
+ 
+TECHNIQUE: Single AP view.
+ 
+FINDINGS: 
+ 
+New endotracheal tube is seen, tip over the proximal right mainstem 
+bronchus. Right PICC
+and enteric tube are unchanged. Hazy infiltrates are again noted 
+bilaterally. Both
+costophrenic angles are sharp. No pneumothorax is seen.
+ 
+Ileus bowel gas pattern is again noted, although incompletely imaged.
+ 
+IMPRESSION:
+ 
+Compared to the prior study, interval placement of endotracheal tube, tip 
+projects over the
+proximal right mainstem bronchus. Recommend retraction.
+ 
+Stable hazy infiltrates bilaterally.",30 min,1.0,,1710.0,1710 g,25.0,25 days,test,,Black
+,,83,False,1,47 days,,F,B,Atelectasis.,"EXAMINATION PERFORMED: Portable chest and abdomen x-ray 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Atelectasis.
+ 
+TECHNIQUE: Single AP view.
+  
+FINDINGS: 
+ 
+The patient is rotated. New enteric tube is seen, tip identified over 
+the stomach.
+Endotracheal tube and right PICC are unchanged. Bilateral infiltrates 
+are unchanged.
+Both costophrenic angles are sharp. No pneumothorax is seen.
+ 
+Distended air-filled segments of bowel are again seen throughout the 
+abdomen and pelvis.
+ 
+IMPRESSION:
+ 
+Compared to the prior study, interval satisfactory placement of enteric 
+tube.
+ 
+Other stable findings as described above. 
+ ",2 hours 30 min,1.0,,1540.0,1540 g,47.0,47 days,test,,Black
+,,84,False,1,1 day,,M,Other ,"Esophageal atresia with distal tracheoesophageal fistula 
+post repair via right thoracotomy
+ ","EXAMINATION: CHEST, PORTABLE
+ 
+INDICATION: Esophageal atresia with distal tracheoesophageal fistula 
+post repair via right thoracotomy
+ 
+ 
+TECHNIQUE: A single AP view of the chest was performed.  
+ 
+FINDINGS: 
+Patient is rotated. Endotracheal tube is noted to 2.7 cm above the 
+carina. Enteric tube
+is seen following the esophagus with distal tip not visualized, 
+likely within the
+stomach. Drain is noted overlying the right chest. No focal 
+consolidation, pleural
+effusion, or pneumothorax is identified on either side.
+ 
+IMPRESSION: 
+1.   Post TEF repair. Endotracheal and enteric tubes as described.
+2.   No pleural effusion or pneumothorax.
+ 
+I have reviewed the images and the resident 
+preliminary report and
+would like to addend as follows:
+ 
+Limited secondary to patient rotation.
+ 
+Mild groundglass opacification of both lungs, without focal 
+consolidation.
+ ",30 min,1.0,,2625.0,2625 g,1.0,1 day,test,,Other
+,,85,False,1,7 days,,F,Other ,"Dysplastic 
+tricuspid valve with
+severe tricuspid insufficiency, enlarged right atrium, moderate 
+secundum atrial septal
+defect. On ECMO. Evaluate lung fields.","         
+EXAMINATION PERFORMED: Portable chest x-ray
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Dysplastic 
+tricuspid valve with
+severe tricuspid insufficiency, enlarged right atrium, moderate 
+secundum atrial septal
+defect. On ECMO. Evaluate lung fields.
+ 
+TECHNIQUE: Single AP view.
+FINDINGS: 
+ 
+Endotracheal and enteric tubes, umbilical arterial and venous 
+catheters, and ECMO
+cannulas remain in satisfactory positions. Improved aeration is seen 
+in the left lower
+lobe. The lungs remain clear bilaterally. Both costophrenic angles 
+are sharp. No
+pneumothorax is seen.
+ 
+Again noted, the cardiac silhouette is enlarged.
+ 
+IMPRESSION:
+ 
+Compared to prior study, no significant 
+interval change.",30 min,1.0,,3220.0,3220 g,7.0,7 days,test,,Other
+,,86,False,1,3 days,,F,B,"Endotracheal 
+tube, umbilical
+arterial and venous catheter positions.","         
+EXAMINATION PERFORMED: Portable chest and abdomen x-ray
+ 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Endotracheal 
+tube, umbilical
+arterial and venous catheter positions.
+ 
+TECHNIQUE: Single AP view.
+ 
+FINDINGS: 
+ 
+Umbilical arterial and venous catheters are both seen at the level of 
+T7. Endotracheal
+and enteric tubes remain in satisfactory positions. Hazy opacities 
+are again seen
+throughout both lungs, without focal consolidation. The costophrenic 
+angles are sharp.
+No pneumothorax is seen.
+ 
+Normal bowel gas pattern is observed.
+ 
+IMPRESSION:
+ 
+Umbilical arterial and venous catheters as described. Consider slight 
+retraction of
+venous catheter.
+ 
+Endotracheal and enteric tubes in satisfactory positions.
+ 
+Findings suggesting hyaline membrane disease, as before.",1 hour 45 min,1.0,,740.0,740 g,3.0,3 days,train,,Black
+,,87,False,1,0 days,,M,Other ,"Premature, 
+respiratory distress
+syndrome, endotracheal tube.","         
+EXAMINATION PERFORMED: Portable chest and abdomen x-ray
+ 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Premature, 
+respiratory distress
+syndrome, endotracheal tube.
+ 
+TECHNIQUE: Single AP view.
+ 
+
+ 
+FINDINGS: 
+ 
+Tip of endotracheal tube is seen approximately 1.5 vertebral body 
+heights above the
+carina. Tip of enteric tube is seen over the stomach. Tip of 
+umbilical venous catheter
+seen over the liver. Granular opacification is seen throughout both 
+lungs, compatible
+with hyaline membrane disease. Both costophrenic angles are sharp. No 
+pneumothorax is
+seen.
+ 
+Nonobstructed abdominal bowel gas pattern is observed.
+ 
+IMPRESSION:
+ 
+Tip of umbilical venous catheter over the liver. Recommend 
+repositioning.
+ 
+Satisfactory placement of endotracheal and enteric tubes.
+ 
+Findings compatible with hyaline membrane disease.
+ ",15 min,1.0,,2290.0,2290 g,0.0,0 days,train,,Other
+,,88,False,1,1 day,,F,B,"Cesarean section, 
+evaluate tube
+placement.","         
+EXAMINATION PERFORMED: Portable chest x-ray.
+ 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Cesarean section, 
+evaluate tube
+placement.
+ 
+TECHNIQUE: Single AP view.
+ 
+FINDINGS: 
+ 
+New endotracheal tube is seen, tip approximately 2 vertebral body 
+heights above the
+carina. Enteric tube seen on prior has been removed. Umbilical venous 
+catheter has been
+retracted, tip projects over the right atrium. Granular opacities are 
+again seen
+throughout both lungs, without focal consolidation. Both costophrenic 
+angles are sharp.
+No pneumothorax is seen.
+ 
+IMPRESSION:
+ 
+Compared to prior study, interval removal of enteric 
+tube, and
+satisfactory placement of endotracheal tube.
+ 
+Interval satisfactory retraction of umbilical venous catheter.
+ 
+Stable findings compatible with hyaline membrane disease.",40 min,1.0,,1190.0,1190 g,1.0,1 day,test,,Black
+,,89,False,1,0 days,,M,Other ,"Postoperative, 
+gastroschisis."," 
+EXAMINATION PERFORMED: Portable chest and abdomen x-ray
+ 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Postoperative, 
+gastroschisis.
+ 
+TECHNIQUE: Single AP view.
+
+ 
+FINDINGS: 
+ 
+Tube of endotracheal tube is seen just below the thoracic inlet. Tip 
+of enteric tube is
+seen over the stomach. The lungs are clear, and the costophrenic 
+angles sharp
+bilaterally.
+ 
+Nonobstructed abdominal bowel gas pattern is observed.
+ 
+IMPRESSION:
+ 
+Endotracheal and enteric tubes, as described.
+ 
+Clear lungs.
+ 
+No evidence for bowel obstruction.",1 hour 45 min,1.0,,2400.0,2400 g,0.0,0 days,test,,Other
+,,90,False,1,0 days,,M,B,Tube placement.,"EXAMINATION PERFORMED: Portable chest x-ray.
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Tube placement.
+ 
+TECHNIQUE: Single AP view.
+  
+FINDINGS: 
+ 
+Endotracheal tube is now seen, tip at the level of the thoracic 
+inlet, approximately 4
+vertebral body heights above the carina. Enteric tube is again seen 
+coursing over the
+left upper abdomen, tip not visualized. Mild pulmonary 
+overcirculation is again noted
+bilaterally. No focal consolidation is seen. Both costophrenic angles 
+are sharp. No
+pneumothorax is seen.
+ 
+Again noted, the cardiac silhouette is enlarged.
+ 
+IMPRESSION:
+ 
+Compared to prior study, interval placement of 
+endotracheal tube, in
+satisfactory position.
+ ",7 hours,1.0,,1490.0,1490 g,0.0,0 days,train,,Black
+,,91,False,1,42 days,,M,W,"Pneumothorax, 
+respiratory failure,
+congenital diaphragmatic hernia post repair.","EXAMINATION PERFORMED: Portable chest x-ray.
+ 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Pneumothorax, 
+respiratory failure,
+congenital diaphragmatic hernia post repair.
+ 
+TECHNIQUE: Single AP view.
+ 
+FINDINGS: 
+ 
+Endotracheal and enteric tubes and right internal jugular central 
+venous catheter remain
+in satisfactory positions. External devices limit evaluation of the 
+underlying lungs,
+although aeration in the right upper lobe appears improved from 
+prior, and no other
+definite pulmonary opacities are seen. Both costophrenic angles are 
+sharp. No
+pneumothorax is seen.
+ 
+IMPRESSION:
+ 
+Compared to prior study, interval 
+improved aeration in the
+right upper lobe.",2 hours 20 min,1.0,,4100.0,4100 g,42.0,42 days,train,,White
+,,92,False,1,0 days,,M,B,"35 week larger 
+gestational age male,
+respiratory distress, premature rupture membranes","EXAMINATION PERFORMED: CHEST AND ABDOMEN RADIOGRAPH, ONE VIEW
+
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: 35 week larger 
+gestational age male,
+respiratory distress, premature rupture membranes
+ 
+Technique: Frontal portable chest the abdomen radiograph
+ 
+FINDINGS: 
+The endotracheal tube tip is above the carina at T3-T4. Enteric tube 
+overlies stomach.
+The umbilical arterial line tip is to the left the spine in the chest 
+at T5. The
+umbilical venous catheter tip is coiled in the left portal vein and 
+oriented caudally to
+the right.
+ 
+The cardiothymic silhouette is normal in size. There are hazy 
+granular opacities with
+some perihilar infiltrates on the right. There is no focal 
+consolidation, pleural
+effusion, or pneumothorax.
+ 
+There are distended loops of bowel without evidence for pneumatosis 
+or portal venous
+gas.
+ 
+IMPRESSION:
+Umbilical venous catheter tip coiled in the left portal vein and 
+oriented caudally to
+the right, consider adjustment.
+ 
+Other support lines and tubes in satisfactory position.
+ 
+RDS with mild right perihilar infiltrates.
+ 
+I have reviewed the images and the resident 
+preliminary report and
+would like to addend as follows:
+ 
+Findings compatible with hyaline membrane disease. No focal areas of 
+consolidation on
+either the right or the left.
+ 
+Other findings as described above.",11 hours 45 min,1.0,,3250.0,3250 g,0.0,0 days,test,,Black
+,,93,False,1,4 days,,M,Other ,"Meconium aspiration. Born at 39 weeks gestation via C-section and 
+found to have meconium
+stained amniotic fluid. Transferred for severe hypoxic 
+ischemic encephalopathy","EXAMINATION: X-RAY CHEST, PORTABLE.
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: 
+Meconium aspiration. Born at 39 weeks gestation via C-section and 
+found to have meconium
+stained amniotic fluid. Transferred from for severe hypoxic 
+ischemic encephalopathy
+ 
+Technique: 
+Frontal chest radiograph.
+  
+FINDINGS:
+Tip of the endotracheal tube is 1 cm above the carina. Enteric tube 
+tip is in the
+stomach. The esophageal probe has been removed. Tip of umbilical 
+venous catheter is at
+the inferior cavoatrial junction and tip of umbilical artery catheter 
+is at T7. Again
+seen are perihilar opacities. There is no focal consolidation.
+ 
+IMPRESSION:  
+Esophageal probe has been removed. Otherwise, no significant interval 
+change in tubes
+and lines. Perihilar opacities remain stable.",3 hours 45 min,1.0,,2495.0,2495 g,4.0,4 days,train,,Other
+,,94,False,1,0 days,,M,Other ,Dyspnea.,"EXAMINATION PERFORMED: Portable chest x-ray.
+ 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Dyspnea.
+ 
+TECHNIQUE: Single AP view.
+
+ 
+FINDINGS: 
+ 
+The patient is rotated. Tip of endotracheal tube is seen just below 
+the thoracic inlet,
+approximately 3 vertebral body heights above the carina. Mild 
+granular opacification is
+noted bilaterally. No focal consolidation is seen. Both costophrenic 
+angles are sharp.
+No pneumothorax is seen.
+ 
+IMPRESSION:
+ 
+Endotracheal tube in satisfactory position.
+ 
+Findings suggesting hyaline membrane disease.
+ ",8 hours 30 min,1.0,,490.0,490 g,0.0,0 days,test,,Other
+,,95,False,1,9 days,,M,Other ,"Small for gestational age, intrauterine growth restriction, 
+necrotizing enterocolitis.
+ ","         
+EXAMINATION PERFORMED: CHEST AND ABDOMEN RADIOGRAPH, SINGLE VIEW
+ 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: 
+Small for gestational age, intrauterine growth restriction, 
+necrotizing enterocolitis.
+ 
+Technique: 
+Frontal PA supine abdominal radiograph.
+ 
+FINDINGS: 
+Enteric tube is seen with tip overlying the stomach, as before. Left 
+PICC is seen with
+tip in the left brachiocephalic vein, as before. The tip of the 
+endotracheal tube is
+again seen at the level of the thoracic inlet. There is complete 
+opacification of the
+left hemithorax, with ipsilateral mediastinal shift, similar to 
+prior. There is interval
+increased opacification of the right upper and middle lobes. No 
+pneumothorax is
+identified.
+ 
+The abdomen is distended with loss of normal retroperitoneal 
+landmarks, suggesting
+possible abdominal ascites. There are distended tubular air-filled 
+loops of bowel with
+scattered bubblelike lucencies throughout, similar to prior. There is 
+no portal venous
+gas or pneumoperitoneum.
+ 
+IMPRESSION:
+Compared to prior study, interval increase in right upper and middle 
+lobe opacification.
+Persistent left lung collapse.
+ 
+Left PICC line with tip overlying the left brachiocephalic vein. 
+Recommend
+repositioning.
+ 
+Distended air-filled loops of bowel with pneumatosis, compatible with 
+history of
+necrotizing enterocolitis.
+ 
+Findings suggesting ascites.",5 hours 45 min,1.0,,2730.0,2730 g,9.0,9 days,train,,Other
+,,96,False,1,42 days,,M,B,"Respiratory 
+distress, line
+placement.","EXAMINATION PERFORMED: Portable chest x-ray.
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Respiratory 
+distress, line
+placement.
+ 
+TECHNIQUE: Single AP view.
+  
+FINDINGS: 
+ 
+Endotracheal tube has been slightly retracted, tip approximately 1 
+vertebral body
+heights above the carina. One of 2 enteric tubes has been removed. 
+Other enteric tube
+remains in satisfactory position. New right internal jugular central 
+venous catheter is
+seen, tip projects over the SVC. Diffuse infiltrates bilaterally are 
+unchanged. Both
+costophrenic angles are sharp. No pneumothorax is seen.
+ 
+IMPRESSION:
+ 
+Compared to film from earlier the same days, interval 
+retraction of
+endotracheal tube, tip approximately 1 vertebral body heights above 
+the carina.
+ 
+Interval satisfactory placement of right internal jugular central 
+venous catheter. No
+pneumothorax.
+ 
+Persistent diffuse infiltrates bilaterally.",1 hour 50 min,1.0,,4900.0,4900 g,42.0,42 days,test,,Black
+,,97,False,1,14 days,,F,B,"Hydrocephalus, 
+cleft palate,
+micrognathia, postoperative ventriculoperitoneal shunt placement.
+ ","EXAMINATION PERFORMED: Portable chest x-ray.
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Hydrocephalus, 
+cleft palate,
+micrognathia, postoperative ventriculoperitoneal shunt placement.
+ 
+TECHNIQUE: Single AP view.
+ 
+
+ 
+FINDINGS: 
+ 
+Tip of endotracheal tube is seen approximately two vertebral body 
+heights above the
+carina. Ventriculoperitoneal shunt is seen coursing over the right 
+chest wall,
+visualized right neck, and coiled over the visualized abdomen, tip 
+not visualized. Hazy
+opacities are seen throughout both lungs. Both costophrenic angles 
+are sharp. No
+pneumothorax is seen.
+ 
+IMPRESSION:
+ 
+Satisfactory positioning of endotracheal tube.
+ 
+Right-sided ventriculoperitoneal shunt, incompletely imaged.
+ 
+Hazy infiltrates throughout both lungs.",30 min,1.0,,2040.0,2040 g,14.0,14 days,train,,Black
+,,98,False,1,52 days,,F,Unkown,"25 week preemie, PDA ligation.","EXAMINATION PERFORMED: CHEST AND ABDOMEN RADIOGRAPH, SINGLE VIEW
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: 
+25 week preemie, PDA ligation.
+ 
+Technique: 
+Frontal PA supine abdominal radiograph.
+ 
+FINDINGS: 
+Tip of the left PICC is again seen the junction of the left 
+innominate vein and SVC.
+Endotracheal and enteric tubes and PDA clip are unchanged. The 
+cardiothymic silhouette
+is unchanged. Diffuse infiltrates are again noted bilaterally. 
+Increasing opacities seen
+in the right upper lobe and at the left base. Suspected persistent 
+pulmonary
+interstitial emphysema. No pneumothorax or pleural effusion.
+ 
+Mildly distended air-filled loops of bowel, progressed from prior.  
+There is no
+organomegaly or abnormal calcifications.
+ 
+IMPRESSION:
+Compared to prior study from earlier the same day, interval 
+increasing opacity in the
+right upper lobe and at the left lung base, could represent 
+developing atelectasis or
+consolidations.
+ 
+Nonspecific, mildly distended air-filled loops of bowel, progressed 
+since prior study.",1 hour,1.0,,1205.0,1205 g,52.0,52 days,train,,Unknown
+,,99,False,1,42 days,,M,B,"Tube placement. 
+Cardiac arrest.","EXAMINATION PERFORMED: Portable chest x-ray.
+ 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Tube placement. 
+Cardiac arrest.
+ 
+TECHNIQUE: Single AP view.
+ 
+ 
+FINDINGS: 
+ 
+Enteric tube seen on prior has been removed. Tip of new enteric tube 
+not well seen below
+the level of the proximal stomach. Endotracheal tube and right 
+internal jugular central
+venous catheter remain in satisfactory position. Bilateral 
+infiltrates have slightly
+improved from prior. No pneumothorax is seen.
+ 
+Distended air-filled segments of bowel are again seen over the 
+visualized upper abdomen.
+ 
+IMPRESSION:
+ 
+Compared to film from earlier the same day, interval 
+exchange of enteric
+tube, although tip is not well seen below the level of the proximal 
+stomach. Consider
+advancement.
+ 
+Slight interval improved aeration bilaterally.
+ ",45 min,1.0,,6000.0,6000 g,42.0,42 days,train,,Black
+,,100,False,1,45 days,,F,B,"Respiratory 
+symptoms.","EXAMINATION PERFORMED: Portable chest x-ray.
+ 
+ 
+CLINICAL INFORMATION AVAILABLE/CLINICAL INDICATION: Respiratory 
+symptoms.
+ 
+TECHNIQUE: Single AP view.
+  
+FINDINGS: 
+ 
+Endotracheal tube has been advanced, tip approximately 3 vertebral 
+body heights above
+the carina. Tip of left PICC is again seen over the peripheral left 
+subclavian vein. PDA
+clips in left apical chest tube are unchanged. Interval improved 
+aeration is seen
+throughout the right lung. Left upper lobe consolidation has nearly 
+resolved. Both
+costophrenic angles are sharp. Suspected small left pneumothorax seen 
+on prior has
+resolved.
+ 
+Subcutaneous emphysema in the left chest wall has improved.
+ 
+IMPRESSION:
+ 
+Compared to prior study, interval satisfactory advancement of 
+endotracheal tube.
+ 
+Improved aeration throughout the right lung, and near complete 
+interval resolution of
+left upper lobe consolidation seen on prior.
+ 
+Interval resolution of left pneumothorax and improvement in 
+subcutaneous emphysema in
+the left chest wall.
+ 
+ ",7 hours,1.0,,2370.0,2370 g,45.0,45 days,train,,Black

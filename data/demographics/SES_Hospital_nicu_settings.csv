@@ -1,0 +1,1567 @@
+MRN (should be removed before sharing),Study ID (should be removed before sharing),Folder,Patient Duplicate?,Dicoms copied,Age,Gestational Age ,Sex,Race,Reason for X-ray (confirm report with history if able),Deidentified Report,Time until Report ,"ET, Correct ","ET, Incorrect ",Weight (grams),Weight_original,Age_days,Age_original,Split,Gestational_Age_Weeks,Race_Standardized
+,,1,False,,12,27.0,M,W,Respiratory failure,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+
+Silueta cardiotimica de forma y tamaño normal.
+Área de ocupación alveolar en el lóbulo superior derecho.
+Opacidades intersticiales parahiliares de manera bilateral.
+No se identifican derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Catéteres centrales de acceso umbilical sin variación.","3 days, 4:50:00",1.0,,945.0,0.945,12.0,12,train,27.0,White
+,,2,False,,4,38.0,F,W,Orotraqueal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+La transparencia pleuroparenquimatosa es satisfactoria.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofagico, con extremo distal proyectado sobre la cámara gástrica.
+Cateteres centrales de acceso umbilical con extremos distales proyectados a la altura de los cuerpos vertebrales T12 y T6.
+","5 days, 11:04:00",1.0,,2850.0,2.85,4.0,4,train,38.0,White
+,,3,False,,1,38.0,M,W,Orotraqueal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Discretas opacidades intersticiales parahiliares de manera bilateral.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Cateteres centrales de acceso umbilical con extremos distales proyectados a la altura de los cuerpos vertebrales T9 y hacia la arteria pulmonar izquierda.
+Sonda en trayecto esofagico.","4 days, 3:41:00",1.0,,3400.0,3.4,1.0,1,train,38.0,White
+,,4,False,,5,31.0,M,W,Orotraqueal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofagico, con extremo distal proyectado sobre la cámara gástrica.
+Estructuras óseas visualizadas de aspecto usual.","3 days, 23:09:00",1.0,,1733.0,1.733,5.0,5,test,31.0,White
+,,5,False,,22,38.0,F,W,Respiratory failure,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Consolidacion parenquimatosa en el lóbulo superior derecho de aspecto neumónico.
+No se identifican derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Estructuras óseas visualizadas de aspecto usual.","1 day, 5:40:00",1.0,,,2024-09-02 00:00:00,22.0,22,test,38.0,White
+,,6,False,,5,39.0,M,W,Orotraqueal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+
+
+RADIOGRAFÍA DE TÓRAX-PORTÁTIL
+Producto dosis area: 0.02 dGy*cm2
+INFORME:
+Se identifica tubo de toracostomia en hemitorax izquierdo bien posicionado.
+Parenquima pulmonar presentando infiltrado intersticial bilateral difuso sin focos consolidativos.
+Silueta cardiaca con morfología y tamaño dentro de la normalidad.
+Mediastino con morfología usual.
+Tubo endotraqueal bien posicionado.","2 days, 13:59:00",1.0,,3185.0,3.185,5.0,5,test,39.0,White
+,,7,False,,1,31.0,F,W,Orotraqueal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+Producto dosis area: 0.015 dGy*cm2
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades intersticiales parahiliares de manera bilateral.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Estructuras óseas visualizadas de aspecto usual.
+Sonda en trayecto esofágico.
+Elementos de monitoria externa.","5 days, 6:28:00",1.0,,1760.0,1.76,1.0,1,test,31.0,White
+,,8,False,,1,37.0,M,W,Orotraqueal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades de tipo mixto que comprometen el hemitorax derecho.
+La transparencia del hemitórax izquierdo es normal.
+No se identifican derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.","4 days, 18:28:00",1.0,,2925.0,2.925,1.0,1,test,37.0,White
+,,9,False,,1,33.0,M,W,Orotraqueal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofagico con extremo distal proyectado sobre la cámara gástrica.
+Estructuras óseas visualizadas de aspecto usual.",11:28:00,1.0,,1611.0,1.611,1.0,1,test,33.0,White
+,,10,False,,1,37.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+RADIOGRAFIA DE TORAX-PORTÁTIL
+
+INFORME:
+Silueta cardiotímica de forma y tamaño normal.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Catéteres venosos de acceso umbilical sin variación.
+Resto del estudio sin cambios.
+Ldc*","3 days, 1:06:00",1.0,,2540.0,2.54,1.0,1,train,37.0,White
+,,11,False,,1,34.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+RADIOGRAFIA DE TORAX-PORTÁTIL.
+
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Catéter venoso central de acceso umbilical con extremo distal proyectado a la altura del cuerpo vertebral T8.
+Estructuras óseas y tejidos blandos visualizados, no demuestran alteración.","3 days, 18:18:00",1.0,,2200.0,2.2,1.0,1,train,34.0,White
+,,12,False,,1,41.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Silueta cardiotímica de forma y tamaño normal.
+La transparencia pleuroparenquimatosa es satisfactoria.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Estructuras óseas y tejidos blandos visualizados no demuestran alteración.",10:37:00,1.0,,3820.0,3.82,1.0,1,train,41.0,White
+,,13,False,,1,37.0,M,W,Orotracheal intubation,"
+DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+
+INFORME:
+Examen con adecuada calidad técnica.
+Se identifica tubo endotraqueal bien posicionado.
+Parénquima pulmonar no se identifican consolidaciones ni masas.
+Mediastino y corazón con silueta y morfología conservada.
+Ángulos costofrénicos libres.
+Se identifica porción distal de catéter umbilical a nivel del sexto cuerpo vertebran dorsal.
+Vrm*","3 days, 10:45:00",1.0,,2790.0,2.79,1.0,1,test,37.0,White
+,,14,False,,1,37.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTATIL
+INFORME:
+Silueta cardiotímica de forma y tamaño normal.
+Imagen radiolúcida de paredes delgadas basal izquierda con diámetro mayor de 20 mm en probable relación con
+malformación adenomatoide quística.
+Opacidades intersticiales parahiliares de manera bilateral.
+Reexpansion casi completa de la cámara de neumotórax izquierda.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Resto del estudio sin variación.
+Kmh*","2 days, 8:20:00",1.0,,2000.0,2,1.0,1,train,37.0,White
+,,15,False,,1,37.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Cámara de neumotórax derecha de aproximadamente un 40% con tubo de toracostomía en adecuada posición.
+Velamiento de ambos recesos costofrénicos laterales por presencia de líquido.
+La vascularización pulmonar es normal.
+Elementos de monitoria y soporte sin variación.
+Tab*",14:18:00,1.0,,2925.0,2.925,1.0,1,test,37.0,White
+,,16,False,,2,28.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Parénquima pulmonar presentando discreto infiltrado intersticial bilateral difuso.
+No se identifican focos consolidativos.
+Ángulos costofrénicos libres.
+Corazón de morfología y tamaño dentro de la normalidad.
+Se identifica tubo endotraqueal bien posicionado.
+Sonda en topografía esofagogástrica, bien posicionada.
+Catéter venoso ingresando por región umbilical con extremidad distal localizada a nivel de T9.","2 days, 11:36:00",1.0,,1000.0,1,2.0,2,unknown,28.0,White
+,,17,False,ok,58,35.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+
+INFORME:
+
+Silueta cardiotimica de forma y tamaño normal.
+
+Opacidades intersticiales parahiliares de manera bilateral. 
+
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+
+La vascularizacion pulmonar es normal.
+
+Tubo endotraqueal en adecuada posición. 
+
+Cateter venoso central de acceso yugular interno derecho, con extremo distal proyectado sobre la unión atrio-cava.
+
+Sonda en trayecto esofagico, con extremo distal proyectado sobre la cámara gástrica. 
+
+Estructuras óseas visualizadas de aspecto usual.
+
+Elementos de monitoria externa. 
+
+Tab*","2 days, 8:04:00",1.0,,3245.0,3.245,58.0,58,train,35.0,White
+,,18,False,,1,37.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+Producto dosis area: 1.07 dGy*cm2
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Cateter de acceso inferior con extremo distal proyectado a la altura del cuerpo vertebral T10.
+Estructuras óseas y tejidos blandos visualizados, no demuestran alteración.
+Sonda en trayecto esofágico.
+Tab*","1 day, 21:51:00",1.0,,3220.0,3.22,1.0,1,test,37.0,White
+,,19,False,,1,29.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+Producto dosis area: 0,04 dGy*cm2
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades intersticiales parahiliares de manera bilateral.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofágico, con extremo distal proyectado sobre la cámara gástrica.
+Estructuras óseas visualizadas de aspecto usual.
+Tab*","2 days, 15:31:00",1.0,,1400.0,1.4,1.0,1,train,29.0,White
+,,20,False,,2,30.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades intersticiales parahiliares de manera bilateral.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Cateter epicutaneo de acceso izquierdo, con extremo distal proyectado sobre la vena cava superior.
+Sonda en trayecto esofágico, con extremo distal proyectado sobre la cámara gástrica.
+Estructuras óseas y tejidos blandos visualizados no demuestran alteración.","2 days, 5:01:00",1.0,,1270.0,1.27,2.0,2,train,30.0,White
+,,21,False,,1,27.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+
+RADIOGRAFÍA DE TÓRAX
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades intersticiales que comprometen ambos parenquimas pulmonares.
+No se identifican derrames pleurales.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofagico.
+Vrm*","5 days, 1:18:00",1.0,,850.0,0.85,1.0,1,test,27.0,White
+,,22,False,,27,38.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades intersticiales parahiliares de manera bilateral.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofagico.
+Estructuras óseas visualizadas de aspecto usual.",130:30:00.000,1.0,,3070.0,3.07,27.0,27,train,38.0,White
+,,23,False,,14,30.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+
+DATOS GENERALES
+RADIOGRAFIA DE TORAX PORTATIL (P.A.ó A.P.y LATERAL, DECUBITO LATERAL, OBLICUAS ó LATERAL CON BARIO)
+
+INFORME RADIOLOGICO:
+El estudio se realizó con técnica, procedimiento digital y asistencia computadorizada.
+La tráquea es central.
+La silueta cardiotímica normal.
+Proceso bronquial parahiliar bilateral con engrosamiento de paredes bronquiales y manguitos peri bronquiales asociados a signos de 
+atrapamiento aéreo y aumento de volumen pulmonar.
+El parénquima pulmonar se aprecia libre de consolidaciones, nódulos o agregados.
+Los senos costo y cardiofrénicos se encuentran libres.
+Tejidos blandos y estructuras óseas observadas sin evidencia de alteraciones.
+Tubo endotraqueal a 1 cm de la carina.
+OPINION:
+SINDROME BRONCO OBSTRUCTIVO.
+NEGATIVO PARA CONSOLIDACIÓN NEUMÓNICA.","1 day, 16:29:00",1.0,,1520.0,1.52,14.0,14,test,30.0,White
+,,24,False,,21,39.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades de tipo mixto de predominio alveolar parahiliares de manera bilateral que se extiende a ambos lobulos superiores.
+No se identifican derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Estructuras óseas visualizadas de aspecto usual.
+Ldc*","2 days, 5:35:00",1.0,,3100.0,3.1,21.0,21,test,39.0,White
+,,25,False,,35,31.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+La transparencia pleuroparenquimatosa es satisfactoria.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Cateter epicutaneo de acceso izquierdo, con extremo distal proyectado sobre la vena axilar.
+Sonda en trayecto esofágico, con extremo distal proyectado sobre la cámara gástrica.
+Elementos de monitoria externa.
+Estructuras óseas visualizadas de aspecto usual.
+?Tab*","3 days, 1:55:00",1.0,,2080.0,2.08,35.0,35,train,31.0,White
+,,26,False,,58,33.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX-PORTÁTIL
+INFORME:
+Se identifica tubo endotraqueal bien posicionado.
+Parenquima pulmonar presentando infiltrado de tipo mixto bilateral difuso con predominio en los apices pulmonares.
+En hemitorax derecho se identifica infiltrado consolidativo por proceso infeccioso.
+Ángulos costofrénicos libres.
+Corazón con tamaño dentro de la normalidad.
+Catéter venoso periférico con acceso derecho con extremidad distal proyectada sobre la auricula derecha.
+Ldc*",22:52:00,1.0,,3480.0,3.48,58.0,58,train,33.0,White
+,,27,False,,31,35.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+Producto dosis area: 0.07 dGy*cm2
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Áreas de ocupacion alveolar que comprometen ambos lóbulos superiores y lóbulo inferior izquierdo.
+Derrame pleural izquierdo de caracteristicas no libres, con tubo de toracostomía en adecuada posición.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofágico.
+Resto del estudio sin variaciones.
+Tab*","1 day, 7:03:00",1.0,,3610.0,3.61,31.0,31,test,35.0,White
+,,28,False,,1,29.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+INFORME: 
+
+Se identifica tubo endotraqueal bien posicionado. 
+
+Se identifica sonda a nivel de la topografia esofago-gástrica, bien posicionado. 
+
+Parenquima pulmonar presentando infiltrado intersticial bilateral, con tendencia a la consolidación en hemitórax izquierdo. 
+
+Borramiento de la silueta cardíaca en hemitórax izquierdo. 
+
+Ángulo costofrénico derecho libre.
+Tab*","2 days, 11:27:00",1.0,,1275.0,1.275,1.0,1,test,29.0,White
+,,29,False,,1,37.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+La transparencia pleuroparenquimatosa es satisfactoria.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofagico, con extremo distal proyectado sobre la cámara gástrica.
+Estructuras óseas visualizadas de aspecto usual.
+Tab*","1 day, 23:30:00",1.0,,2775.0,2.775,1.0,1,train,37.0,White
+,,30,False,,1,37.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+La transparencia pleuroparenquimatosa es satisfactoria.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Cateter venoso central de acceso inferior izquierdo, con extremo distal proyectado a la altura del cuerpo vertebral T6.
+Elementos de monitoria externa.
+Estructuras óseas visualizadas de aspecto usual.
+Tab*","6 days, 4:29:00",1.0,,3170.0,3.17,1.0,1,test,37.0,White
+,,31,False,,1,35.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+La transparencia pleuroparenquimatosa es satisfactoria.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofagico, con extremo distal proyectado sobre la cámara gástrica.
+Estructuras óseas visualizadas de aspecto usual.
+Tab*","2 days, 0:35:00",1.0,,2390.0,2.39,1.0,1,test,35.0,White
+,,32,False,,1,32.0,F,W,Orotracheal intubation,"
+DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+Producto dosis area: 0.12 dGy*cm2
+INFORME:
+Se identifica tubo endotraqueal bien posicionado.
+Tenue infiltrado intersticial bilateral difuso. Se identifica infiltrado con tendencia a la consolidacion a nivel paracardiaco derecho.
+Ángulos costofrenicos libres.
+Corazón de morfología y tamaño dentro de la normalidad.
+Tab*","1 day, 8:51:00",1.0,,1840.0,1.84,1.0,1,test,32.0,White
+,,33,False,,1,33.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Timo de aspecto radiologico normal.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Elementos de monitoria externa.
+Resto del estudio sin variaciones.
+Tab*","5 days, 14:19:00",1.0,,1900.0,1.9,1.0,1,train,33.0,White
+,,34,False,,1,29.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+La transparencia pleuroparenquimatosa es satisfactoria.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofagico, con extremo distal proyectado sobre la cámara gástrica.
+Estructuras óseas visualizadas de aspecto usual.
+Tab*","3 days, 18:58:00",1.0,,1000.0,1,1.0,1,train,29.0,White
+,,35,False,,1,28.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades reticulonodulares que comprometen ambos parenquimas pulmonares.
+No se identifican derrames pleurales.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Catéteres venosos de acceso umbilical sin variación.
+Estructuras óseas y demas tejidos blandos visualizados no demuestran alteración.
+Ldc*","2 days, 1:57:00",1.0,,1345.0,1.345,1.0,1,test,28.0,White
+,,36,False,,1,29.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades intersticiales parahiliares de manera bilateral.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofagico.
+Estructuras óseas visualizadas de aspecto usual.","10 days, 6:18:00",1.0,,1337.0,1.337,1.0,1,train,29.0,White
+,,37,False,,5,39.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofágico, con extremo distal proyectado sobre la cámara gástrica.
+Estructuras óseas visualizadas de aspecto usual.
+Tab*","7 days, 1:40:00",1.0,,3080.0,3.08,5.0,5,test,39.0,White
+,,38,False,,1,39.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+La transparencia pleuroparenquimatosa es satisfactoria.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Estructuras óseas y tejidos blandos visualizados de aspecto usual.
+?Vrm*","1 day, 0:15:00",1.0,,3415.0,3.415,1.0,1,train,39.0,White
+,,39,False,,1,28.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades intersticiales que comprometen ambos parenquimas pulmonares de predominio central.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofagico con extremo distal proyectado sobre la cámara gástrica.
+Estructuras óseas y tejidos blandos visualizados no demuestran alteración.
+Ldc*","5 days, 15:31:00",1.0,,947.0,0.947,1.0,1,train,28.0,White
+,,40,False,,2,36.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades intersticiales parahiliares de manera bilateral.
+Opacidades de tipo mixto en el lobulo superior derecho.
+No se identifican derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofagico, con extremo distal proyectado sobre la cámara gástrica.
+Estructuras óseas visualizadas, no demuestran alteración.
+Tab*","2 days, 21:45:00",1.0,,2000.0,2,2.0,2,train,36.0,White
+,,41,False,,1,35.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Área de ocupacion alveolar con tendencia a la consolidación en el lóbulo superior derecho de aspecto neumónico.
+No se identifican derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofagico con extremo distal proyectado sobre la cámara gástrica.
+Cateter epicutáneo de acceso izquierdo con extremo distal proyectado sobre la vena subclavia.
+Estructuras óseas visualizadas de aspecto usual.
+Tab*","3 days, 23:45:00",1.0,,2365.0,2.365,1.0,1,train,35.0,White
+,,42,False,,1,35.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Consolidacion parenquimatosa en el lóbulo superior derecho de naturaleza atelectasica y/o neumónica, correlación clínica es necesaria.
+No se identifican derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Cateter epicutáneo de acceso izquierdo con extremo distal proyectado sobre la vena cava superior.
+Sonda en trayecto esofágico.
+Estructuras óseas visualizadas de aspecto usual.
+Elementos de monitoria externa.
+Ldc*","1 day, 10:58:00",1.0,,2255.0,2.255,1.0,1,test,35.0,White
+,,43,False,,1,31.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades intersticiales parahiliares de manera bilateral.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Cateter venoso central de acceso umbilical con extremo distal proyectado a la altura del cuerpo vertebral T6.
+Estructuras óseas y tejidos blandos visualizados de aspecto usual.
+Tab*","1 day, 8:06:00",1.0,,1615.0,1.615,1.0,1,train,31.0,White
+,,44,False,,1,31.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades en vidrio esmerilado que comprometen ambos parenquimas pulmonares.
+No se identifican derrames pleurales.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Catéteres venosos de acceso umbilical con extremos distales proyectados a la altura del cuerpo vertebral T6.
+Elementos de monitoria externa.
+Estructuras óseas y demas tejidos blandos visualizados no demuestran alteración.
+Ldc*",18:14:00,1.0,,1490.0,1.49,1.0,1,test,31.0,White
+,,45,False,,1,34.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Re-expansion casi completa de la camara de neumotórax derecha con tubo de toracostomia en adecuada posición.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Cateter epicutáneo de acceso izquierdo, con extremo distal proyectado sobre la unión atrio-cava.
+Catéter venoso de acceso umbilical, sin variación.
+Resto del estudio sin variaciones.
+Tab*","1 day, 16:00:00",1.0,,2015.0,2.015,1.0,1,test,34.0,White
+,,46,False,,1,26.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades intersticiales parahiliares de manera bilateral que se extiende en ambas bases y lobulos superiores.
+Manguitos peribronquiales a correlacionar con cambios inflamatorios.
+Áreas de ocupación alveolar en ambos lóbulos superiores de naturaleza atelectasica y/o neumónica, correlación clinica es necesaria.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Cateter epicutáneo de acceso derecho, con extremo distal proyectado sobre la vena subclavia.
+Sonda en trayecto esofágico, con extremo distal proyectado sobre la cámara gástrica.
+Estructuras óseas y tejidos blandos visualizados, no demuestran alteración.
+Elementos de monitoria externa.
+Tab*","4 days, 7:43:00",1.0,,772.0,0.772,1.0,1,train,26.0,White
+,,47,False,,1,40.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+La transparencia pleuroparenquimatosa es satisfactoria.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Estructuras óseas y tejidos blandos visualizados, no demuestran alteración.
+Tab*",113:44:00.000,1.0,,3100.0,3.1,1.0,1,test,40.0,White
+,,48,False,,1,28.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+Opacidades intersticiales parahiliares de manera bilateral.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofagico.
+Estructuras óseas y tejidos blandos visualizados no demuestran alteración.
+Elementos de monitoria externa.
+Ldc*","5 days, 22:46:00",1.0,,1250.0,1.25,1.0,1,test,28.0,White
+,,49,False,,1,39.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades intersticiales parahiliares de manera bilateral.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Estructuras óseas y tejidos blandos visualizados no demuestran alteración.
+Ldc*","3 days, 19:12:00",1.0,,3080.0,3.08,1.0,1,train,39.0,White
+,,50,False,,3,38.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+La transparencia pleuroparenquimatosa es satisfactoria.
+La vascularizacion pulmonar es normal.
+Tubo endotraqueal en adecuada posición.
+Sonda en trayecto esofagico, con extremo distal proyectado sobre la cámara gástrica.
+Estructuras óseas visualizadas de aspecto usual.
+Tab*","7 days, 0:52:00",1.0,,2400.0,2.4,3.0,3,train,38.0,White
+,,51,False,,3,29.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+DETALLES
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Silueta cardiotímica de forma y tamaño normal.
+Consolidación parenquimatosa en el lóbulo superior derecho de naturaleza atelectásica más probablemente.
+No se identifican derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en posición baja.
+Catéter venoso central de acceso subclavio izquierdo con extremo distal proyectado sobre la vena cava superior.
+Estructuras óseas visualizadas de aspecto usual.","2 days, 11:02:00",,1.0,3110.0,3.11,3.0,3,train,29.0,White
+,,52,False,,1,37.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Silueta cardiotímica de forma y tamaño normal.
+Opacidades intersticiales parahiliares de manera bilateral.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en posición baja.
+Catéteres venosos centrales de acceso umbilical con extremos distales proyectados a la altura de los cuerpos vertebrales
+T10 y T7.
+Estructuras óseas y tejidos blandos visualizados no demuestran alteración.
+Ldc*",,,1.0,1955.0,1.955,1.0,1,train,37.0,White
+,,53,False,,1,24.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Silueta cardiotímica de forma y tamaño normal.
+La transparencia pleuroparenquimatosa es satisfactoria.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en posición baja.
+Catéter epicutáneo de acceso derecho con extremo distal proyectado sobre la vena subclavia.
+Catéteres venosos de acceso umbilical con extremo distal proyectado a la altura de T5.
+Estructuras óseas y tejidos blandos visualizados no demuestran alteración.
+Sonda en trayecto esofágico.
+Elementos de monitoria externa.",,,1.0,590.0,0.59,1.0,1,train,24.0,White
+,,54,False,,6,30.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+INFORME RADIOLOGICO:
+Silueta cardíaca de tamaño normal.
+Pulmones con infiltrados parenquimatosos intersticiales en lóbulos superiores y ambas regiones hilio basales sin consolidaciones de 
+aspecto inflamatorio.
+Tubo endotraqueal con la punta por encima de la carina.
+Catéter venoso central derecho con la punta en vena cava superior.
+Sonda nasogástrica en el área del estómago.
+Ángulos costofrénicos libres.
+Estructuras óseas sin lesiones aparentes._x000D_","2 days, 2:50:00",,1.0,1520.0,1.52,6.0,6,train,30.0,White
+,,55,False,,1,30.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Velamiento del hemitórax izquierdo de naturaleza atelectásica más probablemente vs derrame pleural.
+La transparencia del hemitórax derecho es normal.
+La vascularización pulmonar no demuestra alteración.
+Tubo endotraqueal en posición baja proyectado sobre el bronquio fuente derecho.
+Catéter venoso central de acceso venoso central con extremo proximal proyectado a la altura del cuerpo vertebral
+T4.
+Elementos de monitoria externa.
+Tab*",,,1.0,824.0,0.824,1.0,1,train,30.0,White
+,,56,False,,1,30.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX
+INFORME:
+Silueta cardiotímica de forma y tamaño normal.
+Opacidades intersticiales que comprometen ambos parénquimas pulmonares de predominio central.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en posición baja.
+Catéter epicutáneo de acceso izquierdo con extremo distal proyectado sobre la vena innominada.
+Estructuras óseas y tejidos blandos visualizados de aspecto usual.
+?Vrm*",,,1.0,1270.0,1.27,1.0,1,test,30.0,White
+,,57,False,,3,30.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+Producto dosis área: 0.9 dGy*cm2
+INFORME:
+Estudio de adecuada calidad técnica.
+Silueta cardiotímica de forma y tamaño normal.
+Áreas de ocupación alveolar que comprometen ambos parénquimas pulmonares de predominio en ambos lóbulos
+superiores.
+No se identifican derrames pleurales.
+La vascularización pulmonar es normal.
+Imagen radiolúcida retrocardiaca de naturaleza a establecer.
+Tubo endotraqueal en posición baja.
+Estructuras óseas visualizadas de aspecto usual.","1 day, 16:27:00",,1.0,720.0,0.72,3.0,3,test,30.0,White
+,,58,False,,2,38.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+
+DATOS GENERALES
+INFORME RADIOLOGICO:
+proyección única portátil.
+No se observan procesos parenquimatosos agudos.
+Espacio pleural libre.
+Silueta cardiotímica normal.
+Traquea y grandes bronquios sin alteración.
+Pedículo vascular normal.
+Circulación pulmonar de aspecto usual.
+Óseo normal.
+Tubo orotraqueal parece sobre insertado a nivel de la carina.
+Sonda enteral en cámara gástrica.
+Catéter subclavio izquierdo en vena cava superior.","4 days, 20:46:00",,1.0,2655.0,2.655,2.0,2,train,38.0,White
+,,59,False,,1,30.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Silueta cardiotímica no valorable.
+Opacidad que compromete el hemitórax izquierdo de naturaleza a establecer.
+Hiperinflación compensatoria del pulmón derecho.
+Tubo de endotraqueal en posición baja proyectado sobre el bronquio fuente derecho.
+Catéteres centrales de acceso umbilical.
+Estructuras óseas visualizadas de aspecto usual.
+Ldc*","3 days, 5:53:00",,1.0,980.0,0.98,1.0,1,test,30.0,White
+,,60,False,,1,30.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en posición baja proyectado sobre el bronquio fuente derecho.
+Estructuras óseas y tejidos blandos visualizados, no demuestran alteración.
+Tab*","3 days, 20:44:00",,1.0,824.0,0.824,1.0,1,train,30.0,White
+,,61,False,,1,37.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Silueta cardiotímica de forma y tamaño normal.
+Opacidades intersticiales parahiliares de manera bilateral.
+No se identifican consolidaciones parenquimatosas, ni derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en posición baja.
+Catéteres venosos centrales de acceso umbilical con extremos distales proyectados a la altura de los cuerpos vertebrales
+T10 y T7.
+Estructuras óseas y tejidos blandos visualizados no demuestran alteración.
+Ldc*","6 days, 6:53:00",,1.0,1900.0,1.9,1.0,1,test,37.0,White
+,,62,False,,13,37.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX - PORTÁTIL NEONATAL
+Proyección única en decúbito supino.
+Producto dosis área: 0.13 dGy*cm2
+INFORME:
+Silueta cardiotímica conservando posición y morfología.
+El tubo orotraqueal tiene su extremo aproximadamente a 4 mm de la carina.
+Sonda en trayecto esofagogastrico.
+El parénquima demuestra aumento en su volumen e infiltrados microgranulares difusos con tendencia a coalescer
+en la región parahiliar y en los lóbulos superiores.
+No se define patología pleural.
+La estructura ósea del tórax es normal.
+Ldc*","4 days, 0:09:00",,1.0,3000.0,3,13.0,13,train,37.0,White
+,,63,False,,1,38.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX-PORTÁTIL
+INFORME:
+Tubo orotraqueal mal posicionado.
+Opacificación de todo el lóbulo superior derecho, pudiendo corresponder a atelectasia.
+Silueta cardiaca dentro de la normalidad.
+Restante de parénquima pulmonar con patrón dentro de la normalidad.
+Ángulos costofrénicos libres.","2 days, 0:33:00",,1.0,2900.0,2.9,1.0,1,test,38.0,White
+,,64,False,,10,39.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+TORAX- PORTATIL
+Silueta cardiotímica de tamaño y configuración normales.
+Tubo orotraqueal cuyo extremo se visualiza aprox. a 17 mm de la carina.
+Sonda en trayecto esofagogástrico.
+Catéter subclavio derecho con su extremo en vena cava superior.
+Se aprecian infiltrados alveolares y microgranulares especialmente en distribución parahiliar y hacia los lóbulos inferiores y en menos 
+proporción lóbulo superior derecho.
+No hay patología pleural.
+Elementos de monitoreo externo.
+Ldc*",23:56:00,,1.0,3120.0,3.12,10.0,10,test,39.0,White
+,,65,False,,1,27.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades intersticiales parahiliares de manera bilateral.
+Consolidación parenquimatosa en el lóbulo superior derecho de naturaleza atelectásica más probablemente.
+No se identifican derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en posición baja.
+Estructuras óseas y demás tejidos blandos visualizados de aspecto usual.","5 days, 1:15:00",,1.0,945.0,0.945,1.0,1,test,27.0,White
+,,66,False,,3,27.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Consolidación parenquimatosa en el lóbulo superior derecho de naturaleza atelectásica más probablemente.
+Opacidades intersticiales parahiliares de manera bilateral.
+No se identifican derrames pleurales.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en posición baja.
+Catéteres centrales de acceso umbilical sin variación.
+Tab*","3 days, 0:57:00",,1.0,945.0,0.945,3.0,3,train,27.0,White
+,,67,False,,2,30.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX - PORTATIL 
+
+INFORME RADIOLOGICO:
+Tubo de toracostomía derecha por neumotórax.
+Cateter arterial umbilical con extremo en T4 y venoso en hipocondrio izquierdo (Vena esplénica?)
+Sonda enteral.
+Tubo endotraqueal en la carina.
+Silueta cardiotimica de tamaño y configuarción usuales.
+Opacidades intersticiales peribroncovasculares parahiliares bilaterales.
+Aumento de tamaños pulmonares por atrapamiento de aire.
+No hay consolidaciones.
+Espacios pleurales libres.
+Tráquea y mediastino normales.
+Estructuras óseas sin alteraciones.
+Distensión de asas intestinales visualizada","4 days, 1:31:00",,1.0,1650.0,1.65,2.0,2,train,30.0,White
+,,68,False,,1,27.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX PORTÁTIL
+INFORME:
+Silueta cardiotimica de forma y tamaño normal.
+Opacidades intersticiales parahiliares de manera bilateral.
+Resolución casi completa de la consolidación parenquimatosa en el lóbulo superior derecho.
+La vascularización pulmonar es normal.
+Tubo endotraqueal en posición baja.
+Resto del estudio sin variación.",18:37:00,,1.0,945.0,0.945,1.0,1,test,27.0,White
+,,69,False,,2,30.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RX DE TORAX - PORTÁTIL NEONATAL
+Proyección única en decúbito supino.
+
+INFORME:
+Infiltrados microgranulares que se distribuyen en región parahiliar. En comparación con el estudio previo hay disminución del volumen pulmonar, hallazgo secundario a la elevación de los hemidiafragmas.
+El tubo orotraqueal se considera aproximadamente a 4 mm de la carina.
+Sonda en trayecto esofagogastrico.
+No se define patología pleural, con excepción de radiopacidad bien definida extrapulmonar en región apical del hemitórax derecho por líquido pleural de distribución libre.
+El catéter yugular derecho muestra su extremo hacia la unión cavoatrial inferior.
+Estructuras óseas del tórax conservadas.",06:17:00,,1.0,978.0,0.978,2.0,2,train,30.0,White
+,,70,YES,,1,25.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RX DE TORAX - PORTATIL NEONATAL
+Proyección única en decúbito supino.
+
+INFORME:
+El tubo orotraqueal cuyo extremo se muestra en dirección al bronquio fuente derecho lo cual condiciona atelectasia del parénquima pulmonar izquierdo, tanto la densa opacidad homogénea de este lado y desplazamiento del cardiomediastino en sentido ipsilateral.  
+Sonda en trayecto esofagogastrico.
+Existen infiltrados microgranulares con tendencia a coalescer en región parahiliar derecha y hacia el lóbulo superior.
+No hay patología pleural.
+Extremos de catéter umbilicales los cuales ascienden hasta una altura aproximada de T7 y T5.
+Elementos de monitoreo externos.
+
+
+
+",06:02:00,,1.0,1000.0,1,1.0,1,train,25.0,White
+,,71,False,,2,40.6,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX PORTATIL (P.A.ó A.P.y LATERAL, DECUBITO LATERAL, OBLICUAS ó LATERAL CON BARIO)
+
+INFORME RADIOLOGICO:
+
+Silueta cardiotímica de tamaño y configuración usuales.
+
+Opacidades intersticiales peribroncovasculares parahiliares bilaterales.
+
+Aumento de tamaños pulmonares por atrapamiento de aire.
+
+No hay consolidaciones.
+
+Espacios pleurales libres.
+
+Tráquea y mediastino normales.
+
+Estructuras óseas sin alteraciones.
+
+Tubo endotraqueal a la altura de la carina.
+
+Sonda enteral.
+
+Catéteres umbilicales venoso y arterial con extremos a T9 y T6 respectivamente.","2 days, 2:22:00",,1.0,3115.0,3.115,2.0,2,train,40.6,White
+,,72,False,,1,34.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RX TORAX PORTATIL NEONATAL 
+Proyección única en decúbito supino.
+
+INFORME:
+La silueta cardiomediastínica tiene aspecto y configuración normales.
+No se determinan infiltrados pulmonares.
+Leve aumento en el volumen pulmonar.
+No se aprecian alteraciones pleurales.
+Tubo orotraqueal cuyo extremo se visualiza aprox. a 19 mm de la carina. 
+Sonda en trayecto esofagogástrico. 
+","2 days, 3:24:00",,1.0,2440.0,2.44,1.0,1,test,34.0,White
+,,73,False,,1,40.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RX DE TORAX - PORTATIL NEONATAL
+Proyección única en decúbito supino.
+
+INFORME:
+Silueta cardiotímica de tamaño y configuración normales. Conserva su posición. 
+Existen infiltrados microgranulares con tendencia a coalescer en región parahiliar y hacia los lóbulos inferiores. 
+No se define patología pleural.
+Aumento en el volumen pulmonar. 
+El tubo orotraqueal tiene su extremo aproximadamente a 2.2 cm de la carina. 
+Estructuras óseas del tórax conservadas.
+
+Ldc*",04:13:00,,1.0,3375.0,3.375,1.0,1,unknown,40.0,White
+,,74,False,,1,27.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX - PORTATIL
+
+INFORME:
+Silueta cardíaca de tamaño normal. Disminución del volumen tímico.
+Tubo orotraqueal el cual muestra su extremo aprox. a 13 mm de la carina.
+Extremos de catéteres umbilicales ascendiendo hasta T3 el arterial y el venoso a la altura de T9.
+Sonda en trayecto esofagogástrico.
+Difusos infiltrados microgranulares son visualizados en parénquima pulmonar bilateral con tendencia a confluir.
+Aumento en el volumen pulmonar.
+No se define patología pleural.
+Estructuras óseas del tórax conservadas.
+",13:10:00,,1.0,7610.0,7.61,1.0,1,test,27.0,White
+,,75,False,,1,38.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFÍA DE TÓRAX 
+
+TÉCNICA: 
+Se realiza radiografía de tórax en proyección única AP portátil. 
+
+HALLAZGOS:
+Tubo orotraqueal con extremo distal localizado a 18 mm de la carina.
+
+Bronquios principales permeables.
+
+Mediastino de amplitud normal. 
+
+Silueta cardíaca de tamaño normal.
+
+Adecuada expansión pulmonar.
+
+No se observan áreas de consolidación del espacio aéreo.
+
+No hay signos de líquido pleural ni de neumotórax.
+
+Catéter umbilical arterial con extremo distal proyectado en topografía del arco aórtico.
+
+Catéter umbilical venoso con extremo distal proyectado en el cuerpo vertebral de T7.
+
+Densidad ósea normal.
+
+cmc*
+
+ ",06:03:00,,1.0,2835.0,2.835,1.0,1,test,38.0,White
+,,76,False,,53,37.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RX DE TORAX - PORTATIL
+
+Proyección única en decúbito supino.
+
+INFORME:
+Silueta cardiaca de tamaño normal. 
+Leve disminución del volumen tímico. 
+El tubo orotraqueal tiene su extremo aproximadamente a 15 mm de la carina. 
+Hay aumento en el volumen pulmonar y se aprecian escasos infiltrados microgranulares en dirección a los lóbulos inferiores.
+No se define patología pleural.
+Catéter epicutáneo proveniente del miembro superior izquierdo tienen su extremo en la región axilar del mismo lado
+Sonda en trayecto esofagogastrico.
+Elementos de monitoreo externos.
+",05:00:00,,1.0,2350.0,2.35,53.0,53,train,37.0,White
+,,77,False,,1,37.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+
+DATOS GENERALESRX TORAX PORTATIL 
+Proyección única en decúbito supino.
+
+INFORME:
+Tubo orotraqueal reposicionado el cual se muestra con su extremo aprox. a 10 mm de la carina.
+No se determinan infiltrados pulmonares.
+Leve aumento en el volumen pulmonar. No hay infiltrados o focos consolidativos.
+No se aprecian alteraciones pleurales.
+Sonda en trayecto esofagogástrico.
+Silueta cardiotímica conservando posición.
+Estructuras óseas del torax normales.
+",08:12:00,,1.0,2100.0,2.1,1.0,1,train,37.0,White
+,,78,False,,2,39.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX - PORTATIL 
+Proyección AP. 
+
+INFORME:
+Se observa la presencia de neumotórax del lado derecho con pérdida parcial del volumen homolateral lo cual provoca  desviación de la tráquea y de las estructuras mediastinales hacia contralateral.
+Silueta cardíaca desplazada hacia el lado izquierdo. Hallazgo en relación al neumotórax contralateral descrito.
+Se observa incremento en la densidad generalizada a nivel del campo pulmonar izquierdo con presencia de broncograma aéreo.
+Presencia de cánula endotraqueal cuyo extremo distal se ubica aproximadamente a 20 mm de la carina.
+Presencia de catéteres umbilicales el arterial ubicado en la porción distal del cayado aórtico y el venoso a nivel de la aurícula derecha.
+Elementos de monitoreo externo. ",02:22:00,,1.0,3380.0,3.38,2.0,2,test,39.0,White
+,,79,False,,1,27.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+La silueta cardiotímica es de tamaño y configuración normales para la edad.
+Adecuada expansión pulmonar con aumento en la densidad del parénquima pulmonar. Puede estar relacionado con enfermedad de
+membrana hialina post-tratamiento con surfactante, neumonía neonatal, etc.
+No hay signos de derrame pleural ni neumotórax.
+Tubo endotraqueal con su extremo distal en la región de la carina.
+Sonda enteral con su extremo distal en cámara gástrica.
+Se aprecian extremos distales de catéteres umbilicales. El arterial tiene su extremo distal en la aorta descendente y el venoso en la
+auricula derecha.
+No hay cambios significativos al comparar con el estudio del día anterior.
+","2 days, 0:05:00",,1.0,1040.0,1.04,1.0,1,train,27.0,White
+,,80,False,,14,27.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX PORTATIL
+
+INFORME RADIOLOGICO
+RX DE TORAX:
+El estudio se realizó con técnica, procedimiento digital y asistencia computadorizada.
+La tráquea es central.
+La silueta cardiotimica normal.
+Proceso bronquial parahiliar bilateral con engrosamiento de paredes bronquiales y manguitos peri bronquiales asociados a
+signos de atrapamiento aéreo y aumento de volumen pulmonar.
+Opacidades de lobulos superiores por procesos inflamatorios agudos no se descarta componente atelectásico en lóbulo
+superior derecho con componente de hiperinsuflación compensatoria bibasal. Tubo endotraqueal a 2 cm de la carina sonda
+naso entérica pasando hacia el estómago
+Los senos costo y cardiofrénicos se encuentran libres.
+Tejidos blandos y estructuras óseas observadas sin evidencia de alteraciones.
+OPINION:
+BRONCONEUMONÍA APICAL BILATERAL. ATELECTASIA LÓBULO SUPERIOR DERECHO
+SINDROME BRONCO OBSTRUCTIVO.
+","3 days, 2:50:00",,1.0,1010.0,1.01,14.0,14,test,27.0,White
+,,81,False,,2,27.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX 
+La silueta cardiotímica se encuentra levemente magnificada por el tipo de proyección.
+Aumento en la densidad del parénquima pulmonar configurando vidrio esmerilado. Puede estar relacionado con neumonía neonatal,
+enfermedad de membrana hialina post-tratamiento con surfactante, etc. Este hallazgo no se ha modificado significativamente al
+comparar con el estudio anterior de enero 26.
+No hay signos de derrame pleural ni neumotórax.
+Distensión marcada del tracto gastrointestinal hasta la ampolla rectal lo cual puede estar relacionado con ileo reflejo.
+No hay signos de visceromegalias.
+Tubo endotraqueal con su extremo distal a la altura de la carina.
+Sonda enteral con su extremo distal en cámara gástrica.
+Catéteres umbilicales el arterial tiene su extremo distal en aorta descendente a la altura de T10 y el venoso tiene su extremo distal a
+la altura de la unión cavoatrial inferior.
+","1 day, 5:04:00",,1.0,1040.0,1.04,2.0,2,test,27.0,White
+,,82,False,,1,38.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RX DE TORAX - PORTATIL NEONATAL
+
+INFORME:
+Moderada cámara de neumotórax derecho con leve desplazamiento de cardiomediastino en sentido contralateral. 
+El tubo orotraqueal tiene su extremo aproximadamente a 19 mm de la carina. 
+Configuración de cámaras cardiacas normal.
+No se demuestran infiltrados pulmonares o focos consolidativos.
+Estructuras óseas del tórax sin alteraciones.
+Sonda en trayecto esofagogastrico.",07:19:00,,1.0,2640.0,2.64,1.0,1,train,38.0,White
+,,83,False,,1,27.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+La silueta cardiotímica es de tamaño y configuración normales.
+Pulmones comprometidos por opacidad intersticial y alveolar tipo vidrio esmerilado. Puede estar relacionado con enfermedad de
+membrana hialina post-tratamiento con surfactante.
+No se descarta infección neumónica sobreagregada de tipo neonatal.
+No se aprecia derrame pleural ni neumotórax.
+Tubo endotraqueal con su extremo distal a la altura de la carina.
+Sonda enteral con su extremo distal en cámara gástrica.
+Se aprecian los extremos distales de catéteres umbilicales arterial y venoso.
+No hay cambios significativos al comparar con el estudio del mismo día realizado en horas de la mañana.
+","1 day, 23:41:00",,1.0,1040.0,1.04,1.0,1,test,27.0,White
+,,84,False,,2,27.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX Y ABDOMEN - PORTATIL
+Proyecciones AP en decúbito supino y lateral de abdomen con rayo horizontal.
+
+INFORME:
+Persiste compromiso pulmonar severo de tipo alveolar con pérdida de volumen compatible con broncoaspiración, neumonía neonatal,
+enfermedad de membrana hialina, etc.
+No hay signos de derrame pleural ni neumotórax.
+Persiste distensión gaseosa gastrointestinal difusa sin signos evidentes de obstrucción ni enterocolitis. Dicha distensión se extiende
+hasta la región anal.
+La proyección con rayo horizontal no muestra signos de neumoperitoneo.
+Retiro del catéter umbilical venoso. Persiste el catéter umbilical arterial sin cambios.
+Sonda enteral con su extremo distal en cámara gástrica.
+Tubo endotraqueal con su extremo distal en la región de la carina.
+CONCLUSION:
+- VER DESCRIPCION.
+cmc*",14:46:00,,1.0,1040.0,1.04,2.0,2,test,27.0,White
+,,85,False,,35,28.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RX DE TORAX - PORTATIL 
+
+INFORME: Ha sido introducido un catéter venoso subclavio izquierdo con su extremo distal en la vena cava superior. También se introdujo un tubo orotraqueal cuyo extremo se visualiza aprox. a 4 mm de la carina. Sonda en trayecto esofagogastrico. Escaso infiltrados microgranulares en región parahiliar. El volumen pulmonar se conserva. No se define patología pleural. Elementos de monitoreo externos. Ldc*","1 day, 1:48:00",,1.0,1700.0,1.7,35.0,35,test,28.0,White
+,,86,False,,35,31.0,F,w,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+
+DATOS GENERALESRADIOGRAFIA DE TORAX - PORTATIL
+
+INFORME RADIOLOGICO: Motivo de consulta: No contamos con información clínica. Se practicó exploración radiográfica de Tórax, en la proyección A.P. con equipo portátil, que mostró: Campos pulmonares con opacidad difusa, heterogénea, de aspecto moteado, algodonoso, de distribución universal y bilateral, que amerita descartar afectación neumónica. Signos sugestivos de neumotórax derecho. Silueta cardíaca, timo, aorta y pedículo vascular, de aspecto y tamaño normal. Se identifica catéter de vía central, que emerge por la vena la subclavia izquierda, hace una curva a nivel del ventrículo derecho, dirigiendo su punta hacia la línea media, proyectándose sobre la silueta cardíaca; electrodos de monitoreo; sensor de temperatura; imagen sugestiva de sonda orogástrica, sin poder identificar la punta; tubo endotraqueal, cuya punta se proyecta sobre la carina. No contamos con estudios previos para su comparación. Correlacionar con clínica y antecedentes. ","2 days, 1:16:00",,1.0,2500.0,2.5,35.0,35,train,31.0,White
+,,87,False,,3,31.0,M,w,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX PORTATIL (P.A.ó A.P.y LATERAL, DECUBITO LATERAL, OBLICUAS ó LATERAL CON BARIO) 
+INFORME RADIOLOGICO: 
+Se practicó exploración radiográfica de Tórax, en la proyección A.P. con equipo portátil, que mostró: Campos pulmonares con opacidad difusa, heterogénea, de aspecto moteado, algodonoso, de distribución universal y bilateral, que amerita descartar afectación neumónica. Muestra discreta mejoría en relación a estudio previo del 16 de agosto de los corrientes. Presenta electrodos de monitoreo externo; catéter de vía central, que emerge por la cava superior, cuya punta se proyecta sobre la aurícula derecha; tubo de tórax, que ingresa por la pared torácica derecha cuya punta se proyecta sobre el 3er arco costal derecho; tubo endotraqueal, cuya punta se proyecta sobre la carina; imagen sugestiva de sonda orogástrica, sin poder identificar la punta. Correlacionar con clínica y antecedentes.","2 days, 3:56:00",,1.0,2100.0,2.1,3.0,3,train,31.0,White
+,,88,False,,2,31.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX - PORTATIL 
+
+INFORME RADIOLOGICO: Motivo de consulta: No contamos con información clínica. Se practicó exploración radiográfica de Tórax, en la proyección A.P. con equipo portátil, que mostró: Campos pulmonares con opacidad difusa, heterogénea, de aspecto moteado, algodonoso, de distribución a predominio del hemicampo pulmonar izquierdo, que amerita descartar afectación neumónica. Silueta cardíaca, timo, aorta y pedículo vascular, de aspecto y tamaño normal. Se identifican electrodos de monitoreo; tubo de tórax, que ingresa por la pared torácica derecha, cuya punta se proyecta sobre el 3er espacio intercostal derecho; tubo endotraqueal, cuya punta se proyecta sobre la carina; imagen sugestiva de sonda orogástrica, cuya punta se proyecta sobre la cámara gástrica; signos sugestivos de onfaloclisis. No se evidencian cambios significativos en relación a estudios previos. Correlacionar con clínica y antecedentes.","3 days, 12:13:00",,1.0,1900.0,1.9,2.0,2,test,31.0,White
+,,89,False,,16,26.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX PORTATIL 
+
+INFORME RADIOLOGICO Corazón de tamaño no valorable por proyección. La distribución vascular pulmonar es normal. Tenues densidades intersticiales parahiliares y basales bilaterales sin imagen de consolidación parenquimatosa observable. No se aprecia derrame pleural. Diafragma sin alteraciones. No se evidencia lesión ósea. Tubo orotraqueal bajo hacia la carina. Sonda nasogástrica. Elementos de monitoreo. Catéter de venopunción derecha de trayecto mal definido.","5 days, 13:15:00",,1.0,891.0,0.891,16.0,16,train,26.0,White
+,,90,False,,16,29.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RX DE TORAX - PORTATIL 
+Proyección única en decúbito supino. 
+
+INFORME: Evidente desplazamiento del cardiomediastino hacia el hemitórax izquierdo con pérdida de la aireación de este parénquima por atelectasia. El tubo orotraqueal se encuentra sobreinsertado en el bronquio fuente derecho condicionado la atelectasia. Sonda en trayecto esofágico. El catéter epicutáneo proveniente del miembro superior derecho tiene su extremo en vena cava superior. No hay infiltrados pulmonares. Elementos de monitoreo externos.",23:12:00,,1.0,1400.0,1.4,16.0,16,test,29.0,White
+,,91,False,,1,39.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX - PORTATIL 
+
+INFORME RADIOLOGICO: Silueta cardiaca de configuración usual. Pedículo vascular sin alteraciones. Engrosamiento del intersticio axial. No se observan consolidaciones parenquimatosas ni derrames pleurales. Tráquea central sin alteraciones en su luz. Densidad ósea normal para la edad. Tubo endotraqueal cuyo extremo distal se encuentra a 2 cm de la carina. Catéter de acceso subclavio derecho con extremo distal en vena cava superior. Sonda en trayecto esofagogástrico. Elementos de monitoreo externo. OPINION: HALLAZGOS DESCRITOS A CORRELACIONAR CON ESTUDIOS PREVIOS Y ANTECEDENTES.","3 days, 14:12:00",,1.0,2700.0,2.7,1.0,1,test,39.0,White
+,,92,False,,1,32.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RX DE TORAX - PORTATIL 
+
+INDICACIÓN: CONTROL. Proyección única en decúbito supino.
+INFORME: Silueta cardiotímica conservada. El tubo orotraqueal tiene su extremo aproximadamente a 16 mm de la carina. Persiste neumotórax derecho con línea pleural la cual se hace más evidente en región apical y tubo de toracostomía el cual no ha variado su posición. Se hace más evidente el neumotórax izquierdo de similares características al contralateral. El catéter subclavio derecho tiene su extremo en el aspecto distal de la vena yugular interna del mismo lado. Elementos de monitoreo externos.",08:14:00,,1.0,4600.0,4.6,1.0,1,train,32.0,White
+,,93,False,,1,31.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RX DE TORAX - PORTATIL 
+
+INFORME: Proyección única en decúbito supino. Ha desaparecido prácticamente la opacidad que se definía en el campo pulmonar izquierdo secundario a proceso atelectasico resuelto. La silueta cardiotímica conserva posición y morfología. Tubo orotraqueal cuyo extremo se visualiza aprox. a 23 mm de la carina. Sonda en trayecto esofagogástrico. El extremo del catéter umbilical se localiza a la altura de T7. No se aprecian infiltrados pulmonares. Leve aumento en el volumen pulmonar. No hay patología pleural. Elementos de monitoreo externos.","2 days, 5:44:00",,1.0,2000.0,2,1.0,1,train,31.0,White
+,,94,False,,1,34.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX - PORTATIL Se realiza proyección única AP, portátil. 
+
+HALLAZGOS: No se identifican estudios previos para realizar comparación. La transparencia del parénquima pulmonar es normal. No se identifican derrames pleurales. La silueta cardiaca y mediastínica tiene tamaño y morfología usual. No se identifican lesiones óseas significativas. Tubo traqueal con extremo distal a 1.8 cm de la carina. Catéter venoso de acceso umbilical con extremo distal en aurícula derecha. Sonda esofágica con extremo distal en cámara gástrica.","3 days, 5:32:00",,1.0,2300.0,2.3,1.0,1,test,34.0,White
+,,95,False,,3,35.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX - PORTATIL INDICACION: SIN DATOS CLINICOS. 
+
+INFORME: Silueta cardiotímica de tamaño y configuración normales. Se aprecia paso de tubo de toracostomía cerrada en el hemitórax izquierdo con mejoría del neumotórax que se visualizaba en el estudio del dia anterior. El parénquima pulmonar no muestra focos de consolidación neumónica. Sonda enteral con su extremo distal no visualizado. Tubo endotraqueal con su extremo distal en la región de la carina. Catéter venoso central de inserción periférica proveniente del miembro superior derecho con su extremo distal no visualizado con claridad (se visualiza hasta la vena braquiocefálica derecha).","1 day, 19:55:00",,1.0,2100.0,2.1,3.0,3,test,35.0,White
+,,96,False,,1,37.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RX TORAX Y ABDOMEN PORTATIL  Proyección única en decúbito supino. 
+
+INFORME: Silueta cardiotímica de aspecto y configuración normales. Engrosamiento peribronquial e infiltrados microgranulares que se distribuyen en región parahiliar. El volumen pulmonar se conserva. No hay patología pleural. Estructuras óseas del tórax sin alteraciones. Para este control ha sido introducido un tubo orotraqueal cuyo extremo se visualiza a 3 mm de la carina. Sonda en trayecto esofagogastrico. ABDOMEN SIMPLE NEONATOS PORTATIL La distribución del gas intestinal es normal y no hay dilataciones de asas ni formación de niveles hidroaéreos escalonados. No hay signos de aire o líquido libre. Las líneas del psoas y los planos grasos preperitoneales se encuentran preservadas. No se identifican calcificaciones patológicas. Las estructuras óseas visualizadas no demuestran alteraciones. Han sido introducidos catéteres umbilicales, el venoso a la altura de T10 y el arterial ascendiendo hasta T5.",19:25:00,,1.0,2200.0,2.2,1.0,1,train,37.0,White
+,,97,False,,3,27.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX - PORTATIL Única proyección AP en decúbito supino.
+INFORME: La silueta cardiotímica es de tamaño y configuración normales para la edad. Adecuada expansión pulmonar con aumento en la densidad del parénquima pulmonar. Puede estar relacionado con enfermedad de membrana hialina post-tratamiento con surfactante, neumonía neonatal, etc. No hay signos de derrame pleural ni neumotórax. Tubo endotraqueal con su extremo distal en la región de la carina. Sonda enteral con su extremo distal en cámara gástrica. Se aprecian extremos distales de catéteres umbilicales. El arterial tiene su extremo distal en la aorta descendente y el venoso en la auricula derecha. No hay cambios significativos al comparar con el estudio del día anterior.","1 day, 23:57:00",,1.0,956.0,0.956,3.0,3,test,27.0,White
+,,98,False,,1,28.0,M,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RADIOGRAFIA DE TORAX - PORTATIL 
+
+INFORME RADIOLOGICO: Proyección única AP. Datos clinicos: No suministrados. Líneas y tubos: Tubo orotraqueal con extremo distal a 2.4 mm de la carina, se sugiere reacomodacion. Sonda nasogástrica con extremo distal en cámara gástrica. Hallazgos: Consolidación parenquimatosa basal derecha, se interroga etiología Neumónica acompañada de opacidades reticulares difusas en lo visualizado de ambos parénquimas pulmonares. No hay derrames pleurales. Silueta cardiomediastinica normal. Cayado aórtico y pedículo vascular normal. Densidad y morfología de las estructuras oseas normales. Informado por DRA. DANNYS AMADO MD Radiologo 1018426691","1 day, 4:38:00",,1.0,1200.0,1.2,1.0,1,train,28.0,White
+,,99,False,,3,29.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+Radiografía de tórax - portátil Informe. 
+
+Silueta cardiotimica de forma y tamaño normal. Opacidades intersticiales parahiliares de manera bilateral. No se identifican consolidaciones parenquimatosas, ni derrames pleurales. La vascularización pulmonar es normal. Tubo endotraqueal en posición alta. Sonda en trayecto esofágico. Estructuras óseas y tejidos blandos visualizados no demuestran alteración","3 days, 0:50:00",,1.0,931.0,0.931,3.0,3,test,29.0,White
+,,100,False,,4,41.0,F,W,Orotracheal intubation,"DOCUMENTO: ID
+NOMBRE: NAME
+FECHA ESTUDIO: DATE
+FECHA NACIMIENTO: DATE
+DATOS GENERALES
+
+RX DE TORAX - PORTATIL NEONATAL
+
+Proyección única en decúbito supino.
+INFORME:
+Silueta cardiaca de tamaño normal.  Hay disminución  del volumen tímico.
+Para el presente control hay mayor densidad y confluencia de los infiltrados de aspecto alveolar y microgranulares en región parahiliar y hacia el lóbulo inferior derecho.
+Pequeño neumotórax bilateral con ligero predominio derecho, el cual es drenado por tubo de toracostomia con sus extremos hacia la región apical en el lado derecho y tercio medio en el lado izquierdo.
+El tubo orotraqueal tiene su extremo aproximadamente a 23 mm de la carina. 
+Los extremos de los catéteres umbilicales se posicionan a la altura de T8 y T6, venoso y arteria respectivamente.
+Elementos de monitoreo externos.
+No hay cambios significativos con respecto al control previo.","1 day, 9:00:00",,1.0,3300.0,3.3,4.0,4,train,41.0,White
