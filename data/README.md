@@ -97,7 +97,7 @@ ls data/demographics/*.csv | wc -l
 ## Dataset Details
 
 - **Total Images**: 3,065 NICU chest X-rays
-- **Hospitals**: 32 hospitals from 21 countries (31 used in main experiments)
+- **Hospitals**: 32 hospitals from 20 countries (31 used in main experiments)
 - **Image Format**: PNG files (640×640 RGB preprocessed)
 - **Annotation Format**: COCO format JSON with bounding boxes for ETT tip and carina
 - **Train/Test Split**: ~50 training and ~50 test images per hospital
