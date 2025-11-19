@@ -17,7 +17,7 @@ This system implements continual learning methods to train ETT detection models 
 ### Dataset
 
 - **32 Hospitals**: 31 hospitals for main experiments + 1 supplemental (New Somerset Hospital, excluded from primary experiments due to low resolution images)
-- **Countries**: 21 countries across Americas, Europe, Asia, Middle East, etc.
+- **Countries**: 20 countries across Americas, Europe, Asia, Middle East, etc.
 - **Images**: 3,065 NICU chest X-rays (640x640 RGB preprocessed)
 - **Annotations**: COCO format with bounding boxes for ETT tip and carina
 - **Clinical Metadata**: Patient age, weight, gestational age, report
@@ -282,4 +282,4 @@ If you use this code, please cite:
 ## Acknowledgments
 
 - CarinaNet pretrained model: [https://github.com/USM-CHU-FGuyon/CarinaNet](https://github.com/USM-CHU-FGuyon/CarinaNet)
-- Contributing hospitals from 21 countries worldwide
+- Contributing hospitals from 20 countries worldwide
