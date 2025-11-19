@@ -168,6 +168,6 @@ Processing complete!
 
 - **Train/test split**: Annotations include pre-split train/test sets (stratified by ETT placement)
 - **Reproducibility**: Preprocessing is deterministic (no random operations except histogram equalization)
-- **Pixel spacing**: Preserved and updated for image scale in metadata
+- **Pixel spacing**: Preserved from original image metadata but not used in converting pixels to cm
 - **Hospital mapping**: Annotations include hospital names for each image
 - **Special hospitals**: Essen, Chiang Mai, Osaka use different ID formats (handled automatically)
