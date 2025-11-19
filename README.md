@@ -293,4 +293,3 @@ If you use this code, please cite:
 ## Acknowledgments
 
 - CarinaNet pretrained model: [https://github.com/USM-CHU-FGuyon/CarinaNet](https://github.com/USM-CHU-FGuyon/CarinaNet)
-- Contributing hospitals from 20 countries worldwide
