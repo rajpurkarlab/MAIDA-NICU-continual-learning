@@ -1,0 +1,5093 @@
+{
+  "info": {
+    "description": "NICU Dataset - University-of-Kragujevac train set (Latest Annotations - Valid Only)",
+    "url": "",
+    "version": "2.0",
+    "year": 2025,
+    "contributor": "NICU Research Team",
+    "date_created": "2025-10-05"
+  },
+  "licenses": [
+    {
+      "id": 1,
+      "name": "Research Use",
+      "url": ""
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "orig_width": 2328,
+      "orig_height": 1652,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-02472b65-683b-4d41-98cd-f67404f62848.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-02472b65-683b-4d41-98cd-f67404f62848.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 2,
+      "orig_width": 2328,
+      "orig_height": 1496,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-0389bc37-ab04-4df3-be9d-d818ce3ab202.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-0389bc37-ab04-4df3-be9d-d818ce3ab202.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 3,
+      "orig_width": 2328,
+      "orig_height": 1728,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-1a1a50a7-7313-4a8e-96f9-54ca9c87fea7.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-1a1a50a7-7313-4a8e-96f9-54ca9c87fea7.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 4,
+      "orig_width": 1728,
+      "orig_height": 1748,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-b036c97c-66b5-4be3-a7d8-647c71ae8549.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-b036c97c-66b5-4be3-a7d8-647c71ae8549.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 5,
+      "orig_width": 1728,
+      "orig_height": 1632,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-ca8db456-b83b-4ab4-9b1f-fdf8df422fa0.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-ca8db456-b83b-4ab4-9b1f-fdf8df422fa0.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 6,
+      "orig_width": 2328,
+      "orig_height": 1470,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-adddb4cf-f440-4aea-a678-1ea27eb0c6a9.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-adddb4cf-f440-4aea-a678-1ea27eb0c6a9.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 7,
+      "orig_width": 2328,
+      "orig_height": 1518,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-77e6c805-feb1-4db7-8aef-2e0f2855bbf6.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-77e6c805-feb1-4db7-8aef-2e0f2855bbf6.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 8,
+      "orig_width": 2328,
+      "orig_height": 1728,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-0e65e0f9-68ca-4f0c-9fc0-86d1549cba6e.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-0e65e0f9-68ca-4f0c-9fc0-86d1549cba6e.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 9,
+      "orig_width": 1728,
+      "orig_height": 1976,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-b85c7cca-ef06-4f42-a350-e037e5ddaf55.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-b85c7cca-ef06-4f42-a350-e037e5ddaf55.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 10,
+      "orig_width": 2328,
+      "orig_height": 1690,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-aa49e077-a182-47bd-9e8e-839ef3d88655.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-aa49e077-a182-47bd-9e8e-839ef3d88655.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 11,
+      "orig_width": 2328,
+      "orig_height": 1728,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-a7adc90f-6c7c-4ae7-b0ca-b6a44f91cb16.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-a7adc90f-6c7c-4ae7-b0ca-b6a44f91cb16.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 12,
+      "orig_width": 2328,
+      "orig_height": 1403,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-947695cc-e480-4938-939b-3cdb8c78ca26.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-947695cc-e480-4938-939b-3cdb8c78ca26.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 13,
+      "orig_width": 1728,
+      "orig_height": 2328,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-b523757a-190f-4277-9de8-c6c44df5085c.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-b523757a-190f-4277-9de8-c6c44df5085c.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 14,
+      "orig_width": 2328,
+      "orig_height": 1578,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-cc1be888-65e5-41ef-8278-3bc6d201644b.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-cc1be888-65e5-41ef-8278-3bc6d201644b.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 15,
+      "orig_width": 1728,
+      "orig_height": 2175,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-65f063a2-e49b-422f-b1c3-c92978cd42dc.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-65f063a2-e49b-422f-b1c3-c92978cd42dc.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 16,
+      "orig_width": 2328,
+      "orig_height": 1583,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-5d18e0ba-a05b-49bd-924e-51b0d95ce6e2.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-5d18e0ba-a05b-49bd-924e-51b0d95ce6e2.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 17,
+      "orig_width": 2928,
+      "orig_height": 1911,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-55ab0c6f-2f3c-4e78-95cd-9d64f9ef2b88.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-55ab0c6f-2f3c-4e78-95cd-9d64f9ef2b88.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 18,
+      "orig_width": 2328,
+      "orig_height": 1604,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-fec3eef9-1e49-46f0-a690-e9e70d5be41d.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-fec3eef9-1e49-46f0-a690-e9e70d5be41d.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 19,
+      "orig_width": 2928,
+      "orig_height": 2207,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-5309fc5c-fc53-4e9b-adc1-35f97f035105.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-5309fc5c-fc53-4e9b-adc1-35f97f035105.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 20,
+      "orig_width": 2928,
+      "orig_height": 1915,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-d68c91d7-87bf-4fcf-9637-51a347f041b5.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-d68c91d7-87bf-4fcf-9637-51a347f041b5.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 21,
+      "orig_width": 2928,
+      "orig_height": 1414,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-3682635c-edbe-4338-bd03-ff4826889e53.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-3682635c-edbe-4338-bd03-ff4826889e53.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 22,
+      "orig_width": 2328,
+      "orig_height": 1212,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-fa690cbf-e660-4005-a67d-2d67b3370440.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-fa690cbf-e660-4005-a67d-2d67b3370440.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 23,
+      "orig_width": 2328,
+      "orig_height": 1728,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-59316b9b-4741-49a9-ace0-84e7097b777f.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-59316b9b-4741-49a9-ace0-84e7097b777f.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 24,
+      "orig_width": 2328,
+      "orig_height": 1728,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-2f3b4cc6-b0b9-4d7f-865a-aafed6b89264.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-2f3b4cc6-b0b9-4d7f-865a-aafed6b89264.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 25,
+      "orig_width": 2328,
+      "orig_height": 1728,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-1b23f540-dc30-4ebb-9fff-14aed3a3f20b.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-1b23f540-dc30-4ebb-9fff-14aed3a3f20b.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 26,
+      "orig_width": 1728,
+      "orig_height": 1957,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-4bd09fbf-113a-44d9-b117-293dbb5b26f3.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-4bd09fbf-113a-44d9-b117-293dbb5b26f3.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Normal"
+    },
+    {
+      "id": 27,
+      "orig_width": 1728,
+      "orig_height": 1901,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-81258f63-8238-4c3a-afd7-9862be4f5d8c.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-81258f63-8238-4c3a-afd7-9862be4f5d8c.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 28,
+      "orig_width": 1728,
+      "orig_height": 2115,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-4f97f919-cfe7-4417-bc5d-2b726e4ccca3.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-4f97f919-cfe7-4417-bc5d-2b726e4ccca3.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 29,
+      "orig_width": 1728,
+      "orig_height": 2120,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-c3966217-25cf-45a1-9a2e-4577cece3b22.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-c3966217-25cf-45a1-9a2e-4577cece3b22.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 30,
+      "orig_width": 2928,
+      "orig_height": 1744,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-f68616ef-2a63-4820-b862-1850566944f0.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-f68616ef-2a63-4820-b862-1850566944f0.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 31,
+      "orig_width": 1728,
+      "orig_height": 1918,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-45d2073d-4871-41bc-9b59-78bcc3a8c902.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-45d2073d-4871-41bc-9b59-78bcc3a8c902.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 32,
+      "orig_width": 1728,
+      "orig_height": 2066,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-c2f99b45-190e-45fd-b4bd-4cefeaed4d3b.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-c2f99b45-190e-45fd-b4bd-4cefeaed4d3b.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 33,
+      "orig_width": 1728,
+      "orig_height": 1471,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-287a11e7-27d8-47ba-a3aa-3047173c6c6c.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-287a11e7-27d8-47ba-a3aa-3047173c6c6c.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 34,
+      "orig_width": 2328,
+      "orig_height": 2088,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-2c01a3ae-96d7-440a-9ca7-1e4297a066cb.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-2c01a3ae-96d7-440a-9ca7-1e4297a066cb.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 35,
+      "orig_width": 2328,
+      "orig_height": 1391,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-84a11259-650b-4067-8ab5-aa5750a648d9.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-84a11259-650b-4067-8ab5-aa5750a648d9.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 36,
+      "orig_width": 1728,
+      "orig_height": 2328,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-6bbcc900-724e-4774-bb58-801b4e9af1e3.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-6bbcc900-724e-4774-bb58-801b4e9af1e3.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 37,
+      "orig_width": 2328,
+      "orig_height": 1728,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-37dfaa46-8c86-4f0a-ae24-cd35b3ed74b2.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-37dfaa46-8c86-4f0a-ae24-cd35b3ed74b2.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 38,
+      "orig_width": 2328,
+      "orig_height": 1728,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-a366c37b-cd1a-42f9-a6c6-1f566b090ace.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-a366c37b-cd1a-42f9-a6c6-1f566b090ace.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 39,
+      "orig_width": 2328,
+      "orig_height": 1509,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-2fe6c3e6-df78-4a6c-b2a4-2633b53f4b17.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-2fe6c3e6-df78-4a6c-b2a4-2633b53f4b17.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 40,
+      "orig_width": 2328,
+      "orig_height": 2491,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-369a3760-b4e1-477f-85a0-beb7b90da512.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-369a3760-b4e1-477f-85a0-beb7b90da512.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 41,
+      "orig_width": 1728,
+      "orig_height": 1901,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-0da4ca4f-146c-4f4b-ab28-41638169f849.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-0da4ca4f-146c-4f4b-ab28-41638169f849.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 42,
+      "orig_width": 2328,
+      "orig_height": 1585,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-a4f146db-a373-4019-8d17-14a79e5ba371.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-a4f146db-a373-4019-8d17-14a79e5ba371.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 43,
+      "orig_width": 2328,
+      "orig_height": 1614,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-f9f02eab-793b-4370-8593-b9cef0321c73.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-f9f02eab-793b-4370-8593-b9cef0321c73.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 44,
+      "orig_width": 1728,
+      "orig_height": 1897,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-3566d437-ae3c-46dd-b7b6-f2efbfa043fb.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-3566d437-ae3c-46dd-b7b6-f2efbfa043fb.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 45,
+      "orig_width": 1728,
+      "orig_height": 1714,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-b15db4fa-8c5e-459f-a975-88d0758a422e.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-b15db4fa-8c5e-459f-a975-88d0758a422e.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 46,
+      "orig_width": 1728,
+      "orig_height": 1503,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-ac449eec-2854-4d49-8e14-0b41aa34e178.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-ac449eec-2854-4d49-8e14-0b41aa34e178.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "Low"
+    },
+    {
+      "id": 47,
+      "orig_width": 2328,
+      "orig_height": 1246,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-c7cde976-4479-410f-8a74-4d10b868a0fa.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-c7cde976-4479-410f-8a74-4d10b868a0fa.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "High"
+    },
+    {
+      "id": 48,
+      "orig_width": 2328,
+      "orig_height": 1728,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-2f3e01db-759c-404e-bc7c-eee5bcddab6f.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-2f3e01db-759c-404e-bc7c-eee5bcddab6f.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "High"
+    },
+    {
+      "id": 49,
+      "orig_width": 2328,
+      "orig_height": 1468,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-66167454-1300-442a-a774-6ee907e47308.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-66167454-1300-442a-a774-6ee907e47308.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "High"
+    },
+    {
+      "id": 50,
+      "orig_width": 2328,
+      "orig_height": 1728,
+      "width": 640,
+      "height": 640,
+      "file_name": "random-id-8cd57258-feea-47eb-bcf9-c2efc926e9ba.png",
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": "2025-10-05 23:17:22",
+      "hospital_name": "University-of-Kragujevac",
+      "original_name": "random-id-8cd57258-feea-47eb-bcf9-c2efc926e9ba.png",
+      "row_pixel_spacing": 0.1,
+      "col_pixel_spacing": 0.1,
+      "ett_placement": "High"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1383.797119140625,
+        147.22512817382812,
+        22.941162109375,
+        17.922836303710938
+      ],
+      "bbox_normalized": [
+        0.594414570077588,
+        0.08911932698173615,
+        0.009854451077910224,
+        0.010849174517984828
+      ],
+      "iscrowd": 0,
+      "area": 411.17069310322404,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 2,
+      "image_id": 1,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1290.4649658203123,
+        342.22344970703125,
+        99.11474609375,
+        65.62612915039062
+      ],
+      "bbox_normalized": [
+        0.554323438926251,
+        0.20715705188076952,
+        0.04257506275504725,
+        0.03972525977626551
+      ],
+      "iscrowd": 0,
+      "area": 6504.517127856612,
+      "category_name": "Carina"
+    },
+    {
+      "id": 3,
+      "image_id": 1,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1336.7081298828125,
+        129.51980590820312,
+        39.912841796875,
+        6.4564971923828125
+      ],
+      "bbox_normalized": [
+        0.5741873410149538,
+        0.07840181955702369,
+        0.017144691493503006,
+        0.00390829127868209
+      ],
+      "iscrowd": 0,
+      "area": 257.6971510015428,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 4,
+      "image_id": 1,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1323.208251953125,
+        253.36701965332028,
+        44.6083984375,
+        7.6303863525390625
+      ],
+      "bbox_normalized": [
+        0.5683884243784901,
+        0.15336986661823263,
+        0.019161683177620275,
+        0.004618877937372314
+      ],
+      "iscrowd": 0,
+      "area": 340.37931464612484,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 5,
+      "image_id": 2,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        959.0042114257812,
+        93.0896987915039,
+        23.6624755859375,
+        19.981658935546875
+      ],
+      "bbox_normalized": [
+        0.4119433897877067,
+        0.0622257344862994,
+        0.01016429363657109,
+        0.013356723887397644
+      ],
+      "iscrowd": 0,
+      "area": 472.8155167289078,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 6,
+      "image_id": 2,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        967.52099609375,
+        358.8227844238281,
+        145.1654052734375,
+        106.165771484375
+      ],
+      "bbox_normalized": [
+        0.4156018024457689,
+        0.239854802422345,
+        0.06235627374288552,
+        0.07096642478902072
+      ],
+      "iscrowd": 0,
+      "area": 15411.597243696451,
+      "category_name": "Carina"
+    },
+    {
+      "id": 7,
+      "image_id": 2,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        987.9358520507812,
+        111.43946838378908,
+        47.11505126953125,
+        3.739288330078125
+      ],
+      "bbox_normalized": [
+        0.42437107046854866,
+        0.0744916232511959,
+        0.020238424084850194,
+        0.002499524284811581
+      ],
+      "iscrowd": 0,
+      "area": 176.17676138319075,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 8,
+      "image_id": 2,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        992.4229736328125,
+        236.3316650390625,
+        64.3157958984375,
+        4.4871368408203125
+      ],
+      "bbox_normalized": [
+        0.42629852819278885,
+        0.15797571192450702,
+        0.027627060093830542,
+        0.0029994230219387115
+      ],
+      "iscrowd": 0,
+      "area": 288.59377722255886,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 9,
+      "image_id": 3,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1283.200439453125,
+        535.164306640625,
+        100.080810546875,
+        55.85906982421875
+      ],
+      "bbox_normalized": [
+        0.551202937909418,
+        0.30970156634295426,
+        0.042990038894705755,
+        0.03232585059271918
+      ],
+      "iscrowd": 0,
+      "area": 5590.420984402299,
+      "category_name": "Carina"
+    },
+    {
+      "id": 10,
+      "image_id": 3,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1292.5103759765625,
+        439.7384338378906,
+        55.8590087890625,
+        27.929534912109375
+      ],
+      "bbox_normalized": [
+        0.5552020515363241,
+        0.25447826032285337,
+        0.023994419582930627,
+        0.01616292529635959
+      ],
+      "iscrowd": 0,
+      "area": 1560.1161361299455,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 11,
+      "image_id": 3,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1308.802490234375,
+        341.985107421875,
+        62.841552734375,
+        13.964752197265625
+      ],
+      "bbox_normalized": [
+        0.562200382403082,
+        0.19790804827654804,
+        0.02699379412988617,
+        0.008081453817862051
+      ],
+      "iscrowd": 0,
+      "area": 877.5667116269469,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 12,
+      "image_id": 3,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1297.165283203125,
+        458.3581237792969,
+        81.4610595703125,
+        23.27459716796875
+      ],
+      "bbox_normalized": [
+        0.5572015821319265,
+        0.26525354385375977,
+        0.034991864076594714,
+        0.013469095583315249
+      ],
+      "iscrowd": 0,
+      "area": 1895.973346374929,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 13,
+      "image_id": 4,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        602.8590698242188,
+        355.30322265625,
+        153.17791748046875,
+        108.66595458984375
+      ],
+      "bbox_normalized": [
+        0.3488767765186451,
+        0.20326271319007438,
+        0.08864462817156757,
+        0.06216587791180993
+      ],
+      "iscrowd": 0,
+      "area": 16645.22462509945,
+      "category_name": "Carina"
+    },
+    {
+      "id": 14,
+      "image_id": 4,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        686.2501831054688,
+        238.4817810058594,
+        71.1568603515625,
+        40.412261962890625
+      ],
+      "bbox_normalized": [
+        0.3971355226304796,
+        0.13643122483172734,
+        0.041178738629376446,
+        0.023119142999365346
+      ],
+      "iscrowd": 0,
+      "area": 2875.6096809841692,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 15,
+      "image_id": 4,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        764.6408081054688,
+        142.30218505859375,
+        65.8839111328125,
+        7.320434570312501
+      ],
+      "bbox_normalized": [
+        0.44250046765362777,
+        0.0814085726879827,
+        0.03812726338704427,
+        0.004187891630613559
+      ],
+      "iscrowd": 0,
+      "area": 482.29886068403727,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 16,
+      "image_id": 4,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        763.5950317382812,
+        252.10867309570315,
+        82.6163330078125,
+        8.3662109375
+      ],
+      "bbox_normalized": [
+        0.4418952729966905,
+        0.14422692968861736,
+        0.047810377898039644,
+        0.004786161863558352
+      ],
+      "iscrowd": 0,
+      "area": 691.1856688261032,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 17,
+      "image_id": 5,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1129.708984375,
+        143.03555297851562,
+        19.5848388671875,
+        17.210968017578125
+      ],
+      "bbox_normalized": [
+        0.6537667733651621,
+        0.08764433393291399,
+        0.011333818788881655,
+        0.010545936285280715
+      ],
+      "iscrowd": 0,
+      "area": 337.07403537258506,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 18,
+      "image_id": 5,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1116.5152587890625,
+        157.17041015625,
+        136.5819091796875,
+        115.79084777832031
+      ],
+      "bbox_normalized": [
+        0.6461315155029297,
+        0.09630539838005514,
+        0.07904045670120805,
+        0.07095027437397078
+      ],
+      "iscrowd": 0,
+      "area": 15814.935055097565,
+      "category_name": "Carina"
+    },
+    {
+      "id": 19,
+      "image_id": 5,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1174.84423828125,
+        70.9654541015625,
+        39.2811279296875,
+        3.4916534423828125
+      ],
+      "bbox_normalized": [
+        0.679886711968316,
+        0.043483734130859375,
+        0.022732134218569153,
+        0.0021394935308718215
+      ],
+      "iscrowd": 0,
+      "area": 137.156085556373,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 20,
+      "image_id": 5,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1173.0985107421875,
+        139.05270385742188,
+        41.02685546875,
+        4.36456298828125
+      ],
+      "bbox_normalized": [
+        0.6788764529758029,
+        0.085203862657734,
+        0.023742393211082177,
+        0.002674364576152727
+      ],
+      "iscrowd": 0,
+      "area": 179.06429490447044,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 21,
+      "image_id": 6,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1246.2683105468748,
+        83.44239807128906,
+        68.3607177734375,
+        5.512939453125
+      ],
+      "bbox_normalized": [
+        0.5353386213689325,
+        0.056763536102917726,
+        0.029364569490308204,
+        0.0037502989477040814
+      ],
+      "iscrowd": 0,
+      "area": 376.868498057127,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 22,
+      "image_id": 6,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1259.4993896484375,
+        179.36781311035156,
+        50.71923828125,
+        4.410369873046875
+      ],
+      "bbox_normalized": [
+        0.5410220745912532,
+        0.12201892048323236,
+        0.021786614381980242,
+        0.003000251614317602
+      ],
+      "iscrowd": 0,
+      "area": 223.69060049951077,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 23,
+      "image_id": 6,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1222.851318359375,
+        134.58721923828125,
+        51.317138671875,
+        33.78587341308594
+      ],
+      "bbox_normalized": [
+        0.5252797759275666,
+        0.09155593145461309,
+        0.0220434444466817,
+        0.022983587355840773
+      ],
+      "iscrowd": 0,
+      "area": 1733.7943510897458,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 24,
+      "image_id": 6,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1197.2342529296875,
+        265.1356201171875,
+        131.945556640625,
+        82.00772094726562
+      ],
+      "bbox_normalized": [
+        0.5142758818426493,
+        0.18036436742665815,
+        0.056677644605079465,
+        0.055787565270248723
+      ],
+      "iscrowd": 0,
+      "area": 10820.554389216006,
+      "category_name": "Carina"
+    },
+    {
+      "id": 25,
+      "image_id": 7,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1093.565673828125,
+        106.04125213623047,
+        50.305908203125,
+        29.28388214111328
+      ],
+      "bbox_normalized": [
+        0.469744705252631,
+        0.06985589732294498,
+        0.021609067097562284,
+        0.01929109495462008
+      ],
+      "iscrowd": 0,
+      "area": 1473.1522868219763,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 26,
+      "image_id": 7,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1066.1087646484375,
+        241.3547821044922,
+        100.37060546875,
+        72.90852355957031
+      ],
+      "bbox_normalized": [
+        0.45795050027853845,
+        0.15899524512812396,
+        0.04311452124946306,
+        0.048029330408149086
+      ],
+      "iscrowd": 0,
+      "area": 7317.872653506696,
+      "category_name": "Carina"
+    },
+    {
+      "id": 27,
+      "image_id": 7,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1124.83984375,
+        72.12751770019531,
+        54.1937255859375,
+        4.516143798828125
+      ],
+      "bbox_normalized": [
+        0.483178627040378,
+        0.04751483379459507,
+        0.023279091746536727,
+        0.002975061791059371
+      ],
+      "iscrowd": 0,
+      "area": 244.74665774032474,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 28,
+      "image_id": 7,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1123.33447265625,
+        161.6976318359375,
+        48.9248046875,
+        4.516143798828125
+      ],
+      "bbox_normalized": [
+        0.482531989972616,
+        0.10652017907505765,
+        0.021015809573668384,
+        0.002975061791059371
+      ],
+      "iscrowd": 0,
+      "area": 220.9514532983303,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 29,
+      "image_id": 8,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1132.4984130859375,
+        227.19647216796878,
+        22.3448486328125,
+        17.08721923828125
+      ],
+      "bbox_normalized": [
+        0.48646839050083224,
+        0.13147943991201896,
+        0.009598302677324958,
+        0.009888437059190538
+      ],
+      "iscrowd": 0,
+      "area": 381.81132743507624,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 30,
+      "image_id": 8,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1100.0361328125,
+        268.8470458984375,
+        83.4183349609375,
+        64.86187744140625
+      ],
+      "bbox_normalized": [
+        0.4725241120328608,
+        0.1555827811912254,
+        0.03583261811036834,
+        0.037535808704517504
+      ],
+      "iscrowd": 0,
+      "area": 5410.669818602502,
+      "category_name": "Carina"
+    },
+    {
+      "id": 31,
+      "image_id": 8,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1133.3497314453125,
+        130.23605346679688,
+        25.185302734375,
+        7.870391845703125
+      ],
+      "bbox_normalized": [
+        0.4868340770813198,
+        0.07536808649698894,
+        0.010818429009611254,
+        0.004554624910707827
+      ],
+      "iscrowd": 0,
+      "area": 198.21820127218962,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 32,
+      "image_id": 8,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1126.8209228515625,
+        226.85423278808597,
+        30.694580078125,
+        7.870391845703125
+      ],
+      "bbox_normalized": [
+        0.48402960603589457,
+        0.13128138471532752,
+        0.013184957078232388,
+        0.004554624910707827
+      ],
+      "iscrowd": 0,
+      "area": 241.5783727541566,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 33,
+      "image_id": 9,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        741.63623046875,
+        186.55543518066406,
+        64.19525146484375,
+        33.72700500488281
+      ],
+      "bbox_normalized": [
+        0.4291876333731192,
+        0.09441064533434416,
+        0.03715002978289569,
+        0.017068322370892113
+      ],
+      "iscrowd": 0,
+      "area": 2165.113567444496,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 34,
+      "image_id": 9,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        689.3626098632812,
+        345.56884765625,
+        175.001708984375,
+        108.56146240234375
+      ],
+      "bbox_normalized": [
+        0.3989366955227322,
+        0.17488302006895243,
+        0.10127413714373554,
+        0.0549400113372185
+      ],
+      "iscrowd": 0,
+      "area": 18998.44145025313,
+      "category_name": "Carina"
+    },
+    {
+      "id": 35,
+      "image_id": 9,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        716.3010864257812,
+        63.35614013671876,
+        111.602294921875,
+        8.9794921875
+      ],
+      "bbox_normalized": [
+        0.4145260916815864,
+        0.03206282395582933,
+        0.06458466141312211,
+        0.004544277422823886
+      ],
+      "iscrowd": 0,
+      "area": 1002.1319353580475,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 36,
+      "image_id": 9,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        712.4527587890625,
+        207.02806091308594,
+        129.561279296875,
+        6.4139251708984375
+      ],
+      "bbox_normalized": [
+        0.4122990502251519,
+        0.10477128588718924,
+        0.07497759218569156,
+        0.003245913548025525
+      ],
+      "iscrowd": 0,
+      "area": 830.9963504560292,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 37,
+      "image_id": 10,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1136.520263671875,
+        289.8260955810547,
+        106.912841796875,
+        75.51362609863281
+      ],
+      "bbox_normalized": [
+        0.4881959895497745,
+        0.1714947311130501,
+        0.045924760222025345,
+        0.04468261899327385
+      ],
+      "iscrowd": 0,
+      "area": 8073.376360591501,
+      "category_name": "Carina"
+    },
+    {
+      "id": 38,
+      "image_id": 10,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1168.6810302734375,
+        158.79258728027344,
+        48.238037109375,
+        27.527587890625
+      ],
+      "bbox_normalized": [
+        0.502010751835669,
+        0.09396011081672985,
+        0.02072080631846005,
+        0.01628851354474852
+      ],
+      "iscrowd": 0,
+      "area": 1327.8768061995506,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 39,
+      "image_id": 10,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1154.7872314453125,
+        177.19308471679688,
+        41.2481689453125,
+        7.734039306640624
+      ],
+      "bbox_normalized": [
+        0.49604262519128545,
+        0.10484797912236501,
+        0.01771828562942977,
+        0.004576354619313979
+      ],
+      "iscrowd": 0,
+      "area": 319.01495995,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 40,
+      "image_id": 10,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1168.5316162109375,
+        264.9151611328125,
+        38.670166015625,
+        3.86700439453125
+      ],
+      "bbox_normalized": [
+        0.5019465705373443,
+        0.15675453321468194,
+        0.016610896054821734,
+        0.0022881682807877218
+      ],
+      "iscrowd": 0,
+      "area": 149.53770191967487,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 41,
+      "image_id": 11,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1339.6138916015625,
+        282.8113098144531,
+        147.51342773437497,
+        121.78439331054688
+      ],
+      "bbox_normalized": [
+        0.5754355204474065,
+        0.16366395243891962,
+        0.06336487445634664,
+        0.07047707946212203
+      ],
+      "iscrowd": 0,
+      "area": 17964.833301790055,
+      "category_name": "Carina"
+    },
+    {
+      "id": 42,
+      "image_id": 11,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1405.88427734375,
+        105.86505889892578,
+        51.22705078125,
+        24.28697967529297
+      ],
+      "bbox_normalized": [
+        0.6039021809895834,
+        0.061264501677619085,
+        0.02200474689916237,
+        0.014054965089868617
+      ],
+      "iscrowd": 0,
+      "area": 1244.1503411494195,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 43,
+      "image_id": 11,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1399.6484375,
+        119.86041259765625,
+        56.60400390624999,
+        6.861083984375001
+      ],
+      "bbox_normalized": [
+        0.6012235556271478,
+        0.06936366469771774,
+        0.02431443466763316,
+        0.003970534713179977
+      ],
+      "iscrowd": 0,
+      "area": 388.3648246526718,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 44,
+      "image_id": 11,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1397.9332275390625,
+        233.06842041015625,
+        56.6038818359375,
+        8.57635498046875
+      ],
+      "bbox_normalized": [
+        0.6004867815889444,
+        0.1348775581077293,
+        0.024314382231931917,
+        0.004963168391474971
+      ],
+      "iscrowd": 0,
+      "area": 485.4549838975072,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 45,
+      "image_id": 12,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1160.9599609375,
+        382.5208129882813,
+        145.8358154296875,
+        100.3687744140625
+      ],
+      "bbox_normalized": [
+        0.49869414129617695,
+        0.27264491303512567,
+        0.06264425061412693,
+        0.07153868454316643
+      ],
+      "iscrowd": 0,
+      "area": 14637.36206035316,
+      "category_name": "Carina"
+    },
+    {
+      "id": 46,
+      "image_id": 12,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1167.7773437499998,
+        286.2059326171875,
+        53.2166748046875,
+        39.086334228515625
+      ],
+      "bbox_normalized": [
+        0.501622570339347,
+        0.2039956754220866,
+        0.022859396393766107,
+        0.027859112065941286
+      ],
+      "iscrowd": 0,
+      "area": 2080.044737946242,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 47,
+      "image_id": 12,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1218.78076171875,
+        224.80261230468747,
+        65.3067626953125,
+        8.82525634765625
+      ],
+      "bbox_normalized": [
+        0.5235312550338274,
+        0.1602299446220153,
+        0.02805273311654317,
+        0.0062902753725276195
+      ],
+      "iscrowd": 0,
+      "area": 576.348922021687,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 48,
+      "image_id": 12,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1229.1419677734375,
+        326.2815856933594,
+        56.4815673828125,
+        8.825225830078125
+      ],
+      "bbox_normalized": [
+        0.5279819449198615,
+        0.2325599327821521,
+        0.02426184165928372,
+        0.006290253620868229
+      ],
+      "iscrowd": 0,
+      "area": 498.462587390095,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 49,
+      "image_id": 13,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        831.7982788085938,
+        419.09838867187494,
+        104.85614013671875,
+        80.2783813476563
+      ],
+      "bbox_normalized": [
+        0.4813647446808992,
+        0.1800250810446198,
+        0.060680636653193724,
+        0.034483840785075735
+      ],
+      "iscrowd": 0,
+      "area": 8417.681204538798,
+      "category_name": "Carina"
+    },
+    {
+      "id": 50,
+      "image_id": 13,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        781.5770874023438,
+        312.4835205078125,
+        49.09625244140625,
+        40.030426025390625
+      ],
+      "bbox_normalized": [
+        0.4523015552096897,
+        0.13422831636933527,
+        0.0284121831258138,
+        0.01719520018272793
+      ],
+      "iscrowd": 0,
+      "area": 1965.3439014796168,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 51,
+      "image_id": 13,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        814.5059204101562,
+        282.9352722167969,
+        61.60858154296875,
+        3.5204772949218746
+      ],
+      "bbox_normalized": [
+        0.47135759282995154,
+        0.12153576985257598,
+        0.035653114318847656,
+        0.0015122325150008053
+      ],
+      "iscrowd": 0,
+      "area": 216.89161249436435,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 52,
+      "image_id": 13,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        832.9884643554688,
+        359.5059509277344,
+        64.24896240234375,
+        4.400604248046875
+      ],
+      "bbox_normalized": [
+        0.48205350946497033,
+        0.15442695486586527,
+        0.037181112501356334,
+        0.0018902939209823346
+      ],
+      "iscrowd": 0,
+      "area": 282.73425688035786,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 53,
+      "image_id": 14,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1081.3482666015625,
+        146.19309997558594,
+        20.5443115234375,
+        19.041030883789062
+      ],
+      "bbox_normalized": [
+        0.4644966780934547,
+        0.09264455004789983,
+        0.008824876083950816,
+        0.012066559495430331
+      ],
+      "iscrowd": 0,
+      "area": 391.18487020395696,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 54,
+      "image_id": 14,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1072.23046875,
+        323.6015625,
+        80.78588867187501,
+        64.35491943359375
+      ],
+      "bbox_normalized": [
+        0.46058009826030927,
+        0.20507069866920152,
+        0.03470184221300473,
+        0.040782585192391474
+      ],
+      "iscrowd": 0,
+      "area": 5198.9693568497905,
+      "category_name": "Carina"
+    },
+    {
+      "id": 55,
+      "image_id": 14,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1134.8306884765625,
+        176.9941864013672,
+        65.232177734375,
+        9.725341796875
+      ],
+      "bbox_normalized": [
+        0.4874702270088327,
+        0.11216361622393357,
+        0.028020694903082045,
+        0.006163080986612801
+      ],
+      "iscrowd": 0,
+      "area": 634.4052246212959,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 56,
+      "image_id": 14,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1139.122314453125,
+        292.2926025390625,
+        70.382080078125,
+        3.4332580566406246
+      ],
+      "bbox_normalized": [
+        0.4893137089575279,
+        0.18522978614642743,
+        0.030232852267235825,
+        0.002175702190520041
+      ],
+      "iscrowd": 0,
+      "area": 241.63984347134826,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 57,
+      "image_id": 15,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        857.3009033203126,
+        327.3263549804688,
+        138.4898681640625,
+        110.52120971679688
+      ],
+      "bbox_normalized": [
+        0.4961232079399957,
+        0.1504948758530891,
+        0.08014459963198062,
+        0.050814349295079025
+      ],
+      "iscrowd": 0,
+      "area": 15306.067763011903,
+      "category_name": "Carina"
+    },
+    {
+      "id": 58,
+      "image_id": 15,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        909.6362915039062,
+        153.60513305664062,
+        44.80047607421875,
+        30.1903076171875
+      ],
+      "bbox_normalized": [
+        0.5264098909166124,
+        0.07062304968121408,
+        0.025926201431839553,
+        0.013880601203304598
+      ],
+      "iscrowd": 0,
+      "area": 1352.5401540771127,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 59,
+      "image_id": 15,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        886.5151977539061,
+        145.89810180664062,
+        53.94927978515625,
+        9.63385009765625
+      ],
+      "bbox_normalized": [
+        0.5130296283298068,
+        0.06707958703753591,
+        0.031220648023817275,
+        0.004429356366738506
+      ],
+      "iscrowd": 0,
+      "area": 519.7392743267119,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 60,
+      "image_id": 15,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        884.5884399414062,
+        267.28399658203125,
+        67.43658447265625,
+        13.4873046875
+      ],
+      "bbox_normalized": [
+        0.511914606447573,
+        0.12288919383081896,
+        0.03902580119945385,
+        0.006201059626436782
+      ],
+      "iscrowd": 0,
+      "area": 909.5377618670464,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 61,
+      "image_id": 16,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1284.7486572265625,
+        237.11187744140625,
+        56.470458984375,
+        21.17645263671875
+      ],
+      "bbox_normalized": [
+        0.5518679799083173,
+        0.14978640394277085,
+        0.02425707001047036,
+        0.013377417963814751
+      ],
+      "iscrowd": 0,
+      "area": 1195.844000056386,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 62,
+      "image_id": 16,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1286.62353515625,
+        131.97796630859375,
+        88.9661865234375,
+        16.598159790039062
+      ],
+      "bbox_normalized": [
+        0.55267333984375,
+        0.0833720570490169,
+        0.038215715860583116,
+        0.010485255710700608
+      ],
+      "iscrowd": 0,
+      "area": 1476.6749798264354,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 63,
+      "image_id": 16,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1289.279296875,
+        236.8783264160156,
+        102.9085693359375,
+        19.91778564453125
+      ],
+      "bbox_normalized": [
+        0.5538141309600515,
+        0.14963886697158282,
+        0.0442047119140625,
+        0.012582302997177037
+      ],
+      "iscrowd": 0,
+      "area": 2049.7108250185847,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 64,
+      "image_id": 16,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1268.6105957031248,
+        370.2491149902344,
+        130.1473388671875,
+        86.48471069335938
+      ],
+      "bbox_normalized": [
+        0.5449358228965313,
+        0.23389078647519543,
+        0.055905214290028996,
+        0.0546334243167147
+      ],
+      "iscrowd": 0,
+      "area": 11255.754949439317,
+      "category_name": "Carina"
+    },
+    {
+      "id": 65,
+      "image_id": 17,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1948.3350830078125,
+        195.52239990234375,
+        90.609619140625,
+        19.153244018554688
+      ],
+      "bbox_normalized": [
+        0.6654149873660562,
+        0.10231418100593603,
+        0.030945908176442966,
+        0.010022628999766975
+      ],
+      "iscrowd": 0,
+      "area": 1735.468145828694,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 66,
+      "image_id": 17,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1915.185302734375,
+        296.4452209472656,
+        117.12939453125,
+        31.676513671875
+      ],
+      "bbox_normalized": [
+        0.6540933410978057,
+        0.1551257043156806,
+        0.040003208514771176,
+        0.016575883658751962
+      ],
+      "iscrowd": 0,
+      "area": 3710.2508672475815,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 67,
+      "image_id": 17,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1994.1389160156252,
+        214.10255432128906,
+        52.632080078125,
+        34.876708984375
+      ],
+      "bbox_normalized": [
+        0.6810583729561561,
+        0.1120369201053318,
+        0.01797543718515198,
+        0.018250501823325483
+      ],
+      "iscrowd": 0,
+      "area": 1835.6337401270866,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 68,
+      "image_id": 17,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1866.6428222656252,
+        438.28277587890625,
+        161.67041015625,
+        68.66534423828125
+      ],
+      "bbox_normalized": [
+        0.637514625090719,
+        0.22934734478226387,
+        0.0552153040151127,
+        0.0359316296380331
+      ],
+      "iscrowd": 0,
+      "area": 11101.154366523027,
+      "category_name": "Carina"
+    },
+    {
+      "id": 69,
+      "image_id": 18,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1053.0323486328125,
+        144.1190185546875,
+        45.723876953125,
+        38.63639831542969
+      ],
+      "bbox_normalized": [
+        0.45233348308969606,
+        0.08984976219120168,
+        0.019640840615603523,
+        0.02408753012183896
+      ],
+      "iscrowd": 0,
+      "area": 1766.605922486633,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 70,
+      "image_id": 18,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1016.240966796875,
+        225.51585388183594,
+        115.5670166015625,
+        74.53747558593747
+      ],
+      "bbox_normalized": [
+        0.436529624912747,
+        0.1405959188789501,
+        0.04964218926183956,
+        0.04646974787153209
+      ],
+      "iscrowd": 0,
+      "area": 8614.073678478595,
+      "category_name": "Carina"
+    },
+    {
+      "id": 71,
+      "image_id": 18,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1013.7015380859375,
+        83.62506103515625,
+        84.695068359375,
+        24.788818359375
+      ],
+      "bbox_normalized": [
+        0.4354388050197326,
+        0.05213532483488544,
+        0.03638104310969716,
+        0.01545437553576995
+      ],
+      "iscrowd": 0,
+      "area": 2099.4906654953957,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 72,
+      "image_id": 18,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1017.8330078125,
+        155.92572021484375,
+        101.2208251953125,
+        16.52587890625
+      ],
+      "bbox_normalized": [
+        0.4372134913283935,
+        0.09721054876237141,
+        0.04347973590863939,
+        0.010302917023846633
+      ],
+      "iscrowd": 0,
+      "area": 1672.7630999684334,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 73,
+      "image_id": 19,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1534.3771972656248,
+        142.8691558837891,
+        127.5977783203125,
+        30.023010253906246
+      ],
+      "bbox_normalized": [
+        0.5240359280278774,
+        0.064734551827725,
+        0.04357847620229252,
+        0.013603538855417421
+      ],
+      "iscrowd": 0,
+      "area": 3830.8694068863983,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 74,
+      "image_id": 19,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1536.2536621093748,
+        268.59051513671875,
+        127.5977783203125,
+        24.393707275390625
+      ],
+      "bbox_normalized": [
+        0.5246767971685024,
+        0.12169937251323913,
+        0.04357847620229252,
+        0.011052880505387688
+      ],
+      "iscrowd": 0,
+      "area": 3112.582853335887,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 75,
+      "image_id": 19,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1479.97119140625,
+        249.25674438476565,
+        74.74658203125,
+        35.237640380859375
+      ],
+      "bbox_normalized": [
+        0.5054546418737192,
+        0.112939168275834,
+        0.025528204245645492,
+        0.01596630737691861
+      ],
+      "iscrowd": 0,
+      "area": 2633.8931773155928,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 76,
+      "image_id": 19,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1450.2222900390625,
+        367.05041503906244,
+        207.596923828125,
+        136.32052612304688
+      ],
+      "bbox_normalized": [
+        0.4952944979641607,
+        0.16631192344316378,
+        0.07090058873911373,
+        0.0617673430552999
+      ],
+      "iscrowd": 0,
+      "area": 28299.721877776086,
+      "category_name": "Carina"
+    },
+    {
+      "id": 77,
+      "image_id": 20,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1619.4248046875002,
+        125.6249313354492,
+        42.49609375,
+        35.587379455566406
+      ],
+      "bbox_normalized": [
+        0.5530822420380807,
+        0.0656004863370492,
+        0.014513693220628416,
+        0.018583487966353215
+      ],
+      "iscrowd": 0,
+      "area": 1512.324613660574,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 78,
+      "image_id": 20,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1611.6395263671875,
+        185.05453491210938,
+        89.0654296875,
+        67.16407775878906
+      ],
+      "bbox_normalized": [
+        0.5504233355079192,
+        0.096634221886219,
+        0.030418521068135244,
+        0.03507262546150865
+      ],
+      "iscrowd": 0,
+      "area": 5981.99744515121,
+      "category_name": "Carina"
+    },
+    {
+      "id": 79,
+      "image_id": 20,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1639.60546875,
+        70.60429382324219,
+        54.38818359375,
+        2.1755218505859375
+      ],
+      "bbox_normalized": [
+        0.5599745453381147,
+        0.0368690829364189,
+        0.018575199314805328,
+        0.001136042741820333
+      ],
+      "iscrowd": 0,
+      "area": 118.32268182188272,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 80,
+      "image_id": 20,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1649.7333984375,
+        156.41770935058594,
+        50.0430908203125,
+        1.94342041015625
+      ],
+      "bbox_normalized": [
+        0.5634335377177254,
+        0.08168026597941824,
+        0.017091219542456456,
+        0.0010148409452513055
+      ],
+      "iscrowd": 0,
+      "area": 97.25476408749819,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 81,
+      "image_id": 21,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1289.830322265625,
+        208.14115905761716,
+        178.2161865234375,
+        104.24191284179688
+      ],
+      "bbox_normalized": [
+        0.4405158204459102,
+        0.14720025393042233,
+        0.060866183921939036,
+        0.073721296210606
+      ],
+      "iscrowd": 0,
+      "area": 18577.596182573587,
+      "category_name": "Carina"
+    },
+    {
+      "id": 82,
+      "image_id": 21,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1409.69482421875,
+        110.50769042968749,
+        39.5899658203125,
+        19.79498291015625
+      ],
+      "bbox_normalized": [
+        0.48145315034793373,
+        0.07815253920062765,
+        0.013521163189997439,
+        0.013999280700251944
+      ],
+      "iscrowd": 0,
+      "area": 783.682696826756,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 83,
+      "image_id": 21,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1326.1160888671875,
+        0.53564453125,
+        70.382080078125,
+        19.794952392578125
+      ],
+      "bbox_normalized": [
+        0.4529085002961706,
+        0.0003788150857496464,
+        0.024037595655097336,
+        0.013999259117806312
+      ],
+      "iscrowd": 0,
+      "area": 1393.2099244371057,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 84,
+      "image_id": 21,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1321.7171630859375,
+        119.30545043945314,
+        83.578857421875,
+        17.595550537109375
+      ],
+      "bbox_normalized": [
+        0.45140613493372184,
+        0.08437443453992442,
+        0.02854469174244365,
+        0.012443812261039163
+      ],
+      "iscrowd": 0,
+      "area": 1470.6160096004605,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 85,
+      "image_id": 22,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1186.7152099609377,
+        327.8988037109375,
+        168.1270751953125,
+        94.50836181640625
+      ],
+      "bbox_normalized": [
+        0.5097573925949045,
+        0.27054356741826524,
+        0.07221953401860502,
+        0.07797719621815698
+      ],
+      "iscrowd": 0,
+      "area": 15889.414453692734,
+      "category_name": "Carina"
+    },
+    {
+      "id": 86,
+      "image_id": 22,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1215.0509033203125,
+        187.51646423339847,
+        48.8663330078125,
+        32.26115417480469
+      ],
+      "bbox_normalized": [
+        0.5219290821822649,
+        0.15471655464801853,
+        0.020990692872771693,
+        0.026618114005614427
+      ],
+      "iscrowd": 0,
+      "area": 1576.4843031223863,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 87,
+      "image_id": 22,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1224.7926025390625,
+        114.84003448486328,
+        76.4718017578125,
+        6.179534912109375
+      ],
+      "bbox_normalized": [
+        0.526113660884477,
+        0.09475250370038224,
+        0.032848712095280286,
+        0.005098626165106745
+      ],
+      "iscrowd": 0,
+      "area": 472.5601687543094,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 88,
+      "image_id": 22,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1227.5836181640625,
+        228.6876678466797,
+        94.2379150390625,
+        6.95196533203125
+      ],
+      "bbox_normalized": [
+        0.5273125507577588,
+        0.18868619459297004,
+        0.04048020405458011,
+        0.005735944993425124
+      ],
+      "iscrowd": 0,
+      "area": 655.1387183144689,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 89,
+      "image_id": 23,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1068.83203125,
+        274.9292907714844,
+        72.40478515625,
+        16.549652099609375
+      ],
+      "bbox_normalized": [
+        0.45912028833762886,
+        0.15910259882609049,
+        0.031101711836877148,
+        0.009577344965051722
+      ],
+      "iscrowd": 0,
+      "area": 1198.2740046828985,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 90,
+      "image_id": 23,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1047.110595703125,
+        353.54022216796875,
+        75.5079345703125,
+        16.5496826171875
+      ],
+      "bbox_normalized": [
+        0.44978977478656573,
+        0.20459503597683376,
+        0.0324346797982442,
+        0.009577362625687211
+      ],
+      "iscrowd": 0,
+      "area": 1249.6323522180319,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 91,
+      "image_id": 23,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1128.2969970703125,
+        301.5693359375,
+        50.39697265625,
+        35.69781494140625
+      ],
+      "bbox_normalized": [
+        0.4846636585353576,
+        0.17451929163049767,
+        0.02164818413069158,
+        0.02065845772072121
+      ],
+      "iscrowd": 0,
+      "area": 1799.0618034899235,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 92,
+      "image_id": 23,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1039.052490234375,
+        406.5628967285156,
+        86.0947265625,
+        49.346954345703125
+      ],
+      "bbox_normalized": [
+        0.44632838927593427,
+        0.23527945412529838,
+        0.03698227086018041,
+        0.028557265246355976
+      ],
+      "iscrowd": 0,
+      "area": 4248.512541085482,
+      "category_name": "Carina"
+    },
+    {
+      "id": 93,
+      "image_id": 24,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1061.4586181640625,
+        310.17047119140625,
+        130.9788818359375,
+        83.00299072265625
+      ],
+      "bbox_normalized": [
+        0.4559530146752846,
+        0.17949680045798974,
+        0.056262406286914736,
+        0.04803413814968533
+      ],
+      "iscrowd": 0,
+      "area": 10871.63891389221,
+      "category_name": "Carina"
+    },
+    {
+      "id": 94,
+      "image_id": 24,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1102.600341796875,
+        164.45108032226562,
+        56.9898681640625,
+        16.761749267578125
+      ],
+      "bbox_normalized": [
+        0.4736255763732281,
+        0.09516844926057039,
+        0.024480183919270832,
+        0.009700086381700303
+      ],
+      "iscrowd": 0,
+      "area": 955.2498809583485,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 95,
+      "image_id": 24,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1107.6287841796875,
+        259.9930419921875,
+        67.0469970703125,
+        16.761749267578125
+      ],
+      "bbox_normalized": [
+        0.4757855602146424,
+        0.15045893633807148,
+        0.028800256473501932,
+        0.009700086381700303
+      ],
+      "iscrowd": 0,
+      "area": 1123.8249540366232,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 96,
+      "image_id": 24,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1124.6220703125,
+        167.05113220214844,
+        44.96923828125,
+        22.242706298828125
+      ],
+      "bbox_normalized": [
+        0.48308508174935566,
+        0.09667310891328035,
+        0.019316683110502577,
+        0.012871936515525536
+      ],
+      "iscrowd": 0,
+      "area": 1000.2375595718622,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 97,
+      "image_id": 25,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1098.99658203125,
+        502.33306884765625,
+        126.15234374999999,
+        95.1312255859375
+      ],
+      "bbox_normalized": [
+        0.4720775696010524,
+        0.29070200743498625,
+        0.05418915109536082,
+        0.05505279258445457
+      ],
+      "iscrowd": 0,
+      "area": 12001.02707147598,
+      "category_name": "Carina"
+    },
+    {
+      "id": 98,
+      "image_id": 25,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1104.937744140625,
+        355.0699157714844,
+        53.3155517578125,
+        32.634857177734375
+      ],
+      "bbox_normalized": [
+        0.47462961518068086,
+        0.20548027533072014,
+        0.02290186931177513,
+        0.01888591271859628
+      ],
+      "iscrowd": 0,
+      "area": 1739.9454169683158,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 99,
+      "image_id": 25,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1117.6092529296875,
+        256.23272705078125,
+        78.586669921875,
+        18.61260986328125
+      ],
+      "bbox_normalized": [
+        0.4800727031484912,
+        0.1482828281543873,
+        0.03375716061936211,
+        0.010771186263472945
+      ],
+      "iscrowd": 0,
+      "area": 1462.7030277103186,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 100,
+      "image_id": 25,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1121.745361328125,
+        363.7723388671875,
+        84.7908935546875,
+        22.748779296875
+      ],
+      "bbox_normalized": [
+        0.4818493820137994,
+        0.21051639980740017,
+        0.036422205135175044,
+        0.013164802833839698
+      ],
+      "iscrowd": 0,
+      "area": 1928.8893238604069,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 101,
+      "image_id": 26,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        808.7060546875,
+        64.85763549804688,
+        115.49047851562499,
+        17.14312744140625
+      ],
+      "bbox_normalized": [
+        0.4680011890552662,
+        0.03314135692286504,
+        0.0668347676595052,
+        0.008759901605215253
+      ],
+      "iscrowd": 0,
+      "area": 1979.8679914623497,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 102,
+      "image_id": 26,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        807.8037719726562,
+        159.595947265625,
+        117.29504394531249,
+        23.459014892578125
+      ],
+      "bbox_normalized": [
+        0.4674790347063983,
+        0.08155132716690087,
+        0.06787907635724102,
+        0.011987232954817642
+      ],
+      "iscrowd": 0,
+      "area": 2751.626182738691,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 103,
+      "image_id": 26,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        844.5972290039062,
+        160.26670837402344,
+        70.65557861328125,
+        34.043121337890625
+      ],
+      "bbox_normalized": [
+        0.48877154456244576,
+        0.08189407683905132,
+        0.04088864503083406,
+        0.01739556532339838
+      ],
+      "iscrowd": 0,
+      "area": 2405.3364359308034,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 104,
+      "image_id": 26,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        814.5842895507812,
+        280.65155029296875,
+        145.12841796875,
+        67.61663818359375
+      ],
+      "bbox_normalized": [
+        0.4714029453418873,
+        0.14340907015481286,
+        0.08398635299117477,
+        0.03455116923024719
+      ],
+      "iscrowd": 0,
+      "area": 9813.095727950335,
+      "category_name": "Carina"
+    },
+    {
+      "id": 105,
+      "image_id": 27,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        887.2418212890625,
+        177.18502807617188,
+        55.05633544921875,
+        47.82685852050781
+      ],
+      "bbox_normalized": [
+        0.5134501280608,
+        0.09320622202849652,
+        0.031861305236816406,
+        0.02515878933219769
+      ],
+      "iscrowd": 0,
+      "area": 2633.171566187404,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 106,
+      "image_id": 27,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        836.1370849609375,
+        242.4044494628906,
+        179.5697021484375,
+        119.70913696289062
+      ],
+      "bbox_normalized": [
+        0.4838756278709129,
+        0.12751417646653898,
+        0.10391765170627171,
+        0.06297166594576045
+      ],
+      "iscrowd": 0,
+      "area": 21496.13406887278,
+      "category_name": "Carina"
+    },
+    {
+      "id": 107,
+      "image_id": 27,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        935.4985961914062,
+        96.06842041015625,
+        73.44683837890625,
+        39.171630859375
+      ],
+      "bbox_normalized": [
+        0.5413765024255823,
+        0.050535728779671885,
+        0.042503957395200374,
+        0.020605802661428196
+      ],
+      "iscrowd": 0,
+      "area": 2877.032440766692,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 108,
+      "image_id": 27,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        923.2574462890625,
+        203.79046630859375,
+        80.79156494140625,
+        46.51629638671875
+      ],
+      "bbox_normalized": [
+        0.5342925036395038,
+        0.10720171820546752,
+        0.0467543778596101,
+        0.02446938263372896
+      ],
+      "iscrowd": 0,
+      "area": 3758.124380361289,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 109,
+      "image_id": 28,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1057.437744140625,
+        268.1566162109375,
+        103.4686279296875,
+        24.484649658203125
+      ],
+      "bbox_normalized": [
+        0.6119431389702691,
+        0.12678799820848108,
+        0.05987767820005064,
+        0.01157666650506058
+      ],
+      "iscrowd": 0,
+      "area": 2533.3931054733694,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 110,
+      "image_id": 28,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1057.222412109375,
+        152.53981018066406,
+        90.2998046875,
+        26.33746337890625
+      ],
+      "bbox_normalized": [
+        0.6118185255262587,
+        0.07212284169298537,
+        0.05225683141637732,
+        0.012452701361184988
+      ],
+      "iscrowd": 0,
+      "area": 2378.267799079418,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 111,
+      "image_id": 28,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1056.9833984375,
+        254.5876007080078,
+        76.583251953125,
+        42.76725769042969
+      ],
+      "bbox_normalized": [
+        0.6116802074291088,
+        0.12037238804161125,
+        0.04431901154694734,
+        0.02022092562195257
+      ],
+      "iscrowd": 0,
+      "area": 3275.2556710503995,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 112,
+      "image_id": 28,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1040.87646484375,
+        316.4433288574219,
+        123.11914062500001,
+        70.72802734375
+      ],
+      "bbox_normalized": [
+        0.602359065303096,
+        0.14961859520445478,
+        0.07124950267650464,
+        0.03344114768026005
+      ],
+      "iscrowd": 0,
+      "area": 8707.973944664003,
+      "category_name": "Carina"
+    },
+    {
+      "id": 113,
+      "image_id": 29,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1118.7056884765625,
+        323.3447265625,
+        54.890869140625,
+        34.5262451171875
+      ],
+      "bbox_normalized": [
+        0.6473991252757885,
+        0.1525210974351415,
+        0.03176554927119502,
+        0.01628596467791863
+      ],
+      "iscrowd": 0,
+      "area": 1895.175602644682,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 114,
+      "image_id": 29,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1190.7794189453125,
+        120.49713134765625,
+        47.6806640625,
+        13.00384521484375
+      ],
+      "bbox_normalized": [
+        0.6891084600377966,
+        0.05683826950361144,
+        0.027592976888020832,
+        0.006133889252284788
+      ],
+      "iscrowd": 0,
+      "area": 620.031975209713,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 115,
+      "image_id": 29,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1172.09765625,
+        225.9783477783203,
+        60.68444824218749,
+        13.0037841796875
+      ],
+      "bbox_normalized": [
+        0.6782972547743056,
+        0.1065935602727926,
+        0.035118314954969615,
+        0.006133860462116746
+      ],
+      "iscrowd": 0,
+      "area": 789.1274680048226,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 116,
+      "image_id": 29,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1136.865234375,
+        238.101318359375,
+        123.126220703125,
+        116.74163818359375
+      ],
+      "bbox_normalized": [
+        0.6579081217447916,
+        0.1123119426223467,
+        0.07125359994393808,
+        0.055066810463959316
+      ],
+      "iscrowd": 0,
+      "area": 14373.956708237529,
+      "category_name": "Carina"
+    },
+    {
+      "id": 117,
+      "image_id": 30,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1321.6680908203125,
+        186.07699584960938,
+        121.7703857421875,
+        69.24879455566406
+      ],
+      "bbox_normalized": [
+        0.4513893752801614,
+        0.10669552514312464,
+        0.04158824649664874,
+        0.039706877612192694
+      ],
+      "iscrowd": 0,
+      "area": 8432.452425224707,
+      "category_name": "Carina"
+    },
+    {
+      "id": 118,
+      "image_id": 30,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1370.88134765625,
+        162.3790283203125,
+        34.867431640625,
+        15.98089599609375
+      ],
+      "bbox_normalized": [
+        0.46819718157658813,
+        0.0931072410093535,
+        0.01190827583354679,
+        0.009163357795925316
+      ],
+      "iscrowd": 0,
+      "area": 557.2127986997366,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 119,
+      "image_id": 30,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1371.864990234375,
+        63.88995361328124,
+        41.096923828125,
+        5.3604736328125
+      ],
+      "bbox_normalized": [
+        0.46853312508004613,
+        0.03663414771403741,
+        0.014035834640753074,
+        0.0030736660738603784
+      ],
+      "iscrowd": 0,
+      "area": 220.2989765703678,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 120,
+      "image_id": 30,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1364.7176513671875,
+        146.08383178710938,
+        51.81787109375,
+        7.147277832031251
+      ],
+      "bbox_normalized": [
+        0.4660920940461706,
+        0.08376366501554437,
+        0.01769736034622609,
+        0.004098209766072965
+      ],
+      "iscrowd": 0,
+      "area": 370.35672137141233,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 121,
+      "image_id": 31,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1001.6027221679688,
+        186.71961975097656,
+        109.19134521484388,
+        79.69140625
+      ],
+      "bbox_normalized": [
+        0.5796312049583152,
+        0.09735120946349143,
+        0.06318943588821983,
+        0.04154922119395203
+      ],
+      "iscrowd": 0,
+      "area": 8701.611850500118,
+      "category_name": "Carina"
+    },
+    {
+      "id": 122,
+      "image_id": 31,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1033.88134765625,
+        133.52088928222656,
+        46.679931640625,
+        28.747344970703125
+      ],
+      "bbox_normalized": [
+        0.5983109650788484,
+        0.06961464508979487,
+        0.027013849329065392,
+        0.014988188201617896
+      ],
+      "iscrowd": 0,
+      "area": 1341.9240980818868,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 123,
+      "image_id": 31,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1013.1265869140625,
+        42.297210693359375,
+        74.3804931640625,
+        15.568023681640625
+      ],
+      "bbox_normalized": [
+        0.5863001081678603,
+        0.02205276887036464,
+        0.04304426687735098,
+        0.008116800668217218
+      ],
+      "iscrowd": 0,
+      "area": 1157.9572790302336,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 124,
+      "image_id": 31,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1025.2349853515625,
+        147.81369018554688,
+        69.191162109375,
+        12.10845947265625
+      ],
+      "bbox_normalized": [
+        0.5933072831895616,
+        0.0770665746535698,
+        0.04004118177625868,
+        0.006313065418486053
+      ],
+      "iscrowd": 0,
+      "area": 837.7983822673559,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 125,
+      "image_id": 32,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        816.5554809570312,
+        152.98135375976562,
+        26.43304443359375,
+        24.781005859375
+      ],
+      "bbox_normalized": [
+        0.4725436811093931,
+        0.07404712185855064,
+        0.015296900713885273,
+        0.011994678537935625
+      ],
+      "iscrowd": 0,
+      "area": 655.0374289900064,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 126,
+      "image_id": 32,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        780.2100219726562,
+        181.06649780273438,
+        97.471923828125,
+        87.55953979492188
+      ],
+      "bbox_normalized": [
+        0.4515104293823242,
+        0.08764109283772235,
+        0.05640736332646123,
+        0.0423811906074162
+      ],
+      "iscrowd": 0,
+      "area": 8534.596793316305,
+      "category_name": "Carina"
+    },
+    {
+      "id": 127,
+      "image_id": 32,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        793.426513671875,
+        19.1639404296875,
+        52.86614990234375,
+        8.26031494140625
+      ],
+      "bbox_normalized": [
+        0.4591588620786314,
+        0.009275866616499274,
+        0.030593836749041523,
+        0.003998216331755203
+      ],
+      "iscrowd": 0,
+      "area": 436.69104793295264,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 128,
+      "image_id": 32,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        804.9910278320312,
+        106.72348022460938,
+        49.56201171875,
+        8.260345458984375
+      ],
+      "bbox_normalized": [
+        0.4658512892546477,
+        0.051657057223915476,
+        0.02868171974464699,
+        0.0039982311030902105
+      ],
+      "iscrowd": 0,
+      "area": 409.39933843910694,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 129,
+      "image_id": 33,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        966.8001098632812,
+        201.26599121093747,
+        49.255615234375,
+        32.205596923828125
+      ],
+      "bbox_normalized": [
+        0.5594908043190285,
+        0.13682256370559992,
+        0.028504406964337384,
+        0.021893675679013
+      ],
+      "iscrowd": 0,
+      "area": 1586.3064904734492,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 130,
+      "image_id": 33,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        981.7872314453126,
+        18.01300048828125,
+        53.2769775390625,
+        18.31396484375
+      ],
+      "bbox_normalized": [
+        0.5681639070864077,
+        0.012245411616778551,
+        0.030831584223994502,
+        0.012450010090924541
+      ],
+      "iscrowd": 0,
+      "area": 975.712693631649,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 131,
+      "image_id": 33,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        991.7766723632812,
+        76.28472900390625,
+        41.62261962890625,
+        19.9788818359375
+      ],
+      "bbox_normalized": [
+        0.5739448335435655,
+        0.05185909517600697,
+        0.024087164137098525,
+        0.013581836734151937
+      ],
+      "iscrowd": 0,
+      "area": 831.5733992680907,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 132,
+      "image_id": 33,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        979.0313110351562,
+        139.98260498046878,
+        97.915771484375,
+        69.33071899414062
+      ],
+      "bbox_normalized": [
+        0.5665690457379376,
+        0.09516152615939413,
+        0.05666421960901331,
+        0.047131692042243795
+      ],
+      "iscrowd": 0,
+      "area": 6788.570837877691,
+      "category_name": "Carina"
+    },
+    {
+      "id": 133,
+      "image_id": 34,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        991.1280517578125,
+        302.2445373535156,
+        57.51580810546875,
+        34.708648681640625
+      ],
+      "bbox_normalized": [
+        0.4257422902739744,
+        0.14475313091643469,
+        0.02470610313808795,
+        0.016622916035268498
+      ],
+      "iscrowd": 0,
+      "area": 1996.295977173373,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 134,
+      "image_id": 34,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        943.0255737304688,
+        309.8604736328125,
+        142.6927490234375,
+        91.15261840820312
+      ],
+      "bbox_normalized": [
+        0.40507971380174773,
+        0.14840060997740062,
+        0.06129413617845254,
+        0.04365546858630418
+      ],
+      "iscrowd": 0,
+      "area": 13006.817701350898,
+      "category_name": "Carina"
+    },
+    {
+      "id": 135,
+      "image_id": 34,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1041.0804443359375,
+        142.58824157714844,
+        73.947998046875,
+        19.719482421875
+      ],
+      "bbox_normalized": [
+        0.4471995035807292,
+        0.06828938772851936,
+        0.031764603972025345,
+        0.00944419656220067
+      ],
+      "iscrowd": 0,
+      "area": 1458.2162476181984,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 136,
+      "image_id": 34,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        999.776123046875,
+        257.81378173828125,
+        71.890380859375,
+        19.19085693359375
+      ],
+      "bbox_normalized": [
+        0.42945709752872635,
+        0.12347403339955998,
+        0.03088074779182775,
+        0.00919102343562919
+      ],
+      "iscrowd": 0,
+      "area": 1379.6380139738321,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 137,
+      "image_id": 35,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        943.6752319335938,
+        233.94000244140625,
+        47.06097412109375,
+        38.010833740234375
+      ],
+      "bbox_normalized": [
+        0.4053587766037774,
+        0.16818116638490743,
+        0.020215195069198347,
+        0.02732626437112464
+      ],
+      "iscrowd": 0,
+      "area": 1788.826862970367,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 138,
+      "image_id": 35,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        939.8367919921875,
+        209.45062255859378,
+        115.84246826171875,
+        63.351348876953125
+      ],
+      "bbox_normalized": [
+        0.40370996219595684,
+        0.1505755733706641,
+        0.049760510421700495,
+        0.04554374469946307
+      ],
+      "iscrowd": 0,
+      "area": 7338.776621615514,
+      "category_name": "Carina"
+    },
+    {
+      "id": 139,
+      "image_id": 35,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        985.30615234375,
+        49.31597900390625,
+        88.69189453125,
+        16.2904052734375
+      ],
+      "bbox_normalized": [
+        0.4232414743744631,
+        0.035453615387423615,
+        0.03809789283988402,
+        0.011711290635109634
+      ],
+      "iscrowd": 0,
+      "area": 1444.8269063830376,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 140,
+      "image_id": 35,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1003.406494140625,
+        136.1978759765625,
+        63.3514404296875,
+        23.530517578125
+      ],
+      "bbox_normalized": [
+        0.43101653528377365,
+        0.09791364196733465,
+        0.027212818053989476,
+        0.016916259941139468
+      ],
+      "iscrowd": 0,
+      "area": 1490.6921826303005,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 141,
+      "image_id": 36,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        954.158447265625,
+        83.73712158203125,
+        36.621337890625,
+        7.042572021484375
+      ],
+      "bbox_normalized": [
+        0.5521750273527922,
+        0.0359695539441715,
+        0.021192903871889466,
+        0.0030251598030431163
+      ],
+      "iscrowd": 0,
+      "area": 257.90840961784124,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 142,
+      "image_id": 36,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        959.79248046875,
+        159.79693603515625,
+        35.212890625,
+        7.042572021484375
+      ],
+      "bbox_normalized": [
+        0.5554354632342303,
+        0.06864129554774753,
+        0.020377830222800927,
+        0.0030251598030431163
+      ],
+      "iscrowd": 0,
+      "area": 247.98931831121445,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 143,
+      "image_id": 36,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        952.9887084960936,
+        167.19775390625,
+        40.3448486328125,
+        21.127716064453125
+      ],
+      "bbox_normalized": [
+        0.5514980951944987,
+        0.07182034102502148,
+        0.0233477133291739,
+        0.00907547940912935
+      ],
+      "iscrowd": 0,
+      "area": 852.3945065774024,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 144,
+      "image_id": 36,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        912.8568725585939,
+        203.26802062988278,
+        123.94940185546865,
+        70.6051025390625
+      ],
+      "bbox_normalized": [
+        0.5282736531010381,
+        0.08731444185132423,
+        0.07172997792561843,
+        0.030328652293411727
+      ],
+      "iscrowd": 0,
+      "area": 8751.460227660828,
+      "category_name": "Carina"
+    },
+    {
+      "id": 145,
+      "image_id": 37,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1116.8304443359375,
+        174.06600952148438,
+        70.0484619140625,
+        38.32548522949219
+      ],
+      "bbox_normalized": [
+        0.4797381633745436,
+        0.10073264439900716,
+        0.030089545495731316,
+        0.02217910024854872
+      ],
+      "iscrowd": 0,
+      "area": 2684.6412924360484,
+      "category_name": "Carina"
+    },
+    {
+      "id": 146,
+      "image_id": 37,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1087.515625,
+        291.91941833496094,
+        30.37255859375,
+        16.904708862304688
+      ],
+      "bbox_normalized": [
+        0.46714588702749144,
+        0.16893484857347277,
+        0.01304663169834622,
+        0.009782817628648546
+      ],
+      "iscrowd": 0,
+      "area": 513.439260430634,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 147,
+      "image_id": 37,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1117.205322265625,
+        55.677642822265625,
+        56.3704833984375,
+        8.986602783203125
+      ],
+      "bbox_normalized": [
+        0.47989919341306914,
+        0.03222085811473705,
+        0.02421412517115013,
+        0.00520058031435366
+      ],
+      "iscrowd": 0,
+      "area": 506.579142998904,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 148,
+      "image_id": 37,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1122.1070556640625,
+        132.47210693359375,
+        72.709716796875,
+        8.986602783203125
+      ],
+      "bbox_normalized": [
+        0.4820047489965904,
+        0.07666209891990379,
+        0.03123269621858892,
+        0.00520058031435366
+      ],
+      "iscrowd": 0,
+      "area": 653.4133433327079,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 149,
+      "image_id": 38,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        957.5304565429688,
+        189.43212890625,
+        92.5487060546875,
+        61.28401184082032
+      ],
+      "bbox_normalized": [
+        0.4113103335665673,
+        0.1096250745985243,
+        0.03975459882074205,
+        0.03546528463010435
+      ],
+      "iscrowd": 0,
+      "area": 5671.755997708068,
+      "category_name": "Carina"
+    },
+    {
+      "id": 150,
+      "image_id": 38,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        978.6749877929688,
+        144.1000213623047,
+        44.89202880859375,
+        33.81803894042969
+      ],
+      "bbox_normalized": [
+        0.4203930359935433,
+        0.08339121606614855,
+        0.01928351752946467,
+        0.019570624386822735
+      ],
+      "iscrowd": 0,
+      "area": 1518.1603783639148,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 151,
+      "image_id": 38,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        992.4024658203125,
+        55.74359130859375,
+        38.4368896484375,
+        8.236480712890625
+      ],
+      "bbox_normalized": [
+        0.4262897189949796,
+        0.03225902274802879,
+        0.016510691429741195,
+        0.004766481894033926
+      ],
+      "iscrowd": 0,
+      "area": 316.5847002528608,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 152,
+      "image_id": 38,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1002.0116577148438,
+        129.87191772460938,
+        35.69146728515625,
+        6.863739013671875
+      ],
+      "bbox_normalized": [
+        0.43041737874348956,
+        0.07515735979433413,
+        0.015331386290874677,
+        0.00397207118846752
+      ],
+      "iscrowd": 0,
+      "area": 244.97691646032035,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 153,
+      "image_id": 39,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1066.470458984375,
+        331.8193664550781,
+        123.5362548828125,
+        84.2591552734375
+      ],
+      "bbox_normalized": [
+        0.45810586726132946,
+        0.21989354967201996,
+        0.053065401581964135,
+        0.055837743719971834
+      ],
+      "iscrowd": 0,
+      "area": 10409.06048206985,
+      "category_name": "Carina"
+    },
+    {
+      "id": 154,
+      "image_id": 39,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1148.3255615234375,
+        121.693359375,
+        45.103759765625,
+        16.705108642578125
+      ],
+      "bbox_normalized": [
+        0.4932669937815453,
+        0.08064503603379722,
+        0.019374467253275345,
+        0.011070317191900679
+      ],
+      "iscrowd": 0,
+      "area": 753.4632070735097,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 155,
+      "image_id": 39,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1141.6434326171875,
+        211.90097045898435,
+        60.13842773437501,
+        20.046142578125
+      ],
+      "bbox_normalized": [
+        0.49039666349535543,
+        0.14042476504902873,
+        0.02583265796150129,
+        0.013284388719764745
+      ],
+      "iscrowd": 0,
+      "area": 1205.5434967875483,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 156,
+      "image_id": 39,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1100.6793212890625,
+        308.6439208984375,
+        53.953125,
+        36.31109619140625
+      ],
+      "bbox_normalized": [
+        0.4728003957427244,
+        0.20453540152315275,
+        0.023175740979381444,
+        0.02406301934486829
+      ],
+      "iscrowd": 0,
+      "area": 1959.0971117019653,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 157,
+      "image_id": 40,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        910.7603759765625,
+        161.87762451171875,
+        103.8671875,
+        31.73724365234375
+      ],
+      "bbox_normalized": [
+        0.3912200927734375,
+        0.0649849957895298,
+        0.044616489475945015,
+        0.012740764212101064
+      ],
+      "iscrowd": 0,
+      "area": 3296.458237171173,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 158,
+      "image_id": 40,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        896.3343505859375,
+        291.711669921875,
+        124.06359863281251,
+        34.62237548828125
+      ],
+      "bbox_normalized": [
+        0.3850233464716226,
+        0.1171062504704436,
+        0.05329192381134558,
+        0.013898986546881273
+      ],
+      "iscrowd": 0,
+      "area": 4295.376496292652,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 159,
+      "image_id": 40,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        847.2859497070312,
+        311.9080810546875,
+        37.50762939453125,
+        28.85198974609375
+      ],
+      "bbox_normalized": [
+        0.363954445750443,
+        0.12521400283207046,
+        0.01611152465400827,
+        0.011582492872779506
+      ],
+      "iscrowd": 0,
+      "area": 1082.1697386913002,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 160,
+      "image_id": 40,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        821.4884033203125,
+        310.7586364746094,
+        183.5985107421875,
+        126.92245483398438
+      ],
+      "bbox_normalized": [
+        0.3528730254812339,
+        0.12475256381959429,
+        0.0788653396658881,
+        0.050952410611796214
+      ],
+      "iscrowd": 0,
+      "area": 23302.773687262088,
+      "category_name": "Carina"
+    },
+    {
+      "id": 161,
+      "image_id": 41,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1011.1165161132812,
+        260.8001708984375,
+        59.88873291015625,
+        34.903411865234375
+      ],
+      "bbox_normalized": [
+        0.5851368727507414,
+        0.13719104202968832,
+        0.03465783154522931,
+        0.018360553322059114
+      ],
+      "iscrowd": 0,
+      "area": 2090.3211108502,
+      "category_name": "Carina"
+    },
+    {
+      "id": 162,
+      "image_id": 41,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1022.0489501953126,
+        227.2344207763672,
+        32.52978515625,
+        24.661758422851562
+      ],
+      "bbox_normalized": [
+        0.5914635128445096,
+        0.11953415085553246,
+        0.018825107150607638,
+        0.012973044935745167
+      ],
+      "iscrowd": 0,
+      "area": 802.2417030707002,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 163,
+      "image_id": 41,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1045.0057373046875,
+        111.625732421875,
+        39.9403076171875,
+        14.26446533203125
+      ],
+      "bbox_normalized": [
+        0.6047486905698423,
+        0.05871948049546291,
+        0.023113603945131653,
+        0.007503664035787086
+      ],
+      "iscrowd": 0,
+      "area": 569.7271333560348,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 164,
+      "image_id": 41,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1033.59423828125,
+        174.38916015625,
+        45.6461181640625,
+        19.97021484375
+      ],
+      "bbox_normalized": [
+        0.5981448138201678,
+        0.09173548666820094,
+        0.026415577641239873,
+        0.010505110385981063
+      ],
+      "iscrowd": 0,
+      "area": 911.5627865195274,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 165,
+      "image_id": 42,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        895.7244873046874,
+        328.2132263183594,
+        152.835205078125,
+        106.78363037109375
+      ],
+      "bbox_normalized": [
+        0.38476137770819907,
+        0.20707459073713524,
+        0.06565086128785438,
+        0.06737137562845032
+      ],
+      "iscrowd": 0,
+      "area": 16320.29804675281,
+      "category_name": "Carina"
+    },
+    {
+      "id": 166,
+      "image_id": 42,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        971.0339965820312,
+        248.19374084472656,
+        63.3302001953125,
+        44.29893493652344
+      ],
+      "bbox_normalized": [
+        0.4171108232740684,
+        0.15658911094304515,
+        0.027203694241972724,
+        0.027948854849541602
+      ],
+      "iscrowd": 0,
+      "area": 2805.4604179691523,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 167,
+      "image_id": 42,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        967.0928344726562,
+        106.55999755859375,
+        49.85028076171875,
+        9.97003173828125
+      ],
+      "bbox_normalized": [
+        0.4154178842236496,
+        0.06723028237135252,
+        0.021413350842662694,
+        0.006290240844341483
+      ],
+      "iscrowd": 0,
+      "area": 497.00888135656714,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 168,
+      "image_id": 42,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        963.1047973632812,
+        216.23065185546875,
+        55.83233642578125,
+        11.96405029296875
+      ],
+      "bbox_normalized": [
+        0.4137048098639524,
+        0.1364231241990339,
+        0.023982962382208442,
+        0.007548296714806783
+      ],
+      "iscrowd": 0,
+      "area": 667.980880971998,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 169,
+      "image_id": 43,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1372.5330810546875,
+        301.9226989746094,
+        128.4349365234375,
+        74.98388671875
+      ],
+      "bbox_normalized": [
+        0.5895760657451407,
+        0.18706486925316565,
+        0.05516964627295425,
+        0.04645841804135688
+      ],
+      "iscrowd": 0,
+      "area": 9630.550731003284,
+      "category_name": "Carina"
+    },
+    {
+      "id": 170,
+      "image_id": 43,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1408.8470458984375,
+        281.98431396484375,
+        46.662109375,
+        22.564361572265625
+      ],
+      "bbox_normalized": [
+        0.6051748478945178,
+        0.17471147085801966,
+        0.020043861415378006,
+        0.013980397504501627
+      ],
+      "iscrowd": 0,
+      "area": 1052.9007076621056,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 171,
+      "image_id": 43,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1421.6907958984375,
+        55.09230041503907,
+        69.69482421875,
+        3.4847412109375004
+      ],
+      "bbox_normalized": [
+        0.6106919226367858,
+        0.034134015127037835,
+        0.029937639269222507,
+        0.002159071382241326
+      ],
+      "iscrowd": 0,
+      "area": 242.8684261441231,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 172,
+      "image_id": 43,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1409.8585205078125,
+        141.0703125,
+        56.626953125,
+        6.098297119140625
+      ],
+      "bbox_normalized": [
+        0.6056093301150397,
+        0.08740415892193308,
+        0.024324292579467353,
+        0.0037783749189223203
+      ],
+      "iscrowd": 0,
+      "area": 345.3279851078987,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 173,
+      "image_id": 44,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        758.4601440429688,
+        123.21820068359375,
+        100.2037353515625,
+        25.76666259765625
+      ],
+      "bbox_normalized": [
+        0.4389236944693106,
+        0.06495424390279059,
+        0.057988272772894964,
+        0.0135828479692442
+      ],
+      "iscrowd": 0,
+      "area": 2581.915839828551,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 174,
+      "image_id": 44,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        747.00830078125,
+        254.91448974609372,
+        108.7926025390625,
+        22.9036865234375
+      ],
+      "bbox_normalized": [
+        0.4322964703595197,
+        0.1343776962288317,
+        0.06295868202492043,
+        0.01207363548942409
+      ],
+      "iscrowd": 0,
+      "area": 2491.751664623618,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 175,
+      "image_id": 44,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        707.34765625,
+        265.99169921875,
+        188.95556640625,
+        146.0111083984375
+      ],
+      "bbox_normalized": [
+        0.40934470847800924,
+        0.14021702647272008,
+        0.10934928611472801,
+        0.07696948255057327
+      ],
+      "iscrowd": 0,
+      "area": 27589.611689031124,
+      "category_name": "Carina"
+    },
+    {
+      "id": 176,
+      "image_id": 44,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        738.41943359375,
+        300.9791564941406,
+        66.608642578125,
+        36.96124267578125
+      ],
+      "bbox_normalized": [
+        0.4273260611074942,
+        0.15866059910075941,
+        0.03854666815863715,
+        0.01948404990816091
+      ],
+      "iscrowd": 0,
+      "area": 2461.938202634454,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 177,
+      "image_id": 45,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        737.5864868164062,
+        144.2012939453125,
+        51.95263671875,
+        35.495147705078125
+      ],
+      "bbox_normalized": [
+        0.42684403172245733,
+        0.08413144337532819,
+        0.03006518328631366,
+        0.020708954320348964
+      ],
+      "iscrowd": 0,
+      "area": 1844.0665140002966,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 178,
+      "image_id": 45,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        667.2278442382812,
+        207.98175048828125,
+        148.290771484375,
+        111.09860229492189
+      ],
+      "bbox_normalized": [
+        0.38612722467493127,
+        0.1213429116034313,
+        0.08581641868308738,
+        0.06481832105888091
+      ],
+      "iscrowd": 0,
+      "area": 16474.897445149723,
+      "category_name": "Carina"
+    },
+    {
+      "id": 179,
+      "image_id": 45,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        692.5255737304688,
+        39.77252960205078,
+        79.5579833984375,
+        6.62982177734375
+      ],
+      "bbox_normalized": [
+        0.4007671144273546,
+        0.02320450968614398,
+        0.046040499651873554,
+        0.00386804071023556
+      ],
+      "iscrowd": 0,
+      "area": 527.4552508965135,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 180,
+      "image_id": 45,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        681.2549438476562,
+        129.2752456665039,
+        73.591064453125,
+        5.303871154785156
+      ],
+      "bbox_normalized": [
+        0.39424475917109736,
+        0.07542313049387626,
+        0.04258742155852141,
+        0.0030944405803880726
+      ],
+      "iscrowd": 0,
+      "area": 390.31752400286496,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 181,
+      "image_id": 46,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        876.4318847656249,
+        281.8067626953125,
+        48.17333984375,
+        32.259307861328125
+      ],
+      "bbox_normalized": [
+        0.5071943777578848,
+        0.18749618276467897,
+        0.027878090187355323,
+        0.02146327868351838
+      ],
+      "iscrowd": 0,
+      "area": 1554.0386007279158,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 182,
+      "image_id": 46,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        887.55517578125,
+        218.2628631591797,
+        105.59246826171875,
+        75.42951965332031
+      ],
+      "bbox_normalized": [
+        0.5136314674660012,
+        0.14521813916113085,
+        0.061106752466272424,
+        0.05018597448657373
+      ],
+      "iscrowd": 0,
+      "area": 7964.789159989916,
+      "category_name": "Carina"
+    },
+    {
+      "id": 183,
+      "image_id": 46,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        889.8944091796875,
+        74.65040588378906,
+        66.2611083984375,
+        4.87213134765625
+      ],
+      "bbox_normalized": [
+        0.5149851904975044,
+        0.04966760205175586,
+        0.038345548841688365,
+        0.0032416043563913838
+      ],
+      "iscrowd": 0,
+      "area": 322.83282335847616,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 184,
+      "image_id": 46,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        909.3829956054688,
+        180.8629913330078,
+        66.26104736328125,
+        4.872161865234375
+      ],
+      "bbox_normalized": [
+        0.5262633076420536,
+        0.12033465823886082,
+        0.03834551352041739,
+        0.003241624660834581
+      ],
+      "iscrowd": 0,
+      "area": 322.83454811386764,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 185,
+      "image_id": 47,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1156.4339599609375,
+        241.82244873046875,
+        133.120849609375,
+        87.5828857421875
+      ],
+      "bbox_normalized": [
+        0.49674998280109,
+        0.19407901182220605,
+        0.05718249553667311,
+        0.07029124056355338
+      ],
+      "iscrowd": 0,
+      "area": 11659.108161240816,
+      "category_name": "Carina"
+    },
+    {
+      "id": 186,
+      "image_id": 47,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1182.6090087890625,
+        36.605072021484375,
+        45.0859375,
+        39.67144775390626
+      ],
+      "bbox_normalized": [
+        0.5079935604764014,
+        0.029378067432973012,
+        0.01936681164089347,
+        0.03183904314117677
+      ],
+      "iscrowd": 0,
+      "area": 1788.6244139671328,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 187,
+      "image_id": 47,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1222.098876953125,
+        97.77655029296875,
+        44.03125,
+        10.161041259765625
+      ],
+      "bbox_normalized": [
+        0.524956562265088,
+        0.07847235176000703,
+        0.018913767182130583,
+        0.008154928779908206
+      ],
+      "iscrowd": 0,
+      "area": 447.4033479690552,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 188,
+      "image_id": 47,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1211.937744140625,
+        177.37149047851565,
+        47.4183349609375,
+        10.161041259765625
+      ],
+      "bbox_normalized": [
+        0.5205918144933956,
+        0.14235272109030148,
+        0.020368700584595147,
+        0.008154928779908206
+      ],
+      "iscrowd": 0,
+      "area": 481.81965800747275,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 189,
+      "image_id": 48,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1187.248291015625,
+        224.47946166992185,
+        69.80029296875,
+        24.06903076171875
+      ],
+      "bbox_normalized": [
+        0.5099863793022444,
+        0.12990709587379737,
+        0.029982943715098798,
+        0.013928837246365018
+      ],
+      "iscrowd": 0,
+      "area": 1680.0253986418247,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 190,
+      "image_id": 48,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1184.8414306640625,
+        330.3832702636719,
+        67.393310546875,
+        24.06903076171875
+      ],
+      "bbox_normalized": [
+        0.5089525045807829,
+        0.19119402214332862,
+        0.028949016557935997,
+        0.013928837246365018
+      ],
+      "iscrowd": 0,
+      "area": 1622.091664686799,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 191,
+      "image_id": 48,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1159.6046142578125,
+        377.9451599121094,
+        144.028076171875,
+        95.56307983398438
+      ],
+      "bbox_normalized": [
+        0.4981119477052459,
+        0.21871826383802626,
+        0.061867730314379296,
+        0.055302708237259475
+      ],
+      "iscrowd": 0,
+      "area": 13763.766541548073,
+      "category_name": "Carina"
+    },
+    {
+      "id": 192,
+      "image_id": 48,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1214.0609130859375,
+        111.72140502929688,
+        54.6754150390625,
+        52.57557678222656
+      ],
+      "bbox_normalized": [
+        0.5215038286451622,
+        0.0646535908734357,
+        0.023486003023652276,
+        0.030425681008232966
+      ],
+      "iscrowd": 0,
+      "area": 2874.5914814863354,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 193,
+      "image_id": 49,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1388.168212890625,
+        130.58505249023438,
+        49.352783203125,
+        37.19061279296875
+      ],
+      "bbox_normalized": [
+        0.5962921876677942,
+        0.08895439542931496,
+        0.021199649142235825,
+        0.025334204899842474
+      ],
+      "iscrowd": 0,
+      "area": 1835.4602503627539,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 194,
+      "image_id": 49,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1228.2904052734375,
+        330.5625305175781,
+        159.78417968750003,
+        114.16522216796875
+      ],
+      "bbox_normalized": [
+        0.5276161534679714,
+        0.22517883550243742,
+        0.06863581601696736,
+        0.07776922491006046
+      ],
+      "iscrowd": 0,
+      "area": 18241.79637295008,
+      "category_name": "Carina"
+    },
+    {
+      "id": 195,
+      "image_id": 49,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1298.9971923828125,
+        183.98855590820315,
+        56.7452392578125,
+        10.80859375
+      ],
+      "bbox_normalized": [
+        0.5579884847005209,
+        0.12533280375218198,
+        0.024375102773974443,
+        0.0073628022820163485
+      ],
+      "iscrowd": 0,
+      "area": 613.3362383842468,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 196,
+      "image_id": 49,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1288.1885986328125,
+        310.98968505859375,
+        75.6602783203125,
+        14.759613037109375
+      ],
+      "bbox_normalized": [
+        0.5533456179694212,
+        0.21184583450857886,
+        0.03250011955339884,
+        0.010054232314107204
+      ],
+      "iscrowd": 0,
+      "area": 1116.7164302878082,
+      "category_name": "Bottom of the second thoracic vertebra"
+    },
+    {
+      "id": 197,
+      "image_id": 50,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1227.02734375,
+        212.68447875976562,
+        41.03955078125,
+        23.75970458984375
+      ],
+      "bbox_normalized": [
+        0.5270736012671822,
+        0.12308129557856808,
+        0.017628673016000858,
+        0.013749829045048467
+      ],
+      "iscrowd": 0,
+      "area": 975.0876030623913,
+      "category_name": "ET tube tip"
+    },
+    {
+      "id": 198,
+      "image_id": 50,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1200.8605957031252,
+        392.1282958984375,
+        77.7591552734375,
+        56.159423828125
+      ],
+      "bbox_normalized": [
+        0.5158335892195555,
+        0.22692609716344764,
+        0.033401699000617485,
+        0.03249966656720197
+      ],
+      "iscrowd": 0,
+      "area": 4366.909357517958,
+      "category_name": "Carina"
+    },
+    {
+      "id": 199,
+      "image_id": 50,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1220.462890625,
+        238.10720825195312,
+        79.91918945312499,
+        8.639892578125
+      ],
+      "bbox_normalized": [
+        0.5242538189969931,
+        0.13779352329395436,
+        0.03432954873416022,
+        0.004999937834563079
+      ],
+      "iscrowd": 0,
+      "area": 690.4932118058204,
+      "category_name": "Top of the first thoracic vertebra"
+    },
+    {
+      "id": 200,
+      "image_id": 50,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1218.302978515625,
+        296.4266052246094,
+        53.9993896484375,
+        23.759765625
+      ],
+      "bbox_normalized": [
+        0.5233260216991517,
+        0.1715431743197971,
+        0.023195614110153567,
+        0.013749864366319444
+      ],
+      "iscrowd": 0,
+      "area": 1283.0128419399261,
+      "category_name": "Bottom of the second thoracic vertebra"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "tip",
+      "supercategory": "medical_device"
+    },
+    {
+      "id": 2,
+      "name": "carina",
+      "supercategory": "anatomical_landmark"
+    },
+    {
+      "id": 3,
+      "name": "top_thoracic_vertebra",
+      "supercategory": "anatomical_landmark"
+    },
+    {
+      "id": 4,
+      "name": "bottom_thoracic_vertebra",
+      "supercategory": "anatomical_landmark"
+    }
+  ]
+}
