@@ -49,7 +49,7 @@ See `models/CarinaNet/model_weights.md` for detailed instructions.
 
 ### 4. Download Image Data
 
-Please see huggingface for further instructions on downlaoding the image data.
+Please see data repository for instructions on accessing the data.
 
 ## Quick Start
 
