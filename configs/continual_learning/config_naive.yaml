@@ -1,0 +1,40 @@
+# =============================================================================
+# Configuration for Global Continual Learning with Our Hospital Data
+#
+# IMPORTANT: All paths are relative to the repository root directory.
+# Run all commands from the repository root:
+#   cd /path/to/MAIDA-NICU-continual-learning
+#   python scripts/global_CL_sequential.py -c configs/continual_learning/config_naive.yaml
+# =============================================================================
+
+# Data paths (relative to repository root)
+data_path: "data"
+
+# Annotation paths
+annos_dir: "data/annotations/preprocessed_640x640"
+test_annos_path: "data/annotations/preprocessed_640x640/hospital-test-annotations.json"
+train_annos_path: "data/annotations/preprocessed_640x640/hospital-train-annotations.json"
+
+# Output directory (global_CL will be appended automatically by the code)
+output_path: "outputs"
+
+# Model configuration
+model_type: "hospitals-only"  # Use our hospital data
+
+# Simulation settings
+number_of_simulation: 50  # Number of different random hospital orderings to test
+skip_simulation: 0       # Start from simulation 0
+
+# Continual learning method
+update_method: 'naive'   # Simple continual learning (alternatives: 'ewc', 'rehearsal')
+update_order: 'global_sequential'  # Process hospitals sequentially
+
+# Evaluation strategy
+eval_current_hospital_only: true  # Only evaluate on current hospital (deployment-focused evaluation)
+
+# Model settings
+batch_size: 16
+
+# Wandb tracking (disabled to allow running from different accounts without authentication)
+use_wandb: false  # Set to true if you have wandb configured and want tracking
+wandb_project_name: 'hospital-continual-learning'

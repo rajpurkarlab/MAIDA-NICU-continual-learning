@@ -1,0 +1,22 @@
+# =============================================================================
+# Fine-tuning Configuration
+#
+# IMPORTANT: All paths are relative to the repository root directory.
+# Run all commands from the repository root:
+#   cd /path/to/MAIDA-NICU-continual-learning
+#   python scripts/fine_tune_CarinaNet.py -c configs/fine_tuning/$(basename "$file")
+# =============================================================================
+
+data_path: 'data'
+output_path: 'outputs'
+annos_dir: 'data/annotations/preprocessed_640x640'
+train_annos_path: 'data/annotations/preprocessed_640x640/American-University-of-Beirut-train-annotations.json'
+test_annos_path: 'data/annotations/preprocessed_640x640/American-University-of-Beirut-test-annotations.json'
+
+use_all-but-target-hospital_only: False
+target_hospital: 'American-University-of-Beirut'
+use_all-but-target-hospital_only: False
+use_all-hospitals: False
+model_name: 'CarinaNet'
+number_of_simulation: 10
+model_path: "" # Default model is saved in the corresponding model folder
