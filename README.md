@@ -1,10 +1,10 @@
 # International Study Extending Adult AI Radiograph Interpretation Models to Neonates Through Continual Learning
 
-This repository contains code for the MAIDA study "International Study Extending Adult AI Radiograph Interpretation Models to Neonates Through Continual Learning". Here, continual learning across multiple hospitals is used to adapt adult endotracheal tube (ETT) placement detection models to interpret neonatal chest X-rays from neonatal intensive care units (NICUs).
+This repository contains code for the study "Repurposing Adult AI Radiograph Interpretation Models for Neonatal Care Through Continual Learning: An International Multi-Center Study". Here, continual learning across multiple hospitals is used to adapt adult endotracheal tube (ETT) placement detection models to interpret neonatal chest X-rays from neonatal intensive care units (NICUs).
 
 ## Overview
 
-This system implements continual learning methods to train ETT detection models sequentially across 31 hospitals from 21 countries worldwide as well as compare against conventional single-site fine-tuning and inference directly from the initial adult model.
+This system implements continual learning methods to train ETT detection models sequentially across 31 hospitals from 20 countries worldwide as well as compare against conventional single-site fine-tuning and inference directly from the initial adult model.
 
 ### Key Features
 
@@ -234,7 +234,7 @@ python clinical_precision_recall.py
       "id": 1,
       "image_id": "hospital_image_001.png",
       "category_id": 1,
-      "bbox": [x, y, width, height]
+      "bbox": "[x, y, width, height]"
     }
   ],
   "categories": [
