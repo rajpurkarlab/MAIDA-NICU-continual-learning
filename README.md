@@ -1,4 +1,4 @@
-# International Study Extending Adult AI Radiograph Interpretation Models to Neonates Through Continual Learning
+# Repurposing Adult AI Radiograph Interpretation Models for Neonatal Care Through Continual Learning: An International Multi-Center Study
 
 This repository contains code for the study "Repurposing Adult AI Radiograph Interpretation Models for Neonatal Care Through Continual Learning: An International Multi-Center Study". Here, continual learning across multiple hospitals is used to adapt adult endotracheal tube (ETT) placement detection models to interpret neonatal chest X-rays from neonatal intensive care units (NICUs).
 
