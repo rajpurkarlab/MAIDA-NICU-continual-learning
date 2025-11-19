@@ -87,8 +87,16 @@ Edit `configs/continual_learning/config_naive.yaml` to adjust:
 ## Repository Structure
 
 ```
-├── data/                           # Annotations and metadata
-│   ├── annotations/
+├── data/                           # Data directory (see data/README.md for setup)
+│   ├── README.md                  # Data download and setup instructions
+│   │
+│   ├── images/                    # ⚠ DOWNLOAD REQUIRED - Place images here
+│   │   ├── original/
+│   │   │   └── hospitals/         # Original resolution images (3,065 images)
+│   │   └── preprocessed_640x640/
+│   │       └── hospitals/         # Preprocessed 640x640 images (3,065 images)
+│   │
+│   ├── annotations/               # ✓ INCLUDED - COCO format annotations
 │   │   ├── original/              # Original resolution annotations (32 hospitals)
 │   │   │   ├── {hospital}-train-annotations.json  # Per-hospital train set
 │   │   │   ├── {hospital}-test-annotations.json   # Per-hospital test set
@@ -97,12 +105,15 @@ Edit `configs/continual_learning/config_naive.yaml` to adjust:
 │   │   └── preprocessed_640x640/  # 640x640 preprocessed annotations (32 hospitals)
 │   │       ├── {hospital}-train-annotations.json
 │   │       ├── {hospital}-test-annotations.json
-│   │       ├── hospital-train-annotations.json  # Combined train set
-│   │       └── hospital-test-annotations.json   # Combined test set
-│   ├── demographics/              # Patient demographics CSV files (32 hospitals)
-│   │   └── {hospital}_nicu_settings.csv  # Age, weight, gestational age per image
-│   ├── clinical_annotations.json  # ETT placement labels (Low/Normal/High)
-│   └── mappings.csv               # Maps random image IDs to hospital names
+│   │       ├── hospital-train-annotations.json  # Combined train set (all hospitals)
+│   │       └── hospital-test-annotations.json   # Combined test set (all hospitals)
+│   │
+│   ├── demographics/              # ⚠ DOWNLOAD REQUIRED - Patient demographics
+│   │   ├── README.md              # Demographics download instructions
+│   │   └── {hospital}_nicu_settings.csv  # Age, weight, gestational age (32 files)
+│   │
+│   ├── clinical_annotations.json  # ✓ INCLUDED - ETT placement labels (Low/Normal/High)
+│   └── mappings.csv               # ✓ INCLUDED - Maps random image IDs to hospital names
 │
 ├── preprocessing/                  # Data preprocessing pipeline
 │   ├── convert_to_coco_latest.py  # Reference: Convert to COCO format
