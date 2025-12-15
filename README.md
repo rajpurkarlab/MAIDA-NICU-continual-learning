@@ -14,15 +14,6 @@ This system implements continual learning methods to train ETT detection models 
 - **Clinical Analysis Tools**: Precision/recall analysis and ETT placement classification
 - **Leave-One-Out Validation**: Holdout analysis for generalization testing
 
-### Dataset
-
-- **32 Hospitals**: 31 hospitals for main experiments + 1 supplemental (New Somerset Hospital, excluded from primary experiments due to low resolution images)
-- **Countries**: 20 countries across Americas, Europe, Asia, Middle East, etc.
-- **Images**: 3,065 NICU chest X-rays (640x640 RGB preprocessed)
-- **Annotations**: COCO format with bounding boxes for ETT tip and carina
-- **Clinical Metadata**: Patient age, weight, gestational age, report
-- **Demographics**: Sex, race
-
 ## Installation
 
 ### 1. Clone Repository
@@ -46,10 +37,6 @@ Download the CarinaNet pretrained model from the official repository:
 - Place the downloaded model as: `models/CarinaNet/model.pt`
 
 See `models/CarinaNet/model_weights.md` for detailed instructions.
-
-### 4. Download Image Data
-
-Please see data repository for instructions on accessing the data.
 
 ## Quick Start
 
@@ -90,7 +77,7 @@ Edit `configs/continual_learning/config_naive.yaml` to adjust:
 ├── data/                           # Data directory (see data/README.md for setup)
 │   ├── README.md                  # Data download and setup instructions
 │   │
-│   ├── images/                    # ⚠ DOWNLOAD REQUIRED - Place images here
+│   ├── images/                    # ⚠ Place images here
 │   │   ├── original/
 │   │   │   └── hospitals/         # Original resolution images (3,065 images)
 │   │   └── preprocessed_640x640/
@@ -107,13 +94,7 @@ Edit `configs/continual_learning/config_naive.yaml` to adjust:
 │   │       ├── {hospital}-test-annotations.json
 │   │       ├── hospital-train-annotations.json  # Combined train set (all hospitals)
 │   │       └── hospital-test-annotations.json   # Combined test set (all hospitals)
-│   │
-│   ├── demographics/              # ⚠ DOWNLOAD REQUIRED - Patient demographics
-│   │   ├── README.md              # Demographics download instructions
-│   │   └── {hospital}_nicu_settings.csv  # Age, weight, gestational age (32 files)
-│   │
 │   ├── clinical_annotations.json  # ✓ INCLUDED - ETT placement labels (Low/Normal/High)
-│   └── mappings.csv               # ✓ INCLUDED - Maps random image IDs to hospital names
 │
 ├── preprocessing/                  # Data preprocessing pipeline
 │   ├── convert_to_coco_latest.py  # Reference: Convert to COCO format
@@ -255,15 +236,7 @@ python clinical_precision_recall.py
 }
 ```
 
-### Demographics CSV
-
-Required columns: `file_name`, `age_days`, `weight_grams`, `gestational_age_weeks`
-
 ## Preprocessing Pipeline
-
-**Most users do not need to run preprocessing** - the repository includes preprocessed 640x640 annotations and you only need to download the raw images.
-
-If you have your own NICU chest X-ray data or need to regenerate preprocessed images:
 
 **Step 1**: Preprocess your raw images to 640x640 format:
 ```bash
@@ -277,8 +250,6 @@ This will:
 - Resize images to 640x640 (preserving aspect ratio with padding)
 - Convert grayscale to 3-channel RGB
 - Update bounding box coordinates
-
-**Reference Only**: The script `convert_to_coco_latest.py` shows how we converted raw annotations to COCO format. Most users don't need this since preprocessed annotations are already provided.
 
 See `preprocessing/README.md` for detailed instructions and configuration options.
 
