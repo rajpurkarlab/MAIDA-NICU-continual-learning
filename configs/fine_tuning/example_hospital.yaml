@@ -1,0 +1,37 @@
+# =============================================================================
+# Fine-tuning Configuration (single hospital)
+#
+# This is a generic, reusable example for fine-tuning CarinaNet on ONE hospital.
+# To use it for your own hospital:
+#   1. Set `target_hospital` to your hospital's name.
+#   2. Point `train_annos_path` and `test_annos_path` at that hospital's
+#      train/test annotation files.
+#
+# IMPORTANT: All paths are relative to the repository root directory.
+# Run from the repository root:
+#   cd /path/to/MAIDA-NICU-continual-learning
+#   python scripts/global_single_hospital_ft.py -c configs/fine_tuning/example_hospital.yaml
+# =============================================================================
+
+# Data paths (relative to repository root)
+data_path: 'data'
+output_path: 'outputs'
+
+# Annotation paths (COCO format)
+annos_dir: 'data/annotations/preprocessed_640x640'
+train_annos_path: 'data/annotations/preprocessed_640x640/Example-Hospital-train-annotations.json'
+test_annos_path: 'data/annotations/preprocessed_640x640/Example-Hospital-test-annotations.json'
+
+# Hospital to fine-tune on (change to match your hospital)
+target_hospital: 'Example-Hospital'
+
+# Hospital selection mode (keep both False to fine-tune on the single target hospital)
+use_all-but-target-hospital_only: False
+use_all-hospitals: False
+
+# Model configuration
+model_name: 'CarinaNet'
+model_path: ""  # Empty: use the default model saved in the model folder
+
+# Number of different random orderings / runs to average over
+number_of_simulation: 10
