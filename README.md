@@ -6,7 +6,7 @@ This repository contains code for the study "Repurposing Adult AI Radiograph Int
 
 This system implements continual learning methods to train ETT detection models sequentially across 30 hospitals from 20 countries worldwide as well as compare against conventional single-site fine-tuning and inference directly from the initial adult model.
 
-<img width="1169" height="493" alt="image" src="https://github.com/user-attachments/assets/7b041324-cc1b-4662-849f-626d56d8e840" />
+<img width="1188" height="507" alt="image" src="https://github.com/user-attachments/assets/b74d41c2-5db4-4189-8462-27aa33d1a49c" />
 
 ### Key Features
 
