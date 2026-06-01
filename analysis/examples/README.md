@@ -8,7 +8,7 @@ Before running these scripts, you must configure paths to your experiment output
 
 ### Step 1: Configure Experiment Output Paths
 
-Edit `analysis/utils/prediction_loading_utils.py` and update the following paths (lines 40-91):
+Edit `analysis/utils/prediction_loading_utils.py` and update the paths in the CONFIGURATION block near the top of the file:
 
 ```python
 # ==============================================================================
@@ -45,18 +45,18 @@ DEFAULT_DIRECT_PATH = Path("/path/to/your/direct_prediction/nicu_test_prediction
 
 ### Step 2: Configure Output Directories for Generated Figures
 
-#### For create_localization_comparison.py
+#### For localization_comparison.py
 
-Edit line 57 in `create_localization_comparison.py`:
+Edit the `OUTPUT_DIR` line near the top of `localization_comparison.py`:
 
 ```python
 # Output directory for generated figures and tables
 OUTPUT_DIR = Path("/path/to/output/etable4")  # UPDATE THIS PATH
 ```
 
-#### For create_clinical_precision_recall.py
+#### For clinical_precision_recall.py
 
-Edit line 89 in `create_clinical_precision_recall.py`:
+Edit the `DEFAULT_OUTPUT_DIR` line near the top of `clinical_precision_recall.py`:
 
 ```python
 # Default output directory for generated figures and tables
@@ -75,7 +75,7 @@ The following paths are automatically found using relative paths from the reposi
 
 ## Scripts
 
-### 1. create_localization_comparison.py
+### 1. localization_comparison.py
 
 Compares localization performance across three methods:
 - **Continual Learning (CL)**: Sequential training across hospitals
@@ -86,10 +86,7 @@ Compares localization performance across three methods:
 ```bash
 # After configuring paths (see Configuration section above)
 cd analysis/examples
-python create_localization_comparison.py
-
-# Optional: run quick sanity check with only 1 simulation
-python create_localization_comparison.py --sanity-check
+python localization_comparison.py
 ```
 
 **Outputs:**
@@ -103,7 +100,7 @@ python create_localization_comparison.py --sanity-check
 - Statistical comparisons using t-tests
 - Hospital-level and aggregate performance
 
-### 2. create_clinical_precision_recall.py
+### 2. clinical_precision_recall.py
 
 Analyzes clinical performance for "too deep" ETT placement detection:
 - Precision@K and Recall@K metrics
@@ -114,10 +111,10 @@ Analyzes clinical performance for "too deep" ETT placement detection:
 ```bash
 # After configuring paths (see Configuration section above)
 cd analysis/examples
-python create_clinical_precision_recall.py
+python clinical_precision_recall.py
 
 # Optional: specify custom output directory
-python create_clinical_precision_recall.py --output-dir /path/to/output
+python clinical_precision_recall.py --output-dir /path/to/output
 ```
 
 **Outputs:**

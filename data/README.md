@@ -9,9 +9,9 @@ To make the expected input format unambiguous, this directory includes a single
 **format-only example**:
 
 - `example_annotations.json` — a synthetic, two-image COCO annotation file that
-  exactly matches the schema produced by `preprocessing/convert_to_coco.py`.
-  All coordinates and identifiers are fabricated; it contains no patient data.
-  Use it as a structural reference when formatting your own annotations.
+  exactly matches the schema this pipeline expects. All coordinates and
+  identifiers are fabricated; it contains no patient data. Use it as a
+  structural reference when formatting your own annotations.
 
 ### Expected Directory Structure
 

@@ -60,7 +60,7 @@ ANNOTATIONS_PATH = DATA_DIR / "annotations" / "preprocessed_640x640" / "hospital
 # UPDATE THIS PATH to your desired output location
 OUTPUT_DIR = Path("/path/to/output/etable4")  # UPDATE THIS PATH
 
-# Formal hospital names mapping (from normalized data format to CLAUDE.md formal names)
+# Mapping from normalized hospital keys to their formal display names.
 FORMAL_HOSPITAL_NAMES = {
     'Alberta': 'University of Alberta',
     'American-University-of-Beirut': 'American University of Beirut',

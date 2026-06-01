@@ -54,7 +54,8 @@ The preprocessing script performs the following operations on each image:
   - Histogram equalization applied
   - Aspect ratio preserved with padding
 
-## Reference: COCO Conversion Script
+## Annotation Format
 
-- To give an idea of the formatting required to change the initial annotation structure to the COCO format.
+See `data/example_annotations.json` for a synthetic, correctly-formatted COCO
+file you can use as a structural reference when preparing your own annotations.
 

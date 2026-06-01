@@ -106,7 +106,7 @@ def process_hospital_sequentially(
                                               ANNOS_LOADER_KEY: combined_test_anno_loader},
                             TRAIN_DATA_SOURCE: None}
         else:
-            # We perform inference on all hospitals (original behavior)
+            # Perform inference on all hospitals
             index_loaders = {TEST_DATA_SOURCE: data_annos_loaders[ALL_KEY][TEST_DATA_SOURCE],
                               TRAIN_DATA_SOURCE: None}
         
@@ -201,7 +201,7 @@ def process_hospital_sequentially(
                 shutil.rmtree(temp_model_dir)
 
             # Exit immediately instead of continuing
-            print(f"  Exiting due to error - this simulation will be retried by the scheduler")
+            print(f"  Exiting due to error - this simulation will need to be re-run")
             break  # Exit the loop instead of continuing
     
     # Log skipped hospitals to the hospital order file

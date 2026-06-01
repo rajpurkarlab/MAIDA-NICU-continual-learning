@@ -13,7 +13,7 @@ CUDA_AVAILABLE = True
 print(f"CUDA available: {CUDA_AVAILABLE}")
 
 SEED = random.randint(0, 100000)
-WANDB_OFF = True  # Disabled to allow running from different accounts without wandb authentication
+WANDB_OFF = True  # Disable wandb logging by default; set to False to enable.
 FINE_TUNING = "fine_tune"
 
 # The set of participating hospitals is derived at runtime from the annotation
@@ -130,9 +130,9 @@ print(f'AUGMENT_DATA={AUGMENT_DATA}')
 
 ### COCO labels conversion
 
-# Category ids in the NICU annotation files: 1 = ETT tip, 2 = carina
-# (produced by preprocessing/convert_to_coco.py). They map to the model's
-# two output classes via COCO_LABELS: model class 0 = tip, model class 1 = carina.
+# Category ids in the COCO annotation files: 1 = ETT tip, 2 = carina. They map
+# to the model's two output classes via COCO_LABELS: model class 0 = tip,
+# model class 1 = carina.
 CAT_ID_TIP = 1
 CAT_ID_CARINA = 2
 COCO_LABELS = {0: CAT_ID_TIP, 1: CAT_ID_CARINA}

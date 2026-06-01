@@ -2,9 +2,9 @@
 """
 Preprocess chest X-ray images and their COCO annotations to a fixed 640x640 format.
 
-This is the second preprocessing step. It consumes the COCO-format annotations
-produced by convert_to_coco.py and the corresponding original-resolution images,
+Consumes COCO-format annotations and the corresponding original-resolution images,
 and produces model-ready images together with annotations in the 640x640 space.
+See `data/example_annotations.json` for the expected COCO schema.
 
 For each image the script:
   1. Loads the image and converts it to grayscale if necessary.
@@ -31,10 +31,10 @@ import glob
 # CONFIGURATION - UPDATE THESE PATHS FOR YOUR SETUP
 # ==============================================================================
 
-# Input: COCO format annotations from Step 1 (convert_to_coco.py output)
-ANNOTATIONS_DIR = "/path/to/coco_annotations"  # UPDATE THIS PATH (from Step 1 OUTPUT_DIR)
+# Input: COCO-format annotations (see data/example_annotations.json for schema)
+ANNOTATIONS_DIR = "/path/to/coco_annotations"  # UPDATE THIS PATH
 
-# Input: Raw DICOM/PNG images organized by hospital (same as Step 1)
+# Input: Raw DICOM/PNG images organized by hospital
 IMAGES_DIR = "/path/to/your/raw_images"  # UPDATE THIS PATH
 
 # Output: Preprocessed 640x640 annotations (will be created)

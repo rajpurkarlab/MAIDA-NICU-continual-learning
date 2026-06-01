@@ -204,7 +204,6 @@ def train_and_evaluate_for_single_epoch(model_orig, loaders, update_dict, curren
         if current_epoch == 0:
             assert checkpoint is None
                        
-        model_updated = False
         # Train this fold's model for exactly one epoch over its train split.
         for batch_idx, batch in enumerate(new_train_dataloader):
             images, image_ids = batch["image"], batch["image_id"].tolist()
@@ -225,7 +224,7 @@ def train_and_evaluate_for_single_epoch(model_orig, loaders, update_dict, curren
                 model_copy.scheduler.step()
  
         # Finish a single epoch
-        if model_updated & (not model_helpers.UPDATE_ON_BATCH):
+        if not model_helpers.UPDATE_ON_BATCH:
             model_copy.scheduler.step()
 
         # Save the per-fold checkpoint so it can be resumed at the next epoch

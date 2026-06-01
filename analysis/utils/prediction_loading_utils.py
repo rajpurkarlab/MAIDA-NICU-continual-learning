@@ -340,7 +340,7 @@ def load_direct_predictions(
             return 'Osaka-Metropolitan-University'
         elif file_id.startswith('chiang'):  # Matches 'chiang_mai_p' files
             return 'Maharaj-Nakorn-Chiang-Mai-Hospital'
-        elif file_id.startswith('alberta-p') or file_id.startswith('alberta_p'):  # FIXED: both hyphen and underscore
+        elif file_id.startswith('alberta-p') or file_id.startswith('alberta_p'):  # accept both hyphen and underscore separators
             return 'Alberta'
 
         # For all other files, look up in mappings
@@ -351,7 +351,7 @@ def load_direct_predictions(
             normalized = normalize_hospital_name(institution_clean)
             return normalized
 
-        # Try mappings as DataFrame - FIXED: check 'new_name' column, not index
+        # Try mappings as a DataFrame; match against the 'new_name' column.
         if mappings is not None and hasattr(mappings, 'columns') and 'new_name' in mappings.columns:
             matched_rows = mappings[mappings['new_name'] == file_id]
             if len(matched_rows) > 0:

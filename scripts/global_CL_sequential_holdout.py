@@ -60,7 +60,7 @@ def run_holdout_experiment(config, holdout_hospital, test_mode=False):
     all_hospitals = list(all_data_loaders.keys())
     all_hospitals = [h for h in all_hospitals if h != ALL_KEY]
 
-    # In test mode, limit to just our 3 test hospitals
+    # In test mode, limit to a small subset of hospitals for a quick smoke test
     if test_mode:
         test_hospitals = ["American-University-of-Beirut", "Childrens-Hospital-Colorado", "Indus"]
         all_hospitals = [h for h in all_hospitals if h in test_hospitals]
@@ -89,7 +89,7 @@ def run_holdout_experiment(config, holdout_hospital, test_mode=False):
         os.makedirs(output_path, exist_ok=True)
         print(f"  Created output directory: {output_path}")
 
-    # Get simulation index from config (set by submission script via skip_simulation)
+    # Read this run's simulation index from the config (`skip_simulation`).
     simulation_idx = config.get('skip_simulation', 0)
 
     # Randomize hospital order based on simulation index for reproducibility
@@ -145,8 +145,8 @@ def run_holdout_experiment(config, holdout_hospital, test_mode=False):
             os.remove(order_file)
             print(f"  Deleted: {order_file}")
 
-        print(f"   This simulation will be retried later by the scheduler")
-        sys.exit(1)  # Exit with error code so bash script knows it failed
+        print(f"   This simulation will need to be re-run")
+        sys.exit(1)  # Exit with a non-zero code so callers can detect the failure
 
     print(f"\nTraining completed on {len(training_hospitals)} hospitals")
 

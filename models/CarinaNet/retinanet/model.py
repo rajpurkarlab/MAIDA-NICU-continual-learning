@@ -17,11 +17,11 @@ model_urls = {
     "resnet152": "https://download.pytorch.org/models/resnet152-b121ed2d.pth",
 }
 
-# === EASILY REVERTIBLE CHANGE: Remove confidence threshold for consistent predictions ===
-# Original threshold was 0.001 - caused inconsistent predictions across simulations
-# THRESHOLD_SCORE = 0.001  # Original value - uncomment to restore threshold
-THRESHOLD_SCORE = 0.0  # Removed threshold to ensure all predictions are included
-# =====================================================================================
+# Confidence threshold for retaining detections at inference. Set to 0 so all
+# generated results are included, rather than excluding those for which the
+# model outputs a confidence score below 5%, as described in the Supplemental
+# Methods.
+THRESHOLD_SCORE = 0.0
 
 data_augmentation = MedicalImageTransforms()
 

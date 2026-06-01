@@ -882,7 +882,8 @@ def main():
     print(f"    Loaded {len(clinical_annotations)} clinical annotations")
     print(f"    Loaded {len(test_images)} test images")
 
-    # Create special hospital mapping in the old format for compatibility with match_prediction_to_annotation()
+    # Build a (prefix, patient_num) -> annotation_name mapping in the format
+    # expected by match_prediction_to_annotation() for special hospitals.
     print("   Creating special hospital mapping...")
     special_mapping = create_special_hospital_mapping(clinical_annotations)
     print(f"    Created {len(special_mapping)} special hospital mappings")
@@ -892,20 +893,21 @@ def main():
     cl_hospital_simulations = load_cl_predictions_multi_sim(locations=locations, num_simulations=10)
     print(f"    Loaded CL data for {len(cl_hospital_simulations)} hospitals")
 
-    # Load FT predictions from all simulations (using standardized utils)
+    # Load FT predictions from all simulations (using standardized utils).
+    # Uses DEFAULT_FT_DIR from prediction_loading_utils.py; override it there
+    # if your fine-tuning outputs live elsewhere.
     print("\n Loading fine-tuning predictions from 10 simulations...")
-    ft_dir = "path/to/outputs/fine_tune/target-hospital-only"
-    ft_simulations = load_ft_predictions_multi_sim(ft_dir=ft_dir, num_simulations=10)
+    ft_simulations = load_ft_predictions_multi_sim(ft_dir=PREDICTION_LOADING_FT_DIR, num_simulations=10)
     print(f"    Loaded FT data for {len(ft_simulations)} hospitals")
 
-    # Load Direct predictions (single simulation, using standardized utils)
+    # Load Direct predictions (single simulation, using standardized utils).
+    # Uses DEFAULT_DIRECT_PATH from prediction_loading_utils.py.
     print("\n Loading direct predictions...")
-    direct_path = "path/to/outputs/inference/simulation_0/nicu_test_predictions.csv"
-    direct_predictions = load_direct_predictions(direct_path=direct_path, mappings=mappings)
+    direct_predictions = load_direct_predictions(direct_path=PREDICTION_LOADING_DIRECT_PATH, mappings=mappings)
     print(f"    Loaded {len(direct_predictions)} direct predictions")
 
     # Define K values to analyze (only 5 and 15 for final table)
-    k_values = [5, 15]  # Changed to only analyze K=5 and K=15 for the table
+    k_values = [5, 15]  # Report precision@K and recall@K only for K=5 and K=15
 
     # Process each hospital
     print(f"\n Analyzing performance for each hospital at K values: {k_values}...")

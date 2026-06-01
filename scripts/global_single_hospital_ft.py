@@ -56,7 +56,8 @@ wandb.init(mode="disabled", project="single-hospital-ft")
 from utils.common_helpers import get_hospital_data_annos_loaders, get_model
 from utils.config_helpers import get_model_path
 
-# Hospital groups for parallel execution (matches Vish/Emma/Oishi split)
+# Hospital groups for parallel execution; pass --hospital-group {1, 2, 3} to
+# fine-tune one group at a time (e.g. as separate SLURM jobs).
 HOSPITAL_GROUPS = {
     1: [
         'Alberta',

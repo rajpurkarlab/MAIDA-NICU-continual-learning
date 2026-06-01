@@ -1,5 +1,5 @@
 # =============================================================================
-# Configuration for Global Continual Learning with Our Hospital Data
+# Configuration for global sequential continual learning across hospitals.
 #
 # IMPORTANT: All paths are relative to the repository root directory.
 # Run all commands from the repository root:
@@ -19,7 +19,7 @@ train_annos_path: "data/annotations/preprocessed_640x640/hospital-train-annotati
 output_path: "outputs"
 
 # Model configuration
-model_type: "hospitals-only"  # Use our hospital data
+model_type: "hospitals-only"  # Run continual learning across the configured hospital set
 
 # Simulation settings
 number_of_simulation: 10  # Number of different random hospital orderings to test (the paper uses 10)
@@ -35,6 +35,7 @@ eval_current_hospital_only: true  # Only evaluate on current hospital (deploymen
 # Model settings
 batch_size: 16
 
-# Wandb tracking (disabled to allow running from different accounts without authentication)
-use_wandb: false  # Set to true if you have wandb configured and want tracking
+# Wandb tracking is disabled by default so the pipeline runs without external setup.
+use_wandb: false  # Set to true if you have wandb configured and want experiment tracking
+
 wandb_project_name: 'hospital-continual-learning'

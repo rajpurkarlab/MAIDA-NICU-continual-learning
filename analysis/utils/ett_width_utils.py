@@ -742,7 +742,8 @@ def normalize_hospital_name(hospital_name: str) -> str:
     """
     Normalize hospital names to ensure consistency.
 
-    This matches the normalization in compare_cl_vs_finetuning_horizontal_ett_width.py
+    Produces the hyphenated form used as a hospital key throughout the
+    analysis utilities (e.g. "Fundacion-Santa-Fe-de-Bogota").
 
     Args:
         hospital_name: Raw hospital name from data
