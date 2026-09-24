@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "MAIDA-NICU-continual-learning"
+authors:
+  - family-names: "Rao"
+    given-names: "Vishwanatha M."
+license: MIT
+repository-code: "https://github.com/rajpurkarlab/MAIDA-NICU-continual-learning"
+preferred-citation:
+  type: article
+  title: "Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study"
+  authors:
+    - family-names: "Rao"
+      given-names: "Vishwanatha M."
+  journal: "Nature Biomedical Engineering"
+  year: 2026
+  doi: "10.1038/s41551-026-01812-6"
