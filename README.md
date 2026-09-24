@@ -1,12 +1,12 @@
-# Repurposing Adult AI Radiograph Interpretation Models for Neonatal Care Through Continual Learning: An International Multi-Center Study
+# Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study
 
-This repository contains code for the study "Repurposing Adult AI Radiograph Interpretation Models for Neonatal Care Through Continual Learning: An International Multi-Center Study". Here, continual learning across multiple hospitals is used to adapt adult endotracheal tube (ETT) placement detection models to interpret neonatal chest X-rays from neonatal intensive care units (NICUs).
+This repository contains code for the study "Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study". Here, continual learning across multiple hospitals is used to adapt adult endotracheal tube (ETT) placement detection models to interpret neonatal chest X-rays from neonatal intensive care units (NICUs).
 
 ## Overview
 
 This system implements continual learning methods to train ETT detection models sequentially across 30 hospitals from 20 countries and territories worldwide as well as compare against conventional single-site fine-tuning and inference directly from the initial adult model.
 
-<img width="1265" height="528" alt="image" src="https://github.com/user-attachments/assets/99adc3b3-ba56-47ea-a39b-fca24f22f6dc" />
+<img width="1227" height="1052" alt="image" src="https://github.com/user-attachments/assets/73c14172-676e-4af2-b731-5d65a91540da" />
 
 ### Key Features
 
@@ -160,8 +160,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you use this code, please cite:
 
-```
-[Citation information to be added]
+> Rao, V. M. et al. Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study. *Nature Biomedical Engineering* (2026). https://doi.org/10.1038/s41551-026-01812-6
+
+```bibtex
+@article{rao2026repurposing,
+  title   = {Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study},
+  author  = {Rao, Vishwanatha M. and others},
+  journal = {Nature Biomedical Engineering},
+  year    = {2026},
+  doi     = {10.1038/s41551-026-01812-6}
+}
 ```
 
 ## Acknowledgments
