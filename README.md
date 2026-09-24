@@ -123,7 +123,7 @@ output_path: '/path/to/output'
 update_method: 'naive'           # continual-learning update method
 number_of_simulation: 10         # Number of random hospital orderings
 eval_current_hospital_only: true
-wandb_off: true
+use_wandb: false                 # set to true to enable wandb tracking
 ```
 
 2. **Run continual learning**:

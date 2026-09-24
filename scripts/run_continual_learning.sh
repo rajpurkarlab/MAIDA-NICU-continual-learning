@@ -20,8 +20,8 @@ echo "========================================"
 # Specify which hospital to hold out
 HOLDOUT_HOSPITAL="Indus"  # Change this to the hospital you want to hold out
 
-# Path to your base config file (relative to scripts directory)
-CONFIG_BASE="../configs/continual_learning/config_naive.yaml"
+# Path to your base config file (relative to repository root)
+CONFIG_BASE="configs/continual_learning/config_naive.yaml"
 
 # Output directory (will create subdirectory for holdout hospital)
 OUTPUT_BASE="outputs/continual_learning/holdout_analysis"
@@ -36,16 +36,16 @@ echo "  Output Directory: ${OUTPUT_BASE}/${HOLDOUT_HOSPITAL}_holdout"
 echo ""
 
 # Activate conda environment
-echo "Activating conda environment 'cl'..."
+echo "Activating conda environment 'mrg'..."
 eval "$(conda shell.bash hook)"
-conda activate cl
+conda activate mrg
 
 # Check if conda environment was activated successfully
 if [ $? -ne 0 ]; then
-    echo "Failed to activate conda environment 'cl'"
+    echo "Failed to activate conda environment 'mrg'"
     echo "Trying alternative activation method..."
     source $(conda info --base)/etc/profile.d/conda.sh
-    conda activate cl
+    conda activate mrg
     if [ $? -ne 0 ]; then
         echo "Both activation methods failed"
         echo "Available conda environments:"
@@ -54,12 +54,13 @@ if [ $? -ne 0 ]; then
     fi
 fi
 
-echo "Conda environment 'cl' activated successfully"
+echo "Conda environment 'mrg' activated successfully"
 echo "Python path: $(which python)"
 
-# Set the working directory to the scripts location
+# Run from the repository root so relative paths in the config resolve correctly
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-cd "$SCRIPT_DIR"
+REPO_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
+cd "$REPO_DIR"
 
 # Check if config file exists
 if [ ! -f "$CONFIG_BASE" ]; then
@@ -117,7 +118,7 @@ if command -v nvidia-smi &> /dev/null; then
 fi
 
 # Run the holdout analysis
-python global_CL_sequential_holdout.py \
+python scripts/global_CL_sequential_holdout.py \
     -c "$CONFIG_FILE" \
     --holdout-hospital "$HOLDOUT_HOSPITAL"
 

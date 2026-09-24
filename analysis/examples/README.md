@@ -4,7 +4,7 @@ This directory contains example scripts demonstrating how to analyze continual l
 
 ## Configuration Required
 
-Before running these scripts, you must configure paths to your experiment outputs. The scripts use relative paths for repository data (annotations, demographics) but require you to specify where your experiment results are stored.
+Before running these scripts, you must configure paths to your experiment outputs. The scripts use relative paths for data files in `data/` but require you to specify where your experiment results are stored.
 
 ### Step 1: Configure Experiment Output Paths
 
@@ -65,13 +65,13 @@ DEFAULT_OUTPUT_DIR = Path("/path/to/output/etable5")  # UPDATE THIS PATH
 
 Or use the `--output-dir` command line argument when running the script.
 
-### What You DON'T Need to Change
+### Study Data Files
 
-The following paths are automatically found using relative paths from the repository:
-- Annotations (in `data/annotations/`)
-- Demographics CSVs (in `data/demographics/`)
-- Mappings file (in `data/mappings.csv`)
-- Clinical annotations (in `data/clinical_annotations.json`)
+The scripts look for the following files using relative paths from the repository root. These contain study data governed by institutional data-sharing agreements and are **not distributed with this repository** (see `data/README.md`); to run the analyses on your own data, provide equivalent files at these locations:
+- Annotations (`data/annotations/`)
+- Demographics CSVs (`data/demographics/`)
+- Mappings file (`data/mappings.csv`)
+- Clinical annotations (`data/clinical_annotations.json`)
 
 ## Scripts
 

@@ -1,14 +1,14 @@
 # Image Preprocessing Pipeline
 
-This directory contains scripts for preprocessing NICU chest X-ray images to 640x640 format to match the provided annotations.
+This directory contains scripts for preprocessing NICU chest X-ray images and their COCO annotations to 640x640 format.
 
 ### Configuration
 
-Edit `preprocess_to_640x640.py` and update the paths (lines 21-35):
+Edit `preprocess_to_640x640.py` and update the paths in the configuration block near the top of the file:
 
 ```python
 # Input: COCO format annotations
-ANNOTATIONS_DIR = "/path/to/coco_annotations"  # Use: data/annotations/preprocessed_640x640/
+ANNOTATIONS_DIR = "/path/to/coco_annotations"  # Your COCO annotations (see data/example_annotations.json)
 
 # Input: Your raw DICOM/PNG images
 IMAGES_DIR = "/path/to/your/raw_images"  # UPDATE THIS PATH
@@ -40,7 +40,7 @@ The preprocessing script performs the following operations on each image:
 
 ### Expected Input
 
-- **Annotations**: COCO format JSON files (provided in `data/annotations/preprocessed_640x640/`)
+- **Annotations**: Your own COCO format JSON files (not distributed with this repository; see `data/README.md`)
 - **Images**: Raw DICOM or PNG images organized by hospital
   - Grayscale images (will be converted to RGB)
   - Any resolution (will be resized to 640x640)

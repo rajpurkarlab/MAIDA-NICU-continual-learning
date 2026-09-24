@@ -60,7 +60,7 @@ mkdir -p "${WORKING_DIR}/configs/single_hospital_ft"
 
 # Activate conda
 eval "$(conda shell.bash hook)"
-conda activate cl
+conda activate mrg
 
 if [ $? -ne 0 ]; then
     echo "ERROR: Failed to activate conda environment"
