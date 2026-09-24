@@ -1,5 +1,7 @@
 # Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study
 
+[![DOI](https://zenodo.org/badge/1248352934.svg)](https://doi.org/10.5281/zenodo.22945720)
+
 This repository contains code for the study "Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study". Here, continual learning across multiple hospitals is used to adapt adult endotracheal tube (ETT) placement detection models to interpret neonatal chest X-rays from neonatal intensive care units (NICUs).
 
 ## Overview
